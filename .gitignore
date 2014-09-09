@@ -1,2 +1,7 @@
 .mov
 .flv
+.localpool/
+localpool/
+ladies/#*
+ladies\/#.*
+download/
