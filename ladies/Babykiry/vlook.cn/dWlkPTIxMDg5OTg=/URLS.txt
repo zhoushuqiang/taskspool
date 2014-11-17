@@ -1,0 +1,10 @@
+http://download1.vlook.cn/video/high/4-YR.mp4	20140311101506_都敏俊xi！都敏俊！_38秒.mp4
+http://download1.vlook.cn/video/high/4sbb.mp4	20131210131723_亲亲我的宝贝[心]_37秒.mp4
+http://download1.vlook.cn/video/high/4sbu.mp4	20131210133324_纹身控_57秒.mp4
+http://download1.vlook.cn/video/high/53MF.mp4	20140319142028_无聊_14秒.mp4
+http://download1.vlook.cn/video/high/5I4G.mp4	20140702111651_I love Shanghai_28秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4-YR&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140311101506_都敏俊xi！都敏俊！_38秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4sbb&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20131210131723_亲亲我的宝贝[心]_37秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4sbu&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20131210133324_纹身控_57秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=53MF&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140319142028_无聊_14秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5I4G&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140702111651_I love Shanghai_28秒.mp4

@@ -1,0 +1,14 @@
+http://download1.vlook.cn/video/high/4FfC.mp4	20140117200248_做人别乱情，爱一个就行，我怀念的是争吵以后，还爱你的冲动 [心][心][心]_1分钟11秒.mp4
+http://download1.vlook.cn/video/high/4GhQ.mp4	20140120225058_不太会玩微录客，好友只有50个就满了呢，平时没太多时间录，喜欢我的朋友，可以加我微信 hanjinli678 ，会发的多些的[心]_1分钟16秒.mp4
+http://download1.vlook.cn/video/high/4Grp.mp4	20140121120446_起床就在接收微信好友 [犯困]这都块半天啦才接收完 谢谢大家对我这么的支持 [心]赶紧化个妆出去吃饭啦 [太开心]_1分钟27秒.mp4
+http://download1.vlook.cn/video/high/4HjN.mp4	20140123160853_出去咯 宝贝们[心]_39秒.mp4
+http://download1.vlook.cn/video/high/4ILX.mp4	20140127184054_刚吃完饭回来，好累，吃饱就睡，小眯一会[睡觉]在我醒来得时候让我看见️[心]关注破录哦[爱]_35秒.mp4
+http://download1.vlook.cn/video/high/4IvZ.mp4	20140126235923_刚在外面拍的 喝的有点多 [犯困] 刚又加了一批微信好友，太多啦，宝贝们，明天再跟你们聊吧 [心]_13秒.mp4
+http://download1.vlook.cn/video/high/4LcA.mp4	20140202213454_[礼物]_1分钟10秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4FfC&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140117200248_做人别乱情，爱一个就行，我怀念的是争吵以后，还爱你的冲动 [心][心][心]_1分钟11秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4GhQ&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140120225058_不太会玩微录客，好友只有50个就满了呢，平时没太多时间录，喜欢我的朋友，可以加我微信 hanjinli678 ，会发..._1分钟16秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4Grp&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140121120446_起床就在接收微信好友 [犯困]这都块半天啦才接收完 谢谢大家对我这么的支持 [心]赶紧化个妆出去吃饭啦 [太开心]_1分钟27秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4HjN&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140123160853_出去咯 宝贝们[心]_39秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4ILX&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140127184054_刚吃完饭回来，好累，吃饱就睡，小眯一会[睡觉]在我醒来得时候让我看见️[心]关注破录哦[爱]_35秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4IvZ&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140126235923_刚在外面拍的 喝的有点多 [犯困] 刚又加了一批微信好友，太多啦，宝贝们，明天再跟你们聊吧 [心]_13秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4LcA&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140202213454_[礼物]_1分钟10秒.mp4

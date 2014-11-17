@@ -1,0 +1,10 @@
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4PbM&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140212011006_第一次玩这个…_17秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4PtS&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140212195426_外面冷死了、还是家里舒服[微笑][微笑][微笑]_10秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4QY1&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140215155230_滑雪喽[鼓掌][鼓掌][鼓掌][鼓掌]_5秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4UKr&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140223132633_[太阳][太阳][太阳]_24秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4Z8v&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140304163828_爱我的人和我爱的人_15秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=543E&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140320013605_谢谢支持我的人们[爱][爱][爱][爱][爱][爱]_21秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5ul5&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140525175030_好久不见了各位[微笑][微笑][微笑]_20秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5x-R&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140603175117_吃饭去喽[微笑]_14秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5GvW&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140627192636_旗袍_29秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5GwI&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140627200942_分享视频_17秒.mp4

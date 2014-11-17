@@ -1,0 +1,41 @@
+http://download1.vlook.cn/video/high/5DL8.mp4	20140618210502_[扣鼻屎][扣鼻屎][扣鼻屎]_50秒.mp4
+http://download1.vlook.cn/video/high/5E9M.mp4	20140620052034_哈哈，我刚进城[害羞]_25秒.mp4
+http://download1.vlook.cn/video/high/5GPd.mp4	20140628183738_[媚眼][媚眼]_18秒.mp4
+http://download1.vlook.cn/video/high/5Gu_.mp4	20140627183330_[害羞][害羞][害羞][害羞]_25秒.mp4
+http://download1.vlook.cn/video/high/5Hx8.mp4	20140630183241_[很酷]哈哈哈哈_24秒.mp4
+http://download1.vlook.cn/video/high/5KGc.mp4	20140710033704_[鼓掌][鼓掌][鼓掌]_33秒.mp4
+http://download1.vlook.cn/video/high/5KGd.mp4	20140710033942_露天烧烤_30秒.mp4
+http://download1.vlook.cn/video/high/5Ml3.mp4	20140714104008_go home_19秒.mp4
+http://download1.vlook.cn/video/high/5pai.mp4	20140512150932_[媚眼]心情挺好👸_8秒.mp4
+http://download1.vlook.cn/video/high/5pap.mp4	20140512151243_[演讲]卡卡就是笑阿_16秒.mp4
+http://download1.vlook.cn/video/high/5qvi.mp4	20140515220607_哈哈哈，这玩的，给我累坏了_24秒.mp4
+http://download1.vlook.cn/video/high/5sR5.mp4	20140521172941_哈哈。[媚眼]_18秒.mp4
+http://download1.vlook.cn/video/high/5tLT.mp4	20140524011331_好朋友好闺蜜！有你，嗨吧！[很酷]_23秒.mp4
+http://download1.vlook.cn/video/high/5w-p.mp4	20140601154418_哈哈[太开心][太开心][太开心]_19秒.mp4
+http://download1.vlook.cn/video/high/5wpO.mp4	20140531020732_心坦然，处处看美景；心急躁，好事都闹心。生活的好坏，在心不在境。_1分钟8秒.mp4
+http://download1.vlook.cn/video/high/5xen.mp4	20140602001945_[闭嘴][闭嘴][闭嘴][闭嘴][闭嘴]_15秒.mp4
+http://download1.vlook.cn/video/high/5yEY.mp4	20140605080312_[闹钟][闹钟]_17秒.mp4
+http://download1.vlook.cn/video/high/5ycu.mp4	20140604013654_哈哈，美啦美啦_1分钟30秒.mp4
+http://download1.vlook.cn/video/high/6I0a.mp4	20141106154450_好久不见啦_18秒.mp4
+http://download1.vlook.cn/video/high/6pmu.mp4	20140925025307_哈哈哈，我们在青岛大宾馆，好好休息一天，么么哒！好朋友！最笨不会说话，喷子勿进_18秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5DL8&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140618210502_[扣鼻屎][扣鼻屎][扣鼻屎]_50秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5E9M&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140620052034_哈哈，我刚进城[害羞]_25秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5GPd&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140628183738_[媚眼][媚眼]_18秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5Gu_&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140627183330_[害羞][害羞][害羞][害羞]_25秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5Hx8&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140630183241_[很酷]哈哈哈哈_24秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5KGc&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140710033704_[鼓掌][鼓掌][鼓掌]_33秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5KGd&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140710033942_露天烧烤_30秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5Ml3&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140714104008_go home_19秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5pai&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140512150932_[媚眼]心情挺好👸_8秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5pap&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140512151243_[演讲]卡卡就是笑阿_16秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5qvi&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140515220607_哈哈哈，这玩的，给我累坏了_24秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5sR5&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140521172941_哈哈。[媚眼]_18秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5tLT&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140524011331_好朋友好闺蜜！有你，嗨吧！[很酷]_23秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5w-p&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140601154418_哈哈[太开心][太开心][太开心]_19秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5wpO&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140531020732_心坦然，处处看美景；心急躁，好事都闹心。生活的好坏，在心不在境。_1分钟8秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5xen&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140602001945_[闭嘴][闭嘴][闭嘴][闭嘴][闭嘴]_15秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5yEY&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140605080312_[闹钟][闹钟]_17秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5ycu&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140604013654_哈哈，美啦美啦_1分钟30秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=69ew&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140827044314_[鼓掌][鼓掌][鼓掌][鼓掌][演讲]_41秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6kj2&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140916034142_不知道大家有木有发现，我那颗木有弄上的牙齿，哈哈，[很酷][害羞]_1分钟1秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6kj7&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140916034142_上班时间，开个发票的时间，我也倚一会，困😢_53秒.mp4

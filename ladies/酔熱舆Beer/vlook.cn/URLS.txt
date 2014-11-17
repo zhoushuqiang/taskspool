@@ -1,0 +1,50 @@
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5Jbg&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140705181905_今儿穿的少女吧[微笑]_24秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5ANt&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140610010642_情人[心]_47秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5d63&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140409131459_凑合看吧。_2分钟59秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5EFb&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140621191801_碎碎念[失望]_51秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5eZp&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140414000406_我是打酱油的[扣鼻屎]_1分钟30秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5mt9&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140505000933_[媚眼]_10秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5gZw&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140419154505_你们敢吃嘛！好重口啊！_21秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5hHp&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140421174311_去买棒棒糖_20秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5iJr&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140424185513_药不能停[扣鼻屎]_16秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5Vk8&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140731192048_[很酷]换形象啦～_22秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5SU7&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140726222055_烦人[扣鼻屎]_1分钟2秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=53ci&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140318044212_送我的这件衣服，我很喜欢[爱]_21秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5bmN&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140406104959_我已经笑的停不下来。你还能再搞点嘛_56秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5qko&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140515140554_最近有瘦哦[鼓掌]_22秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5c8N&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140408031541_没风啊怎么桃花散一地像是喜极而泣像是心有余悸 倒是你怎么困在这花地里 真好笑乌云送青山月光不伤人站着吧_18秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5Bfz&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140611025501_那些靠骂人才能获得生理GC的人是什么心理？我真搞不明白。_29秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5kGm&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140430033703_[夜晚]_15秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5ND1&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140717021705_[夜晚]_1分钟3秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5h92&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140420003636_一到深夜就变蛇精病[害羞]_1分钟11秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5DQH&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140619015130_粑粑[媚眼]_29秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5kFB&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140430012038_😄_45秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5hrJ&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140420222226_一山一水，我回不去。_13秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5cmm&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140408193552_我是一只大老鼠[太开心]_37秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5n7K&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140507001809_我秘书_50秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5Kk7&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140709033448_再見old days,我是時間的新歡。_3分钟31秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5I2I&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140702093002_[懒得理你]_22秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5nRj&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140509004702_准备考试了。_11秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5RTV&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140725010754_[扣鼻屎]_40秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5sjN&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140520082817_早上好[哦耶]_10秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5G6S&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140626150030_[心]_42秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=54xw&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140321032941_我可爱 我也变态_42秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5TMK&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140728171513_我秘书[狂笑]_1分钟31秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5HVH&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140701182913_天天加班累死了。_42秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5J-Z&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140708034534_[扣鼻屎]_18秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5icb&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140423024657_一定看到最后呦[媚眼]_11秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5y1o&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140603184046_我还是喜欢你不笑的样子。像所有不会跳舞的文字一样酷。_26秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5Eka&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140620190148_我对班是猴子派来的逗比。_54秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5qBL&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140516042502_一辈子的好朋友，庆幸有你们，真好[猪头]_42秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4ZnY&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140305032629_半夜发神经[犯困]_13秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5BzJ&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140612015216_大家都来社会摇[哦耶]_10秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5bTX&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140407162536_群群收视频[扣鼻屎]_1分钟38秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5yjX&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140604112601_[扣鼻屎]_43秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5wmJ&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140530222904_最近没发视频，因为太忙了，不能天天在家玩耍了，要工作挣钱呦，你们也不想我[扣鼻屎]_25秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5n8P&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140507014756_晚安。_13秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5ble&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140406093450_我的闺蜜是奇葩[扣鼻屎]_41秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5hw8&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140421023001_[夜晚][夜晚][夜晚]_33秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5l4w&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140501022859_潍坊一家很有格调的咖啡屋。读行咖啡屋。_2分钟16秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5AMN&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140610002942_我拍视频就图一乐呵，那些喜欢挑事的战争贩子就特么的离我远点。_27秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5K9N&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140708165324_我不在泰华，别一个劲问了。_29秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5Urp&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140729234415_哎，天天把这个当饭吃，快成穷逼啦[失望]_28秒.mp4

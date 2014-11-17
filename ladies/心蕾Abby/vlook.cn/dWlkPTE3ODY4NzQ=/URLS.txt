@@ -1,0 +1,6 @@
+http://download1.vlook.cn/video/high/5GOw.mp4	20140628175538_[媚眼]_11秒.mp4
+http://download1.vlook.cn/video/high/5LVA.mp4	20140713105641_分享于 2014713 1055_1分钟31秒.mp4
+http://download1.vlook.cn/video/high/5P0P.mp4	20140720005144_[媚眼]_1分钟33秒.mp4
+http://download1.vlook.cn/video/high/6o1v.mp4	20140922205833_本想演个苦情的，可是台词没背过，郁闷[晕乎乎]_2分钟48秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5GOw&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140628175538_[媚眼]_11秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5P0P&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140720005144_[媚眼]_1分钟33秒.mp4

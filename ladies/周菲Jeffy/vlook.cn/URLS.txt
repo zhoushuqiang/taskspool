@@ -1,0 +1,7 @@
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=3vRD&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20130614213955_我排第四名哦  哈哈哈_1分钟21秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=3umd&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20130609174911_拍摄于 辽宁-大连 20130609 1713_10秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5ytT&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140604200616_来 大家出来扯会_10秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=3Bi-&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20130702083303_拍摄于 上海 20130702 0821_11秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=3zu-&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20130626202632_拍摄于 20130626 2003_27秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=3sqg&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20130603163821_说好的视频 我发了 我变了 对吧_9秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=3zHE&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20130627161652_这么黑着其实也挺好_23秒.mp4

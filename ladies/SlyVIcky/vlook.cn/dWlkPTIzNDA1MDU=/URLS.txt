@@ -1,0 +1,28 @@
+http://download1.vlook.cn/video/high/4-Uq.mp4	20140311022737_无聊，小拍一下_38秒.mp4
+http://download1.vlook.cn/video/high/50D0.mp4	20140312160836_跑步🏃_14秒.mp4
+http://download1.vlook.cn/video/high/50PQ.mp4	20140312230218_大波妹妹_8秒.mp4
+http://download1.vlook.cn/video/high/50ke.mp4	20140312005728_分享视频_23秒.mp4
+http://download1.vlook.cn/video/high/50kl.mp4	20140312010526_疯啦_30秒.mp4
+http://download1.vlook.cn/video/high/517B.mp4	20140313174635_美丽的一天_32秒.mp4
+http://download1.vlook.cn/video/high/53mM.mp4	20140318154831_人生是一场旅行，而你呢？你在哪里等我？_24秒.mp4
+http://download1.vlook.cn/video/high/54xd.mp4	20140321030908_分享视频_37秒.mp4
+http://download1.vlook.cn/video/high/58Pa.mp4	20140331020858_视频发布_2分钟28秒.mp4
+http://download1.vlook.cn/video/high/58n2.mp4	20140330015023_随意拍的_28秒.mp4
+http://download1.vlook.cn/video/high/5ElP.mp4	20140620195941_分享视频_2秒.mp4
+http://download1.vlook.cn/video/high/5NAO.mp4	20140717002806_AV8D_14秒.mp4
+http://download1.vlook.cn/video/high/5VLx.mp4	20140801182551_卸下华丽妆容与服饰我还是依旧想要当女王_27秒.mp4
+http://download1.vlook.cn/video/high/5hHm.mp4	20140421182851_北鼻在车里唱情歌给我听，超幸福_1分钟30秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4-Uq&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140311022737_无聊，小拍一下_38秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=50D0&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140312160836_跑步🏃_14秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=50PQ&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140312230218_大波妹妹_8秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=50ke&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140312005728_分享视频_23秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=50kl&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140312010526_疯啦_30秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=517B&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140313174635_美丽的一天_32秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=53mM&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140318154831_人生是一场旅行，而你呢？你在哪里等我？_24秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=54xd&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140321030908_分享视频_37秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=58Pa&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140331020858_视频发布_2分钟28秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=58n2&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140330015023_随意拍的_28秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5ElP&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140620195941_分享视频_2秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5NAO&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140717002806_AV8D_14秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5VLx&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140801182551_卸下华丽妆容与服饰我还是依旧想要当女王_27秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5hHm&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140421182851_北鼻在车里唱情歌给我听，超幸福_1分钟30秒.mp4

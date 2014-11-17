@@ -1,0 +1,6 @@
+http://download1.vlook.cn/video/high/45MG.mp4	20130929135023_等人，等到我心碎_1分钟8秒.mp4
+http://download1.vlook.cn/video/high/465U.mp4	20130930115452_呼啦啦，出来冒泡了。@vlook微录客 _32秒.mp4
+http://download1.vlook.cn/video/high/5rEA.mp4	20140518211329_好久不冒泡了_13秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=45MG&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20130929135023_等人，等到我心碎_1分钟8秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=465U&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20130930115452_呼啦啦，出来冒泡了。@vlook微录客_32秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5rEA&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140518211329_好久不冒泡了_13秒.mp4

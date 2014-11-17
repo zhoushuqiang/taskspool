@@ -1,0 +1,2 @@
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=1gn6&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20120722012755_亲 你一点也不重_7秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=3IDW&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20130719131137_好久不见😉😐😑_17秒.mp4

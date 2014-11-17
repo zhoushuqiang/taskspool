@@ -1,0 +1,16 @@
+http://download1.vlook.cn/video/high/4Lun.mp4	20140210031900_转发视频_3分钟29秒.mp4
+http://download1.vlook.cn/video/high/4Y-k.mp4	20140603153251_转发视频_1分钟40秒.mp4
+http://download1.vlook.cn/video/high/5J0f.mp4	20140705022217_要想把一件衣服穿出感觉首先你得是平胸。[扣鼻屎]_4分钟48秒.mp4
+http://download1.vlook.cn/video/high/5ps9.mp4	20140513043112_分享于 2014513 0430_8秒.mp4
+http://download1.vlook.cn/video/high/5uiS.mp4	20140529030959_转发视频_2分钟55秒.mp4
+http://download1.vlook.cn/video/high/5vWz.mp4	20140529212914_转发视频_4分钟45秒.mp4
+http://download1.vlook.cn/video/high/5xLP.mp4	20140603004042_哈哈，让我心情大好的歌！_1分钟0秒.mp4
+http://download1.vlook.cn/video/high/5zsH.mp4	20140607030525_《小苹果》_1分钟20秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4Lun&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140210031900_转发视频_3分钟29秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4Y-k&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140603153251_转发视频_1分钟40秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5J0f&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140705022217_要想把一件衣服穿出感觉首先你得是平胸。[扣鼻屎]_4分钟48秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5ps9&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140513043112_分享于 2014513 0430_8秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5uiS&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140529030959_转发视频_2分钟55秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5vWz&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140529212914_转发视频_4分钟45秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5xLP&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140603004042_哈哈，让我心情大好的歌！_1分钟0秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5zsH&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140607030525_《小苹果》_1分钟20秒.mp4

@@ -1,0 +1,4 @@
+http://download1.vlook.cn/video/high/4N_H.mp4	20140209134431_分享视频_34秒.mp4
+http://download1.vlook.cn/video/high/4S5j.mp4	20140217181811_过瘾嚒_34秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4N_H&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140209134431_分享视频_34秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4S5j&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140217181811_过瘾嚒_34秒.mp4

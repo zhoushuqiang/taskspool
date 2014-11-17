@@ -1,0 +1,28 @@
+http://download1.vlook.cn/video/high/4BbC.mp4	20140105084544_分享视频_1分钟3秒.mp4
+http://download1.vlook.cn/video/high/4BbW.mp4	20140105085616_分享视频_1分钟8秒.mp4
+http://download1.vlook.cn/video/high/4Bbs.mp4	20140105084252_分享视频_4分钟6秒.mp4
+http://download1.vlook.cn/video/high/4Bby.mp4	20140105084513_分享视频_3分钟48秒.mp4
+http://download1.vlook.cn/video/high/4CpS.mp4	20140108212851_分享视频_1分钟7秒.mp4
+http://download1.vlook.cn/video/high/4ICO.mp4	20140127111242_分享视频_2分钟5秒.mp4
+http://download1.vlook.cn/video/high/4Uq9.mp4	20140222174120_分享于 沈阳_1分钟15秒.mp4
+http://download1.vlook.cn/video/high/4VmV.mp4	20140224211621_沈阳_1分钟13秒.mp4
+http://download1.vlook.cn/video/high/4VnJ.mp4	20140224215506_分享于 辽宁省沈阳_3分钟23秒.mp4
+http://download1.vlook.cn/video/high/4Xo7.mp4	20140228194837_沈阳_3分钟9秒.mp4
+http://download1.vlook.cn/video/high/4Xoc.mp4	20140228194915_分享于 辽宁省沈阳[心][心]_12秒.mp4
+http://download1.vlook.cn/video/high/5EI-.mp4	20140621222608_分享于 2014621 2226_52秒.mp4
+http://download1.vlook.cn/video/high/5yOf.mp4	20140605160824_分享于 201465 1608_1分钟11秒.mp4
+http://download1.vlook.cn/video/high/6ajK.mp4	20140828173151_[心]_3分钟38秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4BbC&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140105084544_分享视频_1分钟3秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4BbW&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140105085616_分享视频_1分钟8秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4Bbs&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140105084252_分享视频_4分钟6秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4Bby&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140105084513_分享视频_3分钟48秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4CpS&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140108212851_分享视频_1分钟7秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4ICO&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140127111242_分享视频_2分钟5秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4Uq9&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140222174120_分享于 沈阳_1分钟15秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4VmV&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140224211621_沈阳_1分钟13秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4VnJ&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140224215506_分享于 辽宁省沈阳_3分钟23秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4Xo7&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140228194837_沈阳_3分钟9秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4Xoc&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140228194915_分享于 辽宁省沈阳[心][心]_12秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5EI-&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140621222608_分享于 2014621 2226_52秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5yOf&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140605160824_分享于 201465 1608_1分钟11秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6ajK&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140828173151_[心]_3分钟38秒.mp4

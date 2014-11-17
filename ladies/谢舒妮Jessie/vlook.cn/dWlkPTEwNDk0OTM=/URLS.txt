@@ -1,0 +1,2 @@
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=1EHo&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20120821160257_嘿嘿 我来玩微录客喽！希望大家喜欢我支持我！_12秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=1zQB&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20120813235748_转发视频_1分钟6秒.mp4

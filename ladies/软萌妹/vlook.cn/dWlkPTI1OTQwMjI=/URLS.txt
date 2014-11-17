@@ -1,0 +1,4 @@
+http://download1.vlook.cn/video/high/5Log.mp4	20140711233447_新人报道，喜欢我的哥哥，多多关注我，时常福利更新~zZ_38秒.mp4
+http://download1.vlook.cn/video/high/5LtE.mp4	20140712091402_继续更新_1分钟34秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5Log&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140711233447_新人报道，喜欢我的哥哥，多多关注我，时常福利更新~zZ_38秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5LtE&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140712091402_继续更新_1分钟34秒.mp4

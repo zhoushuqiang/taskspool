@@ -1,0 +1,13 @@
+http://download1.vlook.cn/video/high/5CpY.mp4	20140615004951_好无聊_24秒.mp4
+http://download1.vlook.cn/video/high/5DG5.mp4	20140618174251_哈哈傻妞瘋啦[嘿嘿][嘿嘿][嘿嘿]_15秒.mp4
+http://download1.vlook.cn/video/high/5DGU.mp4	20140618182700_天氣熱的煩躁，為什麼老不通過，又沒有露點，@小秘書_13秒.mp4
+http://download1.vlook.cn/video/high/5EKH.mp4	20140621234052_    今天教大家戒煙額，點愛心嘻嘻⋯_1分钟50秒.mp4
+http://download1.vlook.cn/video/high/5MUk.mp4	20140715145612_大陸妹不幸走光啦，小夥伴們，出來玩要小心額[好色][好色][好色][好色]_24秒.mp4
+http://download1.vlook.cn/video/high/6sj2.mp4	20141001015446_正美唷[思考中][鼓掌][鼓掌][鼓掌][嘿嘿][嘿嘿][嘿嘿][嘿嘿][嘿嘿]_1分钟0秒.mp4
+http://download1.vlook.cn/video/high/6sj5.mp4	20141001015800_靠幺啦[嘿嘿][嘿嘿][嘿嘿]_26秒.mp4
+http://download1.vlook.cn/video/high/6sjb.mp4	20141001020747_大家晚安唷[爱][爱][爱][爱]_1分钟20秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5CpY&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140615004951_好无聊_24秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5DG5&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140618174251_哈哈傻妞瘋啦[嘿嘿][嘿嘿][嘿嘿]_15秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5DGU&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140618182700_天氣熱的煩躁，為什麼老不通過，又沒有露點，@小秘書_13秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5EKH&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140621234052_今天教大家戒煙額，點愛心嘻嘻⋯_1分钟50秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5MUk&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140715145612_大陸妹不幸走光啦，小夥伴們，出來玩要小心額[好色][好色][好色][好色]_24秒.mp4

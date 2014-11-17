@@ -1,0 +1,15 @@
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4qht&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20131208191520_转发视频_3分钟20秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4rK9&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20131209090414_转发视频_1分钟19秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4rRP&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20131209145649_今天看到网上卖微视频，视频我有几千个，呵呵买的联系我啊[很酷]_15秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4r-w&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20131209234145_要视频加我www0051三块一个，有须要的联系_2分钟5秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=3SJJ&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20131210001044_这种视频太多了@沉迷夜市转发视频_4分钟19秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4e-e&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20131210162129_转发视频_33秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4qTn&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20131210162225_自拍微视频出售，www0051_1分钟37秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4sb3&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20131210210138_转发视频_16分钟45秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4rBQ&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20131210210313_转发视频_1分钟7秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4rBQ&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20131210210354_转发视频_1分钟7秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4rDA&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20131210210451_转发视频_32秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4sbu&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20131211152925_转发视频_57秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4tkt&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20131212094255_拍摄于 20131212 0941_29秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4sb3&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20131212141015_转发视频_16分钟45秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4tvj&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20131212192832_转发视频_45秒.mp4

@@ -1,0 +1,2 @@
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=549l&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140320102750_听到我在说什么吗_7秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=53im&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140318132442_三亚拍片、晒成巧克力了[悲催]_8秒.mp4

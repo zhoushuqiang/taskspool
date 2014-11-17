@@ -1,0 +1,43 @@
+http://download1.vlook.cn/video/high/25TC.mp4	20120930023039_做头发无聊，拍个小视频发给大家！_39秒.mp4
+http://download1.vlook.cn/video/high/265R.mp4	20120930151127_分享视频_35秒.mp4
+http://download1.vlook.cn/video/high/2cPl.mp4	20121014123419_拍摄摄影教材，台球主题_52秒.mp4
+http://download1.vlook.cn/video/high/2e4y.mp4	20121016231442_学生服版我是女生[媚眼][媚眼]_1分钟10秒.mp4
+http://download1.vlook.cn/video/high/2hoa.mp4	20121024103914_分享视频_1分钟11秒.mp4
+http://download1.vlook.cn/video/high/3FT1.mp4	20130712212554_生日现场_2分钟57秒.mp4
+http://download1.vlook.cn/video/high/3Mij.mp4	20130728225853_美克拉美非常完美 钻石女孩 选拔赛_4分钟16秒.mp4
+http://download1.vlook.cn/video/high/3TFi.mp4	20130819113750_比赛开场舞排练中_2分钟45秒.mp4
+http://download1.vlook.cn/video/high/3UMU.mp4	20130822174549_世界小姐才艺单项赛_1分钟54秒.mp4
+http://download1.vlook.cn/video/high/3VVi.mp4	20130826003712_世界小姐 总决赛 泳装展示 我们的彩排，看看哪个是我[很酷]_1分钟16秒.mp4
+http://download1.vlook.cn/video/high/3Yus.mp4	20130902144449_我的才艺表演，你们喜欢吗？_4分钟38秒.mp4
+http://download1.vlook.cn/video/high/3nRk.mp4	20130606101508_转发视频_6分钟56秒.mp4
+http://download1.vlook.cn/video/high/41gm.mp4	20130916095931_刚学会做幻灯片，哈哈[媚眼][媚眼]_1分钟9秒.mp4
+http://download1.vlook.cn/video/high/41uf.mp4	20130916204212_#报名参加美德女神#这样报名可以吗？_58秒.mp4
+http://download1.vlook.cn/video/high/5XlU.mp4	20140804185559_拍摄花絮_14秒.mp4
+http://download1.vlook.cn/video/high/5xI1.mp4	20140602224442_分享于 201462 2244_10秒.mp4
+http://download1.vlook.cn/video/high/5xIh.mp4	20140602225233_分享于 201462 2252_10秒.mp4
+http://download1.vlook.cn/video/high/5xf_.mp4	20140602020730_分享于 201462 0206_13秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=1HKG&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20120826111941_微电影马导和孙兴大哥合作一曲，好听哦！@杨璇璇regina@sina@安瑞甜_41秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=1HOh&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20120826125600_游轮花絮！有点自恋，大家不要笑我哦！_22秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=1SQy&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20120910103103_快要离开三亚了，在这里比赛了一个多月，忽然觉得有点恋恋不舍，我要在这里留下我美丽的身影，有个完美的回忆！_26秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=1vH7&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20120807172055_分享视频_1分钟13秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=1wFT&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20120808175156_现在我在三亚的呀偌达，大家看看这里美不美啊？_34秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=1wG4&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20120808175900_下午补拍游泳花絮！嘿嘿，我现在游泳技术见长啊，有木有？_27秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=21qR&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20120922050014_九月京城最好玩的以时尚摄影为主题的大趴，由@House专业影棚 和@北京拿铁酒吧 联合打造，在拿铁酒吧精心布置了两个..._2分钟21秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=25TC&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20120930023039_做头发无聊，拍个小视频发给大家！_39秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=265R&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20120930151127_分享视频_35秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=2cPl&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20121014123419_拍摄摄影教材，台球主题_52秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=2e4y&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20121016231442_学生服版我是女生[媚眼][媚眼]_1分钟10秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=2hoa&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20121024103914_分享视频_1分钟11秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=3FT1&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20130712212554_生日现场_2分钟57秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=3Mij&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20130728225853_美克拉美非常完美 钻石女孩 选拔赛_4分钟16秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=3TFi&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20130819113750_比赛开场舞排练中_2分钟45秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=3UMU&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20130822174549_世界小姐才艺单项赛_1分钟54秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=3VVi&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20130826003712_世界小姐 总决赛 泳装展示 我们的彩排，看看哪个是我[很酷]_1分钟16秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=3Yus&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20130902144449_我的才艺表演，你们喜欢吗？_4分钟38秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=3nRk&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20130606101508_转发视频_6分钟56秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=41gm&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20130916095931_刚学会做幻灯片，哈哈[媚眼][媚眼]_1分钟9秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=41uf&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20130916204212_#报名参加美德女神#这样报名可以吗？_58秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5XlU&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140804185559_拍摄花絮_14秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5xI1&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140602224442_分享于 201462 2244_10秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5xIh&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140602225233_分享于 201462 2252_10秒.mp4
+http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5xf_&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140602020730_分享于 201462 0206_13秒.mp4
