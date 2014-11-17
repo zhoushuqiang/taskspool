@@ -1,0 +1,10 @@
+.mov
+.flv
+.localpool/
+localpool/
+download/
+.*.swp
+ladies/*/*/*.jpg
+ladies/*/*/*.flv
+ladies/*/*/*.mov
+ladies
