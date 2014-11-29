@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn follow 52e7e62677d3cc012f8b459c pennyä½©ä½©
+
+    * Begin : 2014/11/30 4:22:40
+    * End   : 2014/11/30 4:22:40
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 52db5434e341676f4c8b458a èèRasa
+
+    * Begin : 2014/11/30 4:22:40
+    * End   : 2014/11/30 4:22:40
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 52cbb7d079d3ccbb0d8b4570 èçª
+
+    * Begin : 2014/11/30 4:22:40
+    * End   : 2014/11/30 4:22:40
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 53f08ff2a8640b557f8b459f è²é£é£
+
+    * Begin : 2014/11/30 4:22:39
+    * End   : 2014/11/30 4:22:40
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 54532adfa8640b681e8b457e å¿§ä¼¤çå°éº»é
 
     * Begin : 2014/11/30 4:22:33
