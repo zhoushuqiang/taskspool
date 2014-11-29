@@ -2,8 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/5470c982a5640ba50b8b4579
-    *[urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/5470c982a5640ba50b8b4579
     *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/54785b82a5640bc7048b4574
     *[urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/54785b82a5640bc7048b4574
     *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/54789444a5640b51268b45a1
@@ -137,8 +135,11 @@ Tasks Status Report
     *[urlrule] sites weipai.cn FOLLOW 51ba8ba3813494b42000000e æ´çç±ç± SAVE
     *[urlrule] sites weipai.cn FOLLOW 51568669803494a423000042 oliviababy SAVE
     *[urlrule] sites weipai.cn FOLLOW 532cf15debeddbb9578b4567 å°ä¸å¨ SAVE
+    *[urlrule] sites weipai.cn FOLLOW 546c58f7a8640be32f8b457d å¼ æ ©è²-ManGo SAVE
 * Finished:
+    * [2014/11/30 3:25:25] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/5470c982a5640ba50b8b4579
     * [2014/11/30 3:24:20] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/546bc355a5640b5d048b45a7
     * [2014/11/30 3:22:45] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/547894c7a5640b00288b456e
 * Doing Nothing:
+    * [2014/11/30 3:24:27] [urlrule] sites weipai.cn add 546c58f7a8640be32f8b457d å¼ æ ©è²-ManGo
     * [2014/11/30 3:22:53] [urlrule] sites weipai.cn add 532cf15debeddbb9578b4567 å°ä¸å¨

@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/5470c982a5640ba50b8b4579
+
+    * Begin : 2014/11/30 3:24:27
+    * End   : 2014/11/30 3:25:25
+    * Result: => å¼ æ ©è²-ManGo/weipai.cn/546c58f7a8640be32f8b457d
+
+* [urlrule] sites weipai.cn add 546c58f7a8640be32f8b457d å¼ æ ©è²-ManGo
+
+    * Begin : 2014/11/30 3:24:26
+    * End   : 2014/11/30 3:24:27
+    * Result: http://www.weipai.cn/video/5470c982a5640ba50b8b4579=>[weipai.cn] 546c58f7a8640be32f8b457d (å¼ æ ©è²-ManGo) OK
+
 * [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/546bc355a5640b5d048b45a7
 
     * Begin : 2014/11/30 3:22:53
