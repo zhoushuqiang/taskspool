@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 546c58f7a8640be32f8b457d å¼ æ ©è²-ManGo
+
+    * Begin : 2014/11/30 4:22:59
+    * End   : 2014/11/30 4:22:59
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5382237a9d67d962108b457b å¤å°ä¸½Lily
 
     * Begin : 2014/11/30 4:22:52

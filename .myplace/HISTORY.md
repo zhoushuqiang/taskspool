@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn follow 546c58f7a8640be32f8b457d å¼ æ ©è²-ManGo
+
+    * Begin : 2014/11/30 4:22:59
+    * End   : 2014/11/30 4:22:59
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 532cf15debeddbb9578b4567 å°ä¸å¨
+
+    * Begin : 2014/11/30 4:22:58
+    * End   : 2014/11/30 4:22:59
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 51568669803494a423000042 oliviababy
+
+    * Begin : 2014/11/30 4:22:58
+    * End   : 2014/11/30 4:22:58
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 51ba8ba3813494b42000000e æ´çç±ç±
+
+    * Begin : 2014/11/30 4:22:58
+    * End   : 2014/11/30 4:22:58
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 5382237a9d67d962108b457b å¤å°ä¸½Lily
 
     * Begin : 2014/11/30 4:22:52
