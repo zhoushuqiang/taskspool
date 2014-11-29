@@ -2,10 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn FOLLOW 5318580c4f4a134a638b4586 é¢ççbaby SAVE
-    *[urlrule] sites weipai.cn FOLLOW 52dd823bebeddbea038b4632 æå¤baby123 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 546c58f7a8640be32f8b457d å¼ æ ©è²-ManGo SAVE
-    *[urlrule] sites weipai.cn FOLLOW 54635cfca8640b9a198b458f æå§å¦® SAVE
     *[urlrule] sites weipai.cn FOLLOW 53c8084da6640beb528b4567 æ¹ç´«æ¶µ SAVE
     *[urlrule] sites weipai.cn FOLLOW 531374499d67d9ee0b8b4567 å¾å¦é¦¨Mandy SAVE
     *[urlrule] sites weipai.cn FOLLOW 51568669803494a423000042 oliviababy SAVE
@@ -88,7 +84,12 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 535f7205ebeddbc9178b45fc å°è±å¦¹å¦¹
     *[urlrule] sites weipai.cn SAVE 53861ab59d67d9b2168b4573 æ¹æ¬£å¦®ss
     *[urlrule] sites weipai.cn SAVE 5337a885504a13c6408b4571 è¹å°ç½
+    *[urlrule] sites weipai.cn SAVE 5318580c4f4a134a638b4586 é¢ççbaby
+    *[urlrule] sites weipai.cn SAVE 52dd823bebeddbea038b4632 æå¤baby123
+    *[urlrule] sites weipai.cn SAVE 546c58f7a8640be32f8b457d å¼ æ ©è²-ManGo
+    *[urlrule] sites weipai.cn SAVE 54635cfca8640b9a198b458f æå§å¦®
 * Finished:
+    * [2014/11/30 4:24:9] [urlrule] sites weipai.cn follow 54635cfca8640b9a198b458f æå§å¦®
     * [2014/11/30 4:24:2] [urlrule] sites weipai.cn follow 5337a885504a13c6408b4571 è¹å°ç½
     * [2014/11/30 4:23:56] [urlrule] sites weipai.cn follow 52c0ff5ce34167c86c8b458d è¾å°ç±
     * [2014/11/30 4:23:50] [urlrule] sites weipai.cn follow 54537787a7640b294b8b4589 å¨ä¾çµå¿
@@ -166,6 +167,9 @@ Tasks Status Report
     * [2014/11/30 3:24:20] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/546bc355a5640b5d048b45a7
     * [2014/11/30 3:22:45] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/547894c7a5640b00288b456e
 * Doing Nothing:
+    * [2014/11/30 4:24:8] [urlrule] sites weipai.cn follow 546c58f7a8640be32f8b457d å¼ æ ©è²-ManGo
+    * [2014/11/30 4:24:8] [urlrule] sites weipai.cn follow 52dd823bebeddbea038b4632 æå¤baby123
+    * [2014/11/30 4:24:8] [urlrule] sites weipai.cn follow 5318580c4f4a134a638b4586 é¢ççbaby
     * [2014/11/30 4:24:2] [urlrule] sites weipai.cn follow 53861ab59d67d9b2168b4573 æ¹æ¬£å¦®ss
     * [2014/11/30 4:24:2] [urlrule] sites weipai.cn follow 535f7205ebeddbc9178b45fc å°è±å¦¹å¦¹
     * [2014/11/30 4:23:56] [urlrule] sites weipai.cn follow 50d090a98134940e3f000056 crystalå°

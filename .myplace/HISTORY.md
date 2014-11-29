@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn follow 54635cfca8640b9a198b458f æå§å¦®
+
+    * Begin : 2014/11/30 4:24:8
+    * End   : 2014/11/30 4:24:9
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 546c58f7a8640be32f8b457d å¼ æ ©è²-ManGo
+
+    * Begin : 2014/11/30 4:24:8
+    * End   : 2014/11/30 4:24:8
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 52dd823bebeddbea038b4632 æå¤baby123
+
+    * Begin : 2014/11/30 4:24:8
+    * End   : 2014/11/30 4:24:8
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 5318580c4f4a134a638b4586 é¢ççbaby
+
+    * Begin : 2014/11/30 4:24:8
+    * End   : 2014/11/30 4:24:8
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 5337a885504a13c6408b4571 è¹å°ç½
 
     * Begin : 2014/11/30 4:24:2
