@@ -2,8 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites vlook.cn FOLLOW åçé±  SAVE
-    *[urlrule] sites vlook.cn FOLLOW Dj_kelly  SAVE
     *[urlrule] sites vlook.cn FOLLOW ç±³æ´  SAVE
     *[urlrule] sites vlook.cn FOLLOW è¥å«baby  SAVE
     *[urlrule] sites vlook.cn FOLLOW åå¨å¤§ç  SAVE
@@ -88,7 +86,10 @@ Tasks Status Report
     *[urlrule] sites vlook.cn SAVE Amanda5275 
     *[urlrule] sites vlook.cn SAVE æ¡æ·¼æ·¼ 
     *[urlrule] sites vlook.cn SAVE DJ-CC 
+    *[urlrule] sites vlook.cn SAVE åçé± 
+    *[urlrule] sites vlook.cn SAVE Dj_kelly 
 * Finished:
+    * [2014/11/30 4:25:12] [urlrule] sites vlook.cn follow Dj_kelly 
     * [2014/11/30 4:25:6] [urlrule] sites vlook.cn follow DJ-CC 
     * [2014/11/30 4:25:0] [urlrule] sites vlook.cn follow æ¡æ·¼æ·¼ 
     * [2014/11/30 4:24:53] [urlrule] sites weipai.cn follow 5473ca0aa7640b7f268b4583 å¾®æç²¾åç¦å©--
@@ -176,6 +177,7 @@ Tasks Status Report
     * [2014/11/30 3:24:20] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/546bc355a5640b5d048b45a7
     * [2014/11/30 3:22:45] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/547894c7a5640b00288b456e
 * Doing Nothing:
+    * [2014/11/30 4:25:12] [urlrule] sites vlook.cn follow åçé± 
     * [2014/11/30 4:25:0] [urlrule] sites vlook.cn follow Amanda5275 
     * [2014/11/30 4:24:59] [urlrule] sites weipai.cn follow Amanda5275 
     * [2014/11/30 4:24:59] [urlrule] sites weipai.cn follow 53c8084da6640beb528b4567 æ¹ç´«æ¶µ
