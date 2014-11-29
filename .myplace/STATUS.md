@@ -2,11 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn FOLLOW 514559307d3494db5500005d æ¹¯å¤§å¸ SAVE
-    *[urlrule] sites weipai.cn FOLLOW 52dd823bebeddbea038b4632 æå¤baby123 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 516ac8a77d3494ef4c000015 é¯å­è SAVE
-    *[urlrule] sites weipai.cn FOLLOW 54364d9ba8640b05708b4595 é©ç°ç¨ SAVE
-    *[urlrule] sites weipai.cn FOLLOW 547835e6a7640b32758b4575 201411308 SAVE
     *[urlrule] sites weipai.cn FOLLOW 5473ca0aa7640b7f268b4583 å¾®æç²¾åç¦å©-- SAVE
     *[urlrule] sites weipai.cn FOLLOW 522a6d9e9f6c00e659630a62 ç©ææ­ SAVE
     *[urlrule] sites weipai.cn FOLLOW 53c8084da6640beb528b4567 æ¹ç´«æ¶µ SAVE
@@ -88,7 +83,13 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 5189f0ab803494c62f00000e æææ¡å¿
     *[urlrule] sites weipai.cn SAVE 505029517d34948d5f0000c5 å°è¹å­
     *[urlrule] sites weipai.cn SAVE 54218692a8640be9688b4580 ææè-Bie
+    *[urlrule] sites weipai.cn SAVE 514559307d3494db5500005d æ¹¯å¤§å¸
+    *[urlrule] sites weipai.cn SAVE 52dd823bebeddbea038b4632 æå¤baby123
+    *[urlrule] sites weipai.cn SAVE 516ac8a77d3494ef4c000015 é¯å­è
+    *[urlrule] sites weipai.cn SAVE 54364d9ba8640b05708b4595 é©ç°ç¨
+    *[urlrule] sites weipai.cn SAVE 547835e6a7640b32758b4575 201411308
 * Finished:
+    * [2014/11/30 4:24:47] [urlrule] sites weipai.cn follow 547835e6a7640b32758b4575 201411308
     * [2014/11/30 4:24:40] [urlrule] sites weipai.cn follow 54218692a8640be9688b4580 ææè-Bie
     * [2014/11/30 4:24:34] [urlrule] sites weipai.cn follow 505029517d34948d5f0000c5 å°è¹å­
     * [2014/11/30 4:24:27] [urlrule] sites weipai.cn follow 5476742ea6640b6a2c8b4577 suna2411
@@ -172,6 +173,10 @@ Tasks Status Report
     * [2014/11/30 3:24:20] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/546bc355a5640b5d048b45a7
     * [2014/11/30 3:22:45] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/547894c7a5640b00288b456e
 * Doing Nothing:
+    * [2014/11/30 4:24:47] [urlrule] sites weipai.cn follow 54364d9ba8640b05708b4595 é©ç°ç¨
+    * [2014/11/30 4:24:46] [urlrule] sites weipai.cn follow 516ac8a77d3494ef4c000015 é¯å­è
+    * [2014/11/30 4:24:46] [urlrule] sites weipai.cn follow 52dd823bebeddbea038b4632 æå¤baby123
+    * [2014/11/30 4:24:46] [urlrule] sites weipai.cn follow 514559307d3494db5500005d æ¹¯å¤§å¸
     * [2014/11/30 4:24:34] [urlrule] sites weipai.cn follow 5189f0ab803494c62f00000e æææ¡å¿
     * [2014/11/30 4:24:34] [urlrule] sites weipai.cn follow 50e62c337d3494a019000067 ç§¦åå«åå
     * [2014/11/30 4:24:27] [urlrule] sites weipai.cn follow 5300a2664f4a139d6c8b48c0 é¢è¥ç92
