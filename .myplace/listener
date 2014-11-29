@@ -1,8 +1,9 @@
 
 #!/usr/bin/perl -w
 use MyPlace::Script::Message;
+use MyPlace::Program::SimpleQuery;
 
-
+my $USQ;
 
 sub listener_init {
 	my $TASKER = shift;
@@ -27,7 +28,24 @@ sub listener_init {
 		workdir=>'ladies',	
 		top=>1,
 	);
-
+	$TasksBuilder->add(
+		'Weipai.cn Review',
+		description=>'Weipai.cn Review',
+		prefix=>[qw/urlrule action/],
+		data=>[
+			'http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android',
+			'http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android',
+			'http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android',
+			'http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android',
+			'http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android',
+			'http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android',
+			'http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android',
+			'http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android',
+		],
+		suffix=>[0,'SAVE'],
+		workdir=>'ladies',
+		top=>1,
+	);
 	$TasksBuilder->add(
 		'Weipai.CN',
 		description=>'Updater for weipai.cn',
@@ -88,7 +106,7 @@ sub listener_init {
 		if($url =~ m/weipai\.cn|l\.mob\.com/) {
 			my ($host,$name,$id);
 			$url =~ s/weipai\.cn\/(?:videos|user)\//weipai.cn\/follows\//;
-			open FI,'-|:utf8','netcat',$url or return;
+			open FI,'-|','netcat',$url or return;
 			while(<FI>) {
 				chomp;
 				if(!$host) {
@@ -156,6 +174,9 @@ sub listener_init {
 			my $task = shift;
 			my $type = shift;
 			if($type eq 'sites') {
+				use MyPlace::Program::SimpleQuery;
+				$USQ ||= new MyPlace::Program::SimpleQuery('--thread',1);
+		
 				my $hosts = shift;
 				my $command = shift;
 				
@@ -240,11 +261,12 @@ sub listener_init {
 					my $exitval;
 					$msg = "OK";
 					foreach($URL,@_) {
-						if(system('urlrule_sites','--hosts',$hosts,'--saveurl',$_,($id or $name)) != 0) {
+						if($USQ->execute('--hosts',$hosts,'--saveurl',$_,($id or $name)) != 0) {
 							$exitval = 1;
 							$msg = "Error saving URL:$_\n";
 						}
 					}
+					$task->{dir_updated} = 'ladies/' . ($name or $id);
 					return ($exitval ? $TASK_STATUS->{ERROR} : $TASK_STATUS{FINISHED}),$msg;
 				}
 				elsif($CMD eq 'SAVEURL') {	
@@ -260,7 +282,8 @@ sub listener_init {
 							return $TASK_STATUS->{ERROR},$msg;
 						}
 					}
-					if(system('urlrule_sites','--hosts',$hosts,'--saveurl',$URL,($id or $name))==0) {
+					if($USQ->execute('--hosts',$hosts,'--saveurl',$URL,($id or $name))==0) {
+						$task->{dir_updated} = 'ladies/' . ($name or $id);
 						return $TASK_STATUS->{FINISHED},"=> $name/$hosts/$id";
 					}
 					else {
@@ -277,7 +300,7 @@ sub listener_init {
 					}
 					my $add = shift;
 					if($add) {
-						app_message2 "Queue task\n *** urlrule sites $hosts $add $id $name]\n";
+						app_message2 "Queue task\n *** urlrule sites $hosts $add $id $name\n";
 						my $t = new MyPlace::Tasks::Task(qw/urlrule sites/,$hosts,$add,$id,$name,@_);
 						$TASKER->queue($t);
 					}
@@ -316,12 +339,12 @@ sub listener_init {
 	
 					my $add = shift;
 					if($add) {
-						app_message2 "Queue task\n *** urlrule sites " . join(" ",$hosts,$add,$id,$name,@_) . "]\n";
+						app_message2 "Queue task\n *** urlrule sites " . join(" ",$hosts,$add,$id,$name,@_) . "\n";
 						my $task = new MyPlace::Tasks::Task(qw/urlrule sites/,$hosts,$add,$id,$name,@_);
 						$TASKER->queue($task);
 					}
 					app_message2 "\tAdd [$id $name] to database of [$hosts]\n";
-					if(system('urlrule_sites','--host',$hosts,'--command','additem','--',$id,$name)==0) {
+					if($USQ->execute('--host',$hosts,'--command','additem','--',$id,$name)==0) {
 						return $TASK_STATUS->{DONOTHING},($FROMURL ? "$URL=>${FROMURL} OK" : "OK");
 					}
 					else {
@@ -349,7 +372,7 @@ sub listener_init {
 							return $TASK_STATUS->{ERROR},$msg;
 						}
 					}
-					my @prog = ("urlrule_sites","--hosts",$hosts,'--command',$CMD);
+					my @prog = ("--hosts",$hosts,'--command',$CMD);
 					if($key) {
 						push @prog,'--',$key;
 					}
@@ -357,15 +380,16 @@ sub listener_init {
 						push @prog,'--',$info;
 					}
 					my $TINFO = $FROMURL ? "$URL=>$FROMURL" . " " : "";
-					my $r = system(@prog);
+					my $r = $USQ->execute(@prog);
 					if($r == 0) {
+						$task->{dir_updated} = 'ladies/' . ($info or $key);
 						return $TASK_STATUS->{FINISHED},$TINFO . 'OK';
 					}
-					$r = $r>>8;
 					if($r == 2) {
 						return $TASK_STATUS->{DONOTHING},$TINFO . 'Nothing to do';
 					}
 					elsif($r == 3) {
+						$task->{dir_updated} = 'ladies/' . ($info or $key);
 						return $TASK_STATUS->{ERROR},$TINFO . 'Error';
 					}
 					else {
@@ -420,6 +444,31 @@ sub listener_init {
 				}
 				else {
 					return $TASK_STATUS{FINISHED},"FAILED";
+				}
+			}
+			elsif($type eq 'action') {
+				my $url = shift;
+				my $level = shift(@_) || 0;
+				my $action = shift(@_) || 'SAVE';
+				$task->{title} = "[urlrule action] $url $level $action";
+				if(!defined $task->{workdir}) {
+					my ($status,$msg) = set_workdir("ladies");
+					if(!$status) {
+						return $TASK_STATUS->{ERROR},$msg;
+					}
+				}
+				use MyPlace::URLRule::OO;
+				my $URLRULE = new MyPlace::URLRule::OO('action'=>$action,'thread'=>1);
+				$URLRULE->autoApply({
+						count=>1,
+						url=>$url,
+						level=>$level,
+				});
+				if($URLRULE->{DATAS_COUNT}) {
+					return $TASK_STATUS{FINISHED},"OK";
+				}
+				else {
+					return $TASK_STATUS{DONOTHING},"Nothing to do";
 				}
 			}
 			else {
@@ -482,45 +531,6 @@ sub listener_init {
 
 
 __END__
-	MyPlace::Tasks::Listener->new('urlrule_sites',
-		MyPlace::Tasks::Worker->new(
-			name=>'urlrule_sites',
-			routine=>sub {
-				my $task = shift;
-				my $host = shift;
-				my $cmd = shift;
-				$task->{title} = "[urlrule_sites] $host $cmd $_[$#_]";
-				if(!defined $task->{workdir}) {
-					my $workdir = 'ladies';
-					my ($status,$msg) = set_workdir($workdir);
-					if(!$status) {
-						$task->{summary} = $msg;
-						return $TASK_STATUS->{ERROR};
-					}
-				}
-				my $r = system('urlrule_sites','--hosts',$host,'--command',$cmd,"--",@_);
-				#print STDERR "$r=[",join("], [",$r,$r>>2,$r>>4,$r>>8),"]\n";
-				if($r == 0) {
-					$task->{summary} = "[OK]";
-					return $TASK_STATUS->{FINISHED};
-				}
-				$r = $r>>8;
-				if($r == 2) {
-					$task->{summary} = "[Nothing to do]";
-					return $TASK_STATUS->{DONOTHING};
-				}
-				elsif($r == 3) {
-					$task->{summary} = "[Error]";
-					return $TASK_STATUS->{ERROR};
-				}
-				else {
-					$task->{summary} = "[Update aborted]";
-					return $TASK_STATUS->{ERROR};
-				}
-			}
-		)
-	),
-
 
 # vim:filetype=perl
 
