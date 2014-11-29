@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/5478512da5640b00768b45c7
+
+    * Begin : 2014/11/30 3:36:25
+    * End   : 2014/11/30 3:37:57
+    * Result: => Abbymiki/weipai.cn/50e7e03d7f34941f32000015
+
+* [urlrule] sites weipai.cn add 50e7e03d7f34941f32000015 Abbymiki
+
+    * Begin : 2014/11/30 3:36:24
+    * End   : 2014/11/30 3:36:25
+    * Result: http://www.weipai.cn/video/5478512da5640b00768b45c7=>[weipai.cn] 50e7e03d7f34941f32000015 (Abbymiki) FAILED
+
 * [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/54768e99a5640b387c8b4592
 
     * Begin : 2014/11/30 3:34:47
