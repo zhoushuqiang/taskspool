@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn follow åå¨å¤§ç 
+
+    * Begin : 2014/11/30 4:25:29
+    * End   : 2014/11/30 4:25:29
+    * Result: OK
+
 * [urlrule] sites vlook.cn follow è¥å«baby 
 
     * Begin : 2014/11/30 4:25:23
