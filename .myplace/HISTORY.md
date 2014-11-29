@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 5476742ea6640b6a2c8b4577 suna2411
+
+    * Begin : 2014/11/30 4:24:27
+    * End   : 2014/11/30 4:24:27
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 5300a2664f4a139d6c8b48c0 é¢è¥ç92
+
+    * Begin : 2014/11/30 4:24:27
+    * End   : 2014/11/30 4:24:27
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 5335696f9d67d9dd638b459b å®å®å©
 
     * Begin : 2014/11/30 4:24:21
