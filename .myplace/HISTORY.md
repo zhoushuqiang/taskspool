@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/5474bc7ca5640ba4648b457f
+
+    * Begin : 2014/11/30 3:45:4
+    * End   : 2014/11/30 3:45:38
+    * Result: => crystalå°/weipai.cn/50d090a98134940e3f000056
+
+* [urlrule] sites weipai.cn add 50d090a98134940e3f000056 crystalå°
+
+    * Begin : 2014/11/30 3:45:3
+    * End   : 2014/11/30 3:45:4
+    * Result: http://www.weipai.cn/video/5474bc7ca5640ba4648b457f=>[weipai.cn] 50d090a98134940e3f000056 (crystalå°) FAILED
+
 * [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/5474d4bea5640b9b728b4592
 
     * Begin : 2014/11/30 3:43:53
