@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn follow 5304526f80349483098685a9 ç§äººç©ºé´
+
+    * Begin : 2014/11/30 4:23:44
+    * End   : 2014/11/30 4:23:44
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 53d8ce2aa8640bf6498b4575 ROSSY
+
+    * Begin : 2014/11/30 4:23:43
+    * End   : 2014/11/30 4:23:44
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 53258990ebeddbe5798b459f ææä¸ä¸åå
+
+    * Begin : 2014/11/30 4:23:43
+    * End   : 2014/11/30 4:23:43
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 5460a00ea5640b0c268b457c å°ä¹æ§å­
+
+    * Begin : 2014/11/30 4:23:43
+    * End   : 2014/11/30 4:23:43
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 540d3629a7640beb3d8b458b Sweet-å¾®
+
+    * Begin : 2014/11/30 4:23:43
+    * End   : 2014/11/30 4:23:43
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 531c57154f4a13d8288b4579 æ´ççª
 
     * Begin : 2014/11/30 4:23:37
