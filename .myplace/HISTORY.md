@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/547894c7a5640b00288b456e
+
+    * Begin : 2014/11/30 3:54:51
+    * End   : 2014/11/30 3:54:55
+    * Result: => oliviababy/weipai.cn/51568669803494a423000042
+
+* [urlrule] sites weipai.cn add 51568669803494a423000042 oliviababy
+
+    * Begin : 2014/11/30 3:54:50
+    * End   : 2014/11/30 3:54:51
+    * Result: http://www.weipai.cn/video/547894c7a5640b00288b456e=>[weipai.cn] 51568669803494a423000042 (oliviababy) FAILED
+
 * [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/547887a3a5640bee208b4573
 
     * Begin : 2014/11/30 3:54:14
