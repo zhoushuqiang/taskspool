@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn follow ç±³æ´ 
+
+    * Begin : 2014/11/30 4:25:17
+    * End   : 2014/11/30 4:25:18
+    * Result: OK
+
 * [urlrule] sites vlook.cn follow Dj_kelly 
 
     * Begin : 2014/11/30 4:25:12

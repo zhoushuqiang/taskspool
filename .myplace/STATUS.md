@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites vlook.cn FOLLOW ç±³æ´  SAVE
     *[urlrule] sites vlook.cn FOLLOW è¥å«baby  SAVE
     *[urlrule] sites vlook.cn FOLLOW åå¨å¤§ç  SAVE
     *[urlrule] sites weipai.cn FOLLOW 544ecccaa8640bca4d8b458c ä¸½å«zyk SAVE
@@ -88,7 +87,9 @@ Tasks Status Report
     *[urlrule] sites vlook.cn SAVE DJ-CC 
     *[urlrule] sites vlook.cn SAVE åçé± 
     *[urlrule] sites vlook.cn SAVE Dj_kelly 
+    *[urlrule] sites vlook.cn SAVE ç±³æ´ 
 * Finished:
+    * [2014/11/30 4:25:18] [urlrule] sites vlook.cn follow ç±³æ´ 
     * [2014/11/30 4:25:12] [urlrule] sites vlook.cn follow Dj_kelly 
     * [2014/11/30 4:25:6] [urlrule] sites vlook.cn follow DJ-CC 
     * [2014/11/30 4:25:0] [urlrule] sites vlook.cn follow æ¡æ·¼æ·¼ 
