@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/5474ddeaa5640b64748b4599
+
+    * Begin : 2014/11/30 3:41:21
+    * End   : 2014/11/30 3:42:32
+    * Result: => ROSSY/weipai.cn/53d8ce2aa8640bf6498b4575
+
+* [urlrule] sites weipai.cn add 53d8ce2aa8640bf6498b4575 ROSSY
+
+    * Begin : 2014/11/30 3:41:20
+    * End   : 2014/11/30 3:41:21
+    * Result: http://www.weipai.cn/video/5474ddeaa5640b64748b4599=>[weipai.cn] 53d8ce2aa8640bf6498b4575 (ROSSY) FAILED
+
 * [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/5476fd9fa5640b0b458b4571
 
     * Begin : 2014/11/30 3:40:26
