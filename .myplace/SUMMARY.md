@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 54524bcaa7640b9f268b459f æ¢¦å©·Baby
+
+    * Begin : 2014/11/30 4:22:28
+    * End   : 2014/11/30 4:22:28
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5434fb191890edfd248b49fd åæ¶µæ¹¿å§
 
     * Begin : 2014/11/30 4:22:21
