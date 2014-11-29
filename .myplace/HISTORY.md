@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn follow DJ-CC 
+
+    * Begin : 2014/11/30 4:25:5
+    * End   : 2014/11/30 4:25:6
+    * Result: OK
+
 * [urlrule] sites vlook.cn follow æ¡æ·¼æ·¼ 
 
     * Begin : 2014/11/30 4:25:0
