@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/5476a4e2a5640b70108b4567
+
+    * Begin : 2014/11/30 3:55:47
+    * End   : 2014/11/30 3:56:9
+    * Result: => suna2411/weipai.cn/5476742ea6640b6a2c8b4577
+
+* [urlrule] sites weipai.cn add 5476742ea6640b6a2c8b4577 suna2411
+
+    * Begin : 2014/11/30 3:55:46
+    * End   : 2014/11/30 3:55:47
+    * Result: http://www.weipai.cn/video/5476a4e2a5640b70108b4567=>[weipai.cn] 5476742ea6640b6a2c8b4577 (suna2411) OK
+
 * [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/546df94ca5640b14508b456e
 
     * Begin : 2014/11/30 3:55:16
