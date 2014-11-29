@@ -224,6 +224,14 @@ http://download1.vlook.cn/video/high/6MZo.mp4	20141117144942_公共场合 请勿
 http://download1.vlook.cn/video/high/6MZr.mp4	20141117145002_过量饮酒  有害健康_1分钟12秒.mp4
 http://download1.vlook.cn/video/high/6MgD.mp4	20141115211551_分享。_1分钟27秒.mp4
 http://download1.vlook.cn/video/high/6MsG.mp4	20141116102754_每天扭一扭，活到九十九。_2分钟29秒.mp4
+http://download1.vlook.cn/video/high/6NOV.mp4	20141119160431_玫瑰～_3分钟50秒.mp4
+http://download1.vlook.cn/video/high/6NPL.mp4	20141119170558_听首歌吧，也不能都是些蹦的。前缘再续_3分钟39秒.mp4
+http://download1.vlook.cn/video/high/6NPd.mp4	20141119162524_肥玫瑰～_3分钟42秒.mp4
+http://download1.vlook.cn/video/high/6PLm.mp4	20141123233925_打小三～_1分钟49秒.mp4
+http://download1.vlook.cn/video/high/6PMt.mp4	20141124001556_女孩遭后妈虐待暴打遍体鳞伤  双手被按开水中_5分钟27秒.mp4
+http://download1.vlook.cn/video/high/6QFZ.mp4	20141125224512_生命的旋律_5分钟36秒.mp4
+http://download1.vlook.cn/video/high/6QqH.mp4	20141125123121_？？_3分钟10秒.mp4
+http://download1.vlook.cn/video/high/6Qsi.mp4	20141125140102_再不能分享，就没传的了。_3分钟8秒.mp4
 http://download1.vlook.cn/video/high/6aOw.mp4	20140829120954_才艺表演…_1分钟19秒.mp4
 http://download1.vlook.cn/video/high/6aR3.mp4	20140829132352_才艺表演…_1分钟27秒.mp4
 http://download1.vlook.cn/video/high/6fll.mp4	20140906171910_爱我微录客…_15秒.mp4
@@ -399,3 +407,4 @@ http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6kao&client=pc&imei=ee257
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6kpL&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140916120337_手机里看是满屏高清，传上来经过微露客转码压缩，视频效果变样了。_3分钟36秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6krm&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140916130401_核武器！……_1分钟28秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6l2T&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140917154044_巡航导弹…_1分钟0秒.mp4
+http://download1.vlook.cn/video/high/6QFZ.mp4	20141125224512_生命的旋律_5分钟36秒.mp4

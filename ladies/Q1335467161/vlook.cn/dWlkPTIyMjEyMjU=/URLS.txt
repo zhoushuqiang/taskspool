@@ -13,6 +13,13 @@ http://download1.vlook.cn/video/high/5x-R.mp4	20140603175117_吃饭去喽[微笑
 http://download1.vlook.cn/video/high/6Exm.mp4	20141029170553_我的Q1335467161：不一样的我[害羞]_8秒.mp4
 http://download1.vlook.cn/video/high/6Jyv.mp4	20141109150210_我的Q1335467161：天气慢慢变冷了、大家多穿点衣服哦[媚眼]_8秒.mp4
 http://download1.vlook.cn/video/high/6LBJ.mp4	20141114135845_我的Q1335467161：哈喽大家好哇[害羞]_8秒.mp4
+http://download1.vlook.cn/video/high/6Njd.mp4	20141118112324_我的Q1335467161：想看更多照片请加我的QQ1335467161_8秒.mp4
+http://download1.vlook.cn/video/high/6OA3.mp4	20141121150220_我的Q1335467161：烦烦烦[失望][失望][失望][失望]_8秒.mp4
+http://download1.vlook.cn/video/high/6Ony.mp4	20141121002459_我的Q1335467161：怎么发布出去呢[扣鼻屎][扣鼻屎]_8秒.mp4
+http://download1.vlook.cn/video/high/6Pxf.mp4	20141123160156_我的Q1335467161：困死了[犯困][犯困][犯困][犯困][犯困]_8秒.mp4
+http://download1.vlook.cn/video/high/6QXn.mp4	20141126150642_我的Q1335467161：玩穿越喽[好色]_8秒.mp4
+http://download1.vlook.cn/video/high/6QXx.mp4	20141126151211_我的Q1335467161：没事扮新娘[媚眼][媚眼][媚眼]_8秒.mp4
+http://download1.vlook.cn/video/high/6RfP.mp4	20141127103434_我的Q1335467161：我的写真集_8秒.mp4
 http://download1.vlook.cn/video/high/6gCF.mp4	20140909012438_好久没法多发一个[微笑][微笑][微笑]_8秒.mp4
 http://download1.vlook.cn/video/high/6gCy.mp4	20140909011800_睡觉喽_8秒.mp4
 http://download1.vlook.cn/video/high/6i0b.mp4	20140911211723_更多视频请关注我的微视Sofie-苏菲[害羞][害羞][害羞]_7秒.mp4
@@ -46,3 +53,4 @@ http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6kWX&client=pc&imei=ee257
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6kzn&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140916180917_我的Q1335467161：拍写真_8秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6l-G&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140919131001_我的Q1335467161：我跟我的姐妹们[媚眼][媚眼]_8秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6oBR&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140923195632_我的Q1335467161：[害羞][害羞][害羞]_8秒.mp4
+http://download1.vlook.cn/video/high/6RfP.mp4	20141127103434_我的Q1335467161：我的写真集_8秒.mp4
