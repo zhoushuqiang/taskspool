@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE pennyä½©ä½©
+
+    * Begin : 2014/11/30 7:40:45
+    * End   : 2014/11/30 7:54:51
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE èèRasa
 
     * Begin : 2014/11/30 7:37:49

@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 52e7e62677d3cc012f8b459c pennyä½©ä½©
     *[urlrule] sites weipai.cn SAVE 5449b474a5640b74528b458d å­¤åç84å©å¥³
     *[urlrule] sites weipai.cn SAVE 522a6d9e9f6c00e659630a62 ç©ææ­
     *[urlrule] sites weipai.cn SAVE 5382237a9d67d962108b457b å¤å°ä¸½Lily
@@ -68,6 +67,7 @@ Tasks Status Report
     *[urlrule] sites vlook.cn SAVE åå¨å¤§ç 
     *[urlrule] sites weipai.cn SAVE 544ecccaa8640bca4d8b458c ä¸½å«zyk
 * Finished:
+    * [2014/11/30 7:54:51] [urlrule] sites weipai.cn SAVE pennyä½©ä½©
     * [2014/11/30 7:40:39] [urlrule] sites weipai.cn SAVE èèRasa
     * [2014/11/30 7:37:44] [urlrule] sites weipai.cn SAVE èçª
     * [2014/11/30 7:37:31] [urlrule] sites weipai.cn SAVE è²é£é£
