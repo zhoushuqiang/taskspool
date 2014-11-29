@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn FOLLOW 5473ca0aa7640b7f268b4583 å¾®æç²¾åç¦å©-- SAVE
     *[urlrule] sites weipai.cn FOLLOW 522a6d9e9f6c00e659630a62 ç©ææ­ SAVE
     *[urlrule] sites weipai.cn FOLLOW 53c8084da6640beb528b4567 æ¹ç´«æ¶µ SAVE
     *[urlrule] sites weipai.cn FOLLOW Amanda5275  SAVE
@@ -88,7 +87,9 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 516ac8a77d3494ef4c000015 é¯å­è
     *[urlrule] sites weipai.cn SAVE 54364d9ba8640b05708b4595 é©ç°ç¨
     *[urlrule] sites weipai.cn SAVE 547835e6a7640b32758b4575 201411308
+    *[urlrule] sites weipai.cn SAVE 5473ca0aa7640b7f268b4583 å¾®æç²¾åç¦å©--
 * Finished:
+    * [2014/11/30 4:24:53] [urlrule] sites weipai.cn follow 5473ca0aa7640b7f268b4583 å¾®æç²¾åç¦å©--
     * [2014/11/30 4:24:47] [urlrule] sites weipai.cn follow 547835e6a7640b32758b4575 201411308
     * [2014/11/30 4:24:40] [urlrule] sites weipai.cn follow 54218692a8640be9688b4580 ææè-Bie
     * [2014/11/30 4:24:34] [urlrule] sites weipai.cn follow 505029517d34948d5f0000c5 å°è¹å­
