@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/54737c87a5640bd6278b4591
+
+    * Begin : 2014/11/30 3:49:20
+    * End   : 2014/11/30 3:50:15
+    * Result: => é¢ççbaby/weipai.cn/5318580c4f4a134a638b4586
+
+* [urlrule] sites weipai.cn add 5318580c4f4a134a638b4586 é¢ççbaby
+
+    * Begin : 2014/11/30 3:49:19
+    * End   : 2014/11/30 3:49:20
+    * Result: http://www.weipai.cn/video/54737c87a5640bd6278b4591=>[weipai.cn] 5318580c4f4a134a638b4586 (é¢ççbaby) FAILED
+
 * [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/54759d7aa5640be4668b45b7
 
     * Begin : 2014/11/30 3:48:24
