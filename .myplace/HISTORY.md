@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn follow 531c57154f4a13d8288b4579 æ´ççª
+
+    * Begin : 2014/11/30 4:23:37
+    * End   : 2014/11/30 4:23:37
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 52fa5ead8034942675b92f69 ä¸ç¾çé£20140212
+
+    * Begin : 2014/11/30 4:23:37
+    * End   : 2014/11/30 4:23:37
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 50e7e03d7f34941f32000015 Abbymiki
+
+    * Begin : 2014/11/30 4:23:36
+    * End   : 2014/11/30 4:23:37
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 532177d6ebeddb85378b4580 è¾èkathy
+
+    * Begin : 2014/11/30 4:23:36
+    * End   : 2014/11/30 4:23:36
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 5060bcc2803494517e0000b8 èæ¢¦-å®è´
 
     * Begin : 2014/11/30 4:23:30
