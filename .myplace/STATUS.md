@@ -2,11 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn FOLLOW 51fa57ba7f3494ea70000000 éç¾ç³Mandy SAVE
-    *[urlrule] sites weipai.cn FOLLOW 53ed0e57a6640b3d578b456c éè¯äº SAVE
-    *[urlrule] sites weipai.cn FOLLOW 531374499d67d9ee0b8b4567 å¾å¦é¦¨Mandy SAVE
-    *[urlrule] sites weipai.cn FOLLOW 5450480da7640bd2048b4584 åªåå¥³äºº SAVE
-    *[urlrule] sites weipai.cn FOLLOW 547244d0a5640b02718b4577 ç±ç±å¾®æ SAVE
     *[urlrule] sites weipai.cn FOLLOW 5434fb191890edfd248b49fd åæ¶µæ¹¿å§ SAVE
     *[urlrule] sites weipai.cn FOLLOW 54524bcaa7640b9f268b459f æ¢¦å©·Baby SAVE
     *[urlrule] sites weipai.cn FOLLOW 54532adfa8640b681e8b457e å¿§ä¼¤çå°éº»é SAVE
@@ -88,7 +83,13 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 5471edbaa5640b943d8b456b è¥å°»å¤«äººLinanan
     *[urlrule] sites weipai.cn SAVE 534d71489d67d9e6318b45a5 16å§
     *[urlrule] sites weipai.cn SAVE 5448da36a7640b77298b45a7 84å©å¥³å§
+    *[urlrule] sites weipai.cn SAVE 51fa57ba7f3494ea70000000 éç¾ç³Mandy
+    *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c éè¯äº
+    *[urlrule] sites weipai.cn SAVE 531374499d67d9ee0b8b4567 å¾å¦é¦¨Mandy
+    *[urlrule] sites weipai.cn SAVE 5450480da7640bd2048b4584 åªåå¥³äºº
+    *[urlrule] sites weipai.cn SAVE 547244d0a5640b02718b4577 ç±ç±å¾®æ
 * Finished:
+    * [2014/11/30 4:22:15] [urlrule] sites weipai.cn follow 547244d0a5640b02718b4577 ç±ç±å¾®æ
     * [2014/11/30 4:22:7] [urlrule] sites weipai.cn follow 5448da36a7640b77298b45a7 84å©å¥³å§
     * [2014/11/30 4:22:1] [urlrule] sites weipai.cn follow 534d71489d67d9e6318b45a5 16å§
     * [2014/11/30 4:21:56] [urlrule] sites weipai.cn follow 5471edbaa5640b943d8b456b è¥å°»å¤«äººLinanan
@@ -148,6 +149,10 @@ Tasks Status Report
     * [2014/11/30 3:24:20] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/546bc355a5640b5d048b45a7
     * [2014/11/30 3:22:45] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/547894c7a5640b00288b456e
 * Doing Nothing:
+    * [2014/11/30 4:22:15] [urlrule] sites weipai.cn follow 5450480da7640bd2048b4584 åªåå¥³äºº
+    * [2014/11/30 4:22:14] [urlrule] sites weipai.cn follow 531374499d67d9ee0b8b4567 å¾å¦é¦¨Mandy
+    * [2014/11/30 4:22:14] [urlrule] sites weipai.cn follow 53ed0e57a6640b3d578b456c éè¯äº
+    * [2014/11/30 4:22:14] [urlrule] sites weipai.cn follow 51fa57ba7f3494ea70000000 éç¾ç³Mandy
     * [2014/11/30 4:21:55] [urlrule] sites weipai.cn follow 546a0312a8640b03658b4582 å¿§ä¼¤çé»ç1
     * [2014/11/30 4:21:55] [urlrule] sites weipai.cn follow 52cbb7d079d3ccbb0d8b4570 èçª
     * [2014/11/30 4:21:37] [urlrule] sites weipai.cn follow 52cbb7d079d3ccbb0d8b4570 èçª
