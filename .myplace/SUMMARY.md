@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 544ecccaa8640bca4d8b458c ä¸½å«zyk
+
+    * Begin : 2014/11/30 4:25:35
+    * End   : 2014/11/30 4:25:35
+    * Result: OK
+
 * [urlrule] sites vlook.cn follow åå¨å¤§ç 
 
     * Begin : 2014/11/30 4:25:29
