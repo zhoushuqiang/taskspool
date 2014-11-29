@@ -2,17 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFS Amanda5275
-    *[urlrule] sites vlook.cn AFS Amanda5275
-    *[urlrule] sites vlook.cn AFS æ¡æ·¼æ·¼
-    *[urlrule] sites vlook.cn AFS DJ-CC
-    *[urlrule] sites vlook.cn AFS åçé±
-    *[urlrule] sites vlook.cn AFS Dj_kelly
-    *[urlrule] sites vlook.cn AFS ç±³æ´
-    *[urlrule] sites vlook.cn AFS è¥å«baby
-    *[urlrule] sites vlook.cn AFS åå¨å¤§ç
-    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/54723a26a5640b94688b4589
-    *[urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/54723a26a5640b94688b4589
     *[urlrule] sites weipai.cn FOLLOW 5449b5c7a5640be5548b458e å¯å¯å§å§ SAVE
     *[urlrule] sites weipai.cn FOLLOW 52cbb7d079d3ccbb0d8b4570 èçª SAVE
     *[urlrule] sites weipai.cn FOLLOW 54589ea9a7640b292b8b457e æ²¡æé¼»æ¢çå§å¨ SAVE
@@ -89,7 +78,18 @@ Tasks Status Report
     *[urlrule] sites weipai.cn FOLLOW 5473ca0aa7640b7f268b4583 å¾®æç²¾åç¦å©-- SAVE
     *[urlrule] sites weipai.cn FOLLOW 522a6d9e9f6c00e659630a62 ç©ææ­ SAVE
     *[urlrule] sites weipai.cn FOLLOW 53c8084da6640beb528b4567 æ¹ç´«æ¶µ SAVE
+    *[urlrule] sites weipai.cn FOLLOW Amanda5275  SAVE
+    *[urlrule] sites vlook.cn FOLLOW Amanda5275  SAVE
+    *[urlrule] sites vlook.cn FOLLOW æ¡æ·¼æ·¼  SAVE
+    *[urlrule] sites vlook.cn FOLLOW DJ-CC  SAVE
+    *[urlrule] sites vlook.cn FOLLOW åçé±  SAVE
+    *[urlrule] sites vlook.cn FOLLOW Dj_kelly  SAVE
+    *[urlrule] sites vlook.cn FOLLOW ç±³æ´  SAVE
+    *[urlrule] sites vlook.cn FOLLOW è¥å«baby  SAVE
+    *[urlrule] sites vlook.cn FOLLOW åå¨å¤§ç  SAVE
+    *[urlrule] sites weipai.cn FOLLOW 544ecccaa8640bca4d8b458c ä¸½å«zyk SAVE
 * Finished:
+    * [2014/11/30 4:21:25] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/54723a26a5640b94688b4589
     * [2014/11/30 4:19:53] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/5476b0c2a5640b6c138b45e3
     * [2014/11/30 4:16:24] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/53e9f8f3a5640b2f7f8b456c
     * [2014/11/30 4:16:7] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/5473f255a5640b27718b4578
@@ -141,6 +141,16 @@ Tasks Status Report
     * [2014/11/30 3:24:20] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/546bc355a5640b5d048b45a7
     * [2014/11/30 3:22:45] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/547894c7a5640b00288b456e
 * Doing Nothing:
+    * [2014/11/30 4:20:1] [urlrule] sites weipai.cn add 544ecccaa8640bca4d8b458c ä¸½å«zyk
+    * [2014/11/30 4:20:0] [urlrule] sites vlook.cn add åå¨å¤§ç 
+    * [2014/11/30 4:20:0] [urlrule] sites vlook.cn add è¥å«baby 
+    * [2014/11/30 4:20:0] [urlrule] sites vlook.cn add ç±³æ´ 
+    * [2014/11/30 4:20:0] [urlrule] sites vlook.cn add Dj_kelly 
+    * [2014/11/30 4:20:0] [urlrule] sites vlook.cn add åçé± 
+    * [2014/11/30 4:19:59] [urlrule] sites vlook.cn add DJ-CC 
+    * [2014/11/30 4:19:59] [urlrule] sites vlook.cn add æ¡æ·¼æ·¼ 
+    * [2014/11/30 4:19:59] [urlrule] sites vlook.cn add Amanda5275 
+    * [2014/11/30 4:19:59] [urlrule] sites weipai.cn add Amanda5275 
     * [2014/11/30 4:16:32] [urlrule] sites weipai.cn add 53c8084da6640beb528b4567 æ¹ç´«æ¶µ
     * [2014/11/30 4:16:21] [urlrule] sites weipai.cn add 522a6d9e9f6c00e659630a62 ç©ææ­
     * [2014/11/30 4:15:48] [urlrule] sites weipai.cn add 5473ca0aa7640b7f268b4583 å¾®æç²¾åç¦å©--

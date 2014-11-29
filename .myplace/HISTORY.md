@@ -1,3 +1,69 @@
+* [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/54723a26a5640b94688b4589
+
+    * Begin : 2014/11/30 4:20:1
+    * End   : 2014/11/30 4:21:25
+    * Result: => ä¸½å«zyk/weipai.cn/544ecccaa8640bca4d8b458c
+
+* [urlrule] sites weipai.cn add 544ecccaa8640bca4d8b458c ä¸½å«zyk
+
+    * Begin : 2014/11/30 4:20:0
+    * End   : 2014/11/30 4:20:1
+    * Result: http://www.weipai.cn/video/54723a26a5640b94688b4589=>[weipai.cn] 544ecccaa8640bca4d8b458c (ä¸½å«zyk) OK
+
+* [urlrule] sites vlook.cn add åå¨å¤§ç 
+
+    * Begin : 2014/11/30 4:20:0
+    * End   : 2014/11/30 4:20:0
+    * Result: OK
+
+* [urlrule] sites vlook.cn add è¥å«baby 
+
+    * Begin : 2014/11/30 4:20:0
+    * End   : 2014/11/30 4:20:0
+    * Result: FAILED
+
+* [urlrule] sites vlook.cn add ç±³æ´ 
+
+    * Begin : 2014/11/30 4:20:0
+    * End   : 2014/11/30 4:20:0
+    * Result: OK
+
+* [urlrule] sites vlook.cn add Dj_kelly 
+
+    * Begin : 2014/11/30 4:20:0
+    * End   : 2014/11/30 4:20:0
+    * Result: OK
+
+* [urlrule] sites vlook.cn add åçé± 
+
+    * Begin : 2014/11/30 4:19:59
+    * End   : 2014/11/30 4:20:0
+    * Result: FAILED
+
+* [urlrule] sites vlook.cn add DJ-CC 
+
+    * Begin : 2014/11/30 4:19:59
+    * End   : 2014/11/30 4:19:59
+    * Result: OK
+
+* [urlrule] sites vlook.cn add æ¡æ·¼æ·¼ 
+
+    * Begin : 2014/11/30 4:19:59
+    * End   : 2014/11/30 4:19:59
+    * Result: OK
+
+* [urlrule] sites vlook.cn add Amanda5275 
+
+    * Begin : 2014/11/30 4:19:59
+    * End   : 2014/11/30 4:19:59
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add Amanda5275 
+
+    * Begin : 2014/11/30 4:19:59
+    * End   : 2014/11/30 4:19:59
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/5476b0c2a5640b6c138b45e3
 
     * Begin : 2014/11/30 4:16:32
