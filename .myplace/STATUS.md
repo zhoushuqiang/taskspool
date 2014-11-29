@@ -2,9 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn FOLLOW 52cbb7d079d3ccbb0d8b4570 èçª SAVE
-    *[urlrule] sites weipai.cn FOLLOW 546a0312a8640b03658b4582 å¿§ä¼¤çé»ç1 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 5471edbaa5640b943d8b456b è¥å°»å¤«äººLinanan SAVE
     *[urlrule] sites weipai.cn FOLLOW 534d71489d67d9e6318b45a5 16å§ SAVE
     *[urlrule] sites weipai.cn FOLLOW 5448da36a7640b77298b45a7 84å©å¥³å§ SAVE
     *[urlrule] sites weipai.cn FOLLOW 51fa57ba7f3494ea70000000 éç¾ç³Mandy SAVE
@@ -88,7 +85,11 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 54589ea9a7640b292b8b457e æ²¡æé¼»æ¢çå§å¨
     *[urlrule] sites weipai.cn SAVE 546b9e0ca5640b86798b456c éçç_
     *[urlrule] sites weipai.cn SAVE 533b81ad9d67d976228b461e é­æ³å©
+    *[urlrule] sites weipai.cn SAVE 52cbb7d079d3ccbb0d8b4570 èçª
+    *[urlrule] sites weipai.cn SAVE 546a0312a8640b03658b4582 å¿§ä¼¤çé»ç1
+    *[urlrule] sites weipai.cn SAVE 5471edbaa5640b943d8b456b è¥å°»å¤«äººLinanan
 * Finished:
+    * [2014/11/30 4:21:56] [urlrule] sites weipai.cn follow 5471edbaa5640b943d8b456b è¥å°»å¤«äººLinanan
     * [2014/11/30 4:21:49] [urlrule] sites weipai.cn follow 533b81ad9d67d976228b461e é­æ³å©
     * [2014/11/30 4:21:43] [urlrule] sites weipai.cn follow 546b9e0ca5640b86798b456c éçç_
     * [2014/11/30 4:21:37] [urlrule] sites weipai.cn follow 54589ea9a7640b292b8b457e æ²¡æé¼»æ¢çå§å¨
@@ -145,6 +146,8 @@ Tasks Status Report
     * [2014/11/30 3:24:20] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/546bc355a5640b5d048b45a7
     * [2014/11/30 3:22:45] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/547894c7a5640b00288b456e
 * Doing Nothing:
+    * [2014/11/30 4:21:55] [urlrule] sites weipai.cn follow 546a0312a8640b03658b4582 å¿§ä¼¤çé»ç1
+    * [2014/11/30 4:21:55] [urlrule] sites weipai.cn follow 52cbb7d079d3ccbb0d8b4570 èçª
     * [2014/11/30 4:21:37] [urlrule] sites weipai.cn follow 52cbb7d079d3ccbb0d8b4570 èçª
     * [2014/11/30 4:20:1] [urlrule] sites weipai.cn add 544ecccaa8640bca4d8b458c ä¸½å«zyk
     * [2014/11/30 4:20:0] [urlrule] sites vlook.cn add åå¨å¤§ç 
