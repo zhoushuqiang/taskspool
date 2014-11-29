@@ -1,3 +1,33 @@
+* [urlrule] sites vlook.cn follow æ¡æ·¼æ·¼ 
+
+    * Begin : 2014/11/30 4:25:0
+    * End   : 2014/11/30 4:25:0
+    * Result: OK
+
+* [urlrule] sites vlook.cn follow Amanda5275 
+
+    * Begin : 2014/11/30 4:24:59
+    * End   : 2014/11/30 4:25:0
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow Amanda5275 
+
+    * Begin : 2014/11/30 4:24:59
+    * End   : 2014/11/30 4:24:59
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 53c8084da6640beb528b4567 æ¹ç´«æ¶µ
+
+    * Begin : 2014/11/30 4:24:59
+    * End   : 2014/11/30 4:24:59
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 522a6d9e9f6c00e659630a62 ç©ææ­
+
+    * Begin : 2014/11/30 4:24:59
+    * End   : 2014/11/30 4:24:59
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 5473ca0aa7640b7f268b4583 å¾®æç²¾åç¦å©--
 
     * Begin : 2014/11/30 4:24:53
