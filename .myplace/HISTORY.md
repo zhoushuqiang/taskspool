@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn follow 53f4d771a5640b476d8b4569 ç±³å¦®mini_20140821
+
+    * Begin : 2014/11/30 4:23:24
+    * End   : 2014/11/30 4:23:24
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 54536acaa5640be1218b45ab å¤å©å©Bonnie
+
+    * Begin : 2014/11/30 4:23:24
+    * End   : 2014/11/30 4:23:24
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 52f32c2677d3cc22398b456b å¾ç¾å¿
+
+    * Begin : 2014/11/30 4:23:24
+    * End   : 2014/11/30 4:23:24
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 52a65b3dc58a879761ab366b éè¯­ä¹
 
     * Begin : 2014/11/30 4:23:18
