@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/5477b3f5a5640b5b278b458a
+
+    * Begin : 2014/11/30 3:29:12
+    * End   : 2014/11/30 3:29:51
+    * Result: => å¤å©å©Bonnie/weipai.cn/54536acaa5640be1218b45ab
+
 * [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/54698ed9a5640b383f8b4596
 
     * Begin : 2014/11/30 3:27:31
