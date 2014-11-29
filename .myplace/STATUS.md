@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn FOLLOW 533b81ad9d67d976228b461e é­æ³å© SAVE
     *[urlrule] sites weipai.cn FOLLOW 52cbb7d079d3ccbb0d8b4570 èçª SAVE
     *[urlrule] sites weipai.cn FOLLOW 546a0312a8640b03658b4582 å¿§ä¼¤çé»ç1 SAVE
     *[urlrule] sites weipai.cn FOLLOW 5471edbaa5640b943d8b456b è¥å°»å¤«äººLinanan SAVE
@@ -88,7 +87,9 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 52cbb7d079d3ccbb0d8b4570 èçª
     *[urlrule] sites weipai.cn SAVE 54589ea9a7640b292b8b457e æ²¡æé¼»æ¢çå§å¨
     *[urlrule] sites weipai.cn SAVE 546b9e0ca5640b86798b456c éçç_
+    *[urlrule] sites weipai.cn SAVE 533b81ad9d67d976228b461e é­æ³å©
 * Finished:
+    * [2014/11/30 4:21:49] [urlrule] sites weipai.cn follow 533b81ad9d67d976228b461e é­æ³å©
     * [2014/11/30 4:21:43] [urlrule] sites weipai.cn follow 546b9e0ca5640b86798b456c éçç_
     * [2014/11/30 4:21:37] [urlrule] sites weipai.cn follow 54589ea9a7640b292b8b457e æ²¡æé¼»æ¢çå§å¨
     * [2014/11/30 4:21:31] [urlrule] sites weipai.cn follow 5449b5c7a5640be5548b458e å¯å¯å§å§
