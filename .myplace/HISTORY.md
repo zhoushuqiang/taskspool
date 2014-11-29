@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn follow 5335696f9d67d9dd638b459b å®å®å©
+
+    * Begin : 2014/11/30 4:24:21
+    * End   : 2014/11/30 4:24:21
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 51568669803494a423000042 oliviababy
+
+    * Begin : 2014/11/30 4:24:21
+    * End   : 2014/11/30 4:24:21
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 531374499d67d9ee0b8b4567 å¾å¦é¦¨Mandy
+
+    * Begin : 2014/11/30 4:24:21
+    * End   : 2014/11/30 4:24:21
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 53c8084da6640beb528b4567 æ¹ç´«æ¶µ
 
     * Begin : 2014/11/30 4:24:15
