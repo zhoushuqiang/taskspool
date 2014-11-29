@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/54480a69a5640bbf5b8b459a
+
+    * Begin : 2014/11/30 3:31:7
+    * End   : 2014/11/30 3:33:11
+    * Result: => Dj_kelly/weipai.cn/529209efc58a87f14530e526
+
+* [urlrule] sites weipai.cn add 529209efc58a87f14530e526 Dj_kelly
+
+    * Begin : 2014/11/30 3:31:6
+    * End   : 2014/11/30 3:31:7
+    * Result: http://www.weipai.cn/video/54480a69a5640bbf5b8b459a=>[weipai.cn] 529209efc58a87f14530e526 (Dj_kelly) FAILED
+
 * [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/53d112d8a5640b215a8b4573
 
     * Begin : 2014/11/30 3:30:57
