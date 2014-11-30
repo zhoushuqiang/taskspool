@@ -268,7 +268,7 @@ sub listener_init {
 						}
 						elsif($r and $r->{directory}) {
 							foreach(@{$r->{directory}}) {
-								push @{$task->{dir_updates}},'ladies/' . $_;
+								push @{$task->{dir_updated}},'ladies/' . $_;
 							}
 						}
 					}
@@ -292,7 +292,7 @@ sub listener_init {
 						$task->{dir_updated} = 'ladies/' . ($name or $id);
 						if($r and $r->{directory}) {
 							foreach(@{$r->{directory}}) {
-								push @{$task->{dir_updates}},'ladies/' . $_;
+								push @{$task->{dir_updated}},'ladies/' . $_;
 							}
 						}
 						return $TASK_STATUS->{FINISHED},"=> $name/$hosts/$id";
@@ -394,7 +394,7 @@ sub listener_init {
 					my ($r,$info) = $USQ->execute(@prog);
 					if($info and $info->{directory}) {
 						foreach(@{$info->{directory}}) {
-							push @{$task->{dir_updates}},'ladies/' . $_;
+							push @{$task->{dir_updated}},'ladies/' . $_;
 						}
 					}
 					if($r == 0) {
