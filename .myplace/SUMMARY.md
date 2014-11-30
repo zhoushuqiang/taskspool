@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE ROSSY
+
+    * Begin : 2014/12/01 4:20:34
+    * End   : 2014/12/01 4:37:6
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE ææä¸ä¸åå
 
     * Begin : 2014/12/01 3:46:27
