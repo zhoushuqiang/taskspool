@@ -135,7 +135,10 @@ sub listener_init {
 			}
 			close FI;
 			#print STDERR "$name === $id\n";
-			return $id,$name,$host;
+			use MyPlace::URLRule::SimpleQuery;
+			my $SQ = MyPlace::URLRule::SimpleQuery->new('weipai.cn');
+			my ($nid,$nname) = $SQ->item($id or $name);
+			return $nid || $id,$name || $name,$host;
 		}
 		elsif($url =~ m/vlook\.cn/) {		
 			my ($name,$id);
@@ -164,6 +167,10 @@ sub listener_init {
 			}
 			close FI;
 			#die "[$url] => $name, $id\n";
+			use MyPlace::URLRule::SimpleQuery;
+			my $SQ = MyPlace::URLRule::SimpleQuery->new('vlook.cn');
+			my ($nid,$nname) = $SQ->item($id or $name);
+			return $nid || $id,$name || $name,$host;
 			return $id,$name,$host;
 		}
 	}
