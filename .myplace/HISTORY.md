@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE ä¸ç¾çé£20140212
+
+    * Begin : 2014/12/01 3:41:2
+    * End   : 2014/12/01 3:41:3
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE Abbymiki
 
     * Begin : 2014/12/01 2:53:18
