@@ -2,8 +2,7 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 53f4d771a5640b476d8b4569 ç±³å¦®mini_20140821
-    *[urlrule] sites weipai.cn SAVE 53cbaf9fa6640b6e1a8b456f æ¾å°åAnnie
+    *[urlrule] sites weipai.cn SAVE æ¾å°åAnnie
     *[urlrule] sites weipai.cn SAVE 529209efc58a87f14530e526 Dj_kelly
     *[urlrule] sites weipai.cn SAVE 5060bcc2803494517e0000b8 èæ¢¦-å®è´
     *[urlrule] sites weipai.cn SAVE 532177d6ebeddb85378b4580 è¾èkathy
@@ -180,6 +179,7 @@ Tasks Status Report
     * [2014/11/30 3:24:20] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/546bc355a5640b5d048b45a7
     * [2014/11/30 3:22:45] [urlrule] sites weipai.cn saveurl http://www.weipai.cn/video/547894c7a5640b00288b456e
 * Doing Nothing:
+    * [2014/11/30 9:50:12] [urlrule] sites weipai.cn SAVE ç±³å¦®mini_20140821
     * [2014/11/30 7:30:55] [urlrule] sites weipai.cn SAVE å¿§ä¼¤çå°éº»é
     * [2014/11/30 4:25:12] [urlrule] sites vlook.cn follow åçé± 
     * [2014/11/30 4:25:0] [urlrule] sites vlook.cn follow Amanda5275 

@@ -1,3 +1,14 @@
+* [urlrule] sites weipai.cn SAVE æ¾å°åAnnie
+
+    * Begin : 2014/11/30 9:50:12
+    * Result: PENDING
+
+* [urlrule] sites weipai.cn SAVE ç±³å¦®mini_20140821
+
+    * Begin : 2014/11/30 9:50:11
+    * End   : 2014/11/30 9:50:12
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn SAVE å¤å©å©Bonnie
 
     * Begin : 2014/11/30 9:49:6
