@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE å¼ æ ©è²-ManGo
+
+    * Begin : 2014/11/30 8:42:16
+    * End   : 2014/11/30 8:46:47
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE å°ä¸å¨
 
     * Begin : 2014/11/30 8:41:24
