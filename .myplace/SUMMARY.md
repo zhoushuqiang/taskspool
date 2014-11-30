@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE Sweet-å¾®
+
+    * Begin : 2014/12/01 3:41:22
+    * End   : 2014/12/01 3:45:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE æ´ççª
 
     * Begin : 2014/12/01 3:41:9
