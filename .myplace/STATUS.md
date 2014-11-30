@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 54536acaa5640be1218b45ab å¤å©å©Bonnie
     *[urlrule] sites weipai.cn SAVE 53f4d771a5640b476d8b4569 ç±³å¦®mini_20140821
     *[urlrule] sites weipai.cn SAVE 53cbaf9fa6640b6e1a8b456f æ¾å°åAnnie
     *[urlrule] sites weipai.cn SAVE 529209efc58a87f14530e526 Dj_kelly
@@ -55,6 +54,7 @@ Tasks Status Report
     *[urlrule] sites vlook.cn SAVE åå¨å¤§ç 
     *[urlrule] sites weipai.cn SAVE 544ecccaa8640bca4d8b458c ä¸½å«zyk
 * Finished:
+    * [2014/11/30 9:50:4] [urlrule] sites weipai.cn SAVE å¤å©å©Bonnie
     * [2014/11/30 9:48:59] [urlrule] sites weipai.cn SAVE å¾ç¾å¿
     * [2014/11/30 9:31:30] [urlrule] sites weipai.cn SAVE éè¯­ä¹
     * [2014/11/30 9:11:40] [urlrule] sites weipai.cn SAVE å­¤ç¬æ£è
