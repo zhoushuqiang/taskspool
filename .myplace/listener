@@ -135,10 +135,7 @@ sub listener_init {
 			}
 			close FI;
 			#print STDERR "$name === $id\n";
-			use MyPlace::URLRule::SimpleQuery;
-			my $SQ = MyPlace::URLRule::SimpleQuery->new('weipai.cn');
-			my ($nid,$nname) = $SQ->item($id or $name);
-			return $nid || $id,$name || $name,$host;
+			return $id,$name,$host;
 		}
 		elsif($url =~ m/vlook\.cn/) {		
 			my ($name,$id);
@@ -167,10 +164,6 @@ sub listener_init {
 			}
 			close FI;
 			#die "[$url] => $name, $id\n";
-			use MyPlace::URLRule::SimpleQuery;
-			my $SQ = MyPlace::URLRule::SimpleQuery->new('vlook.cn');
-			my ($nid,$nname) = $SQ->item($id or $name);
-			return $nid || $id,$name || $name,$host;
 			return $id,$name,$host;
 		}
 	}
@@ -197,9 +190,8 @@ sub listener_init {
 				}
 	
 	
-				my $CMD = uc($command);
+				my ($CMD,@CMDS_NEXT) = split(/\s*,\s*/,uc($command));
 				my $URLRULE_SITES_COMMANDS = '^(?:ADD|FOLLOW|SAVE|SAVEURL|UPDATE|SAVEURLS)$';
-				
 
 
 				if($CMD eq 'AFU') {
@@ -218,6 +210,7 @@ sub listener_init {
 					$CMD = 'FOLLOW';
 					push @_,'SAVE';
 				}
+				push @_,@CMDS_NEXT if(@CMDS_NEXT);
 				
 				if($CMD !~ /$URLRULE_SITES_COMMANDS/) {
 					$CMD = 'SAVE';
@@ -268,12 +261,17 @@ sub listener_init {
 					my $exitval;
 					$msg = "OK";
 					foreach($URL,@_) {
-						if($USQ->execute('--hosts',$hosts,'--saveurl',$_,($id or $name)) != 0) {
+						my ($exit,$r) = $USQ->execute('--hosts',$hosts,'--saveurl',$_,($id or $name));
+						if($exit != 0 ) {
 							$exitval = 1;
 							$msg = "Error saving URL:$_\n";
 						}
+						elsif($r and $r->{directory}) {
+							foreach(@{$r->{directory}}) {
+								push @{$task->{dir_updates}},'ladies/' . $_;
+							}
+						}
 					}
-					$task->{dir_updated} = 'ladies/' . ($name or $id);
 					return ($exitval ? $TASK_STATUS->{ERROR} : $TASK_STATUS{FINISHED}),$msg;
 				}
 				elsif($CMD eq 'SAVEURL') {	
@@ -289,8 +287,14 @@ sub listener_init {
 							return $TASK_STATUS->{ERROR},$msg;
 						}
 					}
-					if($USQ->execute('--hosts',$hosts,'--saveurl',$URL,($id or $name))==0) {
+					my($exitval,$r) = $USQ->execute('--hosts',$hosts,'--saveurl',$URL,($id or $name));
+					if($exitval == 0) {
 						$task->{dir_updated} = 'ladies/' . ($name or $id);
+						if($r and $r->{directory}) {
+							foreach(@{$r->{directory}}) {
+								push @{$task->{dir_updates}},'ladies/' . $_;
+							}
+						}
 						return $TASK_STATUS->{FINISHED},"=> $name/$hosts/$id";
 					}
 					else {
@@ -387,16 +391,19 @@ sub listener_init {
 						push @prog,'--',$info;
 					}
 					my $TINFO = $FROMURL ? "$URL=>$FROMURL" . " " : "";
-					my $r = $USQ->execute(@prog);
+					my ($r,$info) = $USQ->execute(@prog);
+					if($info and $info->{directory}) {
+						foreach(@{$info->{directory}}) {
+							push @{$task->{dir_updates}},'ladies/' . $_;
+						}
+					}
 					if($r == 0) {
-						$task->{dir_updated} = 'ladies/' . ($info or $key);
 						return $TASK_STATUS->{FINISHED},$TINFO . 'OK';
 					}
 					if($r == 2) {
 						return $TASK_STATUS->{DONOTHING},$TINFO . 'Nothing to do';
 					}
 					elsif($r == 3) {
-						$task->{dir_updated} = 'ladies/' . ($info or $key);
 						return $TASK_STATUS->{ERROR},$TINFO . 'Error';
 					}
 					else {
