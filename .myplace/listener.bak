@@ -1,0 +1,536 @@
+
+#!/usr/bin/perl -w
+use MyPlace::Script::Message;
+use MyPlace::Program::SimpleQuery;
+
+my $USQ;
+
+sub listener_init {
+	my $TASKER = shift;
+	my $TasksBuilder = shift;
+	$TasksBuilder->{loop} = 1;	
+	
+	$TasksBuilder->add(
+		'Weipai.CN Likes',
+		description=>'Update likes user from weipai.cn',
+		prefix=>[qw/urlrule sites weipai.cn AFU/],
+		data=> sub {
+			use MyPlace::Weipai qw/likes/;
+			my $likes = likes('508775398134943b58000051')->{video_list};
+			my @r;
+			foreach(@$likes) {
+				push @r,$_->{user_id} . "\t" . $_->{nickname} . "\n";
+			}
+			return @r;
+		},
+		loop=>1,
+		static=>0,
+		workdir=>'ladies',	
+		top=>1,
+	);
+	$TasksBuilder->add(
+		'Weipai.cn Review',
+		description=>'Weipai.cn Review',
+		prefix=>[qw/urlrule action/],
+		data=>[
+			'http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android',
+			'http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android',
+			'http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android',
+			'http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android',
+			'http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android',
+			'http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android',
+			'http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android',
+			'http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android',
+		],
+		suffix=>[0,'SAVE'],
+		workdir=>'ladies',
+		top=>1,
+	);
+	$TasksBuilder->add(
+		'Weipai.CN',
+		description=>'Updater for weipai.cn',
+		prefix=>[qw/urlrule sites weipai.cn update/],
+		data=>"urlrule/sites/weipai.cn/follows.txt",
+		loop=>1,
+		static=>0,
+		workdir=>'ladies',
+		#parser=>['^\s*([^\s*]+)\s+(.+?)\s*$',1,2],
+	);
+	
+	$TasksBuilder->add(
+		'VLOOK.CN',
+		description=>'Updater for vlook.cn',
+		prefix=>[qw/urlrule sites vlook.cn update/],
+		data=>"urlrule/sites/vlook.cn/follows.txt",
+		loop=>1,
+		static=>0,
+		workdir=>'ladies',
+		#parser=>['^\s*([^\s*]+)\s+(.+?)\s*$',1,2],
+	);
+	
+	$TasksBuilder->add(
+		'URLRuleTask',
+		description=>'List of tasks for urlrule_task',
+		prefix=>[qw/urlrule task update/],
+		data=>"urlrule/task/follows.txt",
+		loop=>1,
+		static=>0,
+		workdir=>'ladies',
+	);
+	sub set_workdir {
+		my $wd = shift;
+		return 1 unless($wd);
+		if(! -d $wd) {
+			mkdir $wd or return undef,"Error creating directory $wd:$!";
+		}
+		chdir $wd or return undef,"Error change working directory $wd:$!";
+		return 1;
+	}
+	
+	sub build_url {
+		my $host = uc(shift(@_));
+		my $id = shift;
+		if($host eq 'WEIPAI.CN') {
+			return "http://w1.weipai.cn/user_video_list?blog_id=$id";
+		}
+		elsif($host eq 'VLOOK.CN') {
+			return "http://www.vlook.cn/user_video_list?blog_id=$id";
+		}
+		else {
+			return $id;
+		}
+	}
+	sub extract_info_from_url {
+		my $url = shift;
+		my $host = shift;
+		if($url =~ m/weipai\.cn|l\.mob\.com/) {
+			my ($host,$name,$id);
+			$url =~ s/weipai\.cn\/(?:videos|user)\//weipai.cn\/follows\//;
+			open FI,'-|','netcat',$url or return;
+			while(<FI>) {
+				chomp;
+				if(!$host) {
+					if(m/'LoginDownloadUrl'\s*:\s*'http:\/\/www.weipai.cn\/coop/) {
+						$host = "weipai.cn";
+					}
+				}
+				if(!$name) {
+					if(m/class="name"[^>]*title="([^"]+)"/) {
+						$name = $1;
+					}
+					elsif(m/"nickname"\s*[:=]\s*"([^"]+)/) {
+						$name = $1;
+						$name =~ s/\\u(\w{4,4})/chr(hex($1))/eg;
+					}
+				}
+				if(!$id) {
+					if(m/href="\/user\/([^\/"]+)/) {
+						$id = $1;
+					}
+					elsif(m/"user_id"\s*[:=]\s*"([^"]+)/) {
+						$id = $1;
+					}
+				}
+				last if($id and $name);
+			}
+			close FI;
+			#print STDERR "$name === $id\n";
+			return $id,$name,$host;
+		}
+		elsif($url =~ m/vlook\.cn/) {		
+			my ($name,$id);
+			open FI,'-|','netcat',$url or return;
+			while(<FI>) {
+				chomp;
+				if(!$host) {
+					$host = 'vlook.cn';
+				}
+				if(m/<a[^>]*href="\/mobile\/mta\/home\/qs\/([^"\/\?]+)[^"]*"[^>]*class="user"[^>]*>\s*([^<]+?)\s*<\/a/) {
+					$name = $2;
+					$id = $1;
+					last;
+				}
+				elsif(m/<a[^>]*href="\/ta\/qs\/([^"\/\?]+)[^"]*"[^>]*name="card"[^>]*class="nick"[^>]*>\s*([^<]+?)\s*:\s*<\/a/) {
+					$name = $2;
+					$id = $1;
+					last;
+				}
+				elsif(m/<a[^>]*href="\/ta\/qs\/([^"\/\?]+)[^"]*"[^>]*name="card"[^>]*class="nick"[^>]*>\s*([^<]+?)\s*<img/) {
+					$name = $2;
+					$id = $1;
+					last;
+				}
+				
+			}
+			close FI;
+			#die "[$url] => $name, $id\n";
+			return $id,$name,$host;
+		}
+	}
+	
+	my $WORKER = MyPlace::Tasks::Worker->new(
+		name=>'urlrule',
+		routine=>sub{
+			my $task = shift;
+			my $type = shift;
+			if($type eq 'sites') {
+				use MyPlace::Program::SimpleQuery;
+				$USQ ||= new MyPlace::Program::SimpleQuery('--thread',1);
+		
+				my $hosts = shift;
+				my $command = shift;
+				
+				if(!$hosts) {
+					return $TASK_STATUS->{ERROR},'No hosts specified';
+				}
+	
+				if(!$command) {
+					$task->{summary} = 'No action assicated';
+					return $TASK_STATUS->{ERROR};
+				}
+	
+	
+				my $CMD = uc($command);
+				my $URLRULE_SITES_COMMANDS = '^(?:ADD|FOLLOW|SAVE|SAVEURL|UPDATE|SAVEURLS)$';
+				
+
+
+				if($CMD eq 'AFU') {
+					$CMD = 'ADD';
+					push @_,'FOLLOW','UPDATE';
+				}
+				elsif($CMD eq 'AFS') {
+					$CMD = 'ADD';
+					push @_,'FOLLOW','SAVE';
+				}
+				elsif($CMD eq 'FU') {
+					$CMD = 'FOLLOW';
+					push @_,'UPDATE';
+				}
+				elsif($CMD eq 'FS') {
+					$CMD = 'FOLLOW';
+					push @_,'SAVE';
+				}
+				
+				if($CMD !~ /$URLRULE_SITES_COMMANDS/) {
+					$CMD = 'SAVE';
+					unshift @_,$command;
+				}	
+				
+				if(uc($hosts) eq 'FROMURLS') {
+					$CMD = 'ADD';
+					$hosts = undef;
+				}
+								
+				my $ARG1 = shift(@_);
+
+				if($CMD =~ m/^SAVEURLS?$/) {
+					if($ARG1 and $ARG1 !~ m/^http/) {
+						$ARG1 = build_url($hosts,$ARG1);
+					}
+				}
+
+				my $URL;
+				my $FROMURL="";
+				if($ARG1 and $ARG1 =~ m/^https?:/) {
+						my ($key1,$key2,$key3) = extract_info_from_url($ARG1);
+						if(!($key1 or $key2)) {
+							return $TASK_STATUS->{ERROR},'Extract information from URL failed';
+						}
+						unshift @_,$key2 if($key2);
+						unshift @_,$key1 if($key1);
+						$hosts = $key3 if($key3);
+						$URL = $ARG1;
+						$FROMURL = ($key3 ? "[$key3] " : "") . ($key1 ? "$key1 " : "") . ($key2 ? "($key2)" : "");
+						app_message "\tTranslate $URL => $FROMURL\n";
+				}
+				else {
+					unshift @_,$ARG1;
+				}					
+				if($CMD eq 'SAVEURLS') {
+					my $id = shift;
+					my $name = shift;
+					if(!($id or $name)) {
+						return $TASK_STATUS{ERROR},"Invalid URL $URL";
+					}
+					$task->{title} = "[urlrule] sites $hosts SAVEURLS $name\n";
+					my ($status,$msg) = set_workdir("ladies");
+					if(!$status) {
+						return $TASK_STATUS->{ERROR},$msg;
+					}
+					my $exitval;
+					$msg = "OK";
+					foreach($URL,@_) {
+						if($USQ->execute('--hosts',$hosts,'--saveurl',$_,($id or $name)) != 0) {
+							$exitval = 1;
+							$msg = "Error saving URL:$_\n";
+						}
+					}
+					$task->{dir_updated} = 'ladies/' . ($name or $id);
+					return ($exitval ? $TASK_STATUS->{ERROR} : $TASK_STATUS{FINISHED}),$msg;
+				}
+				elsif($CMD eq 'SAVEURL') {	
+					if(!$URL) {
+						return $TASK_STATUS->{ERROR},"No URL specified";
+					}
+					my $id = shift;
+					my $name = shift;
+					if(!defined $task->{workdir}) {
+						my $workdir = 'ladies';
+						my ($status,$msg) = set_workdir($workdir);
+						if(!$status) {
+							return $TASK_STATUS->{ERROR},$msg;
+						}
+					}
+					if($USQ->execute('--hosts',$hosts,'--saveurl',$URL,($id or $name))==0) {
+						$task->{dir_updated} = 'ladies/' . ($name or $id);
+						return $TASK_STATUS->{FINISHED},"=> $name/$hosts/$id";
+					}
+					else {
+						return $TASK_STATUS->{ERROR},"Failed";
+					}
+				}
+				elsif($CMD eq 'FOLLOW') {
+					my $id = shift;
+					my $name  = shift || "";
+					my $UNAME = uc($name);
+					if($UNAME =~ /$URLRULE_SITES_COMMANDS/) {
+						unshift @_,$name;
+						$name = "";
+					}
+					my $add = shift;
+					if($add) {
+						app_message2 "Queue task\n *** urlrule sites $hosts $add $id $name\n";
+						my $t = new MyPlace::Tasks::Task(qw/urlrule sites/,$hosts,$add,$id,$name,@_);
+						$TASKER->queue($t);
+					}
+					$task->{title} = "[urlrule] sites $hosts follow $id $name";
+					my $dstd = "urlrule/sites/$hosts";
+					if(! -d $dstd) {
+						app_warning("Creating directory [$dstd] ... ");
+						if(system("mkdir","-p","--",$dstd)==0) {
+							print STDERR "\t[OK]\n";
+						}
+						else {
+							print STDERR "\t$!\t[FAILED]\n";
+							return $TASK_STATUS->{ERROR},"Create directory [$dstd] failed:$!";
+						}
+					}
+					if(system('simple_query','-f',"$dstd/follows.txt",'--command','additem',$id,$name)==0) {
+						$task->{git_commands}=[['add',"$dstd/follows.txt"]];
+						return $TASK_STATUS->{FINISHED}, ($FROMURL ? "$URL=>${FROMURL} OK" : "OK");
+					}
+					else {
+						return $TASK_STATUS->{DONOTHING},($FROMURL ? "$URL=>${FROMURL} FAILED" : "FAILED");
+					}
+	
+				}
+				elsif($CMD eq 'ADD') {
+					my $id = shift;
+					my $name = shift;
+					if(!$id) {
+						return $TASK_STATUS->{ERROR},'No id/URL specified';
+					}
+					if($name and uc($name) =~ /$URLRULE_SITES_COMMANDS/) {
+						unshift @_,$name;
+						$name = "";
+					}
+					$task->{title} = "[urlrule] sites $hosts add $id $name";
+	
+					my $add = shift;
+					if($add) {
+						app_message2 "Queue task\n *** urlrule sites " . join(" ",$hosts,$add,$id,$name,@_) . "\n";
+						my $task = new MyPlace::Tasks::Task(qw/urlrule sites/,$hosts,$add,$id,$name,@_);
+						$TASKER->queue($task);
+					}
+					app_message2 "\tAdd [$id $name] to database of [$hosts]\n";
+					if($USQ->execute('--host',$hosts,'--command','additem','--',$id,$name)==0) {
+						return $TASK_STATUS->{DONOTHING},($FROMURL ? "$URL=>${FROMURL} OK" : "OK");
+					}
+					else {
+						return $TASK_STATUS->{DONOTHING},($FROMURL ? "$URL=>${FROMURL} FAILED" : "FAILED");
+					}
+	
+				}
+				elsif(($CMD eq 'SAVE') || ($CMD eq 'UPDATE')) {
+					my $key = shift;
+					my $info = shift;
+					if($key and $key =~ m/^\s*(.+)\s+(.+?)\s*$/) {
+						$key = $1;
+						unshift @_,$info;
+						$info = $2;
+					}
+					if($info and uc($info) =~ /$URLRULE_SITES_COMMANDS/) {
+						unshift @_,$info;
+						$info = "";
+					}
+					$task->{title} = "[urlrule] sites $hosts $command " . ($info || $key);
+					if(!defined $task->{workdir}) {
+						my $workdir = 'ladies';
+						my ($status,$msg) = set_workdir($workdir);
+						if(!$status) {
+							return $TASK_STATUS->{ERROR},$msg;
+						}
+					}
+					my @prog = ("--hosts",$hosts,'--command',$CMD);
+					if($key) {
+						push @prog,'--',$key;
+					}
+					elsif($info) {
+						push @prog,'--',$info;
+					}
+					my $TINFO = $FROMURL ? "$URL=>$FROMURL" . " " : "";
+					my $r = $USQ->execute(@prog);
+					if($r == 0) {
+						$task->{dir_updated} = 'ladies/' . ($info or $key);
+						return $TASK_STATUS->{FINISHED},$TINFO . 'OK';
+					}
+					if($r == 2) {
+						return $TASK_STATUS->{DONOTHING},$TINFO . 'Nothing to do';
+					}
+					elsif($r == 3) {
+						$task->{dir_updated} = 'ladies/' . ($info or $key);
+						return $TASK_STATUS->{ERROR},$TINFO . 'Error';
+					}
+					else {
+						return $TASK_STATUS->{ERROR},$TINFO . "Program aborted";
+					}
+				}
+				else {
+					return $TASK_STATUS->{ERROR},"Invalid command [$CMD]\n";
+				}
+			}
+			elsif($type eq 'task') {
+				my $action = shift;
+				my @queries = @_;
+				
+				if(!$action) {
+					return $TASK_STATUS->{ERROR},'No action specified';
+				}
+	
+				if(!@queries) {
+					$task->{summary} = 'No query specified';
+					return $TASK_STATUS->{ERROR};
+				}
+	
+				my $URLRULE_TASK_ACTIONS = '^(?:UPDATE|DOWNLOAD|ECHO|DUMP)$';
+				my $CMD = uc($action);
+
+				if($CMD !~ /$URLRULE_TASK_ACTIONS/) {
+					return $TASK_STATUS->{ERROR},"[urlrule task] Invalid action $action";
+				}
+
+				$task->{title} = "[urlrule task] $action " . join(" ",@queries);
+				if(!defined $task->{workdir}) {
+					my ($status,$msg) = set_workdir("ladies");
+					if(!$status) {
+						return $TASK_STATUS->{ERROR},$msg;
+					}
+				}
+				my @prog = qw/urlrule_task/;
+				if($CMD eq 'DOWNLOAD') {
+					push @prog,qw/--action DOWNLOAD --no-urlhist/;
+				}
+				elsif($CMD eq 'UPDATE') {
+					push @prog,qw/--action DOWNLOAD/;
+				}
+				else {
+					push @prog,"--action",$CMD;
+				}
+				push @prog,@queries;
+				print STDERR "-- ",join(" ",@prog),"\n";
+				if(system(@prog,@queries) == 0 ) {
+					return $TASK_STATUS{FINISHED},"OK";
+				}
+				else {
+					return $TASK_STATUS{FINISHED},"FAILED";
+				}
+			}
+			elsif($type eq 'action') {
+				my $url = shift;
+				my $level = shift(@_) || 0;
+				my $action = shift(@_) || 'SAVE';
+				$task->{title} = "[urlrule action] $url $level $action";
+				if(!defined $task->{workdir}) {
+					my ($status,$msg) = set_workdir("ladies");
+					if(!$status) {
+						return $TASK_STATUS->{ERROR},$msg;
+					}
+				}
+				use MyPlace::URLRule::OO;
+				my $URLRULE = new MyPlace::URLRule::OO('action'=>$action,'thread'=>1);
+				$URLRULE->autoApply({
+						count=>1,
+						url=>$url,
+						level=>$level,
+				});
+				if($URLRULE->{DATAS_COUNT}) {
+					return $TASK_STATUS{FINISHED},"OK";
+				}
+				else {
+					return $TASK_STATUS{DONOTHING},"Nothing to do";
+				}
+			}
+			else {
+				return $TASK_STATUS->{ERROR},"[urlrule] Error $type not support";
+			}
+		},
+	);
+	
+	my @LISTENER = (
+		MyPlace::Tasks::Listener->new('urlrule',$WORKER),
+		MyPlace::Tasks::Listener->new('overjoy',MyPlace::Tasks::Worker->new(
+			name=>'overjoy',
+			routine=>sub{
+				my $task = shift;
+				my $type = shift;
+				if($type eq 'ladies') {
+					my @names = @_;
+					if(@names) {
+						chdir "/myplace/overjoy/ladies";
+						system("urlrule_task","SAVE",@names);
+					}
+				}
+			},
+		)),
+		MyPlace::Tasks::Listener->new('download',MyPlace::Tasks::Worker->new(
+			name=>'download',
+			routine=>sub{
+				my $task = shift;
+				my $dir= shift;
+				mkdir "download" unless(-d "download");
+				$dir = "download/$dir";
+				mkdir $dir unless(-d $dir);
+				chdir $dir;
+				my $r = (system('download',@_) == 0);
+				if($r) {
+				}
+				else {
+				}
+				return $r;
+			},
+		)),
+		MyPlace::Tasks::Listener->new('exec',
+			MyPlace::Tasks::Worker->new(
+				name=>'exec',
+				routine=>sub{
+					my $task = shift;
+					my @result;
+					open FI,'-|',@_ or return "$!";
+					@result = <FI>;
+					close FI;
+					return join("",@result);
+				}
+			)
+		),
+	);
+
+	return @LISTENER;
+}
+1;
+
+
+__END__
+
+# vim:filetype=perl
+
