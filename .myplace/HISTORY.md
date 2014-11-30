@@ -1,3 +1,8 @@
+* [urlrule] sites weipai.cn SAVE è¾èkathy
+
+    * Begin : 2014/11/30 23:30:56
+    * Result: PENDING
+
 * [urlrule] sites weipai.cn SAVE èæ¢¦-å®è´
 
     * Begin : 2014/11/30 23:17:29
