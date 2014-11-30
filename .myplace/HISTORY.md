@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE oliviababy
+
+    * Begin : 2014/11/30 8:33:59
+    * End   : 2014/11/30 8:41:17
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE æ´çç±ç±
 
     * Begin : 2014/11/30 8:20:25
