@@ -2,7 +2,7 @@ Boqi's Tasks Pool
 =================
 
 
-This is a tasks pool for __myplace-tasks-daemon__.
+This is a tasks pool for _.mtd-tasks-daemon__.
 
 
 Each git tree entry represents one or more tasks, read
@@ -13,12 +13,12 @@ by __MyPlace::Tasks::Center::Git__.
 Tasks Status
 ------------
 
-Details store in file [.myplace/STATUS.md] (.myplace/STATUS.md)
+Details store in file [.mtd/STATUS.md] (.mtd/STATUS.md)
 
 Runing History
 --------------
 
-Details store in file [.myplace/HISTORY.md] (.myplace/HISTORY.md)
+Details store in file [.mtd/HISTORY.md] (.mtd/HISTORY.md)
 
 
 File entry syntax
