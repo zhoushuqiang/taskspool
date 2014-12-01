@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE crystalå°
+
+    * Begin : 2014/12/01 8:1:59
+    * End   : 2014/12/01 8:20:2
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE å¨ä¾çµå¿
 
     * Begin : 2014/12/01 4:49:50
