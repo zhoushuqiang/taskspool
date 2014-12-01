@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 54218692a8640be9688b4580 李朝蛟-Bie
     *[urlrule] sites weipai.cn SAVE 514559307d3494db5500005d 湯大师
     *[urlrule] sites weipai.cn SAVE 52dd823bebeddbea038b4632 林夕baby123
     *[urlrule] sites weipai.cn SAVE 516ac8a77d3494ef4c000015 雯子蜜
@@ -22,5 +21,6 @@ Tasks Status Report
     *[urlrule] sites vlook.cn SAVE 北娃大王
     *[urlrule] sites weipai.cn SAVE 544ecccaa8640bca4d8b458c 丽嫂zyk
 * Finished:
+    * [2014/12/02 06:14:59] [urlrule] sites weipai.cn SAVE 李朝蛟-Bie
     * [2014/12/02 06:11:08] [urlrule] sites weipai.cn SAVE 小茹子
     * [2014/12/02 02:55:49] [urlrule] sites weipai.cn SAVE 李思桐儿
