@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE suna2411
+
+    * Begin : 2014/12/01 23:16:58
+    * End   : 2014/12/01 23:17:19
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE é¢è¥ç92
 
     * Begin : 2014/12/01 16:25:35
