@@ -22,3 +22,7 @@ Tasks::Center::tasks_17    urlrule	sites	vlook.cn	SAVE	米洁
 Tasks::Center::tasks_18    urlrule	sites	vlook.cn	SAVE	若含baby
 Tasks::Center::tasks_19    urlrule	sites	vlook.cn	SAVE	北娃大王
 Tasks::Center::tasks_20    urlrule	sites	weipai.cn	SAVE	544ecccaa8640bca4d8b458c	丽嫂zyk
+_DIR    .mtd
+_IGNORE    .mtd/ignore
+_LISTENER    .mtd/listener
+_TRACE    .mtd/trace

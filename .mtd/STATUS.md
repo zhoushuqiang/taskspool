@@ -2,51 +2,25 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 5189f0ab803494c62f00000e æææ¡å¿
-    *[urlrule] sites weipai.cn SAVE 505029517d34948d5f0000c5 å°è¹å­
-    *[urlrule] sites weipai.cn SAVE 54218692a8640be9688b4580 ææè-Bie
-    *[urlrule] sites weipai.cn SAVE 514559307d3494db5500005d æ¹¯å¤§å¸
-    *[urlrule] sites weipai.cn SAVE 52dd823bebeddbea038b4632 æå¤baby123
-    *[urlrule] sites weipai.cn SAVE 516ac8a77d3494ef4c000015 é¯å­è
-    *[urlrule] sites weipai.cn SAVE 54364d9ba8640b05708b4595 é©ç°ç¨
+    *[urlrule] sites weipai.cn SAVE 505029517d34948d5f0000c5 小茹子
+    *[urlrule] sites weipai.cn SAVE 54218692a8640be9688b4580 李朝蛟-Bie
+    *[urlrule] sites weipai.cn SAVE 514559307d3494db5500005d 湯大师
+    *[urlrule] sites weipai.cn SAVE 52dd823bebeddbea038b4632 林夕baby123
+    *[urlrule] sites weipai.cn SAVE 516ac8a77d3494ef4c000015 雯子蜜
+    *[urlrule] sites weipai.cn SAVE 54364d9ba8640b05708b4595 韩田稀
     *[urlrule] sites weipai.cn SAVE 547835e6a7640b32758b4575 201411308
-    *[urlrule] sites weipai.cn SAVE 5473ca0aa7640b7f268b4583 å¾®æç²¾åç¦å©--
-    *[urlrule] sites weipai.cn SAVE 522a6d9e9f6c00e659630a62 ç©ææ­
-    *[urlrule] sites weipai.cn SAVE 53c8084da6640beb528b4567 æ¹ç´«æ¶µ
+    *[urlrule] sites weipai.cn SAVE 5473ca0aa7640b7f268b4583 微拍精品福利--
+    *[urlrule] sites weipai.cn SAVE 522a6d9e9f6c00e659630a62 穆思旭
+    *[urlrule] sites weipai.cn SAVE 53c8084da6640beb528b4567 曹紫涵
     *[urlrule] sites weipai.cn SAVE Amanda5275
     *[urlrule] sites vlook.cn SAVE Amanda5275
-    *[urlrule] sites vlook.cn SAVE æ¡æ·¼æ·¼
+    *[urlrule] sites vlook.cn SAVE 桓淼淼
     *[urlrule] sites vlook.cn SAVE DJ-CC
-    *[urlrule] sites vlook.cn SAVE åçé±
+    *[urlrule] sites vlook.cn SAVE 友熙酱
     *[urlrule] sites vlook.cn SAVE Dj_kelly
-    *[urlrule] sites vlook.cn SAVE ç±³æ´
-    *[urlrule] sites vlook.cn SAVE è¥å«baby
-    *[urlrule] sites vlook.cn SAVE åå¨å¤§ç
-    *[urlrule] sites weipai.cn SAVE 544ecccaa8640bca4d8b458c ä¸½å«zyk
+    *[urlrule] sites vlook.cn SAVE 米洁
+    *[urlrule] sites vlook.cn SAVE 若含baby
+    *[urlrule] sites vlook.cn SAVE 北娃大王
+    *[urlrule] sites weipai.cn SAVE 544ecccaa8640bca4d8b458c 丽嫂zyk
 * Finished:
-    * [2014/12/01 23:28:53] [urlrule] sites weipai.cn SAVE ç§¦åå«åå
-    * [2014/12/01 23:17:19] [urlrule] sites weipai.cn SAVE suna2411
-    * [2014/12/01 23:16:1] [urlrule] sites weipai.cn SAVE é¢è¥ç92
-    * [2014/12/01 16:25:29] [urlrule] sites weipai.cn SAVE å®å®å©
-    * [2014/12/01 16:19:22] [urlrule] sites weipai.cn SAVE oliviababy
-    * [2014/12/01 16:18:4] [urlrule] sites weipai.cn SAVE å¾å¦é¦¨Mandy
-    * [2014/12/01 16:17:55] [urlrule] sites weipai.cn SAVE æ¹ç´«æ¶µ
-    * [2014/12/01 12:8:13] [urlrule] sites weipai.cn SAVE æå§å¦®
-    * [2014/12/01 12:0:2] [urlrule] sites weipai.cn SAVE å¼ æ ©è²-ManGo
-    * [2014/12/01 11:57:55] [urlrule] sites weipai.cn SAVE æå¤baby123
-    * [2014/12/01 11:5:59] [urlrule] sites weipai.cn SAVE é¢ççbaby
-    * [2014/12/01 10:57:8] [urlrule] sites weipai.cn SAVE è¹å°ç½
-    * [2014/12/01 10:12:54] [urlrule] sites weipai.cn SAVE æ¹æ¬£å¦®ss
-    * [2014/12/01 9:17:45] [urlrule] sites weipai.cn SAVE å°è±å¦¹å¦¹
-    * [2014/12/01 9:2:33] [urlrule] sites weipai.cn SAVE è¾å°ç±
-    * [2014/12/01 8:20:2] [urlrule] sites weipai.cn SAVE crystalå°
-    * [2014/12/01 8:1:48] [urlrule] sites weipai.cn SAVE å¨ä¾çµå¿
-    * [2014/12/01 4:49:44] [urlrule] sites weipai.cn SAVE ç§äººç©ºé´
-    * [2014/12/01 4:37:6] [urlrule] sites weipai.cn SAVE ROSSY
-    * [2014/12/01 4:20:26] [urlrule] sites weipai.cn SAVE ææä¸ä¸åå
-    * [2014/12/01 3:46:21] [urlrule] sites weipai.cn SAVE å°ä¹æ§å­
-    * [2014/12/01 3:45:39] [urlrule] sites weipai.cn SAVE Sweet-å¾®
-    * [2014/12/01 3:41:16] [urlrule] sites weipai.cn SAVE æ´ççª
-    * [2014/12/01 3:41:3] [urlrule] sites weipai.cn SAVE ä¸ç¾çé£20140212
-    * [2014/12/01 3:40:56] [urlrule] sites weipai.cn SAVE Abbymiki
-    * [2014/12/01 2:53:12] [urlrule] sites weipai.cn SAVE è¾èkathy
+    * [2014/12/02 02:55:49] [urlrule] sites weipai.cn SAVE 李思桐儿
