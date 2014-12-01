@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE é¢ççbaby
+
+    * Begin : 2014/12/01 10:57:15
+    * End   : 2014/12/01 11:5:59
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE è¹å°ç½
 
     * Begin : 2014/12/01 10:13:8
