@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 52dd823bebeddbea038b4632 æå¤baby123
     *[urlrule] sites weipai.cn SAVE 546c58f7a8640be32f8b457d å¼ æ ©è²-ManGo
     *[urlrule] sites weipai.cn SAVE 54635cfca8640b9a198b458f æå§å¦®
     *[urlrule] sites weipai.cn SAVE 53c8084da6640beb528b4567 æ¹ç´«æ¶µ
@@ -34,6 +33,7 @@ Tasks Status Report
     *[urlrule] sites vlook.cn SAVE åå¨å¤§ç
     *[urlrule] sites weipai.cn SAVE 544ecccaa8640bca4d8b458c ä¸½å«zyk
 * Finished:
+    * [2014/12/01 11:57:55] [urlrule] sites weipai.cn SAVE æå¤baby123
     * [2014/12/01 11:5:59] [urlrule] sites weipai.cn SAVE é¢ççbaby
     * [2014/12/01 10:57:8] [urlrule] sites weipai.cn SAVE è¹å°ç½
     * [2014/12/01 10:12:54] [urlrule] sites weipai.cn SAVE æ¹æ¬£å¦®ss
