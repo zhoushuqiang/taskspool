@@ -1,3 +1,8 @@
+* [urlrule] sites weipai.cn SAVE æææ¡å¿
+
+    * Begin : 2014/12/01 23:29:21
+    * Result: PENDING
+
 * [urlrule] sites weipai.cn SAVE ç§¦åå«åå
 
     * Begin : 2014/12/01 23:17:27
