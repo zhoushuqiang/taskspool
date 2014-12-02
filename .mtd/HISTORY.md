@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 52d5b8acc58a87a45aa1e64c 妮妮love
+
+    * Begin : 2014/12/03 00:09:18
+    * End   : 2014/12/03 00:09:18
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53a9197d803494d80fc12f85 何佳琪baby
 
     * Begin : 2014/12/03 00:09:12
