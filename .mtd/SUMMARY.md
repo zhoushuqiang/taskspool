@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5470d719a5640b05118b459b
+
+    * Begin : 2014/12/03 00:02:11
+    * End   : 2014/12/03 00:03:51
+    * Result: => 铁粉1号/weipai.cn/5331a3749d67d9b5348b45c6
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5470d12ba5640b780d8b45a5
 
     * Begin : 2014/12/03 00:00:28
