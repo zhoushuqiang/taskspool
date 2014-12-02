@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/545dd241a5640b740e8b4569
+
+    * Begin : 2014/12/02 23:39:03
+    * End   : 2014/12/02 23:41:15
+    * Result: => 莫小尤/weipai.cn/5458d08da5640bfb2e8b459e
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54707033a5640b00588b45c9
 
     * Begin : 2014/12/02 23:36:05
