@@ -1,27 +1,55 @@
 Tasks::Builder::Config::LastTask    97
 Tasks::Center::options.no-pull    1
 Tasks::Center::options.sleep    1
-Tasks::Center::tasks_0    urlrule	sites	weipai.cn	SAVE	5189f0ab803494c62f00000e	李思桐儿
-Tasks::Center::tasks_1    urlrule	sites	weipai.cn	SAVE	505029517d34948d5f0000c5	小茹子
-Tasks::Center::tasks_2    urlrule	sites	weipai.cn	SAVE	54218692a8640be9688b4580	李朝蛟-Bie
-Tasks::Center::tasks_3    urlrule	sites	weipai.cn	SAVE	514559307d3494db5500005d	湯大师
-Tasks::Center::tasks_4    urlrule	sites	weipai.cn	SAVE	52dd823bebeddbea038b4632	林夕baby123
-Tasks::Center::tasks_5    urlrule	sites	weipai.cn	SAVE	516ac8a77d3494ef4c000015	雯子蜜
-Tasks::Center::tasks_6    urlrule	sites	weipai.cn	SAVE	54364d9ba8640b05708b4595	韩田稀
-Tasks::Center::tasks_7    urlrule	sites	weipai.cn	SAVE	547835e6a7640b32758b4575	201411308
-Tasks::Center::tasks_8    urlrule	sites	weipai.cn	SAVE	5473ca0aa7640b7f268b4583	微拍精品福利--
-Tasks::Center::tasks_9    urlrule	sites	weipai.cn	SAVE	522a6d9e9f6c00e659630a62	穆思旭
-Tasks::Center::tasks_10    urlrule	sites	weipai.cn	SAVE	53c8084da6640beb528b4567	曹紫涵
-Tasks::Center::tasks_11    urlrule	sites	weipai.cn	SAVE	Amanda5275
-Tasks::Center::tasks_12    urlrule	sites	vlook.cn	SAVE	Amanda5275
-Tasks::Center::tasks_13    urlrule	sites	vlook.cn	SAVE	桓淼淼
-Tasks::Center::tasks_14    urlrule	sites	vlook.cn	SAVE	DJ-CC
-Tasks::Center::tasks_15    urlrule	sites	vlook.cn	SAVE	友熙酱
-Tasks::Center::tasks_16    urlrule	sites	vlook.cn	SAVE	Dj_kelly
-Tasks::Center::tasks_17    urlrule	sites	vlook.cn	SAVE	米洁
-Tasks::Center::tasks_18    urlrule	sites	vlook.cn	SAVE	若含baby
-Tasks::Center::tasks_19    urlrule	sites	vlook.cn	SAVE	北娃大王
-Tasks::Center::tasks_20    urlrule	sites	weipai.cn	SAVE	544ecccaa8640bca4d8b458c	丽嫂zyk
+Tasks::Center::tasks_0    urlrule	sites	weipai.cn	SAVE	517a7b428134947b14000000	小惡魔Linsey
+Tasks::Center::tasks_1    urlrule	sites	weipai.cn	SAVE	518b84148034942944000003	Elise谭晓彤
+Tasks::Center::tasks_2    urlrule	sites	weipai.cn	SAVE	518b84148034942944000003	Elise谭晓彤
+Tasks::Center::tasks_3    urlrule	sites	weipai.cn	SAVE	51bab489803494d7320000cf	角落宝贝
+Tasks::Center::tasks_4    urlrule	sites	weipai.cn	SAVE	5300be125e7feb23168b45e0	Theonlylove
+Tasks::Center::tasks_5    urlrule	sites	weipai.cn	SAVE	5300be125e7feb23168b45e0	Theonlylove
+Tasks::Center::tasks_6    urlrule	sites	weipai.cn	SAVE	53fea906a5640b98368b456f	你懂我么小娘
+Tasks::Center::tasks_7    urlrule	sites	weipai.cn	SAVE	53aafe0aebeddb0b468b4569	曼丽LXL
+Tasks::Center::tasks_8    urlrule	sites	weipai.cn	SAVE	5277f433813494257c2eb0c6	神仙姐姐__艾溪
+Tasks::Center::tasks_9    urlrule	sites	weipai.cn	SAVE	5277f433813494257c2eb0c6	神仙姐姐__艾溪
+Tasks::Center::tasks_10    urlrule	sites	weipai.cn	SAVE	5277f433813494257c2eb0c6	神仙姐姐__艾溪
+Tasks::Center::tasks_11    urlrule	sites	weipai.cn	SAVE	5331a3749d67d9b5348b45c6	铁粉1号
+Tasks::Center::tasks_12    urlrule	sites	weipai.cn	SAVE	5331a3749d67d9b5348b45c6	铁粉1号
+Tasks::Center::tasks_13    urlrule	sites	weipai.cn	SAVE	5400e211a6640b5f158b4570	QinQinW
+Tasks::Center::tasks_14    urlrule	sites	weipai.cn	SAVE	52d0e09de34167b7498b457c	北娃大王
+Tasks::Center::tasks_15    urlrule	sites	weipai.cn	SAVE	5437816ba8640ba0548b4575	大妞范慧子
+Tasks::Center::tasks_16    urlrule	sites	weipai.cn	SAVE	50274a227f349423710001e2	SpookyG
+Tasks::Center::tasks_17    urlrule	sites	weipai.cn	SAVE	5331a3749d67d9b5348b45c6	铁粉1号
+Tasks::Center::tasks_18    urlrule	sites	weipai.cn	SAVE	52dd823bebeddbea038b4632	林夕baby
+Tasks::Center::tasks_19    urlrule	sites	weipai.cn	SAVE	53ed0e57a6640b3d578b456c	陈诗云
+Tasks::Center::tasks_20    urlrule	sites	weipai.cn	SAVE	53a9197d803494d80fc12f85	何佳琪baby
+Tasks::Center::tasks_21    urlrule	sites	weipai.cn	SAVE	52d5b8acc58a87a45aa1e64c	妮妮love
+Tasks::Center::tasks_22    urlrule	sites	weipai.cn	SAVE	53ed0e57a6640b3d578b456c	陈诗云
+Tasks::Center::tasks_23    urlrule	sites	weipai.cn	SAVE	5400e211a6640b5f158b4570	QinQinW
+Tasks::Center::tasks_24    urlrule	sites	weipai.cn	SAVE	53ed0e57a6640b3d578b456c	陈诗云
+Tasks::Center::tasks_25    urlrule	sites	weipai.cn	SAVE	54616d24a8640b8a678b456e	姐又内涵了
+Tasks::Center::tasks_26    urlrule	sites	weipai.cn	SAVE	535f39ba4f4a13ab088b457d	白日不湿
+Tasks::Center::tasks_27    urlrule	sites	weipai.cn	SAVE	535f39ba4f4a13ab088b457d	白日不湿
+Tasks::Center::tasks_28    urlrule	sites	weipai.cn	SAVE	535f39ba4f4a13ab088b457d	白日不湿
+Tasks::Center::tasks_29    urlrule	sites	weipai.cn	SAVE	52f32c2677d3cc22398b456b	徐美儿
+Tasks::Center::tasks_30    urlrule	sites	weipai.cn	SAVE	52a65b3dc58a879761ab366b	陈语乔
+Tasks::Center::tasks_31    urlrule	sites	weipai.cn	SAVE	52efdc8f803494321f30d8fc	前任攻略
+Tasks::Center::tasks_32    urlrule	sites	weipai.cn	SAVE	5458d08da5640bfb2e8b459e	莫小尤
+Tasks::Center::tasks_33    urlrule	sites	weipai.cn	SAVE	5458d08da5640bfb2e8b459e	莫小尤
+Tasks::Center::tasks_34    urlrule	sites	weipai.cn	SAVE	5458d08da5640bfb2e8b459e	莫小尤
+Tasks::Center::tasks_35    urlrule	sites	weipai.cn	SAVE	52e3440f78d3cc446d8b4567	2014080137
+Tasks::Center::tasks_36    urlrule	sites	weipai.cn	SAVE	52e3440f78d3cc446d8b4567	2014080137
+Tasks::Center::tasks_37    urlrule	sites	weipai.cn	SAVE	536ddfcf9d67d94c418b45c0	杨安妮宝贝
+Tasks::Center::tasks_38    urlrule	sites	weipai.cn	SAVE	5277f433813494257c2eb0c6	神仙姐姐__艾溪
+Tasks::Center::tasks_39    urlrule	sites	weipai.cn	SAVE	546a0312a8640b03658b4582	忧伤的黄瓜1
+Tasks::Center::tasks_40    urlrule	sites	weipai.cn	SAVE	53fd4b56a8640b4e518b456d	韩田稀新微拍叫韩田稀
+Tasks::Center::tasks_41    urlrule	sites	weipai.cn	SAVE	5448e762a6640b036b8b45b3	内涵姐姐
+Tasks::Center::tasks_42    urlrule	sites	weipai.cn	SAVE	515664e27f3494e975000004	y依凌小姐
+Tasks::Center::tasks_43    urlrule	sites	weipai.cn	SAVE	5331a3749d67d9b5348b45c6	铁粉1号
+Tasks::Center::tasks_44    urlrule	sites	weipai.cn	SAVE	5331a3749d67d9b5348b45c6	铁粉1号
+Tasks::Center::tasks_45    urlrule	sites	weipai.cn	SAVE	5331a3749d67d9b5348b45c6	铁粉1号
+Tasks::Center::tasks_46    urlrule	sites	weipai.cn	SAVE	54302ab3a7640b490f8b4574	奈奈
+Tasks::Center::tasks_47    urlrule	sites	weipai.cn	SAVE	54302ab3a7640b490f8b4574	奈奈
+Tasks::Center::tasks_48    urlrule	sites	weipai.cn	SAVE	53ed0e57a6640b3d578b456c	陈诗云
 _DIR    .mtd
 _IGNORE    .mtd/ignore
 _LISTENER    .mtd/listener

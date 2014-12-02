@@ -1,3 +1,80 @@
+* [urlrule] sites weipai.cn SAVE 小惡魔Linsey
+
+    * Begin : 2014/12/03 00:10:11
+    * Result: PENDING
+
+* [urlrule] sites vlook.cn SAVE 桓淼淼baby
+
+    * Begin : 2014/12/03 00:10:01
+    * End   : 2014/12/03 00:10:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53ed0e57a6640b3d578b456c 陈诗云
+
+    * Begin : 2014/12/03 00:10:01
+    * End   : 2014/12/03 00:10:01
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 54302ab3a7640b490f8b4574 奈奈
+
+    * Begin : 2014/12/03 00:10:01
+    * End   : 2014/12/03 00:10:01
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 54302ab3a7640b490f8b4574 奈奈
+
+    * Begin : 2014/12/03 00:10:00
+    * End   : 2014/12/03 00:10:01
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 5331a3749d67d9b5348b45c6 铁粉1号
+
+    * Begin : 2014/12/03 00:10:00
+    * End   : 2014/12/03 00:10:00
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 5331a3749d67d9b5348b45c6 铁粉1号
+
+    * Begin : 2014/12/03 00:10:00
+    * End   : 2014/12/03 00:10:00
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 5331a3749d67d9b5348b45c6 铁粉1号
+
+    * Begin : 2014/12/03 00:10:00
+    * End   : 2014/12/03 00:10:00
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 515664e27f3494e975000004 y依凌小姐
+
+    * Begin : 2014/12/03 00:09:59
+    * End   : 2014/12/03 00:10:00
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 5448e762a6640b036b8b45b3 内涵姐姐
+
+    * Begin : 2014/12/03 00:09:59
+    * End   : 2014/12/03 00:09:59
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 53fd4b56a8640b4e518b456d 韩田稀新微拍叫韩田稀
+
+    * Begin : 2014/12/03 00:09:59
+    * End   : 2014/12/03 00:09:59
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 546a0312a8640b03658b4582 忧伤的黄瓜1
+
+    * Begin : 2014/12/03 00:09:59
+    * End   : 2014/12/03 00:09:59
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 5277f433813494257c2eb0c6 神仙姐姐__艾溪
+
+    * Begin : 2014/12/03 00:09:58
+    * End   : 2014/12/03 00:09:59
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 536ddfcf9d67d94c418b45c0 杨安妮宝贝
 
     * Begin : 2014/12/03 00:09:52

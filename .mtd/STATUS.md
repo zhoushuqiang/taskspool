@@ -2,19 +2,7 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn FOLLOW 5277f433813494257c2eb0c6 神仙姐姐__艾溪 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 546a0312a8640b03658b4582 忧伤的黄瓜1 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 53fd4b56a8640b4e518b456d 韩田稀新微拍叫韩田稀 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 5448e762a6640b036b8b45b3 内涵姐姐 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 515664e27f3494e975000004 y依凌小姐 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 5331a3749d67d9b5348b45c6 铁粉1号 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 5331a3749d67d9b5348b45c6 铁粉1号 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 5331a3749d67d9b5348b45c6 铁粉1号 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 54302ab3a7640b490f8b4574 奈奈 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 54302ab3a7640b490f8b4574 奈奈 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 53ed0e57a6640b3d578b456c 陈诗云 SAVE
-    *[urlrule] sites vlook.cn SAVE 桓淼淼baby 
-    *[urlrule] sites weipai.cn SAVE 517a7b428134947b14000000 小惡魔Linsey
+    *[urlrule] sites weipai.cn SAVE 小惡魔Linsey
     *[urlrule] sites weipai.cn SAVE 518b84148034942944000003 Elise谭晓彤
     *[urlrule] sites weipai.cn SAVE 518b84148034942944000003 Elise谭晓彤
     *[urlrule] sites weipai.cn SAVE 51bab489803494d7320000cf 角落宝贝
@@ -52,6 +40,17 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 52e3440f78d3cc446d8b4567 2014080137
     *[urlrule] sites weipai.cn SAVE 52e3440f78d3cc446d8b4567 2014080137
     *[urlrule] sites weipai.cn SAVE 536ddfcf9d67d94c418b45c0 杨安妮宝贝
+    *[urlrule] sites weipai.cn SAVE 5277f433813494257c2eb0c6 神仙姐姐__艾溪
+    *[urlrule] sites weipai.cn SAVE 546a0312a8640b03658b4582 忧伤的黄瓜1
+    *[urlrule] sites weipai.cn SAVE 53fd4b56a8640b4e518b456d 韩田稀新微拍叫韩田稀
+    *[urlrule] sites weipai.cn SAVE 5448e762a6640b036b8b45b3 内涵姐姐
+    *[urlrule] sites weipai.cn SAVE 515664e27f3494e975000004 y依凌小姐
+    *[urlrule] sites weipai.cn SAVE 5331a3749d67d9b5348b45c6 铁粉1号
+    *[urlrule] sites weipai.cn SAVE 5331a3749d67d9b5348b45c6 铁粉1号
+    *[urlrule] sites weipai.cn SAVE 5331a3749d67d9b5348b45c6 铁粉1号
+    *[urlrule] sites weipai.cn SAVE 54302ab3a7640b490f8b4574 奈奈
+    *[urlrule] sites weipai.cn SAVE 54302ab3a7640b490f8b4574 奈奈
+    *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c 陈诗云
 * Finished:
     * [2014/12/03 00:09:52] [urlrule] sites weipai.cn follow 536ddfcf9d67d94c418b45c0 杨安妮宝贝
     * [2014/12/03 00:09:46] [urlrule] sites weipai.cn follow 52e3440f78d3cc446d8b4567 2014080137
@@ -133,6 +132,18 @@ Tasks Status Report
     * [2014/12/02 06:11:08] [urlrule] sites weipai.cn SAVE 小茹子
     * [2014/12/02 02:55:49] [urlrule] sites weipai.cn SAVE 李思桐儿
 * Doing Nothing:
+    * [2014/12/03 00:10:10] [urlrule] sites vlook.cn SAVE 桓淼淼baby
+    * [2014/12/03 00:10:01] [urlrule] sites weipai.cn follow 53ed0e57a6640b3d578b456c 陈诗云
+    * [2014/12/03 00:10:01] [urlrule] sites weipai.cn follow 54302ab3a7640b490f8b4574 奈奈
+    * [2014/12/03 00:10:01] [urlrule] sites weipai.cn follow 54302ab3a7640b490f8b4574 奈奈
+    * [2014/12/03 00:10:00] [urlrule] sites weipai.cn follow 5331a3749d67d9b5348b45c6 铁粉1号
+    * [2014/12/03 00:10:00] [urlrule] sites weipai.cn follow 5331a3749d67d9b5348b45c6 铁粉1号
+    * [2014/12/03 00:10:00] [urlrule] sites weipai.cn follow 5331a3749d67d9b5348b45c6 铁粉1号
+    * [2014/12/03 00:10:00] [urlrule] sites weipai.cn follow 515664e27f3494e975000004 y依凌小姐
+    * [2014/12/03 00:09:59] [urlrule] sites weipai.cn follow 5448e762a6640b036b8b45b3 内涵姐姐
+    * [2014/12/03 00:09:59] [urlrule] sites weipai.cn follow 53fd4b56a8640b4e518b456d 韩田稀新微拍叫韩田稀
+    * [2014/12/03 00:09:59] [urlrule] sites weipai.cn follow 546a0312a8640b03658b4582 忧伤的黄瓜1
+    * [2014/12/03 00:09:59] [urlrule] sites weipai.cn follow 5277f433813494257c2eb0c6 神仙姐姐__艾溪
     * [2014/12/03 00:09:52] [urlrule] sites weipai.cn follow 52e3440f78d3cc446d8b4567 2014080137
     * [2014/12/03 00:09:45] [urlrule] sites weipai.cn follow 5458d08da5640bfb2e8b459e 莫小尤
     * [2014/12/03 00:09:45] [urlrule] sites weipai.cn follow 5458d08da5640bfb2e8b459e 莫小尤
