@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547b7c28a5640bb55a8b457e
+
+    * Begin : 2014/12/02 23:10:32
+    * End   : 2014/12/02 23:10:43
+    * Result: Failed
+
+* [urlrule] sites weipai.cn add 50274a227f349423710001e2 SpookyG
+
+    * Begin : 2014/12/02 23:10:21
+    * End   : 2014/12/02 23:10:32
+    * Result: http://www.weipai.cn/video/547b7c28a5640bb55a8b457e=>[weipai.cn] 50274a227f349423710001e2 (SpookyG) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547ca410a5640b687a8b4575
 
     * Begin : 2014/12/02 23:07:04
