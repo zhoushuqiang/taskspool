@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54707033a5640b00588b45c9
+
+    * Begin : 2014/12/02 23:36:05
+    * End   : 2014/12/02 23:37:36
+    * Result: => 前任攻略/weipai.cn/52efdc8f803494321f30d8fc
+
+* [urlrule] sites weipai.cn add 52efdc8f803494321f30d8fc 前任攻略
+
+    * Begin : 2014/12/02 23:35:59
+    * End   : 2014/12/02 23:36:05
+    * Result: http://www.weipai.cn/video/54707033a5640b00588b45c9=>[weipai.cn] 52efdc8f803494321f30d8fc (前任攻略) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5470b929a5640b4c028b4588
 
     * Begin : 2014/12/02 23:33:52
