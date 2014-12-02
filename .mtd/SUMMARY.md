@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 53fea906a5640b98368b456f 你懂我么小娘
+
+    * Begin : 2014/12/03 00:08:45
+    * End   : 2014/12/03 00:08:45
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5300be125e7feb23168b45e0 Theonlylove
 
     * Begin : 2014/12/03 00:08:38
