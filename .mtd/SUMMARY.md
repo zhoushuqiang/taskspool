@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54749ef9a5640b16508b4598
+
+    * Begin : 2014/12/02 23:57:51
+    * End   : 2014/12/02 23:58:10
+    * Result: => 内涵姐姐/weipai.cn/5448e762a6640b036b8b45b3
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/546b8651a5640b496b8b456a
 
     * Begin : 2014/12/02 23:55:36
