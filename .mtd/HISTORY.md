@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475a9d9a5640bf0708b458c
+
+    * Begin : 2014/12/02 22:52:35
+    * End   : 2014/12/02 22:56:32
+    * Result: => 曼丽LXL/weipai.cn/53aafe0aebeddb0b468b4569
+
+* [urlrule] sites weipai.cn add 53aafe0aebeddb0b468b4569 曼丽LXL
+
+    * Begin : 2014/12/02 22:52:31
+    * End   : 2014/12/02 22:52:35
+    * Result: http://www.weipai.cn/video/5475a9d9a5640bf0708b458c=>[weipai.cn] 53aafe0aebeddb0b468b4569 (曼丽LXL) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475832ea5640b775c8b4586
 
     * Begin : 2014/12/02 22:51:09
