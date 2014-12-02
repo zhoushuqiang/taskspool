@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 53a9197d803494d80fc12f85 何佳琪baby
+
+    * Begin : 2014/12/03 00:09:12
+    * End   : 2014/12/03 00:09:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 50274a227f349423710001e2 SpookyG
 
     * Begin : 2014/12/03 00:09:05

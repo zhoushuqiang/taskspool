@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn follow 53a9197d803494d80fc12f85 何佳琪baby
+
+    * Begin : 2014/12/03 00:09:12
+    * End   : 2014/12/03 00:09:12
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 53ed0e57a6640b3d578b456c 陈诗云
+
+    * Begin : 2014/12/03 00:09:12
+    * End   : 2014/12/03 00:09:12
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 52dd823bebeddbea038b4632 林夕baby
+
+    * Begin : 2014/12/03 00:09:11
+    * End   : 2014/12/03 00:09:12
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 5331a3749d67d9b5348b45c6 铁粉1号
+
+    * Begin : 2014/12/03 00:09:11
+    * End   : 2014/12/03 00:09:11
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 50274a227f349423710001e2 SpookyG
 
     * Begin : 2014/12/03 00:09:05
