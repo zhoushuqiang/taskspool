@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5471faffa5640bce458b456c
+
+    * Begin : 2014/12/02 23:30:14
+    * End   : 2014/12/02 23:31:41
+    * Result: => 白日不湿/weipai.cn/535f39ba4f4a13ab088b457d
+
+* [urlrule] sites weipai.cn add 535f39ba4f4a13ab088b457d 白日不湿
+
+    * Begin : 2014/12/02 23:30:11
+    * End   : 2014/12/02 23:30:14
+    * Result: http://www.weipai.cn/video/5471faffa5640bce458b456c=>[weipai.cn] 535f39ba4f4a13ab088b457d (白日不湿) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54720400a5640b044a8b4581
 
     * Begin : 2014/12/02 23:27:38
