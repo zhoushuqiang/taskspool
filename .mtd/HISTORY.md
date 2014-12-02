@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547176aca5640b3b798b45b1
+
+    * Begin : 2014/12/03 00:04:01
+    * End   : 2014/12/03 00:05:06
+    * Result: => 奈奈/weipai.cn/54302ab3a7640b490f8b4574
+
+* [urlrule] sites weipai.cn add 54302ab3a7640b490f8b4574 奈奈
+
+    * Begin : 2014/12/03 00:03:58
+    * End   : 2014/12/03 00:04:01
+    * Result: http://www.weipai.cn/video/547176aca5640b3b798b45b1=>[weipai.cn] 54302ab3a7640b490f8b4574 (奈奈) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5470d719a5640b05118b459b
 
     * Begin : 2014/12/03 00:02:11
