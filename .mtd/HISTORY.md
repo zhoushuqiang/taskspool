@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn follow 5331a3749d67d9b5348b45c6 铁粉1号
+
+    * Begin : 2014/12/03 00:08:52
+    * End   : 2014/12/03 00:08:52
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 5277f433813494257c2eb0c6 神仙姐姐__艾溪
+
+    * Begin : 2014/12/03 00:08:52
+    * End   : 2014/12/03 00:08:52
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 5277f433813494257c2eb0c6 神仙姐姐__艾溪
+
+    * Begin : 2014/12/03 00:08:52
+    * End   : 2014/12/03 00:08:52
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 5277f433813494257c2eb0c6 神仙姐姐__艾溪
+
+    * Begin : 2014/12/03 00:08:51
+    * End   : 2014/12/03 00:08:51
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 53aafe0aebeddb0b468b4569 曼丽LXL
+
+    * Begin : 2014/12/03 00:08:51
+    * End   : 2014/12/03 00:08:51
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 53fea906a5640b98368b456f 你懂我么小娘
 
     * Begin : 2014/12/03 00:08:45

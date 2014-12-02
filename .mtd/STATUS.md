@@ -2,11 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn FOLLOW 53aafe0aebeddb0b468b4569 曼丽LXL SAVE
-    *[urlrule] sites weipai.cn FOLLOW 5277f433813494257c2eb0c6 神仙姐姐__艾溪 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 5277f433813494257c2eb0c6 神仙姐姐__艾溪 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 5277f433813494257c2eb0c6 神仙姐姐__艾溪 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 5331a3749d67d9b5348b45c6 铁粉1号 SAVE
     *[urlrule] sites weipai.cn FOLLOW 5331a3749d67d9b5348b45c6 铁粉1号 SAVE
     *[urlrule] sites weipai.cn FOLLOW 5400e211a6640b5f158b4570 QinQinW SAVE
     *[urlrule] sites weipai.cn FOLLOW 52d0e09de34167b7498b457c 北娃大王 SAVE
@@ -52,7 +47,13 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 5300be125e7feb23168b45e0 Theonlylove
     *[urlrule] sites weipai.cn SAVE 5300be125e7feb23168b45e0 Theonlylove
     *[urlrule] sites weipai.cn SAVE 53fea906a5640b98368b456f 你懂我么小娘
+    *[urlrule] sites weipai.cn SAVE 53aafe0aebeddb0b468b4569 曼丽LXL
+    *[urlrule] sites weipai.cn SAVE 5277f433813494257c2eb0c6 神仙姐姐__艾溪
+    *[urlrule] sites weipai.cn SAVE 5277f433813494257c2eb0c6 神仙姐姐__艾溪
+    *[urlrule] sites weipai.cn SAVE 5277f433813494257c2eb0c6 神仙姐姐__艾溪
+    *[urlrule] sites weipai.cn SAVE 5331a3749d67d9b5348b45c6 铁粉1号
 * Finished:
+    * [2014/12/03 00:08:52] [urlrule] sites weipai.cn follow 5331a3749d67d9b5348b45c6 铁粉1号
     * [2014/12/03 00:08:45] [urlrule] sites weipai.cn follow 53fea906a5640b98368b456f 你懂我么小娘
     * [2014/12/03 00:08:39] [urlrule] sites weipai.cn follow 5300be125e7feb23168b45e0 Theonlylove
     * [2014/12/03 00:08:32] [urlrule] sites weipai.cn follow 51bab489803494d7320000cf 角落宝贝
@@ -123,6 +124,10 @@ Tasks Status Report
     * [2014/12/02 06:11:08] [urlrule] sites weipai.cn SAVE 小茹子
     * [2014/12/02 02:55:49] [urlrule] sites weipai.cn SAVE 李思桐儿
 * Doing Nothing:
+    * [2014/12/03 00:08:52] [urlrule] sites weipai.cn follow 5277f433813494257c2eb0c6 神仙姐姐__艾溪
+    * [2014/12/03 00:08:52] [urlrule] sites weipai.cn follow 5277f433813494257c2eb0c6 神仙姐姐__艾溪
+    * [2014/12/03 00:08:51] [urlrule] sites weipai.cn follow 5277f433813494257c2eb0c6 神仙姐姐__艾溪
+    * [2014/12/03 00:08:51] [urlrule] sites weipai.cn follow 53aafe0aebeddb0b468b4569 曼丽LXL
     * [2014/12/03 00:08:45] [urlrule] sites weipai.cn follow 5300be125e7feb23168b45e0 Theonlylove
     * [2014/12/03 00:08:32] [urlrule] sites weipai.cn follow 518b84148034942944000003 Elise谭晓彤
     * [2014/12/03 00:08:32] [urlrule] sites weipai.cn follow 518b84148034942944000003 Elise谭晓彤
