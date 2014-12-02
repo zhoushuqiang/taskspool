@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474a670a5640b07558b458b
+
+    * Begin : 2014/12/02 23:15:44
+    * End   : 2014/12/02 23:15:57
+    * Result: => 陈诗云/weipai.cn/53ed0e57a6640b3d578b456c
+
+* [urlrule] sites weipai.cn add 53ed0e57a6640b3d578b456c 陈诗云
+
+    * Begin : 2014/12/02 23:15:40
+    * End   : 2014/12/02 23:15:44
+    * Result: http://www.weipai.cn/video/5474a670a5640b07558b458b=>[weipai.cn] 53ed0e57a6640b3d578b456c (陈诗云) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547c7a36a5640baf608b45b5
 
     * Begin : 2014/12/02 23:14:33
