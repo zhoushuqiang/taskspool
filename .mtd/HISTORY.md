@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/53d66983a5640bb64d8b4571
+
+    * Begin : 2014/12/02 22:43:18
+    * End   : 2014/12/02 22:46:07
+    * Result: => 角落宝贝/weipai.cn/51bab489803494d7320000cf
+
+* [urlrule] sites weipai.cn add 51bab489803494d7320000cf 角落宝贝
+
+    * Begin : 2014/12/02 22:43:13
+    * End   : 2014/12/02 22:43:18
+    * Result: http://www.weipai.cn/video/53d66983a5640bb64d8b4571=>[weipai.cn] 51bab489803494d7320000cf (角落宝贝) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/52a5e1b78034943979971be0
 
     * Begin : 2014/12/02 22:43:00
