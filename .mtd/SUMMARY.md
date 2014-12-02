@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn SAVE 若含baby
+
+    * Begin : 2014/12/02 22:17:48
+    * End   : 2014/12/02 22:22:25
+    * Result: OK
+
 * [urlrule] sites vlook.cn SAVE 友熙酱
 
     * Begin : 2014/12/02 22:16:28
