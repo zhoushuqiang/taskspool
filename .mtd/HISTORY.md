@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5470cac5a5640bf80c8b4567
+
+    * Begin : 2014/12/03 00:00:13
+    * End   : 2014/12/03 00:00:19
+    * Result: => 铁粉1号/weipai.cn/5331a3749d67d9b5348b45c6
+
+* [urlrule] sites weipai.cn add 5331a3749d67d9b5348b45c6 铁粉1号
+
+    * Begin : 2014/12/03 00:00:09
+    * End   : 2014/12/03 00:00:13
+    * Result: http://www.weipai.cn/video/5470cac5a5640bf80c8b4567=>[weipai.cn] 5331a3749d67d9b5348b45c6 (铁粉1号) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547362e0a5640b311c8b4580
 
     * Begin : 2014/12/02 23:58:20
