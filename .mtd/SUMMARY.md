@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 50274a227f349423710001e2 SpookyG
+
+    * Begin : 2014/12/03 00:09:05
+    * End   : 2014/12/03 00:09:05
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5437816ba8640ba0548b4575 大妞范慧子
 
     * Begin : 2014/12/03 00:08:59
