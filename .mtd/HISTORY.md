@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/535b7845504a13e9518b45fc
+
+    * Begin : 2014/12/02 22:40:17
+    * End   : 2014/12/02 22:42:34
+    * Result: => 小惡魔Linsey/weipai.cn/517a7b428134947b14000000
+
+* [urlrule] sites weipai.cn add 517a7b428134947b14000000 小惡魔Linsey
+
+    * Begin : 2014/12/02 22:40:12
+    * End   : 2014/12/02 22:40:17
+    * Result: http://www.weipai.cn/video/535b7845504a13e9518b45fc=>[weipai.cn] 517a7b428134947b14000000 (小惡魔Linsey) OK
+
 * [urlrule] sites weipai.cn SAVE 徐妍馨Mandy
 
     * Begin : 2014/12/02 22:37:03
