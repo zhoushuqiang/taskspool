@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn follow 51bab489803494d7320000cf 角落宝贝
+
+    * Begin : 2014/12/03 00:08:32
+    * End   : 2014/12/03 00:08:32
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 518b84148034942944000003 Elise谭晓彤
+
+    * Begin : 2014/12/03 00:08:32
+    * End   : 2014/12/03 00:08:32
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 518b84148034942944000003 Elise谭晓彤
+
+    * Begin : 2014/12/03 00:08:32
+    * End   : 2014/12/03 00:08:32
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 517a7b428134947b14000000 小惡魔Linsey
 
     * Begin : 2014/12/03 00:08:25
