@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547c9d86a5640bd2738b45b3
+
+    * Begin : 2014/12/02 23:04:01
+    * End   : 2014/12/02 23:05:40
+    * Result: => QinQinW/weipai.cn/5400e211a6640b5f158b4570
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5470cac5a5640bf80c8b4567
 
     * Begin : 2014/12/02 23:00:36
