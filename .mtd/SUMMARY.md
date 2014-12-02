@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/546f344da5640b25128b4590
+
+    * Begin : 2014/12/02 23:52:51
+    * End   : 2014/12/02 23:55:20
+    * Result: => 忧伤的黄瓜1/weipai.cn/546a0312a8640b03658b4582
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/546f32daa5640bd0108b4592
 
     * Begin : 2014/12/02 23:52:34
