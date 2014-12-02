@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 小惡魔Linsey
+
+    * Begin : 2014/12/03 01:52:33
+    * End   : 2014/12/03 03:26:47
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 536ddfcf9d67d94c418b45c0 杨安妮宝贝
 
     * Begin : 2014/12/03 00:09:52
