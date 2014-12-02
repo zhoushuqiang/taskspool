@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn follow 5437816ba8640ba0548b4575 大妞范慧子
+
+    * Begin : 2014/12/03 00:08:59
+    * End   : 2014/12/03 00:08:59
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 52d0e09de34167b7498b457c 北娃大王
+
+    * Begin : 2014/12/03 00:08:59
+    * End   : 2014/12/03 00:08:59
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 5400e211a6640b5f158b4570 QinQinW
+
+    * Begin : 2014/12/03 00:08:58
+    * End   : 2014/12/03 00:08:59
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 5331a3749d67d9b5348b45c6 铁粉1号
+
+    * Begin : 2014/12/03 00:08:58
+    * End   : 2014/12/03 00:08:58
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 5331a3749d67d9b5348b45c6 铁粉1号
 
     * Begin : 2014/12/03 00:08:52

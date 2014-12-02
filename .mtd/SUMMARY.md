@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 5437816ba8640ba0548b4575 大妞范慧子
+
+    * Begin : 2014/12/03 00:08:59
+    * End   : 2014/12/03 00:08:59
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5331a3749d67d9b5348b45c6 铁粉1号
 
     * Begin : 2014/12/03 00:08:52
