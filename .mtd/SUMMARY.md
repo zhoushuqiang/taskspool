@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 丽嫂zyk
+
+    * Begin : 2014/12/02 22:22:41
+    * End   : 2014/12/02 22:36:55
+    * Result: OK
+
 * [urlrule] sites vlook.cn SAVE 若含baby
 
     * Begin : 2014/12/02 22:17:48
