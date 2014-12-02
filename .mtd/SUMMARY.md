@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 5458d08da5640bfb2e8b459e 莫小尤
+
+    * Begin : 2014/12/03 00:09:39
+    * End   : 2014/12/03 00:09:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 535f39ba4f4a13ab088b457d 白日不湿
 
     * Begin : 2014/12/03 00:09:31
