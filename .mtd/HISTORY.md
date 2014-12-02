@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5479c3f7a5640b4f5b8b4593
+
+    * Begin : 2014/12/02 22:46:39
+    * End   : 2014/12/02 22:48:52
+    * Result: => Theonlylove/weipai.cn/5300be125e7feb23168b45e0
+
+* [urlrule] sites weipai.cn add 5300be125e7feb23168b45e0 Theonlylove
+
+    * Begin : 2014/12/02 22:46:36
+    * End   : 2014/12/02 22:46:39
+    * Result: http://www.weipai.cn/video/5479c3f7a5640b4f5b8b4593=>[weipai.cn] 5300be125e7feb23168b45e0 (Theonlylove) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54703136a5640bcf368b45d
 
     * Begin : 2014/12/02 22:46:25
