@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5479598fa5640b231e8b459c
+
+    * Begin : 2014/12/02 23:16:36
+    * End   : 2014/12/02 23:18:59
+    * Result: => 妮妮love/weipai.cn/52d5b8acc58a87a45aa1e64c
+
+* [urlrule] sites weipai.cn add 52d5b8acc58a87a45aa1e64c 妮妮love
+
+    * Begin : 2014/12/02 23:16:33
+    * End   : 2014/12/02 23:16:36
+    * Result: http://www.weipai.cn/video/5479598fa5640b231e8b459c=>[weipai.cn] 52d5b8acc58a87a45aa1e64c (妮妮love) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476ee98a5640b043e8b456e
 
     * Begin : 2014/12/02 23:16:08
