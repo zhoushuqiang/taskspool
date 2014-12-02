@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 韩田稀
+
+    * Begin : 2014/12/02 10:00:18
+    * End   : 2014/12/02 10:10:51
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 雯子蜜
 
     * Begin : 2014/12/02 09:28:38
