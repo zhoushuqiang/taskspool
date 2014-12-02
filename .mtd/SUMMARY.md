@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547362e0a5640b311c8b4580
+
+    * Begin : 2014/12/02 23:58:20
+    * End   : 2014/12/03 00:00:03
+    * Result: => y依凌小姐/weipai.cn/515664e27f3494e975000004
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54749ef9a5640b16508b4598
 
     * Begin : 2014/12/02 23:57:51
