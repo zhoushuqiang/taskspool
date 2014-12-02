@@ -4,7 +4,6 @@ Tasks Status Report
 * Pendings:
     *[urlrule] sites weipai.cn FOLLOW 535f39ba4f4a13ab088b457d 白日不湿 SAVE
     *[urlrule] sites weipai.cn FOLLOW 535f39ba4f4a13ab088b457d 白日不湿 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 535f39ba4f4a13ab088b457d 白日不湿 SAVE
     *[urlrule] sites weipai.cn FOLLOW 52f32c2677d3cc22398b456b 徐美儿 SAVE
     *[urlrule] sites weipai.cn FOLLOW 52a65b3dc58a879761ab366b 陈语乔 SAVE
     *[urlrule] sites weipai.cn FOLLOW 52efdc8f803494321f30d8fc 前任攻略 SAVE
@@ -52,7 +51,9 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 5400e211a6640b5f158b4570 QinQinW
     *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c 陈诗云
     *[urlrule] sites weipai.cn SAVE 54616d24a8640b8a678b456e 姐又内涵了
+    *[urlrule] sites weipai.cn SAVE 535f39ba4f4a13ab088b457d 白日不湿
 * Finished:
+    * [2014/12/03 00:09:31] [urlrule] sites weipai.cn follow 535f39ba4f4a13ab088b457d 白日不湿
     * [2014/12/03 00:09:25] [urlrule] sites weipai.cn follow 54616d24a8640b8a678b456e 姐又内涵了
     * [2014/12/03 00:09:18] [urlrule] sites weipai.cn follow 52d5b8acc58a87a45aa1e64c 妮妮love
     * [2014/12/03 00:09:12] [urlrule] sites weipai.cn follow 53a9197d803494d80fc12f85 何佳琪baby

@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 535f39ba4f4a13ab088b457d 白日不湿
+
+    * Begin : 2014/12/03 00:09:31
+    * End   : 2014/12/03 00:09:31
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 54616d24a8640b8a678b456e 姐又内涵了
 
     * Begin : 2014/12/03 00:09:25
