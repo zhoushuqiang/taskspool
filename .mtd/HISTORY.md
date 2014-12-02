@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 穆思旭
+
+    * Begin : 2014/12/02 10:19:34
+    * End   : 2014/12/02 10:25:17
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 微拍精品福利--
 
     * Begin : 2014/12/02 10:19:08
