@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVE 徐妍馨Mandy
+
+    * Begin : 2014/12/02 22:37:03
+    * End   : 2014/12/02 22:40:05
+    * Result: OK
+
+* [urlrule] sites vlook.cn add 桓淼淼baby 
+
+    * Begin : 2014/12/02 22:37:03
+    * End   : 2014/12/02 22:37:03
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 丽嫂zyk
 
     * Begin : 2014/12/02 22:22:41
