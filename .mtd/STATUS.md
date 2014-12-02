@@ -2,9 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn FOLLOW 5458d08da5640bfb2e8b459e 莫小尤 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 5458d08da5640bfb2e8b459e 莫小尤 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 52e3440f78d3cc446d8b4567 2014080137 SAVE
     *[urlrule] sites weipai.cn FOLLOW 52e3440f78d3cc446d8b4567 2014080137 SAVE
     *[urlrule] sites weipai.cn FOLLOW 536ddfcf9d67d94c418b45c0 杨安妮宝贝 SAVE
     *[urlrule] sites weipai.cn FOLLOW 5277f433813494257c2eb0c6 神仙姐姐__艾溪 SAVE
@@ -52,7 +49,11 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 52a65b3dc58a879761ab366b 陈语乔
     *[urlrule] sites weipai.cn SAVE 52efdc8f803494321f30d8fc 前任攻略
     *[urlrule] sites weipai.cn SAVE 5458d08da5640bfb2e8b459e 莫小尤
+    *[urlrule] sites weipai.cn SAVE 5458d08da5640bfb2e8b459e 莫小尤
+    *[urlrule] sites weipai.cn SAVE 5458d08da5640bfb2e8b459e 莫小尤
+    *[urlrule] sites weipai.cn SAVE 52e3440f78d3cc446d8b4567 2014080137
 * Finished:
+    * [2014/12/03 00:09:46] [urlrule] sites weipai.cn follow 52e3440f78d3cc446d8b4567 2014080137
     * [2014/12/03 00:09:39] [urlrule] sites weipai.cn follow 5458d08da5640bfb2e8b459e 莫小尤
     * [2014/12/03 00:09:31] [urlrule] sites weipai.cn follow 535f39ba4f4a13ab088b457d 白日不湿
     * [2014/12/03 00:09:25] [urlrule] sites weipai.cn follow 54616d24a8640b8a678b456e 姐又内涵了
@@ -131,6 +132,8 @@ Tasks Status Report
     * [2014/12/02 06:11:08] [urlrule] sites weipai.cn SAVE 小茹子
     * [2014/12/02 02:55:49] [urlrule] sites weipai.cn SAVE 李思桐儿
 * Doing Nothing:
+    * [2014/12/03 00:09:45] [urlrule] sites weipai.cn follow 5458d08da5640bfb2e8b459e 莫小尤
+    * [2014/12/03 00:09:45] [urlrule] sites weipai.cn follow 5458d08da5640bfb2e8b459e 莫小尤
     * [2014/12/03 00:09:39] [urlrule] sites weipai.cn follow 52efdc8f803494321f30d8fc 前任攻略
     * [2014/12/03 00:09:38] [urlrule] sites weipai.cn follow 52a65b3dc58a879761ab366b 陈语乔
     * [2014/12/03 00:09:38] [urlrule] sites weipai.cn follow 52f32c2677d3cc22398b456b 徐美儿
