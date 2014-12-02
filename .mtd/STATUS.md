@@ -2,8 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/545df695a5640b10228b4587
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/545df695a5640b10228b4587
     *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/545dd241a5640b740e8b4569
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/545dd241a5640b740e8b4569
     *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/545f347ba5640bfd4c8b458f
@@ -71,6 +69,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn FOLLOW 52f32c2677d3cc22398b456b 徐美儿 SAVE
     *[urlrule] sites weipai.cn FOLLOW 52a65b3dc58a879761ab366b 陈语乔 SAVE
     *[urlrule] sites weipai.cn FOLLOW 52efdc8f803494321f30d8fc 前任攻略 SAVE
+    *[urlrule] sites weipai.cn FOLLOW 5458d08da5640bfb2e8b459e 莫小尤 SAVE
 * Finished:
     * [2014/12/02 23:37:36] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54707033a5640b00588b45c9
     * [2014/12/02 23:35:52] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5470b929a5640b4c028b4588
@@ -120,6 +119,7 @@ Tasks Status Report
     * [2014/12/02 06:11:08] [urlrule] sites weipai.cn SAVE 小茹子
     * [2014/12/02 02:55:49] [urlrule] sites weipai.cn SAVE 李思桐儿
 * Doing Nothing:
+    * [2014/12/02 23:37:47] [urlrule] sites weipai.cn add 5458d08da5640bfb2e8b459e 莫小尤
     * [2014/12/02 23:36:05] [urlrule] sites weipai.cn add 52efdc8f803494321f30d8fc 前任攻略
     * [2014/12/02 23:33:52] [urlrule] sites weipai.cn add 52a65b3dc58a879761ab366b 陈语乔
     * [2014/12/02 23:32:08] [urlrule] sites weipai.cn add 52f32c2677d3cc22398b456b 徐美儿
@@ -159,6 +159,7 @@ Tasks Status Report
     * [2014/12/02 22:16:28] [urlrule] sites vlook.cn SAVE DJ-CC
     * [2014/12/02 22:16:18] [urlrule] sites vlook.cn SAVE 桓淼淼
 * Error:
+    * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/545df695a5640b10228b4587
     * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547c7a36a5640baf608b45b5
     * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547b7d96a5640b305b8b4583
     * [urlrule] sites weipai.cn AFS http://www.weipai.cn/video/547b7d96a5640b305b8b4583
