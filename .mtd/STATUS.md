@@ -2,15 +2,13 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites vlook.cn SAVE 桓淼淼
-    *[urlrule] sites vlook.cn SAVE DJ-CC
-    *[urlrule] sites vlook.cn SAVE 友熙酱
     *[urlrule] sites vlook.cn SAVE Dj_kelly
     *[urlrule] sites vlook.cn SAVE 米洁
     *[urlrule] sites vlook.cn SAVE 若含baby
     *[urlrule] sites vlook.cn SAVE 北娃大王
     *[urlrule] sites weipai.cn SAVE 544ecccaa8640bca4d8b458c 丽嫂zyk
 * Finished:
+    * [2014/12/02 22:17:26] [urlrule] sites vlook.cn SAVE 友熙酱
     * [2014/12/02 22:16:02] [urlrule] sites vlook.cn SAVE Amanda5275
     * [2014/12/02 22:10:52] [urlrule] sites weipai.cn SAVE Amanda5275
     * [2014/12/02 10:25:37] [urlrule] sites weipai.cn SAVE 曹紫涵
@@ -24,3 +22,6 @@ Tasks Status Report
     * [2014/12/02 06:14:59] [urlrule] sites weipai.cn SAVE 李朝蛟-Bie
     * [2014/12/02 06:11:08] [urlrule] sites weipai.cn SAVE 小茹子
     * [2014/12/02 02:55:49] [urlrule] sites weipai.cn SAVE 李思桐儿
+* Doing Nothing:
+    * [2014/12/02 22:16:28] [urlrule] sites vlook.cn SAVE DJ-CC
+    * [2014/12/02 22:16:18] [urlrule] sites vlook.cn SAVE 桓淼淼

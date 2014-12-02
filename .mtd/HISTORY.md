@@ -1,3 +1,21 @@
+* [urlrule] sites vlook.cn SAVE 友熙酱
+
+    * Begin : 2014/12/02 22:16:28
+    * End   : 2014/12/02 22:17:26
+    * Result: OK
+
+* [urlrule] sites vlook.cn SAVE DJ-CC
+
+    * Begin : 2014/12/02 22:16:19
+    * End   : 2014/12/02 22:16:28
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn SAVE 桓淼淼
+
+    * Begin : 2014/12/02 22:16:10
+    * End   : 2014/12/02 22:16:18
+    * Result: Nothing to do
+
 * [urlrule] sites vlook.cn SAVE Amanda5275
 
     * Begin : 2014/12/02 22:11:33
