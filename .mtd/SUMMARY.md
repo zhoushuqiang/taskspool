@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5470b929a5640b4c028b4588
+
+    * Begin : 2014/12/02 23:33:52
+    * End   : 2014/12/02 23:35:52
+    * Result: => 陈语乔/weipai.cn/52a65b3dc58a879761ab366b
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5471a6c5a5640bfb178b4581
 
     * Begin : 2014/12/02 23:32:08
