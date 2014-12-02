@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE Amanda5275
+
+    * Begin : 2014/12/02 10:25:52
+    * End   : 2014/12/02 22:10:52
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 曹紫涵
 
     * Begin : 2014/12/02 10:25:32
