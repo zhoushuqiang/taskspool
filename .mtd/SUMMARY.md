@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547ca410a5640b687a8b4575
+
+    * Begin : 2014/12/02 23:07:04
+    * End   : 2014/12/02 23:10:13
+    * Result: => 大妞范慧子/weipai.cn/5437816ba8640ba0548b4575
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54622670a5640b90038b4597
 
     * Begin : 2014/12/02 23:05:51
