@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 518b84148034942944000003 Elise谭晓彤
     *[urlrule] sites weipai.cn SAVE 51bab489803494d7320000cf 角落宝贝
     *[urlrule] sites weipai.cn SAVE 5300be125e7feb23168b45e0 Theonlylove
     *[urlrule] sites weipai.cn SAVE 5300be125e7feb23168b45e0 Theonlylove
@@ -50,5 +49,6 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 54302ab3a7640b490f8b4574 奈奈
     *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c 陈诗云
 * Finished:
+    * [2014/12/03 04:03:04] [urlrule] sites weipai.cn SAVE Elise谭晓彤
     * [2014/12/03 04:02:00] [urlrule] sites weipai.cn SAVE Elise谭晓彤
     * [2014/12/03 03:26:47] [urlrule] sites weipai.cn SAVE 小惡魔Linsey

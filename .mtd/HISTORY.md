@@ -1,5 +1,11 @@
 * [urlrule] sites weipai.cn SAVE Elise谭晓彤
 
+    * Begin : 2014/12/03 04:02:53
+    * End   : 2014/12/03 04:03:04
+    * Result: OK
+
+* [urlrule] sites weipai.cn SAVE Elise谭晓彤
+
     * Begin : 2014/12/03 03:28:41
     * End   : 2014/12/03 04:02:00
     * Result: OK
