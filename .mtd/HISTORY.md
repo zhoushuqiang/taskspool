@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476ee98a5640b043e8b456e
+
+    * Begin : 2014/12/02 23:16:08
+    * End   : 2014/12/02 23:16:26
+    * Result: => 何佳琪baby/weipai.cn/53a9197d803494d80fc12f85
+
+* [urlrule] sites weipai.cn add 53a9197d803494d80fc12f85 何佳琪baby
+
+    * Begin : 2014/12/02 23:16:04
+    * End   : 2014/12/02 23:16:08
+    * Result: http://www.weipai.cn/video/5476ee98a5640b043e8b456e=>[weipai.cn] 53a9197d803494d80fc12f85 (何佳琪baby) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474a670a5640b07558b458b
 
     * Begin : 2014/12/02 23:15:44
