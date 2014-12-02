@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54703136a5640bcf368b45d
+
+    * Begin : 2014/12/02 22:46:25
+    * End   : 2014/12/02 22:46:30
+    * Result: Extract information from URL failed
+
 * [urlrule] sites weipai.cn AFS http://www.weipai.cn/video/54703136a5640bcf368b45d
 
     * Begin : 2014/12/02 22:46:13

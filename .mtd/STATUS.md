@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54703136a5640bcf368b45d
     *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/5479c3f7a5640b4f5b8b4593
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5479c3f7a5640b4f5b8b4593
     *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/5479c40fa5640b535b8b4590
@@ -136,4 +135,5 @@ Tasks Status Report
     * [2014/12/02 22:16:28] [urlrule] sites vlook.cn SAVE DJ-CC
     * [2014/12/02 22:16:18] [urlrule] sites vlook.cn SAVE 桓淼淼
 * Error:
+    * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54703136a5640bcf368b45d
     * [urlrule] sites weipai.cn AFS http://www.weipai.cn/video/54703136a5640bcf368b45d
