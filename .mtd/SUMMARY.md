@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn SAVE Amanda5275
+
+    * Begin : 2014/12/02 22:11:33
+    * End   : 2014/12/02 22:16:02
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE Amanda5275
 
     * Begin : 2014/12/02 10:25:52
