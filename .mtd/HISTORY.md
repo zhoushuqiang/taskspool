@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/546b8651a5640b496b8b456a
+
+    * Begin : 2014/12/02 23:55:36
+    * End   : 2014/12/02 23:57:40
+    * Result: => 韩田稀新微拍叫韩田稀/weipai.cn/53fd4b56a8640b4e518b456d
+
+* [urlrule] sites weipai.cn add 53fd4b56a8640b4e518b456d 韩田稀新微拍叫韩田稀
+
+    * Begin : 2014/12/02 23:55:26
+    * End   : 2014/12/02 23:55:36
+    * Result: http://www.weipai.cn/video/546b8651a5640b496b8b456a=>[weipai.cn] 53fd4b56a8640b4e518b456d (韩田稀新微拍叫韩田稀) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/546f344da5640b25128b4590
 
     * Begin : 2014/12/02 23:52:51
