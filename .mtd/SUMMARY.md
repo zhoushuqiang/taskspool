@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54716f70a5640b67748b45d7
+
+    * Begin : 2014/12/02 23:23:00
+    * End   : 2014/12/02 23:25:07
+    * Result: => 陈诗云/weipai.cn/53ed0e57a6640b3d578b456c
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54736f76a5640b2b218b4593
 
     * Begin : 2014/12/02 23:20:35
