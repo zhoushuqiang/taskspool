@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 曹紫涵
+
+    * Begin : 2014/12/02 10:25:32
+    * End   : 2014/12/02 10:25:37
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 穆思旭
 
     * Begin : 2014/12/02 10:19:34

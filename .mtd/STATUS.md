@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 53c8084da6640beb528b4567 曹紫涵
     *[urlrule] sites weipai.cn SAVE Amanda5275
     *[urlrule] sites vlook.cn SAVE Amanda5275
     *[urlrule] sites vlook.cn SAVE 桓淼淼
@@ -14,6 +13,7 @@ Tasks Status Report
     *[urlrule] sites vlook.cn SAVE 北娃大王
     *[urlrule] sites weipai.cn SAVE 544ecccaa8640bca4d8b458c 丽嫂zyk
 * Finished:
+    * [2014/12/02 10:25:37] [urlrule] sites weipai.cn SAVE 曹紫涵
     * [2014/12/02 10:25:17] [urlrule] sites weipai.cn SAVE 穆思旭
     * [2014/12/02 10:19:23] [urlrule] sites weipai.cn SAVE 微拍精品福利--
     * [2014/12/02 10:18:58] [urlrule] sites weipai.cn SAVE 201411308
