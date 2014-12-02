@@ -2,8 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/52a6a1eb504a13cd2c8b4570
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/52a6a1eb504a13cd2c8b4570
     *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/52a5e1b78034943979971be0
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/52a5e1b78034943979971be0
     *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/53d66983a5640bb64d8b4571
@@ -106,7 +104,9 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5471fe73a5640bf0458b45b2
     *[urlrule] sites vlook.cn FOLLOW 桓淼淼baby  SAVE
     *[urlrule] sites weipai.cn FOLLOW 517a7b428134947b14000000 小惡魔Linsey SAVE
+    *[urlrule] sites weipai.cn FOLLOW 518b84148034942944000003 Elise谭晓彤 SAVE
 * Finished:
+    * [2014/12/02 22:42:50] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/52a6a1eb504a13cd2c8b4570
     * [2014/12/02 22:42:34] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/535b7845504a13e9518b45fc
     * [2014/12/02 22:40:05] [urlrule] sites weipai.cn SAVE 徐妍馨Mandy
     * [2014/12/02 22:36:55] [urlrule] sites weipai.cn SAVE 丽嫂zyk
@@ -126,6 +126,7 @@ Tasks Status Report
     * [2014/12/02 06:11:08] [urlrule] sites weipai.cn SAVE 小茹子
     * [2014/12/02 02:55:49] [urlrule] sites weipai.cn SAVE 李思桐儿
 * Doing Nothing:
+    * [2014/12/02 22:42:45] [urlrule] sites weipai.cn add 518b84148034942944000003 Elise谭晓彤
     * [2014/12/02 22:40:17] [urlrule] sites weipai.cn add 517a7b428134947b14000000 小惡魔Linsey
     * [2014/12/02 22:37:03] [urlrule] sites vlook.cn add 桓淼淼baby 
     * [2014/12/02 22:22:40] [urlrule] sites vlook.cn SAVE 北娃大王

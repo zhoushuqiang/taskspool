@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/52a6a1eb504a13cd2c8b4570
+
+    * Begin : 2014/12/02 22:42:45
+    * End   : 2014/12/02 22:42:50
+    * Result: => Elise谭晓彤/weipai.cn/518b84148034942944000003
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/535b7845504a13e9518b45fc
 
     * Begin : 2014/12/02 22:40:17
