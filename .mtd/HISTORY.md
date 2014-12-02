@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/546f36b6a5640bfd158b457d
+
+    * Begin : 2014/12/02 23:48:33
+    * End   : 2014/12/02 23:52:16
+    * Result: => 杨安妮宝贝/weipai.cn/536ddfcf9d67d94c418b45c0
+
+* [urlrule] sites weipai.cn add 536ddfcf9d67d94c418b45c0 杨安妮宝贝
+
+    * Begin : 2014/12/02 23:48:28
+    * End   : 2014/12/02 23:48:33
+    * Result: http://www.weipai.cn/video/546f36b6a5640bfd158b457d=>[weipai.cn] 536ddfcf9d67d94c418b45c0 (杨安妮宝贝) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/546f2f97a5640b950f8b4590
 
     * Begin : 2014/12/02 23:46:54
