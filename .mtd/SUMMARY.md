@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5471a6c5a5640bfb178b4581
+
+    * Begin : 2014/12/02 23:32:08
+    * End   : 2014/12/02 23:33:42
+    * Result: => 徐美儿/weipai.cn/52f32c2677d3cc22398b456b
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5471faffa5640bce458b456c
 
     * Begin : 2014/12/02 23:30:14
