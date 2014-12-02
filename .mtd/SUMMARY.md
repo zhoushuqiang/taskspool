@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475832ea5640b775c8b4586
+
+    * Begin : 2014/12/02 22:51:09
+    * End   : 2014/12/02 22:52:24
+    * Result: => 你懂我么小娘/weipai.cn/53fea906a5640b98368b456f
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5479c40fa5640b535b8b4590
 
     * Begin : 2014/12/02 22:49:11
