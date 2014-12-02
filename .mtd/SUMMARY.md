@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 雯子蜜
+
+    * Begin : 2014/12/02 09:28:38
+    * End   : 2014/12/02 10:00:10
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 林夕baby123
 
     * Begin : 2014/12/02 09:24:03
