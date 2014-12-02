@@ -2,10 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn FOLLOW 53ed0e57a6640b3d578b456c 陈诗云 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 5400e211a6640b5f158b4570 QinQinW SAVE
-    *[urlrule] sites weipai.cn FOLLOW 53ed0e57a6640b3d578b456c 陈诗云 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 54616d24a8640b8a678b456e 姐又内涵了 SAVE
     *[urlrule] sites weipai.cn FOLLOW 535f39ba4f4a13ab088b457d 白日不湿 SAVE
     *[urlrule] sites weipai.cn FOLLOW 535f39ba4f4a13ab088b457d 白日不湿 SAVE
     *[urlrule] sites weipai.cn FOLLOW 535f39ba4f4a13ab088b457d 白日不湿 SAVE
@@ -52,7 +48,12 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c 陈诗云
     *[urlrule] sites weipai.cn SAVE 53a9197d803494d80fc12f85 何佳琪baby
     *[urlrule] sites weipai.cn SAVE 52d5b8acc58a87a45aa1e64c 妮妮love
+    *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c 陈诗云
+    *[urlrule] sites weipai.cn SAVE 5400e211a6640b5f158b4570 QinQinW
+    *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c 陈诗云
+    *[urlrule] sites weipai.cn SAVE 54616d24a8640b8a678b456e 姐又内涵了
 * Finished:
+    * [2014/12/03 00:09:25] [urlrule] sites weipai.cn follow 54616d24a8640b8a678b456e 姐又内涵了
     * [2014/12/03 00:09:18] [urlrule] sites weipai.cn follow 52d5b8acc58a87a45aa1e64c 妮妮love
     * [2014/12/03 00:09:12] [urlrule] sites weipai.cn follow 53a9197d803494d80fc12f85 何佳琪baby
     * [2014/12/03 00:09:05] [urlrule] sites weipai.cn follow 50274a227f349423710001e2 SpookyG
@@ -128,6 +129,9 @@ Tasks Status Report
     * [2014/12/02 06:11:08] [urlrule] sites weipai.cn SAVE 小茹子
     * [2014/12/02 02:55:49] [urlrule] sites weipai.cn SAVE 李思桐儿
 * Doing Nothing:
+    * [2014/12/03 00:09:25] [urlrule] sites weipai.cn follow 53ed0e57a6640b3d578b456c 陈诗云
+    * [2014/12/03 00:09:25] [urlrule] sites weipai.cn follow 5400e211a6640b5f158b4570 QinQinW
+    * [2014/12/03 00:09:25] [urlrule] sites weipai.cn follow 53ed0e57a6640b3d578b456c 陈诗云
     * [2014/12/03 00:09:12] [urlrule] sites weipai.cn follow 53ed0e57a6640b3d578b456c 陈诗云
     * [2014/12/03 00:09:12] [urlrule] sites weipai.cn follow 52dd823bebeddbea038b4632 林夕baby
     * [2014/12/03 00:09:11] [urlrule] sites weipai.cn follow 5331a3749d67d9b5348b45c6 铁粉1号

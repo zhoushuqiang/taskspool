@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn follow 54616d24a8640b8a678b456e 姐又内涵了
+
+    * Begin : 2014/12/03 00:09:25
+    * End   : 2014/12/03 00:09:25
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 53ed0e57a6640b3d578b456c 陈诗云
+
+    * Begin : 2014/12/03 00:09:25
+    * End   : 2014/12/03 00:09:25
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 5400e211a6640b5f158b4570 QinQinW
+
+    * Begin : 2014/12/03 00:09:25
+    * End   : 2014/12/03 00:09:25
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 53ed0e57a6640b3d578b456c 陈诗云
+
+    * Begin : 2014/12/03 00:09:24
+    * End   : 2014/12/03 00:09:25
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 52d5b8acc58a87a45aa1e64c 妮妮love
 
     * Begin : 2014/12/03 00:09:18
