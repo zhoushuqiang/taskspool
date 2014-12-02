@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 517a7b428134947b14000000 小惡魔Linsey
+
+    * Begin : 2014/12/03 00:08:25
+    * End   : 2014/12/03 00:08:26
+    * Result: OK
+
 * [urlrule] sites vlook.cn follow 桓淼淼baby 
 
     * Begin : 2014/12/03 00:08:16

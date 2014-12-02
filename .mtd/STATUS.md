@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn FOLLOW 517a7b428134947b14000000 小惡魔Linsey SAVE
     *[urlrule] sites weipai.cn FOLLOW 518b84148034942944000003 Elise谭晓彤 SAVE
     *[urlrule] sites weipai.cn FOLLOW 518b84148034942944000003 Elise谭晓彤 SAVE
     *[urlrule] sites weipai.cn FOLLOW 51bab489803494d7320000cf 角落宝贝 SAVE
@@ -52,7 +51,9 @@ Tasks Status Report
     *[urlrule] sites weipai.cn FOLLOW 54302ab3a7640b490f8b4574 奈奈 SAVE
     *[urlrule] sites weipai.cn FOLLOW 53ed0e57a6640b3d578b456c 陈诗云 SAVE
     *[urlrule] sites vlook.cn SAVE 桓淼淼baby 
+    *[urlrule] sites weipai.cn SAVE 517a7b428134947b14000000 小惡魔Linsey
 * Finished:
+    * [2014/12/03 00:08:26] [urlrule] sites weipai.cn follow 517a7b428134947b14000000 小惡魔Linsey
     * [2014/12/03 00:08:17] [urlrule] sites vlook.cn follow 桓淼淼baby 
     * [2014/12/03 00:08:10] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5471fe73a5640bf0458b45b2
     * [2014/12/03 00:07:07] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/546b790da5640bbb5a8b456d
