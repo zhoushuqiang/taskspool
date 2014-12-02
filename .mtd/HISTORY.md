@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547c7a36a5640baf608b45b5
+
+    * Begin : 2014/12/02 23:14:33
+    * End   : 2014/12/02 23:15:33
+    * Result: Extract information from URL failed
+
+* [urlrule] sites weipai.cn add 52dd823bebeddbea038b4632 林夕baby
+
+    * Begin : 2014/12/02 23:14:29
+    * End   : 2014/12/02 23:14:33
+    * Result: http://www.weipai.cn/video/547c7a36a5640baf608b45b5=>[weipai.cn] 52dd823bebeddbea038b4632 (林夕baby) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547c1bbaa5640b612c8b45ad
 
     * Begin : 2014/12/02 23:13:16
