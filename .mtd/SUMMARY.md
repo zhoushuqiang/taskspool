@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 536ddfcf9d67d94c418b45c0 杨安妮宝贝
+
+    * Begin : 2014/12/03 00:09:52
+    * End   : 2014/12/03 00:09:52
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 52e3440f78d3cc446d8b4567 2014080137
 
     * Begin : 2014/12/03 00:09:45
