@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5479c40fa5640b535b8b4590
+
+    * Begin : 2014/12/02 22:49:11
+    * End   : 2014/12/02 22:50:58
+    * Result: => Theonlylove/weipai.cn/5300be125e7feb23168b45e0
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5479c3f7a5640b4f5b8b4593
 
     * Begin : 2014/12/02 22:46:39
