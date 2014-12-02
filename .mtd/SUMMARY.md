@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn follow 桓淼淼baby 
+
+    * Begin : 2014/12/03 00:08:16
+    * End   : 2014/12/03 00:08:17
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5471fe73a5640bf0458b45b2
 
     * Begin : 2014/12/03 00:07:20
