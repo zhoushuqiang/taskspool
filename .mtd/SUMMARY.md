@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 201411308
+
+    * Begin : 2014/12/02 10:11:03
+    * End   : 2014/12/02 10:18:58
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 韩田稀
 
     * Begin : 2014/12/02 10:00:18
