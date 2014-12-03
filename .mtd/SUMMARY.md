@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 你懂我么小娘
+
+    * Begin : 2014/12/04 02:14:28
+    * End   : 2014/12/04 02:21:54
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE Theonlylove
 
     * Begin : 2014/12/04 02:10:59

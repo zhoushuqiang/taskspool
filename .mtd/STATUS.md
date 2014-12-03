@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 53fea906a5640b98368b456f 你懂我么小娘
     *[urlrule] sites weipai.cn SAVE 53aafe0aebeddb0b468b4569 曼丽LXL
     *[urlrule] sites weipai.cn SAVE 5277f433813494257c2eb0c6 神仙姐姐__艾溪
     *[urlrule] sites weipai.cn SAVE 5277f433813494257c2eb0c6 神仙姐姐__艾溪
@@ -46,6 +45,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 54302ab3a7640b490f8b4574 奈奈
     *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c 陈诗云
 * Finished:
+    * [2014/12/04 02:21:54] [urlrule] sites weipai.cn SAVE 你懂我么小娘
     * [2014/12/04 02:14:22] [urlrule] sites weipai.cn SAVE Theonlylove
     * [2014/12/04 02:10:25] [urlrule] sites weipai.cn SAVE Theonlylove
     * [2014/12/03 04:03:04] [urlrule] sites weipai.cn SAVE Elise谭晓彤
