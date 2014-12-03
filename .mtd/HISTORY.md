@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 曼丽LXL
+
+    * Begin : 2014/12/04 02:22:02
+    * End   : 2014/12/04 02:50:50
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 你懂我么小娘
 
     * Begin : 2014/12/04 02:14:28
