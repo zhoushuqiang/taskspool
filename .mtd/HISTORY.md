@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVE Theonlylove
+
+    * Begin : 2014/12/03 04:05:02
+    * End   : 2014/12/04 02:10:25
+    * Result: OK
+
+* [urlrule] sites weipai.cn SAVE 角落宝贝
+
+    * Begin : 2014/12/03 04:04:59
+    * End   : 2014/12/03 04:05:02
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn SAVE Elise谭晓彤
 
     * Begin : 2014/12/03 04:02:53
