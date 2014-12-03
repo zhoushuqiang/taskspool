@@ -1,5 +1,11 @@
 * [urlrule] sites weipai.cn SAVE 铁粉1号
 
+    * Begin : 2014/12/04 03:48:24
+    * End   : 2014/12/04 03:48:25
+    * Result: OK
+
+* [urlrule] sites weipai.cn SAVE 铁粉1号
+
     * Begin : 2014/12/04 02:58:41
     * End   : 2014/12/04 03:47:44
     * Result: OK
