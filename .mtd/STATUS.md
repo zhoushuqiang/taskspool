@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 5400e211a6640b5f158b4570 QinQinW
     *[urlrule] sites weipai.cn SAVE 52d0e09de34167b7498b457c 北娃大王
     *[urlrule] sites weipai.cn SAVE 5437816ba8640ba0548b4575 大妞范慧子
     *[urlrule] sites weipai.cn SAVE 50274a227f349423710001e2 SpookyG
@@ -39,6 +38,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 54302ab3a7640b490f8b4574 奈奈
     *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c 陈诗云
 * Finished:
+    * [2014/12/04 04:09:29] [urlrule] sites weipai.cn SAVE QinQinW
     * [2014/12/04 03:48:25] [urlrule] sites weipai.cn SAVE 铁粉1号
     * [2014/12/04 03:47:44] [urlrule] sites weipai.cn SAVE 铁粉1号
     * [2014/12/04 02:58:34] [urlrule] sites weipai.cn SAVE 神仙姐姐__艾溪
