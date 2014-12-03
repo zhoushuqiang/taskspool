@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 神仙姐姐__艾溪
+
+    * Begin : 2014/12/04 02:50:56
+    * End   : 2014/12/04 02:58:17
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 曼丽LXL
 
     * Begin : 2014/12/04 02:22:02
