@@ -3,7 +3,6 @@ Tasks Status Report
 
 * Pendings:
     *[urlrule] sites weipai.cn SAVE 5277f433813494257c2eb0c6 神仙姐姐__艾溪
-    *[urlrule] sites weipai.cn SAVE 5277f433813494257c2eb0c6 神仙姐姐__艾溪
     *[urlrule] sites weipai.cn SAVE 5331a3749d67d9b5348b45c6 铁粉1号
     *[urlrule] sites weipai.cn SAVE 5331a3749d67d9b5348b45c6 铁粉1号
     *[urlrule] sites weipai.cn SAVE 5400e211a6640b5f158b4570 QinQinW
@@ -43,6 +42,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 54302ab3a7640b490f8b4574 奈奈
     *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c 陈诗云
 * Finished:
+    * [2014/12/04 02:58:25] [urlrule] sites weipai.cn SAVE 神仙姐姐__艾溪
     * [2014/12/04 02:58:17] [urlrule] sites weipai.cn SAVE 神仙姐姐__艾溪
     * [2014/12/04 02:50:50] [urlrule] sites weipai.cn SAVE 曼丽LXL
     * [2014/12/04 02:21:54] [urlrule] sites weipai.cn SAVE 你懂我么小娘
