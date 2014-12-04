@@ -1,3 +1,8 @@
+* [urlrule] sites weipai.cn SAVE 北娃大王
+
+    * Begin : 2014/12/04 04:09:38
+    * Result: PENDING
+
 * [urlrule] sites weipai.cn SAVE QinQinW
 
     * Begin : 2014/12/04 03:48:32
