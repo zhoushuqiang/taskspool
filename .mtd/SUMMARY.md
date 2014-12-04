@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 陈诗云
+
+    * Begin : 2014/12/04 22:44:34
+    * End   : 2014/12/05 07:04:31
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 林夕baby
 
     * Begin : 2014/12/04 22:41:50
