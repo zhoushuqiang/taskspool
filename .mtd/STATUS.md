@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 52d0e09de34167b7498b457c 北娃大王
     *[urlrule] sites weipai.cn SAVE 5437816ba8640ba0548b4575 大妞范慧子
     *[urlrule] sites weipai.cn SAVE 50274a227f349423710001e2 SpookyG
     *[urlrule] sites weipai.cn SAVE 5331a3749d67d9b5348b45c6 铁粉1号
@@ -38,18 +37,4 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 54302ab3a7640b490f8b4574 奈奈
     *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c 陈诗云
 * Finished:
-    * [2014/12/04 04:09:29] [urlrule] sites weipai.cn SAVE QinQinW
-    * [2014/12/04 03:48:25] [urlrule] sites weipai.cn SAVE 铁粉1号
-    * [2014/12/04 03:47:44] [urlrule] sites weipai.cn SAVE 铁粉1号
-    * [2014/12/04 02:58:34] [urlrule] sites weipai.cn SAVE 神仙姐姐__艾溪
-    * [2014/12/04 02:58:25] [urlrule] sites weipai.cn SAVE 神仙姐姐__艾溪
-    * [2014/12/04 02:58:17] [urlrule] sites weipai.cn SAVE 神仙姐姐__艾溪
-    * [2014/12/04 02:50:50] [urlrule] sites weipai.cn SAVE 曼丽LXL
-    * [2014/12/04 02:21:54] [urlrule] sites weipai.cn SAVE 你懂我么小娘
-    * [2014/12/04 02:14:22] [urlrule] sites weipai.cn SAVE Theonlylove
-    * [2014/12/04 02:10:25] [urlrule] sites weipai.cn SAVE Theonlylove
-    * [2014/12/03 04:03:04] [urlrule] sites weipai.cn SAVE Elise谭晓彤
-    * [2014/12/03 04:02:00] [urlrule] sites weipai.cn SAVE Elise谭晓彤
-    * [2014/12/03 03:26:47] [urlrule] sites weipai.cn SAVE 小惡魔Linsey
-* Doing Nothing:
-    * [2014/12/03 04:05:02] [urlrule] sites weipai.cn SAVE 角落宝贝
+    * [2014/12/04 21:59:36] [urlrule] sites weipai.cn SAVE 北娃大王
