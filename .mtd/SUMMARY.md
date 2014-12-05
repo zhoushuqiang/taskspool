@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 何佳琪baby
+
+    * Begin : 2014/12/05 07:10:14
+    * End   : 2014/12/06 02:30:59
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 陈诗云
 
     * Begin : 2014/12/04 22:44:34
