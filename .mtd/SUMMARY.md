@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 5477d735a5640b8f398b458b 屌丝福利小清新
+
+    * Begin : 2014/12/07 01:21:19
+    * End   : 2014/12/07 01:21:19
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 52d7ccd7e3416762318b4585 夏美熙泽
 
     * Begin : 2014/12/07 01:21:12
