@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 内涵姐姐
+
+    * Begin : 2014/12/06 22:43:12
+    * End   : 2014/12/06 22:48:11
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 韩田稀新微拍叫韩田稀
 
     * Begin : 2014/12/06 22:24:49
