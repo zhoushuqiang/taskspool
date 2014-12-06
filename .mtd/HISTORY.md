@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/535d26da803494821c03952c
+
+    * Begin : 2014/12/07 01:14:51
+    * End   : 2014/12/07 01:17:13
+    * Result: => 夏美熙泽/weipai.cn/52d7ccd7e3416762318b4585
+
+* [urlrule] sites weipai.cn add 52d7ccd7e3416762318b4585 夏美熙泽
+
+    * Begin : 2014/12/07 01:14:50
+    * End   : 2014/12/07 01:14:51
+    * Result: http://www.weipai.cn/video/535d26da803494821c03952c=>[weipai.cn] 52d7ccd7e3416762318b4585 (夏美熙泽) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547e0a2aa5640b2e1d8b45ad
 
     * Begin : 2014/12/07 01:13:58
