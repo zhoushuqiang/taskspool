@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 52d7ccd7e3416762318b4585 夏美熙泽
+
+    * Begin : 2014/12/07 01:21:12
+    * End   : 2014/12/07 01:21:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 546ac171a5640b62678b457a 硬伦X妹
 
     * Begin : 2014/12/07 01:21:04

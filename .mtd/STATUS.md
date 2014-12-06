@@ -2,13 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn FOLLOW 53f7baf7a7640bb9268b456f Lulu罗小鹿 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 532d69324f4a1366588b45f7 倩倩baby SAVE
-    *[urlrule] sites weipai.cn FOLLOW 533fd7f54f4a1365418b4567 我是伊一baby SAVE
-    *[urlrule] sites weipai.cn FOLLOW 51fa57ba7f3494ea70000000 陈美琳Mandy SAVE
-    *[urlrule] sites weipai.cn FOLLOW 51f2952f7f3494081c000002 Diva_狄娃 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 53ed0e57a6640b3d578b456c 陈诗云 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 52d7ccd7e3416762318b4585 夏美熙泽 SAVE
     *[urlrule] sites weipai.cn FOLLOW 541e8df9a8640b0b568b4578 丝绸裹着性感2 SAVE
     *[urlrule] sites weipai.cn FOLLOW 5477d735a5640b8f398b458b 屌丝福利小清新 SAVE
     *[urlrule] sites weipai.cn FOLLOW 538faab34f4a13f2798b4567 Baby瑶瑶 SAVE
@@ -30,7 +23,15 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 5434d972a6640bab078b457e 70后米米妈丫
     *[urlrule] sites weipai.cn SAVE 529209efc58a87f14530e526 Dj_kelly
     *[urlrule] sites weipai.cn SAVE 546ac171a5640b62678b457a 硬伦X妹
+    *[urlrule] sites weipai.cn SAVE 53f7baf7a7640bb9268b456f Lulu罗小鹿
+    *[urlrule] sites weipai.cn SAVE 532d69324f4a1366588b45f7 倩倩baby
+    *[urlrule] sites weipai.cn SAVE 533fd7f54f4a1365418b4567 我是伊一baby
+    *[urlrule] sites weipai.cn SAVE 51fa57ba7f3494ea70000000 陈美琳Mandy
+    *[urlrule] sites weipai.cn SAVE 51f2952f7f3494081c000002 Diva_狄娃
+    *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c 陈诗云
+    *[urlrule] sites weipai.cn SAVE 52d7ccd7e3416762318b4585 夏美熙泽
 * Finished:
+    * [2014/12/07 01:21:12] [urlrule] sites weipai.cn follow 52d7ccd7e3416762318b4585 夏美熙泽
     * [2014/12/07 01:21:04] [urlrule] sites weipai.cn follow 546ac171a5640b62678b457a 硬伦X妹
     * [2014/12/07 01:20:57] [urlrule] sites weipai.cn follow 5212faa6803494f10769b455 王丹妮baby
     * [2014/12/07 01:20:50] [urlrule] sites weipai.cn follow 51a975cb5a8e878c5e000009 小雅果子
@@ -102,6 +103,12 @@ Tasks Status Report
     * [2014/12/04 22:02:19] [urlrule] sites weipai.cn SAVE 大妞范慧子
     * [2014/12/04 21:59:36] [urlrule] sites weipai.cn SAVE 北娃大王
 * Doing Nothing:
+    * [2014/12/07 01:21:12] [urlrule] sites weipai.cn follow 53ed0e57a6640b3d578b456c 陈诗云
+    * [2014/12/07 01:21:12] [urlrule] sites weipai.cn follow 51f2952f7f3494081c000002 Diva_狄娃
+    * [2014/12/07 01:21:11] [urlrule] sites weipai.cn follow 51fa57ba7f3494ea70000000 陈美琳Mandy
+    * [2014/12/07 01:21:11] [urlrule] sites weipai.cn follow 533fd7f54f4a1365418b4567 我是伊一baby
+    * [2014/12/07 01:21:11] [urlrule] sites weipai.cn follow 532d69324f4a1366588b45f7 倩倩baby
+    * [2014/12/07 01:21:10] [urlrule] sites weipai.cn follow 53f7baf7a7640bb9268b456f Lulu罗小鹿
     * [2014/12/07 01:21:04] [urlrule] sites weipai.cn follow 529209efc58a87f14530e526 Dj_kelly
     * [2014/12/07 01:21:04] [urlrule] sites weipai.cn follow 5434d972a6640bab078b457e 70后米米妈丫
     * [2014/12/07 01:21:03] [urlrule] sites weipai.cn follow 531f42969d67d9df5f8b4568 麦子OR大麦子

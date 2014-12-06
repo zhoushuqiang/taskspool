@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn follow 52d7ccd7e3416762318b4585 夏美熙泽
+
+    * Begin : 2014/12/07 01:21:12
+    * End   : 2014/12/07 01:21:12
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 53ed0e57a6640b3d578b456c 陈诗云
+
+    * Begin : 2014/12/07 01:21:12
+    * End   : 2014/12/07 01:21:12
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 51f2952f7f3494081c000002 Diva_狄娃
+
+    * Begin : 2014/12/07 01:21:11
+    * End   : 2014/12/07 01:21:12
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 51fa57ba7f3494ea70000000 陈美琳Mandy
+
+    * Begin : 2014/12/07 01:21:11
+    * End   : 2014/12/07 01:21:11
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 533fd7f54f4a1365418b4567 我是伊一baby
+
+    * Begin : 2014/12/07 01:21:11
+    * End   : 2014/12/07 01:21:11
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 532d69324f4a1366588b45f7 倩倩baby
+
+    * Begin : 2014/12/07 01:21:10
+    * End   : 2014/12/07 01:21:11
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 53f7baf7a7640bb9268b456f Lulu罗小鹿
+
+    * Begin : 2014/12/07 01:21:10
+    * End   : 2014/12/07 01:21:10
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 546ac171a5640b62678b457a 硬伦X妹
 
     * Begin : 2014/12/07 01:21:04
