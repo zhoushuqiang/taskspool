@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 姐又内涵了
+
+    * Begin : 2014/12/06 16:44:11
+    * End   : 2014/12/06 17:00:59
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 陈诗云
 
     * Begin : 2014/12/06 16:43:24

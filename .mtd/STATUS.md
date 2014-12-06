@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 54616d24a8640b8a678b456e 姐又内涵了
     *[urlrule] sites weipai.cn SAVE 535f39ba4f4a13ab088b457d 白日不湿
     *[urlrule] sites weipai.cn SAVE 535f39ba4f4a13ab088b457d 白日不湿
     *[urlrule] sites weipai.cn SAVE 535f39ba4f4a13ab088b457d 白日不湿
@@ -27,6 +26,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 54302ab3a7640b490f8b4574 奈奈
     *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c 陈诗云
 * Finished:
+    * [2014/12/06 17:00:59] [urlrule] sites weipai.cn SAVE 姐又内涵了
     * [2014/12/06 16:43:42] [urlrule] sites weipai.cn SAVE 陈诗云
     * [2014/12/06 16:42:26] [urlrule] sites weipai.cn SAVE QinQinW
     * [2014/12/06 16:32:09] [urlrule] sites weipai.cn SAVE 陈诗云
