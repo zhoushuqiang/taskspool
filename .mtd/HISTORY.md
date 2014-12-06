@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547d687fa5640b95738b4578
+
+    * Begin : 2014/12/07 01:01:15
+    * End   : 2014/12/07 01:01:21
+    * Result: => 他不懂我的xin/weipai.cn/547d2d58a7640bcf748b458c
+
+* [urlrule] sites weipai.cn add 547d2d58a7640bcf748b458c 他不懂我的xin
+
+    * Begin : 2014/12/07 01:01:14
+    * End   : 2014/12/07 01:01:15
+    * Result: http://www.weipai.cn/video/547d687fa5640b95738b4578=>[weipai.cn] 547d2d58a7640bcf748b458c (他不懂我的xin) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547dc058a5640b513c8b458f
 
     * Begin : 2014/12/07 01:00:55
