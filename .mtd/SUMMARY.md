@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 洛可馨
+
+    * Begin : 2014/12/07 02:56:58
+    * End   : 2014/12/07 03:00:17
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 张若兰
 
     * Begin : 2014/12/07 02:19:30
