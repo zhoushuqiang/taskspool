@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547df914a5640bb00f8b4593
+
+    * Begin : 2014/12/06 22:51:59
+    * End   : 2014/12/07 00:55:22
+    * Result: => 尤物大王/weipai.cn/53988e82803494005d8f6b14
+
 * [urlrule] sites weipai.cn SAVE 陈诗云
 
     * Begin : 2014/12/06 22:51:49

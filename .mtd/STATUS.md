@@ -1,7 +1,64 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/547d8d57a5640b4e028b45ba
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547d8d57a5640b4e028b45ba
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/547dc5a3a5640bcf428b45a5
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547dc5a3a5640bcf428b45a5
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/541291caa5640baa0e8b45a0
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/541291caa5640baa0e8b45a0
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/547e113ba5640b66248b4577
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547e113ba5640b66248b4577
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/5471b15aa5640b7b1d8b456c
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5471b15aa5640b7b1d8b456c
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/547df751a5640b680a8b45a6
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547df751a5640b680a8b45a6
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/547dc058a5640b513c8b458f
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547dc058a5640b513c8b458f
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/547d687fa5640b95738b4578
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547d687fa5640b95738b4578
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/54783aa0a5640bb36a8b45d2
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54783aa0a5640bb36a8b45d2
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/54456927a5640b823b8b4568
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54456927a5640b823b8b4568
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/536de395504a13991d8b4568
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/536de395504a13991d8b4568
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/5479f210a5640bd1758b45b2
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5479f210a5640bd1758b45b2
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/53d07efadec39f767f8b45e1
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/53d07efadec39f767f8b45e1
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/54763305a5640b47468b458d
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54763305a5640b47468b458d
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/546ca560a5640bcf0f8b456b
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/546ca560a5640bcf0f8b456b
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/54357329a5640b21038b456f
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54357329a5640b21038b456f
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/54794712a5640be1148b458c
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54794712a5640be1148b458c
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/5415698aa5640be47b8b456d
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5415698aa5640be47b8b456d
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/547e0f42a5640bf8238b4574
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547e0f42a5640bf8238b4574
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/5451dd63a5640baa458b4595
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5451dd63a5640baa458b4595
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/5476f3aca5640b46398b45d4
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476f3aca5640b46398b45d4
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/5479aa67a5640be9478b45a2
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5479aa67a5640be9478b45a2
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/547e0a2aa5640b2e1d8b45ad
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547e0a2aa5640b2e1d8b45ad
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/535d26da803494821c03952c
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/535d26da803494821c03952c
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/547abdaaa5640b1e718b45a8
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547abdaaa5640b1e718b45a8
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/547abfe8a5640b36718b45b4
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547abfe8a5640b36718b45b4
+    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/547da1eda5640bf2148b4568
+    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547da1eda5640bf2148b4568
+    *[urlrule] sites weipai.cn FOLLOW 53988e82803494005d8f6b14 尤物大王 SAVE
 * Finished:
+    * [2014/12/07 00:55:22] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547df914a5640bb00f8b4593
     * [2014/12/06 22:51:50] [urlrule] sites weipai.cn SAVE 陈诗云
     * [2014/12/06 22:51:42] [urlrule] sites weipai.cn SAVE 奈奈
     * [2014/12/06 22:51:35] [urlrule] sites weipai.cn SAVE 奈奈
@@ -37,3 +94,5 @@ Tasks Status Report
     * [2014/12/04 22:39:42] [urlrule] sites weipai.cn SAVE SpookyG
     * [2014/12/04 22:02:19] [urlrule] sites weipai.cn SAVE 大妞范慧子
     * [2014/12/04 21:59:36] [urlrule] sites weipai.cn SAVE 北娃大王
+* Doing Nothing:
+    * [2014/12/06 22:51:59] [urlrule] sites weipai.cn add 53988e82803494005d8f6b14 尤物大王
