@@ -1,5 +1,11 @@
 * [urlrule] sites weipai.cn SAVE 奈奈
 
+    * Begin : 2014/12/06 22:51:42
+    * End   : 2014/12/06 22:51:42
+    * Result: OK
+
+* [urlrule] sites weipai.cn SAVE 奈奈
+
     * Begin : 2014/12/06 22:50:39
     * End   : 2014/12/06 22:51:35
     * Result: OK
