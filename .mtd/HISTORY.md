@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 陈语乔
+
+    * Begin : 2014/12/06 17:57:40
+    * End   : 2014/12/06 18:00:04
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 徐美儿
 
     * Begin : 2014/12/06 17:56:52
