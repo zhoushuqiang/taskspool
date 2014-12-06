@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 514eca76803494b723000006 张若兰
     *[urlrule] sites weipai.cn SAVE 53f5690ea7640b91338b4574 洛可馨
     *[urlrule] sites weipai.cn SAVE 52bd2988e3416771688b45b0 瞄小婷
     *[urlrule] sites weipai.cn SAVE 50e178df7f3494ae0c0000ff 辣妈ai美丽
@@ -29,6 +28,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 5477d735a5640b8f398b458b 屌丝福利小清新
     *[urlrule] sites weipai.cn SAVE 538faab34f4a13f2798b4567 Baby瑶瑶
 * Finished:
+    * [2014/12/07 02:56:50] [urlrule] sites weipai.cn SAVE 张若兰
     * [2014/12/07 02:19:22] [urlrule] sites weipai.cn SAVE 高尚kiko
     * [2014/12/07 01:22:13] [urlrule] sites weipai.cn SAVE 尤物大王
     * [2014/12/07 01:21:26] [urlrule] sites weipai.cn follow 538faab34f4a13f2798b4567 Baby瑶瑶

@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 张若兰
+
+    * Begin : 2014/12/07 02:19:30
+    * End   : 2014/12/07 02:56:50
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 高尚kiko
 
     * Begin : 2014/12/07 01:22:19
