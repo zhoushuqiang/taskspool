@@ -2,8 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/547abfe8a5640b36718b45b4
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547abfe8a5640b36718b45b4
     *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/547da1eda5640bf2148b4568
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547da1eda5640bf2148b4568
     *[urlrule] sites weipai.cn FOLLOW 53988e82803494005d8f6b14 尤物大王 SAVE
@@ -32,7 +30,9 @@ Tasks Status Report
     *[urlrule] sites weipai.cn FOLLOW 53ed0e57a6640b3d578b456c 陈诗云 SAVE
     *[urlrule] sites weipai.cn FOLLOW 52d7ccd7e3416762318b4585 夏美熙泽 SAVE
     *[urlrule] sites weipai.cn FOLLOW 541e8df9a8640b0b568b4578 丝绸裹着性感2 SAVE
+    *[urlrule] sites weipai.cn FOLLOW 5477d735a5640b8f398b458b 屌丝福利小清新 SAVE
 * Finished:
+    * [2014/12/07 01:19:28] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547abfe8a5640b36718b45b4
     * [2014/12/07 01:19:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547abdaaa5640b1e718b45a8
     * [2014/12/07 01:17:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/535d26da803494821c03952c
     * [2014/12/07 01:14:44] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547e0a2aa5640b2e1d8b45ad
@@ -95,6 +95,7 @@ Tasks Status Report
     * [2014/12/04 22:02:19] [urlrule] sites weipai.cn SAVE 大妞范慧子
     * [2014/12/04 21:59:36] [urlrule] sites weipai.cn SAVE 北娃大王
 * Doing Nothing:
+    * [2014/12/07 01:19:21] [urlrule] sites weipai.cn add 5477d735a5640b8f398b458b 屌丝福利小清新
     * [2014/12/07 01:17:21] [urlrule] sites weipai.cn add 541e8df9a8640b0b568b4578 丝绸裹着性感2
     * [2014/12/07 01:14:51] [urlrule] sites weipai.cn add 52d7ccd7e3416762318b4585 夏美熙泽
     * [2014/12/07 01:13:58] [urlrule] sites weipai.cn add 53ed0e57a6640b3d578b456c 陈诗云

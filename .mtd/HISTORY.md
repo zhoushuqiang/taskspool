@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547abfe8a5640b36718b45b4
+
+    * Begin : 2014/12/07 01:19:21
+    * End   : 2014/12/07 01:19:28
+    * Result: => 屌丝福利小清新/weipai.cn/5477d735a5640b8f398b458b
+
+* [urlrule] sites weipai.cn add 5477d735a5640b8f398b458b 屌丝福利小清新
+
+    * Begin : 2014/12/07 01:19:20
+    * End   : 2014/12/07 01:19:21
+    * Result: http://www.weipai.cn/video/547abfe8a5640b36718b45b4=>[weipai.cn] 5477d735a5640b8f398b458b (屌丝福利小清新) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547abdaaa5640b1e718b45a8
 
     * Begin : 2014/12/07 01:17:21
