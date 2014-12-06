@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 杨安妮宝贝
+
+    * Begin : 2014/12/06 21:05:00
+    * End   : 2014/12/06 22:22:22
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 2014080137
 
     * Begin : 2014/12/06 21:04:47

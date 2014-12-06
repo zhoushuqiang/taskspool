@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 536ddfcf9d67d94c418b45c0 杨安妮宝贝
     *[urlrule] sites weipai.cn SAVE 5277f433813494257c2eb0c6 神仙姐姐__艾溪
     *[urlrule] sites weipai.cn SAVE 546a0312a8640b03658b4582 忧伤的黄瓜1
     *[urlrule] sites weipai.cn SAVE 53fd4b56a8640b4e518b456d 韩田稀新微拍叫韩田稀
@@ -15,6 +14,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 54302ab3a7640b490f8b4574 奈奈
     *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c 陈诗云
 * Finished:
+    * [2014/12/06 22:22:22] [urlrule] sites weipai.cn SAVE 杨安妮宝贝
     * [2014/12/06 21:04:53] [urlrule] sites weipai.cn SAVE 2014080137
     * [2014/12/06 21:04:19] [urlrule] sites weipai.cn SAVE 2014080137
     * [2014/12/06 18:04:15] [urlrule] sites weipai.cn SAVE 莫小尤
