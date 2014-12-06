@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 尤物大王
+
+    * Begin : 2014/12/07 01:21:32
+    * End   : 2014/12/07 01:22:13
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 538faab34f4a13f2798b4567 Baby瑶瑶
 
     * Begin : 2014/12/07 01:21:25
