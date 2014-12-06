@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 51a975cb5a8e878c5e000009 小雅果子
+
+    * Begin : 2014/12/07 01:20:50
+    * End   : 2014/12/07 01:20:50
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 547d2d58a7640bcf748b458c 他不懂我的xin
 
     * Begin : 2014/12/07 01:20:43

@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn follow 51a975cb5a8e878c5e000009 小雅果子
+
+    * Begin : 2014/12/07 01:20:50
+    * End   : 2014/12/07 01:20:50
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 50e7e03d7f34941f32000015 Abbymiki
+
+    * Begin : 2014/12/07 01:20:50
+    * End   : 2014/12/07 01:20:50
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 546c58f7a8640be32f8b457d 张栩菲-ManGo
+
+    * Begin : 2014/12/07 01:20:49
+    * End   : 2014/12/07 01:20:50
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 547d2d58a7640bcf748b458c 他不懂我的xin
 
     * Begin : 2014/12/07 01:20:43
