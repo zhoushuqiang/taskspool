@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 53988e82803494005d8f6b14 尤物大王
+
+    * Begin : 2014/12/07 01:20:21
+    * End   : 2014/12/07 01:20:21
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547da1eda5640bf2148b4568
 
     * Begin : 2014/12/07 01:19:36
