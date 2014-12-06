@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/536de395504a13991d8b4568
+
+    * Begin : 2014/12/07 01:02:07
+    * End   : 2014/12/07 01:02:33
+    * Result: => 小雅果子/weipai.cn/51a975cb5a8e878c5e000009
+
+* [urlrule] sites weipai.cn add 51a975cb5a8e878c5e000009 小雅果子
+
+    * Begin : 2014/12/07 01:02:06
+    * End   : 2014/12/07 01:02:07
+    * Result: http://www.weipai.cn/video/536de395504a13991d8b4568=>[weipai.cn] 51a975cb5a8e878c5e000009 (小雅果子) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54456927a5640b823b8b4568
 
     * Begin : 2014/12/07 01:01:58
