@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 徐美儿
+
+    * Begin : 2014/12/06 17:56:52
+    * End   : 2014/12/06 17:57:33
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 白日不湿
 
     * Begin : 2014/12/06 17:56:45

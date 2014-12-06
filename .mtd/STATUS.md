@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 52f32c2677d3cc22398b456b 徐美儿
     *[urlrule] sites weipai.cn SAVE 52a65b3dc58a879761ab366b 陈语乔
     *[urlrule] sites weipai.cn SAVE 52efdc8f803494321f30d8fc 前任攻略
     *[urlrule] sites weipai.cn SAVE 5458d08da5640bfb2e8b459e 莫小尤
@@ -23,6 +22,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 54302ab3a7640b490f8b4574 奈奈
     *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c 陈诗云
 * Finished:
+    * [2014/12/06 17:57:33] [urlrule] sites weipai.cn SAVE 徐美儿
     * [2014/12/06 17:56:46] [urlrule] sites weipai.cn SAVE 白日不湿
     * [2014/12/06 17:56:39] [urlrule] sites weipai.cn SAVE 白日不湿
     * [2014/12/06 17:56:31] [urlrule] sites weipai.cn SAVE 白日不湿
