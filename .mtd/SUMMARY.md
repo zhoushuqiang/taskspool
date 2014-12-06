@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE y依凌小姐
+
+    * Begin : 2014/12/06 22:48:18
+    * End   : 2014/12/06 22:48:19
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 内涵姐姐
 
     * Begin : 2014/12/06 22:43:12
