@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5479aa67a5640be9478b45a2
+
+    * Begin : 2014/12/07 01:12:01
+    * End   : 2014/12/07 01:13:49
+    * Result: => Diva_狄娃/weipai.cn/51f2952f7f3494081c000002
+
+* [urlrule] sites weipai.cn add 51f2952f7f3494081c000002 Diva_狄娃
+
+    * Begin : 2014/12/07 01:12:00
+    * End   : 2014/12/07 01:12:01
+    * Result: http://www.weipai.cn/video/5479aa67a5640be9478b45a2=>[weipai.cn] 51f2952f7f3494081c000002 (Diva_狄娃) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476f3aca5640b46398b45d4
 
     * Begin : 2014/12/07 01:11:51
