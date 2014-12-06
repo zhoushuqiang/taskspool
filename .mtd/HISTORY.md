@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 韩田稀新微拍叫韩田稀
+
+    * Begin : 2014/12/06 22:24:49
+    * End   : 2014/12/06 22:43:04
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 忧伤的黄瓜1
 
     * Begin : 2014/12/06 22:24:22
