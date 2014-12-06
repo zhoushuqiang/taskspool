@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 妮妮love
+
+    * Begin : 2014/12/06 02:31:53
+    * End   : 2014/12/06 16:21:06
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 何佳琪baby
 
     * Begin : 2014/12/05 07:10:14
