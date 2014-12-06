@@ -1,5 +1,11 @@
 * [urlrule] sites weipai.cn SAVE 白日不湿
 
+    * Begin : 2014/12/06 17:56:38
+    * End   : 2014/12/06 17:56:39
+    * Result: OK
+
+* [urlrule] sites weipai.cn SAVE 白日不湿
+
     * Begin : 2014/12/06 17:01:21
     * End   : 2014/12/06 17:56:31
     * Result: OK
