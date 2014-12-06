@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547dc058a5640b513c8b458f
+
+    * Begin : 2014/12/07 01:00:55
+    * End   : 2014/12/07 01:01:06
+    * Result: => 韩田稀/weipai.cn/54364d9ba8640b05708b4595
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547df751a5640b680a8b45a6
 
     * Begin : 2014/12/07 00:59:50
