@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5479f210a5640bd1758b45b2
+
+    * Begin : 2014/12/07 01:02:40
+    * End   : 2014/12/07 01:03:09
+    * Result: => 内涵姐姐/weipai.cn/5448e762a6640b036b8b45b3
+
+* [urlrule] sites weipai.cn add 5448e762a6640b036b8b45b3 内涵姐姐
+
+    * Begin : 2014/12/07 01:02:39
+    * End   : 2014/12/07 01:02:40
+    * Result: http://www.weipai.cn/video/5479f210a5640bd1758b45b2=>[weipai.cn] 5448e762a6640b036b8b45b3 (内涵姐姐) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/536de395504a13991d8b4568
 
     * Begin : 2014/12/07 01:02:07
