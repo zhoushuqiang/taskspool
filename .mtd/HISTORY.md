@@ -1,5 +1,11 @@
 * [urlrule] sites weipai.cn SAVE 莫小尤
 
+    * Begin : 2014/12/06 18:04:07
+    * End   : 2014/12/06 18:04:08
+    * Result: OK
+
+* [urlrule] sites weipai.cn SAVE 莫小尤
+
     * Begin : 2014/12/06 18:01:16
     * End   : 2014/12/06 18:04:01
     * Result: OK
