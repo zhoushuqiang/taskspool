@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 白日不湿
+
+    * Begin : 2014/12/06 17:01:21
+    * End   : 2014/12/06 17:56:31
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 姐又内涵了
 
     * Begin : 2014/12/06 16:44:11
