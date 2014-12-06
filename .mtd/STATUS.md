@@ -2,8 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn FOLLOW 5448e762a6640b036b8b45b3 内涵姐姐 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 5212faa6803494f10769b455 王丹妮baby SAVE
     *[urlrule] sites weipai.cn FOLLOW 531f42969d67d9df5f8b4568 麦子OR大麦子 SAVE
     *[urlrule] sites weipai.cn FOLLOW 5434d972a6640bab078b457e 70后米米妈丫 SAVE
     *[urlrule] sites weipai.cn FOLLOW 529209efc58a87f14530e526 Dj_kelly SAVE
@@ -30,7 +28,10 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 546c58f7a8640be32f8b457d 张栩菲-ManGo
     *[urlrule] sites weipai.cn SAVE 50e7e03d7f34941f32000015 Abbymiki
     *[urlrule] sites weipai.cn SAVE 51a975cb5a8e878c5e000009 小雅果子
+    *[urlrule] sites weipai.cn SAVE 5448e762a6640b036b8b45b3 内涵姐姐
+    *[urlrule] sites weipai.cn SAVE 5212faa6803494f10769b455 王丹妮baby
 * Finished:
+    * [2014/12/07 01:20:57] [urlrule] sites weipai.cn follow 5212faa6803494f10769b455 王丹妮baby
     * [2014/12/07 01:20:50] [urlrule] sites weipai.cn follow 51a975cb5a8e878c5e000009 小雅果子
     * [2014/12/07 01:20:43] [urlrule] sites weipai.cn follow 547d2d58a7640bcf748b458c 他不懂我的xin
     * [2014/12/07 01:20:36] [urlrule] sites weipai.cn follow 50e178df7f3494ae0c0000ff 辣妈ai美丽
@@ -100,6 +101,7 @@ Tasks Status Report
     * [2014/12/04 22:02:19] [urlrule] sites weipai.cn SAVE 大妞范慧子
     * [2014/12/04 21:59:36] [urlrule] sites weipai.cn SAVE 北娃大王
 * Doing Nothing:
+    * [2014/12/07 01:20:57] [urlrule] sites weipai.cn follow 5448e762a6640b036b8b45b3 内涵姐姐
     * [2014/12/07 01:20:50] [urlrule] sites weipai.cn follow 50e7e03d7f34941f32000015 Abbymiki
     * [2014/12/07 01:20:50] [urlrule] sites weipai.cn follow 546c58f7a8640be32f8b457d 张栩菲-ManGo
     * [2014/12/07 01:20:43] [urlrule] sites weipai.cn follow 54364d9ba8640b05708b4595 韩田稀

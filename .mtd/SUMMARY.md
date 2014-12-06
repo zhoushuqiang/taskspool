@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 5212faa6803494f10769b455 王丹妮baby
+
+    * Begin : 2014/12/07 01:20:57
+    * End   : 2014/12/07 01:20:57
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 51a975cb5a8e878c5e000009 小雅果子
 
     * Begin : 2014/12/07 01:20:50
