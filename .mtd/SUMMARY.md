@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547dc5a3a5640bcf428b45a5
+
+    * Begin : 2014/12/07 00:56:01
+    * End   : 2014/12/07 00:56:53
+    * Result: => 张若兰/weipai.cn/514eca76803494b723000006
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547d8d57a5640b4e028b45ba
 
     * Begin : 2014/12/07 00:55:31
