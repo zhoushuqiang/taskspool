@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5451dd63a5640baa458b4595
+
+    * Begin : 2014/12/07 01:10:34
+    * End   : 2014/12/07 01:11:43
+    * Result: => 我是伊一baby/weipai.cn/533fd7f54f4a1365418b4567
+
+* [urlrule] sites weipai.cn add 533fd7f54f4a1365418b4567 我是伊一baby
+
+    * Begin : 2014/12/07 01:10:33
+    * End   : 2014/12/07 01:10:34
+    * Result: http://www.weipai.cn/video/5451dd63a5640baa458b4595=>[weipai.cn] 533fd7f54f4a1365418b4567 (我是伊一baby) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547e0f42a5640bf8238b4574
 
     * Begin : 2014/12/07 01:09:16

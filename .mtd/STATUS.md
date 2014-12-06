@@ -2,8 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/5451dd63a5640baa458b4595
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5451dd63a5640baa458b4595
     *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/5476f3aca5640b46398b45d4
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476f3aca5640b46398b45d4
     *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/5479aa67a5640be9478b45a2
@@ -38,7 +36,9 @@ Tasks Status Report
     *[urlrule] sites weipai.cn FOLLOW 546ac171a5640b62678b457a 硬伦X妹 SAVE
     *[urlrule] sites weipai.cn FOLLOW 53f7baf7a7640bb9268b456f Lulu罗小鹿 SAVE
     *[urlrule] sites weipai.cn FOLLOW 532d69324f4a1366588b45f7 倩倩baby SAVE
+    *[urlrule] sites weipai.cn FOLLOW 533fd7f54f4a1365418b4567 我是伊一baby SAVE
 * Finished:
+    * [2014/12/07 01:11:43] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5451dd63a5640baa458b4595
     * [2014/12/07 01:10:25] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547e0f42a5640bf8238b4574
     * [2014/12/07 01:09:08] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5415698aa5640be47b8b456d
     * [2014/12/07 01:08:59] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54794712a5640be1148b458c
@@ -95,6 +95,7 @@ Tasks Status Report
     * [2014/12/04 22:02:19] [urlrule] sites weipai.cn SAVE 大妞范慧子
     * [2014/12/04 21:59:36] [urlrule] sites weipai.cn SAVE 北娃大王
 * Doing Nothing:
+    * [2014/12/07 01:10:34] [urlrule] sites weipai.cn add 533fd7f54f4a1365418b4567 我是伊一baby
     * [2014/12/07 01:09:16] [urlrule] sites weipai.cn add 532d69324f4a1366588b45f7 倩倩baby
     * [2014/12/07 01:09:07] [urlrule] sites weipai.cn add 53f7baf7a7640bb9268b456f Lulu罗小鹿
     * [2014/12/07 01:07:09] [urlrule] sites weipai.cn add 546ac171a5640b62678b457a 硬伦X妹
