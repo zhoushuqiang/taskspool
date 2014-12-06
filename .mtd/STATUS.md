@@ -3,9 +3,9 @@ Tasks Status Report
 
 * Pendings:
     *[urlrule] sites weipai.cn SAVE 54302ab3a7640b490f8b4574 奈奈
-    *[urlrule] sites weipai.cn SAVE 54302ab3a7640b490f8b4574 奈奈
     *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c 陈诗云
 * Finished:
+    * [2014/12/06 22:51:35] [urlrule] sites weipai.cn SAVE 奈奈
     * [2014/12/06 22:50:32] [urlrule] sites weipai.cn SAVE 铁粉1号
     * [2014/12/06 22:50:24] [urlrule] sites weipai.cn SAVE 铁粉1号
     * [2014/12/06 22:50:15] [urlrule] sites weipai.cn SAVE 铁粉1号
