@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 铁粉1号
+
+    * Begin : 2014/12/06 22:48:26
+    * End   : 2014/12/06 22:50:15
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE y依凌小姐
 
     * Begin : 2014/12/06 22:48:18
