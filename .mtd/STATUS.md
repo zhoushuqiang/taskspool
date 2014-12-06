@@ -4,7 +4,6 @@ Tasks Status Report
 * Pendings:
     *[urlrule] sites weipai.cn SAVE 5458d08da5640bfb2e8b459e 莫小尤
     *[urlrule] sites weipai.cn SAVE 5458d08da5640bfb2e8b459e 莫小尤
-    *[urlrule] sites weipai.cn SAVE 5458d08da5640bfb2e8b459e 莫小尤
     *[urlrule] sites weipai.cn SAVE 52e3440f78d3cc446d8b4567 2014080137
     *[urlrule] sites weipai.cn SAVE 52e3440f78d3cc446d8b4567 2014080137
     *[urlrule] sites weipai.cn SAVE 536ddfcf9d67d94c418b45c0 杨安妮宝贝
@@ -20,6 +19,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 54302ab3a7640b490f8b4574 奈奈
     *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c 陈诗云
 * Finished:
+    * [2014/12/06 18:04:01] [urlrule] sites weipai.cn SAVE 莫小尤
     * [2014/12/06 18:01:09] [urlrule] sites weipai.cn SAVE 前任攻略
     * [2014/12/06 18:00:04] [urlrule] sites weipai.cn SAVE 陈语乔
     * [2014/12/06 17:57:33] [urlrule] sites weipai.cn SAVE 徐美儿
