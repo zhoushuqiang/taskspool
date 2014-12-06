@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5415698aa5640be47b8b456d
+
+    * Begin : 2014/12/07 01:09:07
+    * End   : 2014/12/07 01:09:08
+    * Result: => Lulu罗小鹿/weipai.cn/53f7baf7a7640bb9268b456f
+
+* [urlrule] sites weipai.cn add 53f7baf7a7640bb9268b456f Lulu罗小鹿
+
+    * Begin : 2014/12/07 01:09:05
+    * End   : 2014/12/07 01:09:07
+    * Result: http://www.weipai.cn/video/5415698aa5640be47b8b456d=>[weipai.cn] 53f7baf7a7640bb9268b456f (Lulu罗小鹿) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54794712a5640be1148b458c
 
     * Begin : 2014/12/07 01:07:09
