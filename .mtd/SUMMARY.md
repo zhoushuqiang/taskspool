@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54794712a5640be1148b458c
+
+    * Begin : 2014/12/07 01:07:09
+    * End   : 2014/12/07 01:08:59
+    * Result: => 硬伦X妹/weipai.cn/546ac171a5640b62678b457a
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54357329a5640b21038b456f
 
     * Begin : 2014/12/07 01:06:58
