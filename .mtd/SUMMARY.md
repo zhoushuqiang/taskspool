@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547da1eda5640bf2148b4568
+
+    * Begin : 2014/12/07 01:19:36
+    * End   : 2014/12/07 01:20:14
+    * Result: => Baby瑶瑶/weipai.cn/538faab34f4a13f2798b4567
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547abfe8a5640b36718b45b4
 
     * Begin : 2014/12/07 01:19:21
