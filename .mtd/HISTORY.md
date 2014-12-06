@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547d8d57a5640b4e028b45ba
+
+    * Begin : 2014/12/07 00:55:31
+    * End   : 2014/12/07 00:55:53
+    * Result: => 高尚kiko/weipai.cn/50eda2fe7d34948e2f000036
+
+* [urlrule] sites weipai.cn add 50eda2fe7d34948e2f000036 高尚kiko
+
+    * Begin : 2014/12/07 00:55:30
+    * End   : 2014/12/07 00:55:31
+    * Result: http://www.weipai.cn/video/547d8d57a5640b4e028b45ba=>[weipai.cn] 50eda2fe7d34948e2f000036 (高尚kiko) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547df914a5640bb00f8b4593
 
     * Begin : 2014/12/06 22:51:59
