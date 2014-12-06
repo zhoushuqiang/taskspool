@@ -2,8 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn FOLLOW 52bd2988e3416771688b45b0 瞄小婷 SAVE
-    *[urlrule] sites weipai.cn FOLLOW 50e178df7f3494ae0c0000ff 辣妈ai美丽 SAVE
     *[urlrule] sites weipai.cn FOLLOW 54537787a7640b294b8b4589 娜依灵儿 SAVE
     *[urlrule] sites weipai.cn FOLLOW 54364d9ba8640b05708b4595 韩田稀 SAVE
     *[urlrule] sites weipai.cn FOLLOW 547d2d58a7640bcf748b458c 他不懂我的xin SAVE
@@ -30,7 +28,10 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 50eda2fe7d34948e2f000036 高尚kiko
     *[urlrule] sites weipai.cn SAVE 514eca76803494b723000006 张若兰
     *[urlrule] sites weipai.cn SAVE 53f5690ea7640b91338b4574 洛可馨
+    *[urlrule] sites weipai.cn SAVE 52bd2988e3416771688b45b0 瞄小婷
+    *[urlrule] sites weipai.cn SAVE 50e178df7f3494ae0c0000ff 辣妈ai美丽
 * Finished:
+    * [2014/12/07 01:20:36] [urlrule] sites weipai.cn follow 50e178df7f3494ae0c0000ff 辣妈ai美丽
     * [2014/12/07 01:20:29] [urlrule] sites weipai.cn follow 53f5690ea7640b91338b4574 洛可馨
     * [2014/12/07 01:20:21] [urlrule] sites weipai.cn follow 53988e82803494005d8f6b14 尤物大王
     * [2014/12/07 01:20:14] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547da1eda5640bf2148b4568
@@ -97,6 +98,7 @@ Tasks Status Report
     * [2014/12/04 22:02:19] [urlrule] sites weipai.cn SAVE 大妞范慧子
     * [2014/12/04 21:59:36] [urlrule] sites weipai.cn SAVE 北娃大王
 * Doing Nothing:
+    * [2014/12/07 01:20:35] [urlrule] sites weipai.cn follow 52bd2988e3416771688b45b0 瞄小婷
     * [2014/12/07 01:20:29] [urlrule] sites weipai.cn follow 514eca76803494b723000006 张若兰
     * [2014/12/07 01:20:28] [urlrule] sites weipai.cn follow 50eda2fe7d34948e2f000036 高尚kiko
     * [2014/12/07 01:19:36] [urlrule] sites weipai.cn add 538faab34f4a13f2798b4567 Baby瑶瑶

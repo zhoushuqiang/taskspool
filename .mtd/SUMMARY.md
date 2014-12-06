@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 50e178df7f3494ae0c0000ff 辣妈ai美丽
+
+    * Begin : 2014/12/07 01:20:35
+    * End   : 2014/12/07 01:20:36
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53f5690ea7640b91338b4574 洛可馨
 
     * Begin : 2014/12/07 01:20:29
