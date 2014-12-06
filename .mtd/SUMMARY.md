@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 前任攻略
+
+    * Begin : 2014/12/06 18:00:11
+    * End   : 2014/12/06 18:01:09
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 陈语乔
 
     * Begin : 2014/12/06 17:57:40
