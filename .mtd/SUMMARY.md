@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54783aa0a5640bb36a8b45d2
+
+    * Begin : 2014/12/07 01:01:29
+    * End   : 2014/12/07 01:01:50
+    * Result: => 张栩菲-ManGo/weipai.cn/546c58f7a8640be32f8b457d
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547d687fa5640b95738b4578
 
     * Begin : 2014/12/07 01:01:15
