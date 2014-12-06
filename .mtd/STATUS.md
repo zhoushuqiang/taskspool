@@ -1,9 +1,8 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c 陈诗云
 * Finished:
+    * [2014/12/06 22:51:50] [urlrule] sites weipai.cn SAVE 陈诗云
     * [2014/12/06 22:51:42] [urlrule] sites weipai.cn SAVE 奈奈
     * [2014/12/06 22:51:35] [urlrule] sites weipai.cn SAVE 奈奈
     * [2014/12/06 22:50:32] [urlrule] sites weipai.cn SAVE 铁粉1号
