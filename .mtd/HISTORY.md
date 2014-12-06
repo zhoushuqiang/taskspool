@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/546ca560a5640bcf0f8b456b
+
+    * Begin : 2014/12/07 01:05:25
+    * End   : 2014/12/07 01:06:49
+    * Result: => 70后米米妈丫/weipai.cn/5434d972a6640bab078b457e
+
+* [urlrule] sites weipai.cn add 5434d972a6640bab078b457e 70后米米妈丫
+
+    * Begin : 2014/12/07 01:05:24
+    * End   : 2014/12/07 01:05:25
+    * Result: http://www.weipai.cn/video/546ca560a5640bcf0f8b456b=>[weipai.cn] 5434d972a6640bab078b457e (70后米米妈丫) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54763305a5640b47468b458d
 
     * Begin : 2014/12/07 01:04:27
