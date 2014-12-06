@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54456927a5640b823b8b4568
+
+    * Begin : 2014/12/07 01:01:58
+    * End   : 2014/12/07 01:02:00
+    * Result: => Abbymiki/weipai.cn/50e7e03d7f34941f32000015
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54783aa0a5640bb36a8b45d2
 
     * Begin : 2014/12/07 01:01:29
