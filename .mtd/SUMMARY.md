@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547e0f42a5640bf8238b4574
+
+    * Begin : 2014/12/07 01:09:16
+    * End   : 2014/12/07 01:10:25
+    * Result: => 倩倩baby/weipai.cn/532d69324f4a1366588b45f7
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5415698aa5640be47b8b456d
 
     * Begin : 2014/12/07 01:09:07
