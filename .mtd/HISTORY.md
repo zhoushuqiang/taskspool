@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn follow 53f5690ea7640b91338b4574 洛可馨
+
+    * Begin : 2014/12/07 01:20:29
+    * End   : 2014/12/07 01:20:29
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 514eca76803494b723000006 张若兰
+
+    * Begin : 2014/12/07 01:20:28
+    * End   : 2014/12/07 01:20:29
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 50eda2fe7d34948e2f000036 高尚kiko
+
+    * Begin : 2014/12/07 01:20:28
+    * End   : 2014/12/07 01:20:28
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 53988e82803494005d8f6b14 尤物大王
 
     * Begin : 2014/12/07 01:20:21
