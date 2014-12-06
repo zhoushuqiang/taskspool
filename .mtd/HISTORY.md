@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/541291caa5640baa0e8b45a0
+
+    * Begin : 2014/12/07 00:57:01
+    * End   : 2014/12/07 00:57:08
+    * Result: => 洛可馨/weipai.cn/53f5690ea7640b91338b4574
+
+* [urlrule] sites weipai.cn add 53f5690ea7640b91338b4574 洛可馨
+
+    * Begin : 2014/12/07 00:57:00
+    * End   : 2014/12/07 00:57:01
+    * Result: http://www.weipai.cn/video/541291caa5640baa0e8b45a0=>[weipai.cn] 53f5690ea7640b91338b4574 (洛可馨) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547dc5a3a5640bcf428b45a5
 
     * Begin : 2014/12/07 00:56:01
