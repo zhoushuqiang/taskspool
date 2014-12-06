@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/53d07efadec39f767f8b45e1
+
+    * Begin : 2014/12/07 01:03:17
+    * End   : 2014/12/07 01:04:19
+    * Result: => 王丹妮baby/weipai.cn/5212faa6803494f10769b455
+
+* [urlrule] sites weipai.cn add 5212faa6803494f10769b455 王丹妮baby
+
+    * Begin : 2014/12/07 01:03:16
+    * End   : 2014/12/07 01:03:17
+    * Result: http://www.weipai.cn/video/53d07efadec39f767f8b45e1=>[weipai.cn] 5212faa6803494f10769b455 (王丹妮baby) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5479f210a5640bd1758b45b2
 
     * Begin : 2014/12/07 01:02:40

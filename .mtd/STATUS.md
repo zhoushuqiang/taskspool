@@ -2,8 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/53d07efadec39f767f8b45e1
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/53d07efadec39f767f8b45e1
     *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/54763305a5640b47468b458d
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54763305a5640b47468b458d
     *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/546ca560a5640bcf0f8b456b
@@ -45,7 +43,9 @@ Tasks Status Report
     *[urlrule] sites weipai.cn FOLLOW 50e7e03d7f34941f32000015 Abbymiki SAVE
     *[urlrule] sites weipai.cn FOLLOW 51a975cb5a8e878c5e000009 小雅果子 SAVE
     *[urlrule] sites weipai.cn FOLLOW 5448e762a6640b036b8b45b3 内涵姐姐 SAVE
+    *[urlrule] sites weipai.cn FOLLOW 5212faa6803494f10769b455 王丹妮baby SAVE
 * Finished:
+    * [2014/12/07 01:04:19] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/53d07efadec39f767f8b45e1
     * [2014/12/07 01:03:09] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5479f210a5640bd1758b45b2
     * [2014/12/07 01:02:33] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/536de395504a13991d8b4568
     * [2014/12/07 01:02:00] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54456927a5640b823b8b4568
@@ -95,6 +95,7 @@ Tasks Status Report
     * [2014/12/04 22:02:19] [urlrule] sites weipai.cn SAVE 大妞范慧子
     * [2014/12/04 21:59:36] [urlrule] sites weipai.cn SAVE 北娃大王
 * Doing Nothing:
+    * [2014/12/07 01:03:17] [urlrule] sites weipai.cn add 5212faa6803494f10769b455 王丹妮baby
     * [2014/12/07 01:02:40] [urlrule] sites weipai.cn add 5448e762a6640b036b8b45b3 内涵姐姐
     * [2014/12/07 01:02:07] [urlrule] sites weipai.cn add 51a975cb5a8e878c5e000009 小雅果子
     * [2014/12/07 01:01:58] [urlrule] sites weipai.cn add 50e7e03d7f34941f32000015 Abbymiki
