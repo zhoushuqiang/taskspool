@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn follow 546ac171a5640b62678b457a 硬伦X妹
+
+    * Begin : 2014/12/07 01:21:04
+    * End   : 2014/12/07 01:21:04
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 529209efc58a87f14530e526 Dj_kelly
+
+    * Begin : 2014/12/07 01:21:04
+    * End   : 2014/12/07 01:21:04
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 5434d972a6640bab078b457e 70后米米妈丫
+
+    * Begin : 2014/12/07 01:21:03
+    * End   : 2014/12/07 01:21:04
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 531f42969d67d9df5f8b4568 麦子OR大麦子
+
+    * Begin : 2014/12/07 01:21:03
+    * End   : 2014/12/07 01:21:03
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 5212faa6803494f10769b455 王丹妮baby
 
     * Begin : 2014/12/07 01:20:57
