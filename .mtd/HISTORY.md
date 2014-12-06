@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn follow 547d2d58a7640bcf748b458c 他不懂我的xin
+
+    * Begin : 2014/12/07 01:20:43
+    * End   : 2014/12/07 01:20:43
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 54364d9ba8640b05708b4595 韩田稀
+
+    * Begin : 2014/12/07 01:20:42
+    * End   : 2014/12/07 01:20:43
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 54537787a7640b294b8b4589 娜依灵儿
+
+    * Begin : 2014/12/07 01:20:42
+    * End   : 2014/12/07 01:20:42
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn follow 50e178df7f3494ae0c0000ff 辣妈ai美丽
 
     * Begin : 2014/12/07 01:20:35
