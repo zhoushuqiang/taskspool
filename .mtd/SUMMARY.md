@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54763305a5640b47468b458d
+
+    * Begin : 2014/12/07 01:04:27
+    * End   : 2014/12/07 01:05:17
+    * Result: => 麦子OR大麦子/weipai.cn/531f42969d67d9df5f8b4568
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/53d07efadec39f767f8b45e1
 
     * Begin : 2014/12/07 01:03:17
