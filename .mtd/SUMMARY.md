@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 忧伤的黄瓜1
+
+    * Begin : 2014/12/06 22:24:22
+    * End   : 2014/12/06 22:24:43
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 神仙姐姐__艾溪
 
     * Begin : 2014/12/06 22:22:30
