@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476f3aca5640b46398b45d4
+
+    * Begin : 2014/12/07 01:11:51
+    * End   : 2014/12/07 01:11:53
+    * Result: => 陈美琳Mandy/weipai.cn/51fa57ba7f3494ea70000000
+
+* [urlrule] sites weipai.cn add 51fa57ba7f3494ea70000000 陈美琳Mandy
+
+    * Begin : 2014/12/07 01:11:50
+    * End   : 2014/12/07 01:11:51
+    * Result: http://www.weipai.cn/video/5476f3aca5640b46398b45d4=>[weipai.cn] 51fa57ba7f3494ea70000000 (陈美琳Mandy) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5451dd63a5640baa458b4595
 
     * Begin : 2014/12/07 01:10:34
