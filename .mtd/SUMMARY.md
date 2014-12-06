@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 538faab34f4a13f2798b4567 Baby瑶瑶
+
+    * Begin : 2014/12/07 01:21:25
+    * End   : 2014/12/07 01:21:26
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5477d735a5640b8f398b458b 屌丝福利小清新
 
     * Begin : 2014/12/07 01:21:19
