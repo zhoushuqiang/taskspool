@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 辣妈ai美丽
+
+    * Begin : 2014/12/07 12:54:46
+    * End   : 2014/12/07 14:34:34
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 洛可馨
 
     * Begin : 2014/12/07 02:56:58

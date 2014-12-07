@@ -1,7 +1,6 @@
 Tasks::Builder::Config::LastTask    97
 Tasks::Center::options.no-pull    1
 Tasks::Center::options.sleep    1
-Tasks::Center::tasks_0    urlrule	sites	weipai.cn	SAVE	52bd2988e3416771688b45b0	瞄小婷
 Tasks::Center::tasks_1    urlrule	sites	weipai.cn	SAVE	50e178df7f3494ae0c0000ff	辣妈ai美丽
 Tasks::Center::tasks_2    urlrule	sites	weipai.cn	SAVE	54537787a7640b294b8b4589	娜依灵儿
 Tasks::Center::tasks_3    urlrule	sites	weipai.cn	SAVE	54364d9ba8640b05708b4595	韩田稀
