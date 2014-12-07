@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 麦子OR大麦子
+
+    * Begin : 2014/12/07 15:09:11
+    * End   : 2014/12/07 15:33:17
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 王丹妮baby
 
     * Begin : 2014/12/07 14:51:00
