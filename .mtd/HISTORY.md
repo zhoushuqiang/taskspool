@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE Lulu罗小鹿
+
+    * Begin : 2014/12/07 17:26:18
+    * End   : 2014/12/07 17:29:38
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 硬伦X妹
 
     * Begin : 2014/12/07 17:23:23
