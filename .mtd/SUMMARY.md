@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 王丹妮baby
+
+    * Begin : 2014/12/07 14:51:00
+    * End   : 2014/12/07 15:09:05
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 内涵姐姐
 
     * Begin : 2014/12/07 14:50:52
