@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE Dj_kelly
+
+    * Begin : 2014/12/07 17:18:33
+    * End   : 2014/12/07 17:23:16
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 70后米米妈丫
 
     * Begin : 2014/12/07 15:33:24
