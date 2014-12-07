@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 51fa57ba7f3494ea70000000 陈美琳Mandy
     *[urlrule] sites weipai.cn SAVE 51f2952f7f3494081c000002 Diva_狄娃
     *[urlrule] sites weipai.cn SAVE 53ed0e57a6640b3d578b456c 陈诗云
     *[urlrule] sites weipai.cn SAVE 52d7ccd7e3416762318b4585 夏美熙泽
@@ -10,6 +9,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 5477d735a5640b8f398b458b 屌丝福利小清新
     *[urlrule] sites weipai.cn SAVE 538faab34f4a13f2798b4567 Baby瑶瑶
 * Finished:
+    * [2014/12/07 18:59:49] [urlrule] sites weipai.cn SAVE 陈美琳Mandy
     * [2014/12/07 18:59:10] [urlrule] sites weipai.cn SAVE 我是伊一baby
     * [2014/12/07 18:48:45] [urlrule] sites weipai.cn SAVE 倩倩baby
     * [2014/12/07 17:29:38] [urlrule] sites weipai.cn SAVE Lulu罗小鹿

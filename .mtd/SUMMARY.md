@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 陈美琳Mandy
+
+    * Begin : 2014/12/07 18:59:17
+    * End   : 2014/12/07 18:59:49
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 我是伊一baby
 
     * Begin : 2014/12/07 18:48:53
