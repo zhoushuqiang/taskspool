@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 陈诗云
+
+    * Begin : 2014/12/07 23:33:03
+    * End   : 2014/12/07 23:33:57
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE Diva_狄娃
 
     * Begin : 2014/12/07 18:59:56
