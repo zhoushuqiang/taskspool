@@ -2,29 +2,9 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 52d7ccd7e3416762318b4585 夏美熙泽
-    *[urlrule] sites weipai.cn SAVE 541e8df9a8640b0b568b4578 丝绸裹着性感2
     *[urlrule] sites weipai.cn SAVE 5477d735a5640b8f398b458b 屌丝福利小清新
     *[urlrule] sites weipai.cn SAVE 538faab34f4a13f2798b4567 Baby瑶瑶
 * Finished:
-    * [2014/12/07 23:33:57] [urlrule] sites weipai.cn SAVE 陈诗云
-    * [2014/12/07 23:32:56] [urlrule] sites weipai.cn SAVE Diva_狄娃
-    * [2014/12/07 18:59:49] [urlrule] sites weipai.cn SAVE 陈美琳Mandy
-    * [2014/12/07 18:59:10] [urlrule] sites weipai.cn SAVE 我是伊一baby
-    * [2014/12/07 18:48:45] [urlrule] sites weipai.cn SAVE 倩倩baby
-    * [2014/12/07 17:29:38] [urlrule] sites weipai.cn SAVE Lulu罗小鹿
-    * [2014/12/07 17:26:12] [urlrule] sites weipai.cn SAVE 硬伦X妹
-    * [2014/12/07 17:23:16] [urlrule] sites weipai.cn SAVE Dj_kelly
-    * [2014/12/07 17:18:27] [urlrule] sites weipai.cn SAVE 70后米米妈丫
-    * [2014/12/07 15:33:17] [urlrule] sites weipai.cn SAVE 麦子OR大麦子
-    * [2014/12/07 15:09:05] [urlrule] sites weipai.cn SAVE 王丹妮baby
-    * [2014/12/07 14:50:54] [urlrule] sites weipai.cn SAVE 内涵姐姐
-    * [2014/12/07 14:50:46] [urlrule] sites weipai.cn SAVE 小雅果子
-    * [2014/12/07 14:50:16] [urlrule] sites weipai.cn SAVE Abbymiki
-    * [2014/12/07 14:50:08] [urlrule] sites weipai.cn SAVE 张栩菲-ManGo
-    * [2014/12/07 14:44:45] [urlrule] sites weipai.cn SAVE 他不懂我的xin
-    * [2014/12/07 14:44:15] [urlrule] sites weipai.cn SAVE 韩田稀
-    * [2014/12/07 14:39:07] [urlrule] sites weipai.cn SAVE 娜依灵儿
-    * [2014/12/07 14:34:34] [urlrule] sites weipai.cn SAVE 辣妈ai美丽
+    * [2014/12/08 02:37:08] [urlrule] sites weipai.cn SAVE 丝绸裹着性感2
 * Ignored:
     * [myplace-tasks] 
