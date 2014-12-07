@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 70后米米妈丫
+
+    * Begin : 2014/12/07 15:33:24
+    * End   : 2014/12/07 17:18:27
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 麦子OR大麦子
 
     * Begin : 2014/12/07 15:09:11
