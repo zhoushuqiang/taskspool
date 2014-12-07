@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE Abbymiki
+
+    * Begin : 2014/12/07 14:50:15
+    * End   : 2014/12/07 14:50:16
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 张栩菲-ManGo
 
     * Begin : 2014/12/07 14:44:51
