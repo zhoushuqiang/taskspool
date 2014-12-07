@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 屌丝福利小清新
+
+    * Begin : 2014/12/08 02:37:15
+    * End   : 2014/12/08 02:37:52
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 丝绸裹着性感2
 
     * Begin : 2014/12/08 01:15:24
