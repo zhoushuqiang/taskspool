@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 小雅果子
+
+    * Begin : 2014/12/07 14:50:23
+    * End   : 2014/12/07 14:50:46
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE Abbymiki
 
     * Begin : 2014/12/07 14:50:15

@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 51a975cb5a8e878c5e000009 小雅果子
     *[urlrule] sites weipai.cn SAVE 5448e762a6640b036b8b45b3 内涵姐姐
     *[urlrule] sites weipai.cn SAVE 5212faa6803494f10769b455 王丹妮baby
     *[urlrule] sites weipai.cn SAVE 531f42969d67d9df5f8b4568 麦子OR大麦子
@@ -20,6 +19,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVE 5477d735a5640b8f398b458b 屌丝福利小清新
     *[urlrule] sites weipai.cn SAVE 538faab34f4a13f2798b4567 Baby瑶瑶
 * Finished:
+    * [2014/12/07 14:50:46] [urlrule] sites weipai.cn SAVE 小雅果子
     * [2014/12/07 14:50:16] [urlrule] sites weipai.cn SAVE Abbymiki
     * [2014/12/07 14:50:08] [urlrule] sites weipai.cn SAVE 张栩菲-ManGo
     * [2014/12/07 14:44:45] [urlrule] sites weipai.cn SAVE 他不懂我的xin
