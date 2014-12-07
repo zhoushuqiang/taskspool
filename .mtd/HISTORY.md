@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 倩倩baby
+
+    * Begin : 2014/12/07 17:29:44
+    * End   : 2014/12/07 18:48:45
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE Lulu罗小鹿
 
     * Begin : 2014/12/07 17:26:18
