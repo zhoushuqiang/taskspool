@@ -1,3 +1,8 @@
+* [urlrule] sites weipai.cn SAVE 夏美熙泽
+
+    * Begin : 2014/12/07 23:34:04
+    * Result: PENDING
+
 * [urlrule] sites weipai.cn SAVE 陈诗云
 
     * Begin : 2014/12/07 23:33:03
