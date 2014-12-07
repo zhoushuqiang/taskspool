@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 他不懂我的xin
+
+    * Begin : 2014/12/07 14:44:22
+    * End   : 2014/12/07 14:44:45
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 韩田稀
 
     * Begin : 2014/12/07 14:39:13
