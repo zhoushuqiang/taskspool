@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 娜依灵儿
+
+    * Begin : 2014/12/07 14:34:41
+    * End   : 2014/12/07 14:39:07
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 辣妈ai美丽
 
     * Begin : 2014/12/07 12:54:46
