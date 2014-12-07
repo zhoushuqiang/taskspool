@@ -1,3 +1,8 @@
+* [urlrule] sites weipai.cn SAVE 瞄小婷
+
+    * Begin : 2014/12/07 03:00:24
+    * Result: PENDING
+
 * [urlrule] sites weipai.cn SAVE 洛可馨
 
     * Begin : 2014/12/07 02:56:58
