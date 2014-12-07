@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 内涵姐姐
+
+    * Begin : 2014/12/07 14:50:52
+    * End   : 2014/12/07 14:50:54
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 小雅果子
 
     * Begin : 2014/12/07 14:50:23
