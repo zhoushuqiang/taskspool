@@ -2,14 +2,14 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/54859f60a5640bc75e8b4589
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54859f60a5640bc75e8b4589
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/54858b83a5640bd24d8b458e
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54858b83a5640bd24d8b458e
     *[urlrule] sites weipai.cn FOLLOW 51fba37a803494dd11284634 qi耳洞 UPDATE
     *[urlrule] sites weipai.cn FOLLOW 53f08ff2a8640b557f8b459f 菲飞飞 UPDATE
     *[urlrule] sites weipai.cn FOLLOW 52648e589f6c00cd1a8fde4e Gyochaeyeon UPDATE
+    *[urlrule] sites weipai.cn FOLLOW 5430edc6a5640b31688b4591 茜baby UPDATE
 * Finished:
+    * [2014/12/09 05:11:41] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54859f60a5640bc75e8b4589
     * [2014/12/09 05:10:30] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5485a0b9a5640bc55f8b459a
     * [2014/12/09 05:08:51] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548534eaa5640b8c498b459c
     * [2014/12/09 05:08:00] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/544ba44ba5640ba5148b45a9
@@ -39,6 +39,7 @@ Tasks Status Report
     * [2014/12/08 19:55:48] [urlrule] sites weipai.cn SAVE 屌丝福利小清新
     * [2014/12/08 19:55:35] [urlrule] sites weipai.cn SAVE 丝绸裹着性感2
 * Doing Nothing:
+    * [2014/12/09 05:10:38] [urlrule] sites weipai.cn add 5430edc6a5640b31688b4591 茜baby
     * [2014/12/09 05:08:58] [urlrule] sites weipai.cn add 52648e589f6c00cd1a8fde4e Gyochaeyeon
     * [2014/12/09 05:08:08] [urlrule] sites weipai.cn add 53f08ff2a8640b557f8b459f 菲飞飞
     * [2014/12/09 05:07:41] [urlrule] sites weipai.cn add 51fba37a803494dd11284634 qi耳洞
