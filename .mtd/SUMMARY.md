@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update crystal尚
+
+    * Begin : 2014/12/09 06:58:02
+    * End   : 2014/12/09 06:58:06
+    * Result: OK
+
 * [urlrule] sites weipai.cn update bobobobobo
 
     * Begin : 2014/12/09 06:57:29
