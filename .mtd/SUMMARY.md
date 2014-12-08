@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update _穆穆
+
+    * Begin : 2014/12/09 06:09:20
+    * End   : 2014/12/09 06:09:24
+    * Result: OK
+
 * [urlrule] sites weipai.cn update _張丹丹
 
     * Begin : 2014/12/09 06:08:56

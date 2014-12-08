@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/09 06:09:24] [urlrule] sites weipai.cn update _穆穆
     * [2014/12/09 06:09:12] [urlrule] sites weipai.cn update _張丹丹
     * [2014/12/09 05:47:21] [urlrule] sites weipai.cn update Vicky777777
     * [2014/12/09 05:25:00] [urlrule] sites weipai.cn update Theonlylove
