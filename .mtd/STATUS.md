@@ -2,9 +2,9 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 5430edc6a5640b31688b4591 茜baby
     *[urlrule] sites weipai.cn UPDATE 53c29f589d67d9af598b604e Tomyli惋柔
 * Finished:
+    * [2014/12/09 05:21:02] [urlrule] sites weipai.cn UPDATE 茜baby
     * [2014/12/09 05:19:20] [urlrule] sites weipai.cn UPDATE Gyochaeyeon
     * [2014/12/09 05:15:44] [urlrule] sites weipai.cn UPDATE 菲飞飞
     * [2014/12/09 05:12:48] [urlrule] sites weipai.cn follow 53c29f589d67d9af598b604e Tomyli惋柔
