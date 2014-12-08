@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/08 21:28:25] [urlrule] sites weipai.cn update Never沛妮
     * [2014/12/08 21:27:28] [urlrule] sites weipai.cn update NZL-妮子梁
     * [2014/12/08 21:24:58] [urlrule] sites weipai.cn update Miya_妈咪
     * [2014/12/08 21:20:24] [urlrule] sites weipai.cn update Miranda-Kerr
