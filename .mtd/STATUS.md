@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/09 06:09:12] [urlrule] sites weipai.cn update _張丹丹
     * [2014/12/09 05:47:21] [urlrule] sites weipai.cn update Vicky777777
     * [2014/12/09 05:25:00] [urlrule] sites weipai.cn update Theonlylove
     * [2014/12/09 05:24:49] [urlrule] sites weipai.cn update Sweet-微
@@ -42,6 +43,15 @@ Tasks Status Report
     * [2014/12/08 19:55:48] [urlrule] sites weipai.cn SAVE 屌丝福利小清新
     * [2014/12/08 19:55:35] [urlrule] sites weipai.cn SAVE 丝绸裹着性感2
 * Doing Nothing:
+    * [2014/12/09 06:08:55] [urlrule] sites weipai.cn update _刘爷
+    * [2014/12/09 06:08:53] [urlrule] sites weipai.cn update __张公子
+    * [2014/12/09 06:08:51] [urlrule] sites weipai.cn update __小韩韩
+    * [2014/12/09 06:08:49] [urlrule] sites weipai.cn update __妖涅
+    * [2014/12/09 06:08:48] [urlrule] sites weipai.cn update ___悦如
+    * [2014/12/09 06:08:46] [urlrule] sites weipai.cn update _____朶
+    * [2014/12/09 06:08:44] [urlrule] sites weipai.cn update _Miss梦
+    * [2014/12/09 06:08:43] [urlrule] sites weipai.cn update _Angelia燕子
+    * [2014/12/09 06:08:41] [urlrule] sites vlook.cn update Yumi小旁友
     * [2014/12/09 05:46:23] [urlrule] sites weipai.cn update VV朗熙
     * [2014/12/09 05:46:21] [urlrule] sites vlook.cn update VK_bb
     * [2014/12/09 05:24:58] [urlrule] sites weipai.cn update S小妹

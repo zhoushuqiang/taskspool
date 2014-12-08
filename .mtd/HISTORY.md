@@ -1,3 +1,63 @@
+* [urlrule] sites weipai.cn update _張丹丹
+
+    * Begin : 2014/12/09 06:08:56
+    * End   : 2014/12/09 06:09:12
+    * Result: OK
+
+* [urlrule] sites weipai.cn update _刘爷
+
+    * Begin : 2014/12/09 06:08:54
+    * End   : 2014/12/09 06:08:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update __张公子
+
+    * Begin : 2014/12/09 06:08:53
+    * End   : 2014/12/09 06:08:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update __小韩韩
+
+    * Begin : 2014/12/09 06:08:50
+    * End   : 2014/12/09 06:08:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update __妖涅
+
+    * Begin : 2014/12/09 06:08:49
+    * End   : 2014/12/09 06:08:49
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update ___悦如
+
+    * Begin : 2014/12/09 06:08:47
+    * End   : 2014/12/09 06:08:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update _____朶
+
+    * Begin : 2014/12/09 06:08:46
+    * End   : 2014/12/09 06:08:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update _Miss梦
+
+    * Begin : 2014/12/09 06:08:44
+    * End   : 2014/12/09 06:08:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update _Angelia燕子
+
+    * Begin : 2014/12/09 06:08:42
+    * End   : 2014/12/09 06:08:43
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Yumi小旁友
+
+    * Begin : 2014/12/09 05:47:29
+    * End   : 2014/12/09 06:08:41
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Vicky777777
 
     * Begin : 2014/12/09 05:46:24
