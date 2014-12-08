@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update Fox_00
+
+    * Begin : 2014/12/08 21:01:27
+    * End   : 2014/12/08 21:02:02
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Fiy
+
+    * Begin : 2014/12/08 21:01:25
+    * End   : 2014/12/08 21:01:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update EverdayBaby
+
+    * Begin : 2014/12/08 21:01:24
+    * End   : 2014/12/08 21:01:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Elise谭晓彤
+
+    * Begin : 2014/12/08 21:01:22
+    * End   : 2014/12/08 21:01:23
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Elise谭晓彤
+
+    * Begin : 2014/12/08 21:01:20
+    * End   : 2014/12/08 21:01:21
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Elise谭晓彤
+
+    * Begin : 2014/12/08 21:01:18
+    * End   : 2014/12/08 21:01:19
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Djkkrmx慧玲
 
     * Begin : 2014/12/08 21:00:47
