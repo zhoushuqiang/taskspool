@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/08 21:00:29] [urlrule] sites weipai.cn update Dj_kelly
     * [2014/12/08 20:59:00] [urlrule] sites weipai.cn update Diva_狄娃
     * [2014/12/08 20:26:29] [urlrule] sites weipai.cn update Daisy__兔
     * [2014/12/08 20:22:35] [urlrule] sites weipai.cn update DJ-TiMi
@@ -13,6 +14,7 @@ Tasks Status Report
     * [2014/12/08 19:55:48] [urlrule] sites weipai.cn SAVE 屌丝福利小清新
     * [2014/12/08 19:55:35] [urlrule] sites weipai.cn SAVE 丝绸裹着性感2
 * Doing Nothing:
+    * [2014/12/08 20:59:09] [urlrule] sites weipai.cn update DjTina
     * [2014/12/08 20:26:39] [urlrule] sites weipai.cn update Despair-假寐
     * [2014/12/08 20:26:37] [urlrule] sites weipai.cn update Dance小宝
     * [2014/12/08 20:22:45] [urlrule] sites vlook.cn update DJ_Ricey
