@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/09 06:57:07] [urlrule] sites weipai.cn update baby蜜儿
     * [2014/12/09 06:56:49] [urlrule] sites weipai.cn update baby彩霞
     * [2014/12/09 06:54:39] [urlrule] sites weipai.cn update a小狐狸520
     * [2014/12/09 06:31:55] [urlrule] sites weipai.cn update aling_888
