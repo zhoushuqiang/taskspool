@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/09 07:06:04] [urlrule] sites weipai.cn update oliviababy
     * [2014/12/09 07:05:51] [urlrule] sites weipai.cn update miss吴
     * [2014/12/09 07:05:25] [urlrule] sites weipai.cn update love雯雯
     * [2014/12/09 06:59:00] [urlrule] sites weipai.cn update kitty酱
@@ -56,6 +57,9 @@ Tasks Status Report
     * [2014/12/08 19:55:48] [urlrule] sites weipai.cn SAVE 屌丝福利小清新
     * [2014/12/08 19:55:35] [urlrule] sites weipai.cn SAVE 丝绸裹着性感2
 * Doing Nothing:
+    * [2014/12/09 07:06:02] [urlrule] sites weipai.cn update monica_1990
+    * [2014/12/09 07:06:01] [urlrule] sites weipai.cn update mm小七
+    * [2014/12/09 07:05:59] [urlrule] sites weipai.cn update miss大蝴蝶
     * [2014/12/09 07:05:35] [urlrule] sites weipai.cn update mina桑
     * [2014/12/09 06:59:09] [urlrule] sites weipai.cn update li莉
     * [2014/12/09 06:58:15] [urlrule] sites weipai.cn update dj-vivi
