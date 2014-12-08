@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update Sweet-微
+
+    * Begin : 2014/12/09 05:23:15
+    * End   : 2014/12/09 05:24:49
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Suki_M
+
+    * Begin : 2014/12/09 05:23:14
+    * End   : 2014/12/09 05:23:14
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update SpookyG
 
     * Begin : 2014/12/09 05:22:04

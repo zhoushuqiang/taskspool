@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/09 05:24:49] [urlrule] sites weipai.cn update Sweet-微
     * [2014/12/09 05:23:06] [urlrule] sites weipai.cn update SpookyG
     * [2014/12/09 05:21:56] [urlrule] sites weipai.cn UPDATE Tomyli惋柔
     * [2014/12/09 05:21:02] [urlrule] sites weipai.cn UPDATE 茜baby
@@ -39,6 +40,7 @@ Tasks Status Report
     * [2014/12/08 19:55:48] [urlrule] sites weipai.cn SAVE 屌丝福利小清新
     * [2014/12/08 19:55:35] [urlrule] sites weipai.cn SAVE 丝绸裹着性感2
 * Doing Nothing:
+    * [2014/12/09 05:23:14] [urlrule] sites weipai.cn update Suki_M
     * [2014/12/09 05:12:55] [urlrule] sites weipai.cn UPDATE qi耳洞
     * [2014/12/09 05:12:48] [urlrule] sites weipai.cn follow 5430edc6a5640b31688b4591 茜baby
     * [2014/12/09 05:12:48] [urlrule] sites weipai.cn follow 52648e589f6c00cd1a8fde4e Gyochaeyeon
