@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Theonlylove
+
+    * Begin : 2014/12/09 05:25:00
+    * End   : 2014/12/09 05:25:00
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Sweet-微
 
     * Begin : 2014/12/09 05:23:15
