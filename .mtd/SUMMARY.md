@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update NZL-妮子梁
+
+    * Begin : 2014/12/08 21:26:11
+    * End   : 2014/12/08 21:27:28
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Miya_妈咪
 
     * Begin : 2014/12/08 21:20:32

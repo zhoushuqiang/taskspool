@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update NZL-妮子梁
+
+    * Begin : 2014/12/08 21:26:11
+    * End   : 2014/12/08 21:27:28
+    * Result: OK
+
+* [urlrule] sites vlook.cn update Ms琳
+
+    * Begin : 2014/12/08 21:25:07
+    * End   : 2014/12/08 21:26:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Monika1991
+
+    * Begin : 2014/12/08 21:25:06
+    * End   : 2014/12/08 21:25:06
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Miya_妈咪
 
     * Begin : 2014/12/08 21:20:32
