@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update SpookyG
+
+    * Begin : 2014/12/09 05:22:04
+    * End   : 2014/12/09 05:23:06
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE Tomyli惋柔
 
     * Begin : 2014/12/09 05:21:09
