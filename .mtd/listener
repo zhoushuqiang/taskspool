@@ -15,8 +15,8 @@ sub listener_init {
 		description=>'Update likes user from weipai.cn',
 		prefix=>[qw/urlrule sites weipai.cn AFU/],
 		data=> sub {
-			use MyPlace::Weipai qw/likes/;
-			my $likes = likes('508775398134943b58000051')->{video_list};
+			use MyPlace::Weipai qw/get_likes/;
+			my $likes = get_likes('508775398134943b58000051')->{video_list};
 			my @r;
 			foreach(@$likes) {
 				push @r,$_->{user_id} . "\t" . $_->{nickname} . "\n";
