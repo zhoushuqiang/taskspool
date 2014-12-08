@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/08 21:30:53] [urlrule] sites weipai.cn update ROSSY
     * [2014/12/08 21:28:25] [urlrule] sites weipai.cn update Never沛妮
     * [2014/12/08 21:27:28] [urlrule] sites weipai.cn update NZL-妮子梁
     * [2014/12/08 21:24:58] [urlrule] sites weipai.cn update Miya_妈咪
@@ -25,6 +26,9 @@ Tasks Status Report
     * [2014/12/08 19:55:48] [urlrule] sites weipai.cn SAVE 屌丝福利小清新
     * [2014/12/08 19:55:35] [urlrule] sites weipai.cn SAVE 丝绸裹着性感2
 * Doing Nothing:
+    * [2014/12/08 21:30:20] [urlrule] sites weipai.cn update RAE-瑞儿
+    * [2014/12/08 21:30:18] [urlrule] sites weipai.cn update Queen-婷婷
+    * [2014/12/08 21:30:16] [urlrule] sites vlook.cn update Q1335467161
     * [2014/12/08 21:26:09] [urlrule] sites vlook.cn update Ms琳
     * [2014/12/08 21:25:06] [urlrule] sites weipai.cn update Monika1991
     * [2014/12/08 21:20:17] [urlrule] sites weipai.cn update Mia丫丫C

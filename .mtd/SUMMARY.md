@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update ROSSY
+
+    * Begin : 2014/12/08 21:30:21
+    * End   : 2014/12/08 21:30:53
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Never沛妮
 
     * Begin : 2014/12/08 21:27:40

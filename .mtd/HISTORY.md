@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update ROSSY
+
+    * Begin : 2014/12/08 21:30:21
+    * End   : 2014/12/08 21:30:53
+    * Result: OK
+
+* [urlrule] sites weipai.cn update RAE-瑞儿
+
+    * Begin : 2014/12/08 21:30:19
+    * End   : 2014/12/08 21:30:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Queen-婷婷
+
+    * Begin : 2014/12/08 21:30:18
+    * End   : 2014/12/08 21:30:18
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Q1335467161
+
+    * Begin : 2014/12/08 21:28:34
+    * End   : 2014/12/08 21:30:16
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Never沛妮
 
     * Begin : 2014/12/08 21:27:40
