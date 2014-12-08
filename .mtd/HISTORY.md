@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update Christine黄可
+
+    * Begin : 2014/12/08 20:09:29
+    * End   : 2014/12/08 20:13:17
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Cello
+
+    * Begin : 2014/12/08 20:09:28
+    * End   : 2014/12/08 20:09:28
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Cathy陈茹雪
 
     * Begin : 2014/12/08 20:01:29
