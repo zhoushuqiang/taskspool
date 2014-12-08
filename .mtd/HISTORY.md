@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn UPDATE 菲飞飞
+
+    * Begin : 2014/12/09 05:12:55
+    * End   : 2014/12/09 05:15:44
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE qi耳洞
+
+    * Begin : 2014/12/09 05:12:54
+    * End   : 2014/12/09 05:12:55
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn follow 53c29f589d67d9af598b604e Tomyli惋柔
 
     * Begin : 2014/12/09 05:12:48

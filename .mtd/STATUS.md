@@ -2,12 +2,11 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 51fba37a803494dd11284634 qi耳洞
-    *[urlrule] sites weipai.cn UPDATE 53f08ff2a8640b557f8b459f 菲飞飞
     *[urlrule] sites weipai.cn UPDATE 52648e589f6c00cd1a8fde4e Gyochaeyeon
     *[urlrule] sites weipai.cn UPDATE 5430edc6a5640b31688b4591 茜baby
     *[urlrule] sites weipai.cn UPDATE 53c29f589d67d9af598b604e Tomyli惋柔
 * Finished:
+    * [2014/12/09 05:15:44] [urlrule] sites weipai.cn UPDATE 菲飞飞
     * [2014/12/09 05:12:48] [urlrule] sites weipai.cn follow 53c29f589d67d9af598b604e Tomyli惋柔
     * [2014/12/09 05:12:40] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54858b83a5640bd24d8b458e
     * [2014/12/09 05:11:41] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54859f60a5640bc75e8b4589
@@ -40,6 +39,7 @@ Tasks Status Report
     * [2014/12/08 19:55:48] [urlrule] sites weipai.cn SAVE 屌丝福利小清新
     * [2014/12/08 19:55:35] [urlrule] sites weipai.cn SAVE 丝绸裹着性感2
 * Doing Nothing:
+    * [2014/12/09 05:12:55] [urlrule] sites weipai.cn UPDATE qi耳洞
     * [2014/12/09 05:12:48] [urlrule] sites weipai.cn follow 5430edc6a5640b31688b4591 茜baby
     * [2014/12/09 05:12:48] [urlrule] sites weipai.cn follow 52648e589f6c00cd1a8fde4e Gyochaeyeon
     * [2014/12/09 05:12:47] [urlrule] sites weipai.cn follow 53f08ff2a8640b557f8b459f 菲飞飞
