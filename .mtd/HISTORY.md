@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54858b83a5640bd24d8b458e
+
+    * Begin : 2014/12/09 05:11:49
+    * End   : 2014/12/09 05:12:40
+    * Result: => Tomyli惋柔/weipai.cn/53c29f589d67d9af598b604e
+
+* [urlrule] sites weipai.cn add 53c29f589d67d9af598b604e Tomyli惋柔
+
+    * Begin : 2014/12/09 05:11:48
+    * End   : 2014/12/09 05:11:49
+    * Result: http://www.weipai.cn/video/54858b83a5640bd24d8b458e=>[weipai.cn] 53c29f589d67d9af598b604e (Tomyli惋柔) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54859f60a5640bc75e8b4589
 
     * Begin : 2014/12/09 05:10:38
