@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/09 06:59:00] [urlrule] sites weipai.cn update kitty酱
     * [2014/12/09 06:58:37] [urlrule] sites weipai.cn update kimoon
     * [2014/12/09 06:58:06] [urlrule] sites weipai.cn update crystal尚
     * [2014/12/09 06:57:52] [urlrule] sites weipai.cn update bobobobobo
