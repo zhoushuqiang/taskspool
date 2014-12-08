@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update Daisy__兔
+
+    * Begin : 2014/12/08 20:22:47
+    * End   : 2014/12/08 20:26:29
+    * Result: OK
+
+* [urlrule] sites vlook.cn update DJ_Ricey
+
+    * Begin : 2014/12/08 20:22:45
+    * End   : 2014/12/08 20:22:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update DJ_Ricey
+
+    * Begin : 2014/12/08 20:22:43
+    * End   : 2014/12/08 20:22:44
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update DJ-TiMi
 
     * Begin : 2014/12/08 20:20:54
