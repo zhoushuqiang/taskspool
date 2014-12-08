@@ -1,3 +1,93 @@
+* [urlrule] sites weipai.cn update Sonwy_
+
+    * Begin : 2014/12/08 21:33:02
+    * End   : 2014/12/08 21:33:41
+    * Result: OK
+
+* [urlrule] sites vlook.cn update Song修
+
+    * Begin : 2014/12/08 21:33:00
+    * End   : 2014/12/08 21:33:01
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update SlyVIcky
+
+    * Begin : 2014/12/08 21:32:57
+    * End   : 2014/12/08 21:32:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Slri青儿
+
+    * Begin : 2014/12/08 21:32:55
+    * End   : 2014/12/08 21:32:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Sisters
+
+    * Begin : 2014/12/08 21:32:53
+    * End   : 2014/12/08 21:32:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Sexy菲儿
+
+    * Begin : 2014/12/08 21:32:52
+    * End   : 2014/12/08 21:32:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Sexyyyyy美姬大人
+
+    * Begin : 2014/12/08 21:32:50
+    * End   : 2014/12/08 21:32:50
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update SexyQueen蔡妍Yan
+
+    * Begin : 2014/12/08 21:32:47
+    * End   : 2014/12/08 21:32:49
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update SexyQueen_蔡妍YAN归来
+
+    * Begin : 2014/12/08 21:32:45
+    * End   : 2014/12/08 21:32:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Sensv
+
+    * Begin : 2014/12/08 21:32:43
+    * End   : 2014/12/08 21:32:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update SasaBaby
+
+    * Begin : 2014/12/08 21:32:41
+    * End   : 2014/12/08 21:32:42
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Saber酱
+
+    * Begin : 2014/12/08 21:31:53
+    * End   : 2014/12/08 21:32:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update SARA-614
+
+    * Begin : 2014/12/08 21:31:51
+    * End   : 2014/12/08 21:31:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Reggae胶囊
+
+    * Begin : 2014/12/08 21:31:49
+    * End   : 2014/12/08 21:31:50
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update RanOrignal
+
+    * Begin : 2014/12/08 21:31:01
+    * End   : 2014/12/08 21:31:48
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update ROSSY
 
     * Begin : 2014/12/08 21:30:21

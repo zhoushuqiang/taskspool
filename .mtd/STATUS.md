@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/08 21:33:41] [urlrule] sites weipai.cn update Sonwy_
     * [2014/12/08 21:30:53] [urlrule] sites weipai.cn update ROSSY
     * [2014/12/08 21:28:25] [urlrule] sites weipai.cn update Never沛妮
     * [2014/12/08 21:27:28] [urlrule] sites weipai.cn update NZL-妮子梁
@@ -26,6 +27,20 @@ Tasks Status Report
     * [2014/12/08 19:55:48] [urlrule] sites weipai.cn SAVE 屌丝福利小清新
     * [2014/12/08 19:55:35] [urlrule] sites weipai.cn SAVE 丝绸裹着性感2
 * Doing Nothing:
+    * [2014/12/08 21:33:01] [urlrule] sites vlook.cn update Song修
+    * [2014/12/08 21:32:58] [urlrule] sites vlook.cn update SlyVIcky
+    * [2014/12/08 21:32:56] [urlrule] sites weipai.cn update Slri青儿
+    * [2014/12/08 21:32:54] [urlrule] sites weipai.cn update Sisters
+    * [2014/12/08 21:32:52] [urlrule] sites weipai.cn update Sexy菲儿
+    * [2014/12/08 21:32:50] [urlrule] sites weipai.cn update Sexyyyyy美姬大人
+    * [2014/12/08 21:32:49] [urlrule] sites vlook.cn update SexyQueen蔡妍Yan
+    * [2014/12/08 21:32:45] [urlrule] sites weipai.cn update SexyQueen_蔡妍YAN归来
+    * [2014/12/08 21:32:43] [urlrule] sites weipai.cn update Sensv
+    * [2014/12/08 21:32:42] [urlrule] sites weipai.cn update SasaBaby
+    * [2014/12/08 21:32:40] [urlrule] sites vlook.cn update Saber酱
+    * [2014/12/08 21:31:51] [urlrule] sites weipai.cn update SARA-614
+    * [2014/12/08 21:31:50] [urlrule] sites weipai.cn update Reggae胶囊
+    * [2014/12/08 21:31:48] [urlrule] sites vlook.cn update RanOrignal
     * [2014/12/08 21:30:20] [urlrule] sites weipai.cn update RAE-瑞儿
     * [2014/12/08 21:30:18] [urlrule] sites weipai.cn update Queen-婷婷
     * [2014/12/08 21:30:16] [urlrule] sites vlook.cn update Q1335467161
