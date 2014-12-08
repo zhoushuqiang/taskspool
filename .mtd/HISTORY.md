@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update Katherine陳佳妮
+
+    * Begin : 2014/12/08 21:02:40
+    * End   : 2014/12/08 21:03:29
+    * Result: OK
+
 * [urlrule] sites vlook.cn update JunBaby
 
     * Begin : 2014/12/08 21:02:20

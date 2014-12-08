@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/08 21:03:29] [urlrule] sites vlook.cn update Katherine陳佳妮
     * [2014/12/08 21:02:30] [urlrule] sites vlook.cn update JunBaby
     * [2014/12/08 21:02:02] [urlrule] sites weipai.cn update Fox_00
     * [2014/12/08 21:01:11] [urlrule] sites weipai.cn update Djkkrmx慧玲
