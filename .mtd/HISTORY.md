@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update CC宠儿凌溪
+
+    * Begin : 2014/12/08 19:56:18
+    * End   : 2014/12/08 20:01:15
+    * Result: OK
+
+* [urlrule] sites weipai.cn update CC-rose
+
+    * Begin : 2014/12/08 19:56:16
+    * End   : 2014/12/08 19:56:17
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn SAVE Baby瑶瑶
 
     * Begin : 2014/12/08 19:56:00
