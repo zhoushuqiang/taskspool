@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update Vicky777777
+
+    * Begin : 2014/12/09 05:46:24
+    * End   : 2014/12/09 05:47:21
+    * Result: OK
+
+* [urlrule] sites weipai.cn update VV朗熙
+
+    * Begin : 2014/12/09 05:46:22
+    * End   : 2014/12/09 05:46:23
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update VK_bb
+
+    * Begin : 2014/12/09 05:25:09
+    * End   : 2014/12/09 05:46:21
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Theonlylove
 
     * Begin : 2014/12/09 05:25:00
