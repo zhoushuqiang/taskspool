@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update baby彩霞
+
+    * Begin : 2014/12/09 06:54:47
+    * End   : 2014/12/09 06:56:49
+    * Result: OK
+
 * [urlrule] sites weipai.cn update a小狐狸520
 
     * Begin : 2014/12/09 06:53:17
