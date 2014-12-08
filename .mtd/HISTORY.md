@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE Gyochaeyeon
+
+    * Begin : 2014/12/09 05:15:51
+    * End   : 2014/12/09 05:19:20
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 菲飞飞
 
     * Begin : 2014/12/09 05:12:55
