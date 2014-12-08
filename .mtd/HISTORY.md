@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update Miranda-Kerr
+
+    * Begin : 2014/12/08 21:20:19
+    * End   : 2014/12/08 21:20:24
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Mia丫丫C
+
+    * Begin : 2014/12/08 21:20:17
+    * End   : 2014/12/08 21:20:17
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Miao雪
+
+    * Begin : 2014/12/08 21:20:15
+    * End   : 2014/12/08 21:20:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Maggie李嘉麒
+
+    * Begin : 2014/12/08 21:20:14
+    * End   : 2014/12/08 21:20:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update MISS小丝雨
+
+    * Begin : 2014/12/08 21:20:12
+    * End   : 2014/12/08 21:20:12
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update MISS小丝雨
+
+    * Begin : 2014/12/08 21:20:09
+    * End   : 2014/12/08 21:20:11
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update MISS小丝雨
 
     * Begin : 2014/12/08 21:18:39

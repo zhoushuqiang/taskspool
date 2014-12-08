@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Miranda-Kerr
+
+    * Begin : 2014/12/08 21:20:19
+    * End   : 2014/12/08 21:20:24
+    * Result: OK
+
 * [urlrule] sites weipai.cn update MISS小丝雨
 
     * Begin : 2014/12/08 21:18:39
