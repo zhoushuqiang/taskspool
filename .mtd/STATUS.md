@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/08 21:02:30] [urlrule] sites vlook.cn update JunBaby
     * [2014/12/08 21:02:02] [urlrule] sites weipai.cn update Fox_00
     * [2014/12/08 21:01:11] [urlrule] sites weipai.cn update Djkkrmx慧玲
     * [2014/12/08 21:00:29] [urlrule] sites weipai.cn update Dj_kelly
@@ -16,6 +17,11 @@ Tasks Status Report
     * [2014/12/08 19:55:48] [urlrule] sites weipai.cn SAVE 屌丝福利小清新
     * [2014/12/08 19:55:35] [urlrule] sites weipai.cn SAVE 丝绸裹着性感2
 * Doing Nothing:
+    * [2014/12/08 21:02:19] [urlrule] sites weipai.cn update Jocelyn_晶
+    * [2014/12/08 21:02:18] [urlrule] sites vlook.cn update Joanbaby倩
+    * [2014/12/08 21:02:15] [urlrule] sites weipai.cn update HellenBaby_
+    * [2014/12/08 21:02:13] [urlrule] sites weipai.cn update Godismyfather
+    * [2014/12/08 21:02:11] [urlrule] sites vlook.cn update Gaby_Kim金慧嫄
     * [2014/12/08 21:01:26] [urlrule] sites weipai.cn update Fiy
     * [2014/12/08 21:01:24] [urlrule] sites weipai.cn update EverdayBaby
     * [2014/12/08 21:01:23] [urlrule] sites weipai.cn update Elise谭晓彤

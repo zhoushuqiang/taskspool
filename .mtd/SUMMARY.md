@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update JunBaby
+
+    * Begin : 2014/12/08 21:02:20
+    * End   : 2014/12/08 21:02:30
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Fox_00
 
     * Begin : 2014/12/08 21:01:27
