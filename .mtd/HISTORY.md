@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5485a0b9a5640bc55f8b459a
+
+    * Begin : 2014/12/09 05:08:58
+    * End   : 2014/12/09 05:10:30
+    * Result: => Gyochaeyeon/weipai.cn/52648e589f6c00cd1a8fde4e
+
+* [urlrule] sites weipai.cn add 52648e589f6c00cd1a8fde4e Gyochaeyeon
+
+    * Begin : 2014/12/09 05:08:57
+    * End   : 2014/12/09 05:08:58
+    * Result: http://www.weipai.cn/video/5485a0b9a5640bc55f8b459a=>[weipai.cn] 52648e589f6c00cd1a8fde4e (Gyochaeyeon) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548534eaa5640b8c498b459c
 
     * Begin : 2014/12/09 05:08:08
