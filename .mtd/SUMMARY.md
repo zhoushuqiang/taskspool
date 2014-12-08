@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/544ba44ba5640ba5148b45a9
+
+    * Begin : 2014/12/09 05:07:41
+    * End   : 2014/12/09 05:08:00
+    * Result: => qi耳洞/weipai.cn/51fba37a803494dd11284634
+
 * [urlrule] sites weipai.cn update Sooki莹莹孙
 
     * Begin : 2014/12/08 21:33:49
