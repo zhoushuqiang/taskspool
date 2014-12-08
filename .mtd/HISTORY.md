@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn follow 53c29f589d67d9af598b604e Tomyli惋柔
+
+    * Begin : 2014/12/09 05:12:48
+    * End   : 2014/12/09 05:12:48
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 5430edc6a5640b31688b4591 茜baby
+
+    * Begin : 2014/12/09 05:12:48
+    * End   : 2014/12/09 05:12:48
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 52648e589f6c00cd1a8fde4e Gyochaeyeon
+
+    * Begin : 2014/12/09 05:12:47
+    * End   : 2014/12/09 05:12:48
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 53f08ff2a8640b557f8b459f 菲飞飞
+
+    * Begin : 2014/12/09 05:12:47
+    * End   : 2014/12/09 05:12:47
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn follow 51fba37a803494dd11284634 qi耳洞
+
+    * Begin : 2014/12/09 05:12:47
+    * End   : 2014/12/09 05:12:47
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54858b83a5640bd24d8b458e
 
     * Begin : 2014/12/09 05:11:49
