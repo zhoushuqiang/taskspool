@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update DJ-TiMi
+
+    * Begin : 2014/12/08 20:20:54
+    * End   : 2014/12/08 20:22:35
+    * Result: OK
+
 * [urlrule] sites weipai.cn update DJ-CC
 
     * Begin : 2014/12/08 20:13:35
