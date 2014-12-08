@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/08 21:24:58] [urlrule] sites weipai.cn update Miya_妈咪
     * [2014/12/08 21:20:24] [urlrule] sites weipai.cn update Miranda-Kerr
     * [2014/12/08 21:20:01] [urlrule] sites weipai.cn update MISS小丝雨
     * [2014/12/08 21:18:31] [urlrule] sites weipai.cn update Lusibaby000
