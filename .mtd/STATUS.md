@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/09 07:05:25] [urlrule] sites weipai.cn update love雯雯
     * [2014/12/09 06:59:00] [urlrule] sites weipai.cn update kitty酱
     * [2014/12/09 06:58:37] [urlrule] sites weipai.cn update kimoon
     * [2014/12/09 06:58:06] [urlrule] sites weipai.cn update crystal尚
@@ -54,6 +55,7 @@ Tasks Status Report
     * [2014/12/08 19:55:48] [urlrule] sites weipai.cn SAVE 屌丝福利小清新
     * [2014/12/08 19:55:35] [urlrule] sites weipai.cn SAVE 丝绸裹着性感2
 * Doing Nothing:
+    * [2014/12/09 06:59:09] [urlrule] sites weipai.cn update li莉
     * [2014/12/09 06:58:15] [urlrule] sites weipai.cn update dj-vivi
     * [2014/12/09 06:58:01] [urlrule] sites weipai.cn update coco小姐
     * [2014/12/09 06:53:16] [urlrule] sites vlook.cn update angela允娜
