@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update Cathy陈茹雪
+
+    * Begin : 2014/12/08 20:01:29
+    * End   : 2014/12/08 20:09:20
+    * Result: OK
+
+* [urlrule] sites weipai.cn update CL森系女神
+
+    * Begin : 2014/12/08 20:01:28
+    * End   : 2014/12/08 20:01:28
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update CC宠儿凌溪
 
     * Begin : 2014/12/08 19:56:18
