@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update Djkkrmx慧玲
+
+    * Begin : 2014/12/08 21:00:47
+    * End   : 2014/12/08 21:01:11
+    * Result: OK
+
+* [urlrule] sites vlook.cn update Dj_kelly
+
+    * Begin : 2014/12/08 21:00:38
+    * End   : 2014/12/08 21:00:46
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Dj_kelly
 
     * Begin : 2014/12/08 20:59:10
