@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/08 21:20:01] [urlrule] sites weipai.cn update MISS小丝雨
     * [2014/12/08 21:18:31] [urlrule] sites weipai.cn update Lusibaby000
     * [2014/12/08 21:16:54] [urlrule] sites weipai.cn update Lolita4ever
     * [2014/12/08 21:03:29] [urlrule] sites vlook.cn update Katherine陳佳妮
