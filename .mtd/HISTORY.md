@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update aling_888
+
+    * Begin : 2014/12/09 06:31:44
+    * End   : 2014/12/09 06:31:55
+    * Result: OK
+
+* [urlrule] sites vlook.cn update absppo
+
+    * Begin : 2014/12/09 06:10:31
+    * End   : 2014/12/09 06:31:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update _金妍熙
+
+    * Begin : 2014/12/09 06:10:29
+    * End   : 2014/12/09 06:10:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update _郑美人
+
+    * Begin : 2014/12/09 06:10:28
+    * End   : 2014/12/09 06:10:28
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update _美衣
 
     * Begin : 2014/12/09 06:09:32

@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update aling_888
+
+    * Begin : 2014/12/09 06:31:44
+    * End   : 2014/12/09 06:31:55
+    * Result: OK
+
 * [urlrule] sites weipai.cn update _美衣
 
     * Begin : 2014/12/09 06:09:32
