@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/09 05:07:13] [urlrule] sites weipai.cn update Sooki莹莹孙
     * [2014/12/08 21:33:41] [urlrule] sites weipai.cn update Sonwy_
     * [2014/12/08 21:30:53] [urlrule] sites weipai.cn update ROSSY
     * [2014/12/08 21:28:25] [urlrule] sites weipai.cn update Never沛妮
