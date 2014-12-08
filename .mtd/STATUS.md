@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/09 07:06:29] [urlrule] sites weipai.cn update penny佩佩
     * [2014/12/09 07:06:19] [urlrule] sites weipai.cn update pengfang
     * [2014/12/09 07:06:04] [urlrule] sites weipai.cn update oliviababy
     * [2014/12/09 07:05:51] [urlrule] sites weipai.cn update miss吴
