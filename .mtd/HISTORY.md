@@ -1,3 +1,15 @@
+* [urlrule] sites vlook.cn update 兮颜SSS
+
+    * Begin : 2014/12/10 03:15:47
+    * End   : 2014/12/10 03:17:45
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 光头-狠强
+
+    * Begin : 2014/12/10 03:15:45
+    * End   : 2014/12/10 03:15:46
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 倩倩baby
 
     * Begin : 2014/12/10 03:13:55

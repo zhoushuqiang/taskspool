@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 03:17:45] [urlrule] sites vlook.cn update 兮颜SSS
     * [2014/12/10 03:15:37] [urlrule] sites weipai.cn update 倩倩baby
     * [2014/12/10 03:13:47] [urlrule] sites weipai.cn update 你懂我么小娘
     * [2014/12/10 03:13:38] [urlrule] sites weipai.cn update 你娜爷
@@ -14,6 +15,7 @@ Tasks Status Report
     * [2014/12/10 02:48:08] [urlrule] sites weipai.cn update 丹梦妮ooloo
     * [2014/12/10 02:41:42] [urlrule] sites weipai.cn update 两只小蜜蜂丫
 * Doing Nothing:
+    * [2014/12/10 03:15:46] [urlrule] sites weipai.cn update 光头-狠强
     * [2014/12/10 03:08:40] [urlrule] sites weipai.cn update 优优Baby
     * [2014/12/10 03:08:39] [urlrule] sites weipai.cn update 以我之名祭你风华初成
     * [2014/12/10 03:08:37] [urlrule] sites weipai.cn update 仙德瑞拉_模特经纪
