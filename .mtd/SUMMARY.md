@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 丝月阁
+
+    * Begin : 2014/12/09 09:19:42
+    * End   : 2014/12/09 09:20:15
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 不羁的风20140212
 
     * Begin : 2014/12/09 09:19:34

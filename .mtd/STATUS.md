@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/09 09:20:15] [urlrule] sites weipai.cn update 丝月阁
     * [2014/12/09 09:19:35] [urlrule] sites weipai.cn update 不羁的风20140212
     * [2014/12/09 09:19:23] [urlrule] sites weipai.cn update 丁丁丁丁丁小宝
     * [2014/12/09 09:18:57] [urlrule] sites weipai.cn update 一生热爱回头太难
