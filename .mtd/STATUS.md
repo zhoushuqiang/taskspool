@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 04:59:29] [urlrule] sites weipai.cn update 孤独患者
     * [2014/12/10 04:58:48] [urlrule] sites weipai.cn update 孤单的84剩女
     * [2014/12/10 04:57:41] [urlrule] sites weipai.cn update 媛妞儿
     * [2014/12/10 04:56:43] [urlrule] sites weipai.cn update 媚力女人

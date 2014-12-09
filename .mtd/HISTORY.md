@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 孤独患者
+
+    * Begin : 2014/12/10 04:58:55
+    * End   : 2014/12/10 04:59:29
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 孤单的84剩女
 
     * Begin : 2014/12/10 04:58:02
