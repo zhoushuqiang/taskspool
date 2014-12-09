@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update 小芒果
+
+    * Begin : 2014/12/10 05:18:43
+    * End   : 2014/12/10 05:19:23
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 小白兔玩微拍
 
     * Begin : 2014/12/10 05:18:14
