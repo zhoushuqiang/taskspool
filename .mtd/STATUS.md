@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 05:19:34] [urlrule] sites weipai.cn update 小花妹妹
     * [2014/12/10 05:19:23] [urlrule] sites vlook.cn update 小芒果
     * [2014/12/10 05:18:35] [urlrule] sites weipai.cn update 小白兔玩微拍
     * [2014/12/10 05:18:06] [urlrule] sites weipai.cn update 小甜猫
