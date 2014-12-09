@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/09 09:22:10] [urlrule] sites weipai.cn update 丝绸裹着性感2
     * [2014/12/09 09:20:15] [urlrule] sites weipai.cn update 丝月阁
     * [2014/12/09 09:19:35] [urlrule] sites weipai.cn update 不羁的风20140212
     * [2014/12/09 09:19:23] [urlrule] sites weipai.cn update 丁丁丁丁丁小宝
