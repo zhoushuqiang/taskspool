@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 03:56:42] [urlrule] sites weipai.cn update 吕夫人
     * [2014/12/10 03:55:14] [urlrule] sites weipai.cn update 可爱娃娃性感辣妈
     * [2014/12/10 03:54:57] [urlrule] sites weipai.cn update 可是我叫__Zll
     * [2014/12/10 03:53:21] [urlrule] sites weipai.cn update 叫我超哥
@@ -31,6 +32,7 @@ Tasks Status Report
     * [2014/12/10 02:48:08] [urlrule] sites weipai.cn update 丹梦妮ooloo
     * [2014/12/10 02:41:42] [urlrule] sites weipai.cn update 两只小蜜蜂丫
 * Doing Nothing:
+    * [2014/12/10 03:55:22] [urlrule] sites weipai.cn update 叶子-Anna
     * [2014/12/10 03:53:29] [urlrule] sites weipai.cn update 可儿可儿
     * [2014/12/10 03:33:06] [urlrule] sites vlook.cn update 北娃大王
     * [2014/12/10 03:21:44] [urlrule] sites weipai.cn update 初家小雪

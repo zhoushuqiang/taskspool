@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 吕夫人
+
+    * Begin : 2014/12/10 03:55:24
+    * End   : 2014/12/10 03:56:42
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 叶子-Anna
+
+    * Begin : 2014/12/10 03:55:22
+    * End   : 2014/12/10 03:55:22
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 可爱娃娃性感辣妈
 
     * Begin : 2014/12/10 03:55:05
