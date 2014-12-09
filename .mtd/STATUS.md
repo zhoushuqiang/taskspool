@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/09 09:19:23] [urlrule] sites weipai.cn update 丁丁丁丁丁小宝
     * [2014/12/09 09:18:57] [urlrule] sites weipai.cn update 一生热爱回头太难
     * [2014/12/09 09:18:18] [urlrule] sites weipai.cn update yiurdhe520
     * [2014/12/09 09:17:33] [urlrule] sites weipai.cn update yi_sex_mei
@@ -69,6 +70,7 @@ Tasks Status Report
     * [2014/12/08 19:55:48] [urlrule] sites weipai.cn SAVE 屌丝福利小清新
     * [2014/12/08 19:55:35] [urlrule] sites weipai.cn SAVE 丝绸裹着性感2
 * Doing Nothing:
+    * [2014/12/09 09:19:05] [urlrule] sites weipai.cn update 丁丁lris
     * [2014/12/09 09:18:28] [urlrule] sites weipai.cn update zz蘑菇小象zz
     * [2014/12/09 09:18:26] [urlrule] sites weipai.cn update y依凌小姐
     * [2014/12/09 08:11:11] [urlrule] sites weipai.cn update sukiyoyo001

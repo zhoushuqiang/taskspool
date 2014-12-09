@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 丁丁丁丁丁小宝
+
+    * Begin : 2014/12/09 09:19:06
+    * End   : 2014/12/09 09:19:23
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 一生热爱回头太难
 
     * Begin : 2014/12/09 09:18:29
