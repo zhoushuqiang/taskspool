@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 大妞范
+
+    * Begin : 2014/12/10 04:49:53
+    * End   : 2014/12/10 04:50:04
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 多多lgh
 
     * Begin : 2014/12/10 04:49:33
