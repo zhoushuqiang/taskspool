@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 娜娜-_
+
+    * Begin : 2014/12/10 04:55:35
+    * End   : 2014/12/10 04:55:49
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 娜依灵儿
 
     * Begin : 2014/12/10 04:55:27
