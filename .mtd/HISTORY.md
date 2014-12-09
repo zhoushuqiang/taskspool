@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 倩倩baby
+
+    * Begin : 2014/12/10 03:13:55
+    * End   : 2014/12/10 03:15:37
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 你懂我么小娘
 
     * Begin : 2014/12/10 03:13:46

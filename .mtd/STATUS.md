@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 03:15:37] [urlrule] sites weipai.cn update 倩倩baby
     * [2014/12/10 03:13:47] [urlrule] sites weipai.cn update 你懂我么小娘
     * [2014/12/10 03:13:38] [urlrule] sites weipai.cn update 你娜爷
     * [2014/12/10 03:12:09] [urlrule] sites weipai.cn update 何佳琪baby
