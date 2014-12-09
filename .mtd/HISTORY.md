@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 国际潘
+
+    * Begin : 2014/12/10 04:12:12
+    * End   : 2014/12/10 04:12:29
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 四爷Siri
+
+    * Begin : 2014/12/10 04:12:11
+    * End   : 2014/12/10 04:12:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 嘟嘟女士
+
+    * Begin : 2014/12/10 04:12:09
+    * End   : 2014/12/10 04:12:10
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 嘉昕
 
     * Begin : 2014/12/10 04:07:45

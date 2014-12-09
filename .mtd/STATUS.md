@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 04:12:29] [urlrule] sites weipai.cn update 国际潘
     * [2014/12/10 04:12:01] [urlrule] sites weipai.cn update 嘉昕
     * [2014/12/10 04:07:27] [urlrule] sites weipai.cn update 周月月
     * [2014/12/10 04:00:04] [urlrule] sites weipai.cn update 吴婉婷
@@ -35,6 +36,8 @@ Tasks Status Report
     * [2014/12/10 02:48:08] [urlrule] sites weipai.cn update 丹梦妮ooloo
     * [2014/12/10 02:41:42] [urlrule] sites weipai.cn update 两只小蜜蜂丫
 * Doing Nothing:
+    * [2014/12/10 04:12:11] [urlrule] sites weipai.cn update 四爷Siri
+    * [2014/12/10 04:12:10] [urlrule] sites weipai.cn update 嘟嘟女士
     * [2014/12/10 04:07:44] [urlrule] sites weipai.cn update 唐馨baby
     * [2014/12/10 04:07:43] [urlrule] sites weipai.cn update 响姐----
     * [2014/12/10 04:07:41] [urlrule] sites weipai.cn update 哈力牛仔
