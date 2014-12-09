@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 小惡魔Linsey
+
+    * Begin : 2014/12/10 05:05:48
+    * End   : 2014/12/10 05:05:48
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 小小美mmmmmm
+
+    * Begin : 2014/12/10 05:05:46
+    * End   : 2014/12/10 05:05:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小容嬷嬷
+
+    * Begin : 2014/12/10 05:05:45
+    * End   : 2014/12/10 05:05:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小可爱mmd
+
+    * Begin : 2014/12/10 05:05:43
+    * End   : 2014/12/10 05:05:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小仓老师
+
+    * Begin : 2014/12/10 05:05:41
+    * End   : 2014/12/10 05:05:42
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 小也慧子
 
     * Begin : 2014/12/10 05:05:15
