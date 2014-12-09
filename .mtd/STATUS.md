@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 03:55:14] [urlrule] sites weipai.cn update 可爱娃娃性感辣妈
     * [2014/12/10 03:54:57] [urlrule] sites weipai.cn update 可是我叫__Zll
     * [2014/12/10 03:53:21] [urlrule] sites weipai.cn update 叫我超哥
     * [2014/12/10 03:49:06] [urlrule] sites weipai.cn update 叫丽媽咪
