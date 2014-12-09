@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 前任攻略
+
+    * Begin : 2014/12/10 03:21:46
+    * End   : 2014/12/10 03:22:05
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 初家小雪
+
+    * Begin : 2014/12/10 03:21:44
+    * End   : 2014/12/10 03:21:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 刘雯雯darling
+
+    * Begin : 2014/12/10 03:21:42
+    * End   : 2014/12/10 03:21:42
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 刘诗涵
+
+    * Begin : 2014/12/10 03:21:41
+    * End   : 2014/12/10 03:21:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 冷美人1
+
+    * Begin : 2014/12/10 03:21:39
+    * End   : 2014/12/10 03:21:39
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 冷美人1
 
     * Begin : 2014/12/10 03:19:10

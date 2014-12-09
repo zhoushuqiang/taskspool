@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 前任攻略
+
+    * Begin : 2014/12/10 03:21:46
+    * End   : 2014/12/10 03:22:05
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 冷美人1
 
     * Begin : 2014/12/10 03:19:10
