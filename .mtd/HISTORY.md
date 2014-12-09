@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 孤单的84剩女
+
+    * Begin : 2014/12/10 04:58:02
+    * End   : 2014/12/10 04:58:48
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 孟晓艺dana
+
+    * Begin : 2014/12/10 04:58:00
+    * End   : 2014/12/10 04:58:01
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 孟晓晴Aimme
+
+    * Begin : 2014/12/10 04:57:52
+    * End   : 2014/12/10 04:57:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 孙星星
+
+    * Begin : 2014/12/10 04:57:51
+    * End   : 2014/12/10 04:57:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 孙大星
+
+    * Begin : 2014/12/10 04:57:49
+    * End   : 2014/12/10 04:57:49
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 媛妞儿
 
     * Begin : 2014/12/10 04:56:50
