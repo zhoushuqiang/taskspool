@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 大牙大牙大雅莉
+
+    * Begin : 2014/12/10 04:50:23
+    * End   : 2014/12/10 04:50:52
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 大朴朴
+
+    * Begin : 2014/12/10 04:50:22
+    * End   : 2014/12/10 04:50:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 大妞范经纪人满林
+
+    * Begin : 2014/12/10 04:50:20
+    * End   : 2014/12/10 04:50:20
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 大妞范慧子
 
     * Begin : 2014/12/10 04:50:12
