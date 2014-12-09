@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 04:00:04] [urlrule] sites weipai.cn update 吴婉婷
     * [2014/12/10 03:56:42] [urlrule] sites weipai.cn update 吕夫人
     * [2014/12/10 03:55:14] [urlrule] sites weipai.cn update 可爱娃娃性感辣妈
     * [2014/12/10 03:54:57] [urlrule] sites weipai.cn update 可是我叫__Zll
