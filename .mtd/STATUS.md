@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 05:03:35] [urlrule] sites weipai.cn update 寂寞姐姐
     * [2014/12/10 05:03:22] [urlrule] sites weipai.cn update 家菱
     * [2014/12/10 04:59:59] [urlrule] sites weipai.cn update 宝宝倩
     * [2014/12/10 04:59:29] [urlrule] sites weipai.cn update 孤独患者

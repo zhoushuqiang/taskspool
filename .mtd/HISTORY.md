@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 寂寞姐姐
+
+    * Begin : 2014/12/10 05:03:30
+    * End   : 2014/12/10 05:03:35
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 家菱
 
     * Begin : 2014/12/10 05:00:09
