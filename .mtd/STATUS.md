@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 04:54:09] [urlrule] sites weipai.cn update 妮妮love
     * [2014/12/10 04:53:56] [urlrule] sites weipai.cn update 女超人
     * [2014/12/10 04:52:57] [urlrule] sites weipai.cn update 女神集团
     * [2014/12/10 04:52:49] [urlrule] sites weipai.cn update 女神情情
@@ -51,6 +52,9 @@ Tasks Status Report
     * [2014/12/10 02:48:08] [urlrule] sites weipai.cn update 丹梦妮ooloo
     * [2014/12/10 02:41:42] [urlrule] sites weipai.cn update 两只小蜜蜂丫
 * Doing Nothing:
+    * [2014/12/10 04:54:07] [urlrule] sites weipai.cn update 妞跪着给哥唱征服
+    * [2014/12/10 04:54:06] [urlrule] sites weipai.cn update 妖精annly
+    * [2014/12/10 04:54:04] [urlrule] sites weipai.cn update 奶棒
     * [2014/12/10 04:52:25] [urlrule] sites weipai.cn update 女侠桃花鹿
     * [2014/12/10 04:52:23] [urlrule] sites weipai.cn update 奈奈萌大奶
     * [2014/12/10 04:52:22] [urlrule] sites weipai.cn update 奇美女

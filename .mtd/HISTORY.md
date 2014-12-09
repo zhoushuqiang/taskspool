@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 妮妮love
+
+    * Begin : 2014/12/10 04:54:08
+    * End   : 2014/12/10 04:54:09
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 妞跪着给哥唱征服
+
+    * Begin : 2014/12/10 04:54:07
+    * End   : 2014/12/10 04:54:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 妖精annly
+
+    * Begin : 2014/12/10 04:54:05
+    * End   : 2014/12/10 04:54:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 奶棒
+
+    * Begin : 2014/12/10 04:54:03
+    * End   : 2014/12/10 04:54:04
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 女超人
 
     * Begin : 2014/12/10 04:53:05
