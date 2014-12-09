@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 04:13:30] [urlrule] sites weipai.cn update 夏baby小花
     * [2014/12/10 04:12:39] [urlrule] sites weipai.cn update 圈圈圈圈圈儿
     * [2014/12/10 04:12:29] [urlrule] sites weipai.cn update 国际潘
     * [2014/12/10 04:12:01] [urlrule] sites weipai.cn update 嘉昕
@@ -37,6 +38,7 @@ Tasks Status Report
     * [2014/12/10 02:48:08] [urlrule] sites weipai.cn update 丹梦妮ooloo
     * [2014/12/10 02:41:42] [urlrule] sites weipai.cn update 两只小蜜蜂丫
 * Doing Nothing:
+    * [2014/12/10 04:12:47] [urlrule] sites weipai.cn update 地表最強-高潮製造機
     * [2014/12/10 04:12:11] [urlrule] sites weipai.cn update 四爷Siri
     * [2014/12/10 04:12:10] [urlrule] sites weipai.cn update 嘟嘟女士
     * [2014/12/10 04:07:44] [urlrule] sites weipai.cn update 唐馨baby

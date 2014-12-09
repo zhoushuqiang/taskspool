@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 夏baby小花
+
+    * Begin : 2014/12/10 04:12:49
+    * End   : 2014/12/10 04:13:30
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 地表最強-高潮製造機
+
+    * Begin : 2014/12/10 04:12:47
+    * End   : 2014/12/10 04:12:47
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 圈圈圈圈圈儿
 
     * Begin : 2014/12/10 04:12:38
