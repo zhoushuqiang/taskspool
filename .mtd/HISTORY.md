@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 小qiqi总爱凑美呦
+
+    * Begin : 2014/12/10 05:03:45
+    * End   : 2014/12/10 05:05:03
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 对你着了迷
+
+    * Begin : 2014/12/10 05:03:43
+    * End   : 2014/12/10 05:03:44
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 寂寞姐姐
 
     * Begin : 2014/12/10 05:03:30
