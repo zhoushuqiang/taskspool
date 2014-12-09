@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 乐怡
+
+    * Begin : 2014/12/10 02:49:10
+    * End   : 2014/12/10 02:54:46
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 丽嫂zyk
 
     * Begin : 2014/12/10 02:49:01
