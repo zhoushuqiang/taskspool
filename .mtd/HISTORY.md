@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 周月月
+
+    * Begin : 2014/12/10 04:00:18
+    * End   : 2014/12/10 04:07:27
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 周OK
+
+    * Begin : 2014/12/10 04:00:16
+    * End   : 2014/12/10 04:00:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 吴雨晴
+
+    * Begin : 2014/12/10 04:00:14
+    * End   : 2014/12/10 04:00:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 吴美昕Yumi
+
+    * Begin : 2014/12/10 04:00:13
+    * End   : 2014/12/10 04:00:13
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 吴婉婷
 
     * Begin : 2014/12/10 03:56:49
