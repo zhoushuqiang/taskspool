@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 多多lgh
+
+    * Begin : 2014/12/10 04:49:33
+    * End   : 2014/12/10 04:49:45
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 夕夕Y
 
     * Begin : 2014/12/10 04:49:19
