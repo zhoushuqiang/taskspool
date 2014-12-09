@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 家菱
+
+    * Begin : 2014/12/10 05:00:09
+    * End   : 2014/12/10 05:03:22
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 家妹xxoo
+
+    * Begin : 2014/12/10 05:00:08
+    * End   : 2014/12/10 05:00:08
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 宝小丁
+
+    * Begin : 2014/12/10 05:00:06
+    * End   : 2014/12/10 05:00:07
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 宝宝倩
 
     * Begin : 2014/12/10 04:59:50
