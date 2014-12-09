@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 他不懂我的xin
+
+    * Begin : 2014/12/10 03:08:12
+    * End   : 2014/12/10 03:08:12
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 亿艾儿-baby
+
+    * Begin : 2014/12/10 03:08:10
+    * End   : 2014/12/10 03:08:11
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 于安朵
 
     * Begin : 2014/12/10 02:54:54
