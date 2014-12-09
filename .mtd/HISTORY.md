@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 卢思云
+
+    * Begin : 2014/12/10 03:33:07
+    * End   : 2014/12/10 03:38:14
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 北娃大王
+
+    * Begin : 2014/12/10 03:32:59
+    * End   : 2014/12/10 03:33:06
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 北娃大王
 
     * Begin : 2014/12/10 03:24:35
