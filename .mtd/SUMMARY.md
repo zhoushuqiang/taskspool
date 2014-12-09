@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小白兔玩微拍
+
+    * Begin : 2014/12/10 05:18:14
+    * End   : 2014/12/10 05:18:35
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 小甜猫
 
     * Begin : 2014/12/10 05:17:49
