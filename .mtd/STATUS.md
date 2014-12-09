@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 04:56:43] [urlrule] sites weipai.cn update 媚力女人
     * [2014/12/10 04:55:49] [urlrule] sites weipai.cn update 娜娜-_
     * [2014/12/10 04:55:28] [urlrule] sites weipai.cn update 娜依灵儿
     * [2014/12/10 04:55:19] [urlrule] sites vlook.cn update 娇娇2014
@@ -56,6 +57,8 @@ Tasks Status Report
     * [2014/12/10 02:48:08] [urlrule] sites weipai.cn update 丹梦妮ooloo
     * [2014/12/10 02:41:42] [urlrule] sites weipai.cn update 两只小蜜蜂丫
 * Doing Nothing:
+    * [2014/12/10 04:56:00] [urlrule] sites weipai.cn update 婷宝20141030
+    * [2014/12/10 04:55:58] [urlrule] sites vlook.cn update 婷婷aiweier
     * [2014/12/10 04:54:07] [urlrule] sites weipai.cn update 妞跪着给哥唱征服
     * [2014/12/10 04:54:06] [urlrule] sites weipai.cn update 妖精annly
     * [2014/12/10 04:54:04] [urlrule] sites weipai.cn update 奶棒

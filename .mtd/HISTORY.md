@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 媚力女人
+
+    * Begin : 2014/12/10 04:56:01
+    * End   : 2014/12/10 04:56:43
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 婷宝20141030
+
+    * Begin : 2014/12/10 04:56:00
+    * End   : 2014/12/10 04:56:00
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 婷婷aiweier
+
+    * Begin : 2014/12/10 04:55:57
+    * End   : 2014/12/10 04:55:58
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 娜娜-_
 
     * Begin : 2014/12/10 04:55:35
