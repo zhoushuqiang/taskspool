@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 古小丽Lily
+
+    * Begin : 2014/12/10 03:40:17
+    * End   : 2014/12/10 03:43:58
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 友熙酱
 
     * Begin : 2014/12/10 03:39:57
