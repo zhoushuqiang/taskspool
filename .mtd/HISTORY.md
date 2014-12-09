@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 劉點點dotey_
+
+    * Begin : 2014/12/10 03:22:12
+    * End   : 2014/12/10 03:24:28
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 前任攻略
 
     * Begin : 2014/12/10 03:21:46
