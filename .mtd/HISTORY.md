@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 何佳琪baby
+
+    * Begin : 2014/12/10 03:08:42
+    * End   : 2014/12/10 03:12:09
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 优优Baby
+
+    * Begin : 2014/12/10 03:08:40
+    * End   : 2014/12/10 03:08:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 以我之名祭你风华初成
+
+    * Begin : 2014/12/10 03:08:38
+    * End   : 2014/12/10 03:08:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 仙德瑞拉_模特经纪
+
+    * Begin : 2014/12/10 03:08:37
+    * End   : 2014/12/10 03:08:37
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 仙女大人
 
     * Begin : 2014/12/10 03:08:20

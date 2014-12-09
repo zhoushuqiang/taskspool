@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 何佳琪baby
+
+    * Begin : 2014/12/10 03:08:42
+    * End   : 2014/12/10 03:12:09
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 仙女大人
 
     * Begin : 2014/12/10 03:08:20
