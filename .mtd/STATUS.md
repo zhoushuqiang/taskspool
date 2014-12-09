@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 04:54:50] [urlrule] sites weipai.cn update 姐又内涵了
     * [2014/12/10 04:54:09] [urlrule] sites weipai.cn update 妮妮love
     * [2014/12/10 04:53:56] [urlrule] sites weipai.cn update 女超人
     * [2014/12/10 04:52:57] [urlrule] sites weipai.cn update 女神集团
