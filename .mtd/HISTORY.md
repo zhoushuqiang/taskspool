@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小爱妞妞
+
+    * Begin : 2014/12/10 05:12:09
+    * End   : 2014/12/10 05:17:27
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 小燃燃baby
 
     * Begin : 2014/12/10 05:06:10

@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 05:17:27] [urlrule] sites weipai.cn update 小爱妞妞
     * [2014/12/10 05:12:00] [urlrule] sites weipai.cn update 小燃燃baby
     * [2014/12/10 05:06:00] [urlrule] sites weipai.cn update 小晴天baby
     * [2014/12/10 05:05:48] [urlrule] sites weipai.cn update 小惡魔Linsey
