@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 嘉昕
+
+    * Begin : 2014/12/10 04:07:45
+    * End   : 2014/12/10 04:12:01
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 唐馨baby
+
+    * Begin : 2014/12/10 04:07:44
+    * End   : 2014/12/10 04:07:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 响姐----
+
+    * Begin : 2014/12/10 04:07:42
+    * End   : 2014/12/10 04:07:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 哈力牛仔
+
+    * Begin : 2014/12/10 04:07:40
+    * End   : 2014/12/10 04:07:41
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 咪咪宝贝爱爱
+
+    * Begin : 2014/12/10 04:07:37
+    * End   : 2014/12/10 04:07:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 周珊珊shine
+
+    * Begin : 2014/12/10 04:07:35
+    * End   : 2014/12/10 04:07:36
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 周月月
 
     * Begin : 2014/12/10 04:00:18
