@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 夏婉婉Bonnie
+
+    * Begin : 2014/12/10 04:13:56
+    * End   : 2014/12/10 04:13:56
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 夏凉宸Ala
 
     * Begin : 2014/12/10 04:13:41
