@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update suna2411
+
+    * Begin : 2014/12/09 08:11:12
+    * End   : 2014/12/09 08:11:13
+    * Result: OK
+
 * [urlrule] sites weipai.cn update qinqin1995
 
     * Begin : 2014/12/09 07:06:37
