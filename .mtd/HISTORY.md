@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 夏凉宸Ala
+
+    * Begin : 2014/12/10 04:13:41
+    * End   : 2014/12/10 04:13:48
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 夏baby小花
+
+    * Begin : 2014/12/10 04:13:38
+    * End   : 2014/12/10 04:13:40
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 夏baby小花
 
     * Begin : 2014/12/10 04:12:49

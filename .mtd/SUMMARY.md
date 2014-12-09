@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 夏凉宸Ala
+
+    * Begin : 2014/12/10 04:13:41
+    * End   : 2014/12/10 04:13:48
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 夏baby小花
 
     * Begin : 2014/12/10 04:12:49
