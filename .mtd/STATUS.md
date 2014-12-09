@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 04:12:39] [urlrule] sites weipai.cn update 圈圈圈圈圈儿
     * [2014/12/10 04:12:29] [urlrule] sites weipai.cn update 国际潘
     * [2014/12/10 04:12:01] [urlrule] sites weipai.cn update 嘉昕
     * [2014/12/10 04:07:27] [urlrule] sites weipai.cn update 周月月

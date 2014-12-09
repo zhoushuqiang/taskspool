@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 圈圈圈圈圈儿
+
+    * Begin : 2014/12/10 04:12:38
+    * End   : 2014/12/10 04:12:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 国际潘
 
     * Begin : 2014/12/10 04:12:12
