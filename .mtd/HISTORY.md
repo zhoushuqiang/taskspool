@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update vamipre小妖
+
+    * Begin : 2014/12/09 09:14:36
+    * End   : 2014/12/09 09:15:52
+    * Result: OK
+
 * [urlrule task] update urlrule/task/follows.txt
 
     * Begin : 2014/12/09 09:14:28
