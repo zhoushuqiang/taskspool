@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 04:52:13] [urlrule] sites weipai.cn update 大靓
     * [2014/12/10 04:50:52] [urlrule] sites weipai.cn update 大牙大牙大雅莉
     * [2014/12/10 04:50:12] [urlrule] sites weipai.cn update 大妞范慧子
     * [2014/12/10 04:50:04] [urlrule] sites weipai.cn update 大妞范
@@ -46,6 +47,8 @@ Tasks Status Report
     * [2014/12/10 02:48:08] [urlrule] sites weipai.cn update 丹梦妮ooloo
     * [2014/12/10 02:41:42] [urlrule] sites weipai.cn update 两只小蜜蜂丫
 * Doing Nothing:
+    * [2014/12/10 04:51:04] [urlrule] sites vlook.cn update 大雯纸_zyw
+    * [2014/12/10 04:51:00] [urlrule] sites weipai.cn update 大美露
     * [2014/12/10 04:50:22] [urlrule] sites weipai.cn update 大朴朴
     * [2014/12/10 04:50:20] [urlrule] sites weipai.cn update 大妞范经纪人满林
     * [2014/12/10 04:13:40] [urlrule] sites vlook.cn update 夏baby小花
