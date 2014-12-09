@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 一生热爱回头太难
+
+    * Begin : 2014/12/09 09:18:29
+    * End   : 2014/12/09 09:18:57
+    * Result: OK
+
 * [urlrule] sites weipai.cn update yiurdhe520
 
     * Begin : 2014/12/09 09:17:41
