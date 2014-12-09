@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 03:32:51] [urlrule] sites weipai.cn update 北娃大王
     * [2014/12/10 03:24:28] [urlrule] sites weipai.cn update 劉點點dotey_
     * [2014/12/10 03:22:05] [urlrule] sites weipai.cn update 前任攻略
     * [2014/12/10 03:21:30] [urlrule] sites weipai.cn update 冷美人1

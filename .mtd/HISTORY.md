@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 北娃大王
+
+    * Begin : 2014/12/10 03:24:35
+    * End   : 2014/12/10 03:32:51
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 劉點點dotey_
 
     * Begin : 2014/12/10 03:22:12
