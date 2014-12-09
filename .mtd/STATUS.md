@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 03:08:29] [urlrule] sites weipai.cn update 仙女大人
     * [2014/12/10 03:08:12] [urlrule] sites weipai.cn update 他不懂我的xin
     * [2014/12/10 03:08:02] [urlrule] sites weipai.cn update 于安朵
     * [2014/12/10 02:54:46] [urlrule] sites weipai.cn update 乐怡
