@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 03:18:10] [urlrule] sites weipai.cn update 内涵湿姐
     * [2014/12/10 03:17:54] [urlrule] sites weipai.cn update 内涵姐姐
     * [2014/12/10 03:17:45] [urlrule] sites vlook.cn update 兮颜SSS
     * [2014/12/10 03:15:37] [urlrule] sites weipai.cn update 倩倩baby
