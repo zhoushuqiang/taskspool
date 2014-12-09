@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 不羁的风20140212
+
+    * Begin : 2014/12/09 09:19:34
+    * End   : 2014/12/09 09:19:35
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 丁丁丁丁丁小宝
 
     * Begin : 2014/12/09 09:19:06
