@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 20:23:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/10 20:23:49] [urlrule] sites weipai.cn update 尤物大王
     * [2014/12/10 20:23:35] [urlrule] sites weipai.cn update 小雨姐
     * [2014/12/10 16:37:59] [urlrule] sites weipai.cn update 小雅果子
