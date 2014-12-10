@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小钕Ren
+
+    * Begin : 2014/12/10 13:56:36
+    * End   : 2014/12/10 14:01:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 寂寞姐姐
 
     * Begin : 2014/12/10 13:55:20

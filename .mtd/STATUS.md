@@ -2,12 +2,34 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 14:01:39] [urlrule] sites weipai.cn update 小钕Ren
     * [2014/12/10 13:55:44] [urlrule] sites weipai.cn update 寂寞姐姐
     * [2014/12/10 13:54:01] [urlrule] sites weipai.cn update 女神集团
     * [2014/12/10 13:53:49] [urlrule] sites weipai.cn update 女王女王陛下
     * [2014/12/10 13:51:21] [urlrule] sites weipai.cn update 倩倩baby
     * [2014/12/10 13:49:02] [urlrule] sites weipai.cn update 丹梦妮ooloo
 * Doing Nothing:
+    * [2014/12/10 13:56:35] [urlrule] sites weipai.cn update 小资y
+    * [2014/12/10 13:56:33] [urlrule] sites weipai.cn update 小茹子
+    * [2014/12/10 13:56:31] [urlrule] sites weipai.cn update 小花妹妹
+    * [2014/12/10 13:56:29] [urlrule] sites vlook.cn update 小芒果
+    * [2014/12/10 13:56:25] [urlrule] sites weipai.cn update 小白兔玩微拍
+    * [2014/12/10 13:56:23] [urlrule] sites weipai.cn update 小甜猫
+    * [2014/12/10 13:56:22] [urlrule] sites weipai.cn update 小狐狸精灵
+    * [2014/12/10 13:56:19] [urlrule] sites weipai.cn update 小爱妞妞
+    * [2014/12/10 13:56:17] [urlrule] sites weipai.cn update 小燃燃baby
+    * [2014/12/10 13:56:15] [urlrule] sites weipai.cn update 小柔L
+    * [2014/12/10 13:56:13] [urlrule] sites weipai.cn update 小晴天baby
+    * [2014/12/10 13:56:12] [urlrule] sites weipai.cn update 小惡魔Linsey
+    * [2014/12/10 13:56:09] [urlrule] sites weipai.cn update 小小美mmmmmm
+    * [2014/12/10 13:56:08] [urlrule] sites weipai.cn update 小容嬷嬷
+    * [2014/12/10 13:56:06] [urlrule] sites weipai.cn update 小可爱mmd
+    * [2014/12/10 13:56:04] [urlrule] sites weipai.cn update 小仓老师
+    * [2014/12/10 13:56:02] [urlrule] sites weipai.cn update 小也慧子
+    * [2014/12/10 13:56:00] [urlrule] sites weipai.cn update 小乔流水
+    * [2014/12/10 13:55:58] [urlrule] sites weipai.cn update 小乔Cheryl
+    * [2014/12/10 13:55:56] [urlrule] sites weipai.cn update 小qiqi总爱凑美呦
+    * [2014/12/10 13:55:54] [urlrule] sites weipai.cn update 对你着了迷
     * [2014/12/10 13:55:19] [urlrule] sites weipai.cn update 家菱
     * [2014/12/10 13:55:17] [urlrule] sites weipai.cn update 家妹xxoo
     * [2014/12/10 13:55:15] [urlrule] sites weipai.cn update 宝小丁
