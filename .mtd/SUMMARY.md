@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 丹梦妮ooloo
+
+    * Begin : 2014/12/10 13:41:36
+    * End   : 2014/12/10 13:49:02
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 小花妹妹
 
     * Begin : 2014/12/10 05:19:32
