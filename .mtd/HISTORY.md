@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小雨姐
+
+    * Begin : 2014/12/10 16:38:07
+    * End   : 2014/12/10 20:23:35
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 小雅果子
 
     * Begin : 2014/12/10 16:37:54
