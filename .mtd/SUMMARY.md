@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 张栩菲-ManGo
+
+    * Begin : 2014/12/10 20:25:05
+    * End   : 2014/12/10 20:27:11
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 帮主-杨筱敏
 
     * Begin : 2014/12/10 20:24:07
