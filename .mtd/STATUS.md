@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/10 16:37:21] [urlrule] sites weipai.cn update 小镁媄-
     * [2014/12/10 14:01:39] [urlrule] sites weipai.cn update 小钕Ren
     * [2014/12/10 13:55:44] [urlrule] sites weipai.cn update 寂寞姐姐
     * [2014/12/10 13:54:01] [urlrule] sites weipai.cn update 女神集团
