@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 张瑶isa
+
+    * Begin : 2014/12/10 20:27:19
+    * End   : 2014/12/12 00:57:03
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 张栩菲-ManGo
 
     * Begin : 2014/12/10 20:25:05

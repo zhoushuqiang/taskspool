@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 00:57:03] [urlrule] sites weipai.cn update 张瑶isa
     * [2014/12/10 20:27:11] [urlrule] sites weipai.cn update 张栩菲-ManGo
     * [2014/12/10 20:24:37] [urlrule] sites vlook.cn update 帮主-杨筱敏
     * [2014/12/10 20:23:58] [urlrule] sites weipai.cn update 屌丝福利小清新
