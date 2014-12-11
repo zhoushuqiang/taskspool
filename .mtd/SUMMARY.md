@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 515d3c6f7f3494d507000075 bobao
+
+    * Begin : 2014/12/12 01:13:01
+    * End   : 2014/12/12 01:13:02
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 心蕾Abby
 
     * Begin : 2014/12/12 01:12:20

@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 515d3c6f7f3494d507000075 bobao
+
+    * Begin : 2014/12/12 01:13:01
+    * End   : 2014/12/12 01:13:02
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 515d3c6f7f3494d507000075 bobao
+
+    * Begin : 2014/12/12 01:12:59
+    * End   : 2014/12/12 01:13:01
+    * Result: http://www.weipai.cn/video/53d362d5a5640b15478b4574=>[weipai.cn] 515d3c6f7f3494d507000075 (bobao) OK
+
 * [urlrule] sites vlook.cn update 心蕾Abby
 
     * Begin : 2014/12/12 01:12:20
