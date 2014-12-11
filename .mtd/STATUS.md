@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 01:22:02] [urlrule] sites vlook.cn update 文蔓
     * [2014/12/12 01:21:43] [urlrule] sites weipai.cn update 撒旦甜心_Ellia
     * [2014/12/12 01:20:39] [urlrule] sites weipai.cn update 戴玉琪
     * [2014/12/12 01:20:14] [urlrule] sites weipai.cn update 恋姗妮
