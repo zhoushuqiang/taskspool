@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 01:07:30] [urlrule] sites weipai.cn update 张馨馨Maggie
     * [2014/12/12 01:05:36] [urlrule] sites weipai.cn update 张鑫Amy
     * [2014/12/12 01:03:58] [urlrule] sites weipai.cn update 张若兰
     * [2014/12/12 01:01:27] [urlrule] sites weipai.cn update 张芊芊
@@ -22,6 +23,7 @@ Tasks Status Report
     * [2014/12/10 13:51:21] [urlrule] sites weipai.cn update 倩倩baby
     * [2014/12/10 13:49:02] [urlrule] sites weipai.cn update 丹梦妮ooloo
 * Doing Nothing:
+    * [2014/12/12 01:05:46] [urlrule] sites weipai.cn update 张露_Betty
     * [2014/12/12 01:04:07] [urlrule] sites weipai.cn update 张若兰
     * [2014/12/12 00:58:08] [urlrule] sites vlook.cn add dWlkPTMzNDQ0OTc= Ҧѩ
     * [2014/12/10 20:25:04] [urlrule] sites weipai.cn update 张春雪v
