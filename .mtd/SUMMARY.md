@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 施婭婭
+
+    * Begin : 2014/12/12 03:52:51
+    * End   : 2014/12/12 03:53:23
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 5453025fa5640baa688b459e
 
     * Begin : 2014/12/12 03:51:57
