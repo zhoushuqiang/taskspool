@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 朱小璐-nini
+
+    * Begin : 2014/12/12 04:06:08
+    * End   : 2014/12/12 04:06:27
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 曾贾
+
+    * Begin : 2014/12/12 04:06:06
+    * End   : 2014/12/12 04:06:06
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 曼丽LXL
 
     * Begin : 2014/12/12 04:03:10
