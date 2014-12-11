@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 01:12:52] [urlrule] sites vlook.cn update 心蕾Abby
     * [2014/12/12 01:12:12] [urlrule] sites weipai.cn update 微拍精品福利--
     * [2014/12/12 01:12:00] [urlrule] sites weipai.cn update 微我信av0006789
     * [2014/12/12 01:11:20] [urlrule] sites weipai.cn update 徐美儿

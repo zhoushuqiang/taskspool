@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update 心蕾Abby
+
+    * Begin : 2014/12/12 01:12:20
+    * End   : 2014/12/12 01:12:52
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 微拍精品福利--
 
     * Begin : 2014/12/12 01:12:12
