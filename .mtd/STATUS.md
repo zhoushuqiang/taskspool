@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 06:08:24] [urlrule] sites weipai.cn update 橙大爷
     * [2014/12/12 06:07:50] [urlrule] sites weipai.cn update 梦瑶
     * [2014/12/12 06:07:22] [urlrule] sites weipai.cn update 梦婷Baby
     * [2014/12/12 06:05:38] [urlrule] sites weipai.cn update 梓茜ZX
@@ -29,6 +30,7 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 06:07:58] [urlrule] sites weipai.cn update 模特-杨伊
     * [2014/12/12 06:07:32] [urlrule] sites weipai.cn update 梦梦20141111
     * [2014/12/12 06:07:30] [urlrule] sites weipai.cn update 梦幻噢
     * [2014/12/12 06:05:49] [urlrule] sites vlook.cn update 梦之冰城

@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 橙大爷
+
+    * Begin : 2014/12/12 06:08:00
+    * End   : 2014/12/12 06:08:24
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 模特-杨伊
+
+    * Begin : 2014/12/12 06:07:58
+    * End   : 2014/12/12 06:07:58
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 梦瑶
 
     * Begin : 2014/12/12 06:07:33
