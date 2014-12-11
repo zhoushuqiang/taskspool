@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 新浪微博model-芯妍
+
+    * Begin : 2014/12/12 01:22:10
+    * End   : 2014/12/12 01:22:33
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 文蔓
 
     * Begin : 2014/12/12 01:21:51
