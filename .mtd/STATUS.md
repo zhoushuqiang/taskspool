@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 01:12:12] [urlrule] sites weipai.cn update 微拍精品福利--
     * [2014/12/12 01:12:00] [urlrule] sites weipai.cn update 微我信av0006789
     * [2014/12/12 01:11:20] [urlrule] sites weipai.cn update 徐美儿
     * [2014/12/12 01:10:14] [urlrule] sites weipai.cn update 徐妍馨Mandy
@@ -26,6 +27,8 @@ Tasks Status Report
     * [2014/12/10 13:51:21] [urlrule] sites weipai.cn update 倩倩baby
     * [2014/12/10 13:49:02] [urlrule] sites weipai.cn update 丹梦妮ooloo
 * Doing Nothing:
+    * [2014/12/12 01:12:10] [urlrule] sites weipai.cn update 微拍娱乐圈
+    * [2014/12/12 01:12:08] [urlrule] sites weipai.cn update 微拍三少爷
     * [2014/12/12 01:11:32] [urlrule] sites weipai.cn update 微子baby
     * [2014/12/12 01:11:30] [urlrule] sites weipai.cn update 微信itangcc
     * [2014/12/12 01:11:29] [urlrule] sites weipai.cn update 徐茜儿
