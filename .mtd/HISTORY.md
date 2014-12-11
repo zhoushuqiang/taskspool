@@ -1,3 +1,8 @@
+* [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
+
+    * Begin : 2014/12/12 01:23:18
+    * Result: PENDING
+
 * [urlrule] sites weipai.cn update 新用户21460
 
     * Begin : 2014/12/12 01:22:59
