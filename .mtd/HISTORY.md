@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 张鑫Amy
+
+    * Begin : 2014/12/12 01:04:08
+    * End   : 2014/12/12 01:05:36
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 张若兰
+
+    * Begin : 2014/12/12 01:04:07
+    * End   : 2014/12/12 01:04:07
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 张若兰
 
     * Begin : 2014/12/12 01:01:37
