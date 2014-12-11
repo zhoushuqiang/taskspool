@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 01:19:08] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/53d362d5a5640b15478b4574
     * [2014/12/12 01:13:12] [urlrule] sites weipai.cn update 忧伤的黄瓜1
     * [2014/12/12 01:13:02] [urlrule] sites weipai.cn follow 515d3c6f7f3494d507000075 bobao
     * [2014/12/12 01:12:52] [urlrule] sites vlook.cn update 心蕾Abby
