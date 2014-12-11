@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 晕死的大白兔
+
+    * Begin : 2014/12/12 03:54:00
+    * End   : 2014/12/12 03:57:19
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 晓彗大大大
+
+    * Begin : 2014/12/12 03:53:58
+    * End   : 2014/12/12 03:53:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 早晚整死你
+
+    * Begin : 2014/12/12 03:53:56
+    * End   : 2014/12/12 03:53:57
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 无敌女汉子
 
     * Begin : 2014/12/12 03:53:33
