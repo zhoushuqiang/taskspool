@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 新用户21460
+
+    * Begin : 2014/12/12 01:22:59
+    * End   : 2014/12/12 01:23:11
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 新浪微博未知黑色曼陀罗
 
     * Begin : 2014/12/12 01:22:41

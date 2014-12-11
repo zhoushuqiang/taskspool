@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 01:23:11] [urlrule] sites weipai.cn update 新用户21460
     * [2014/12/12 01:22:51] [urlrule] sites weipai.cn update 新浪微博未知黑色曼陀罗
     * [2014/12/12 01:22:33] [urlrule] sites weipai.cn update 新浪微博model-芯妍
     * [2014/12/12 01:22:02] [urlrule] sites vlook.cn update 文蔓
