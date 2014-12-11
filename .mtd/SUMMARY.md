@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 张芊芊
+
+    * Begin : 2014/12/12 00:59:50
+    * End   : 2014/12/12 01:01:27
+    * Result: OK
+
 * [urlrule] sites vlook.cn SAVE Ҧѩ
 
     * Begin : 2014/12/12 00:58:16
