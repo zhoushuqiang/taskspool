@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 杨安妮宝贝
+
+    * Begin : 2014/12/12 05:51:22
+    * End   : 2014/12/12 05:51:23
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 来不及疼痛
+
+    * Begin : 2014/12/12 05:51:18
+    * End   : 2014/12/12 05:51:20
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 李颖芝
+
+    * Begin : 2014/12/12 05:51:14
+    * End   : 2014/12/12 05:51:17
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 李点点儿
 
     * Begin : 2014/12/12 04:10:39

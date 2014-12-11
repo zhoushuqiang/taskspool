@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 05:51:23] [urlrule] sites weipai.cn update 杨安妮宝贝
     * [2014/12/12 05:51:04] [urlrule] sites weipai.cn update 李点点儿
     * [2014/12/12 04:10:31] [urlrule] sites weipai.cn update 李朝蛟-Bie
     * [2014/12/12 04:10:13] [urlrule] sites weipai.cn update 李思桐儿
@@ -21,6 +22,8 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 05:51:20] [urlrule] sites vlook.cn update 来不及疼痛
+    * [2014/12/12 05:51:17] [urlrule] sites vlook.cn update 李颖芝
     * [2014/12/12 04:10:28] [urlrule] sites weipai.cn update 李怡静1118
     * [2014/12/12 04:10:26] [urlrule] sites vlook.cn update 李思闻
     * [2014/12/12 04:10:22] [urlrule] sites weipai.cn update 李思闻
