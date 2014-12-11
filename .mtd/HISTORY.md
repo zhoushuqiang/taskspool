@@ -1,3 +1,57 @@
+* [urlrule] sites weipai.cn update 戴玉琪
+
+    * Begin : 2014/12/12 01:20:38
+    * End   : 2014/12/12 01:20:39
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 我行我素新灵儿
+
+    * Begin : 2014/12/12 01:20:36
+    * End   : 2014/12/12 01:20:36
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我爱奥黛丽赫本
+
+    * Begin : 2014/12/12 01:20:34
+    * End   : 2014/12/12 01:20:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我是郑成功
+
+    * Begin : 2014/12/12 01:20:32
+    * End   : 2014/12/12 01:20:33
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我是你Lily姐
+
+    * Begin : 2014/12/12 01:20:31
+    * End   : 2014/12/12 01:20:31
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我是伊一baby
+
+    * Begin : 2014/12/12 01:20:29
+    * End   : 2014/12/12 01:20:29
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我就是樱桃小丸子
+
+    * Begin : 2014/12/12 01:20:27
+    * End   : 2014/12/12 01:20:28
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我一直都在雯雯
+
+    * Begin : 2014/12/12 01:20:25
+    * End   : 2014/12/12 01:20:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 成都的肉包子
+
+    * Begin : 2014/12/12 01:20:23
+    * End   : 2014/12/12 01:20:24
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 恋姗妮
 
     * Begin : 2014/12/12 01:20:02

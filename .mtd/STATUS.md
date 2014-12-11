@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 01:20:39] [urlrule] sites weipai.cn update 戴玉琪
     * [2014/12/12 01:20:14] [urlrule] sites weipai.cn update 恋姗妮
     * [2014/12/12 01:19:54] [urlrule] sites vlook.cn update 性感女神研研
     * [2014/12/12 01:19:08] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/53d362d5a5640b15478b4574
@@ -33,6 +34,14 @@ Tasks Status Report
     * [2014/12/10 13:51:21] [urlrule] sites weipai.cn update 倩倩baby
     * [2014/12/10 13:49:02] [urlrule] sites weipai.cn update 丹梦妮ooloo
 * Doing Nothing:
+    * [2014/12/12 01:20:36] [urlrule] sites weipai.cn update 我行我素新灵儿
+    * [2014/12/12 01:20:34] [urlrule] sites weipai.cn update 我爱奥黛丽赫本
+    * [2014/12/12 01:20:33] [urlrule] sites weipai.cn update 我是郑成功
+    * [2014/12/12 01:20:31] [urlrule] sites weipai.cn update 我是你Lily姐
+    * [2014/12/12 01:20:29] [urlrule] sites weipai.cn update 我是伊一baby
+    * [2014/12/12 01:20:28] [urlrule] sites weipai.cn update 我就是樱桃小丸子
+    * [2014/12/12 01:20:26] [urlrule] sites weipai.cn update 我一直都在雯雯
+    * [2014/12/12 01:20:24] [urlrule] sites weipai.cn update 成都的肉包子
     * [2014/12/12 01:19:43] [urlrule] sites weipai.cn update 性感像多花
     * [2014/12/12 01:13:10] [urlrule] sites weipai.cn update 忧伤的小麻雀
     * [2014/12/12 01:13:08] [urlrule] sites weipai.cn SAVE bobao
