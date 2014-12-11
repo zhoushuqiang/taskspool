@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 04:02:52] [urlrule] sites weipai.cn update 曹欣妮s
     * [2014/12/12 03:57:56] [urlrule] sites weipai.cn update 曲珈叶
     * [2014/12/12 03:57:19] [urlrule] sites weipai.cn update 晕死的大白兔
     * [2014/12/12 03:53:48] [urlrule] sites weipai.cn update 无敌女汉子
