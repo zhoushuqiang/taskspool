@@ -1,3 +1,15 @@
+* [urlrule] sites vlook.cn follow dWlkPTMzNDQ0OTc= Ҧѩ
+
+    * Begin : 2014/12/12 00:58:08
+    * End   : 2014/12/12 00:58:08
+    * Result: OK
+
+* [urlrule] sites vlook.cn add dWlkPTMzNDQ0OTc= Ҧѩ
+
+    * Begin : 2014/12/12 00:58:07
+    * End   : 2014/12/12 00:58:08
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 张瑶isa
 
     * Begin : 2014/12/10 20:27:19
