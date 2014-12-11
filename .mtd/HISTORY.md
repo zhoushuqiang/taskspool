@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 李朝蛟-Bie
+
+    * Begin : 2014/12/12 04:10:29
+    * End   : 2014/12/12 04:10:31
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 李怡静1118
+
+    * Begin : 2014/12/12 04:10:27
+    * End   : 2014/12/12 04:10:28
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 李思闻
+
+    * Begin : 2014/12/12 04:10:23
+    * End   : 2014/12/12 04:10:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李思闻
+
+    * Begin : 2014/12/12 04:10:21
+    * End   : 2014/12/12 04:10:22
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 李思桐儿
 
     * Begin : 2014/12/12 04:08:24
