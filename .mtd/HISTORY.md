@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 忧伤的黄瓜1
+
+    * Begin : 2014/12/12 01:13:11
+    * End   : 2014/12/12 01:13:12
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 忧伤的小麻雀
+
+    * Begin : 2014/12/12 01:13:10
+    * End   : 2014/12/12 01:13:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn SAVE bobao
+
+    * Begin : 2014/12/12 01:13:08
+    * End   : 2014/12/12 01:13:08
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn follow 515d3c6f7f3494d507000075 bobao
 
     * Begin : 2014/12/12 01:13:01

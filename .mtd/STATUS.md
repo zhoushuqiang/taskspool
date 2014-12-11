@@ -1,9 +1,8 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn SAVE 515d3c6f7f3494d507000075 bobao
 * Finished:
+    * [2014/12/12 01:13:12] [urlrule] sites weipai.cn update 忧伤的黄瓜1
     * [2014/12/12 01:13:02] [urlrule] sites weipai.cn follow 515d3c6f7f3494d507000075 bobao
     * [2014/12/12 01:12:52] [urlrule] sites vlook.cn update 心蕾Abby
     * [2014/12/12 01:12:12] [urlrule] sites weipai.cn update 微拍精品福利--
@@ -31,6 +30,8 @@ Tasks Status Report
     * [2014/12/10 13:51:21] [urlrule] sites weipai.cn update 倩倩baby
     * [2014/12/10 13:49:02] [urlrule] sites weipai.cn update 丹梦妮ooloo
 * Doing Nothing:
+    * [2014/12/12 01:13:10] [urlrule] sites weipai.cn update 忧伤的小麻雀
+    * [2014/12/12 01:13:08] [urlrule] sites weipai.cn SAVE bobao
     * [2014/12/12 01:13:01] [urlrule] sites weipai.cn add 515d3c6f7f3494d507000075 bobao
     * [2014/12/12 01:12:10] [urlrule] sites weipai.cn update 微拍娱乐圈
     * [2014/12/12 01:12:08] [urlrule] sites weipai.cn update 微拍三少爷
