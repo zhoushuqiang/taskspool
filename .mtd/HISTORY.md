@@ -1,3 +1,15 @@
+* [urlrule] sites vlook.cn update 性感女神研研
+
+    * Begin : 2014/12/12 01:19:44
+    * End   : 2014/12/12 01:19:54
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 性感像多花
+
+    * Begin : 2014/12/12 01:19:42
+    * End   : 2014/12/12 01:19:43
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/53d362d5a5640b15478b4574
 
     * Begin : 2014/12/12 01:13:18

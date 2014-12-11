@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 01:19:54] [urlrule] sites vlook.cn update 性感女神研研
     * [2014/12/12 01:19:08] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/53d362d5a5640b15478b4574
     * [2014/12/12 01:13:12] [urlrule] sites weipai.cn update 忧伤的黄瓜1
     * [2014/12/12 01:13:02] [urlrule] sites weipai.cn follow 515d3c6f7f3494d507000075 bobao
@@ -31,6 +32,7 @@ Tasks Status Report
     * [2014/12/10 13:51:21] [urlrule] sites weipai.cn update 倩倩baby
     * [2014/12/10 13:49:02] [urlrule] sites weipai.cn update 丹梦妮ooloo
 * Doing Nothing:
+    * [2014/12/12 01:19:43] [urlrule] sites weipai.cn update 性感像多花
     * [2014/12/12 01:13:10] [urlrule] sites weipai.cn update 忧伤的小麻雀
     * [2014/12/12 01:13:08] [urlrule] sites weipai.cn SAVE bobao
     * [2014/12/12 01:13:01] [urlrule] sites weipai.cn add 515d3c6f7f3494d507000075 bobao
