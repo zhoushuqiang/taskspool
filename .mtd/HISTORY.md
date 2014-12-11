@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 微我信av0006789
+
+    * Begin : 2014/12/12 01:11:33
+    * End   : 2014/12/12 01:12:00
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 微子baby
+
+    * Begin : 2014/12/12 01:11:32
+    * End   : 2014/12/12 01:11:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 微信itangcc
+
+    * Begin : 2014/12/12 01:11:30
+    * End   : 2014/12/12 01:11:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 徐茜儿
+
+    * Begin : 2014/12/12 01:11:28
+    * End   : 2014/12/12 01:11:29
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 徐美儿
 
     * Begin : 2014/12/12 01:10:23

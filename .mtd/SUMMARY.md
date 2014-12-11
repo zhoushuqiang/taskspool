@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 微我信av0006789
+
+    * Begin : 2014/12/12 01:11:33
+    * End   : 2014/12/12 01:12:00
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 徐美儿
 
     * Begin : 2014/12/12 01:10:23
