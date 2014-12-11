@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 01:21:43] [urlrule] sites weipai.cn update 撒旦甜心_Ellia
     * [2014/12/12 01:20:39] [urlrule] sites weipai.cn update 戴玉琪
     * [2014/12/12 01:20:14] [urlrule] sites weipai.cn update 恋姗妮
     * [2014/12/12 01:19:54] [urlrule] sites vlook.cn update 性感女神研研
@@ -34,6 +35,7 @@ Tasks Status Report
     * [2014/12/10 13:51:21] [urlrule] sites weipai.cn update 倩倩baby
     * [2014/12/10 13:49:02] [urlrule] sites weipai.cn update 丹梦妮ooloo
 * Doing Nothing:
+    * [2014/12/12 01:20:47] [urlrule] sites weipai.cn update 扯起鸡儿弹蹦蹦
     * [2014/12/12 01:20:36] [urlrule] sites weipai.cn update 我行我素新灵儿
     * [2014/12/12 01:20:34] [urlrule] sites weipai.cn update 我爱奥黛丽赫本
     * [2014/12/12 01:20:33] [urlrule] sites weipai.cn update 我是郑成功

@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 撒旦甜心_Ellia
+
+    * Begin : 2014/12/12 01:20:49
+    * End   : 2014/12/12 01:21:43
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 扯起鸡儿弹蹦蹦
+
+    * Begin : 2014/12/12 01:20:47
+    * End   : 2014/12/12 01:20:47
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 戴玉琪
 
     * Begin : 2014/12/12 01:20:38
