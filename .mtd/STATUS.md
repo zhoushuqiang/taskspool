@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 01:03:58] [urlrule] sites weipai.cn update 张若兰
     * [2014/12/12 01:01:27] [urlrule] sites weipai.cn update 张芊芊
     * [2014/12/12 00:59:43] [urlrule] sites vlook.cn SAVE Ҧѩ
     * [2014/12/12 00:58:08] [urlrule] sites vlook.cn follow dWlkPTMzNDQ0OTc= Ҧѩ
