@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 01:20:14] [urlrule] sites weipai.cn update 恋姗妮
     * [2014/12/12 01:19:54] [urlrule] sites vlook.cn update 性感女神研研
     * [2014/12/12 01:19:08] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/53d362d5a5640b15478b4574
     * [2014/12/12 01:13:12] [urlrule] sites weipai.cn update 忧伤的黄瓜1

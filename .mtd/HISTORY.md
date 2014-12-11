@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 恋姗妮
+
+    * Begin : 2014/12/12 01:20:02
+    * End   : 2014/12/12 01:20:14
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 性感女神研研
 
     * Begin : 2014/12/12 01:19:44
