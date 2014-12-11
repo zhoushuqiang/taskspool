@@ -1,9 +1,8 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites vlook.cn SAVE dWlkPTMzNDQ0OTc= Ҧѩ
 * Finished:
+    * [2014/12/12 00:59:43] [urlrule] sites vlook.cn SAVE Ҧѩ
     * [2014/12/12 00:58:08] [urlrule] sites vlook.cn follow dWlkPTMzNDQ0OTc= Ҧѩ
     * [2014/12/12 00:57:03] [urlrule] sites weipai.cn update 张瑶isa
     * [2014/12/10 20:27:11] [urlrule] sites weipai.cn update 张栩菲-ManGo

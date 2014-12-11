@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn SAVE Ҧѩ
+
+    * Begin : 2014/12/12 00:58:16
+    * End   : 2014/12/12 00:59:43
+    * Result: OK
+
 * [urlrule] sites vlook.cn follow dWlkPTMzNDQ0OTc= Ҧѩ
 
     * Begin : 2014/12/12 00:58:08
