@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 5453025fa5640baa688b459e
+
+    * Begin : 2014/12/12 03:51:57
+    * End   : 2014/12/12 03:52:38
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 4fe1df71813494b40f000032
 
     * Begin : 2014/12/12 03:51:33
