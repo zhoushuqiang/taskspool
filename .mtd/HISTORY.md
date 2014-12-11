@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 无敌女汉子
+
+    * Begin : 2014/12/12 03:53:33
+    * End   : 2014/12/12 03:53:48
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 无懈可击阿乐
+
+    * Begin : 2014/12/12 03:53:31
+    * End   : 2014/12/12 03:53:31
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 施婭婭
 
     * Begin : 2014/12/12 03:52:51
