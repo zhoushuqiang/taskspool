@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 曲珈叶
+
+    * Begin : 2014/12/12 03:57:31
+    * End   : 2014/12/12 03:57:56
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 晕死的大白兔
 
     * Begin : 2014/12/12 03:54:00
