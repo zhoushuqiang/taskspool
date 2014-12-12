@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 14:28:58] [urlrule] sites weipai.cn update 素兒
     * [2014/12/12 14:28:38] [urlrule] sites weipai.cn update 粽子小姐
     * [2014/12/12 14:23:08] [urlrule] sites weipai.cn update 米洁
     * [2014/12/12 14:14:59] [urlrule] sites weipai.cn update 笑笑
@@ -66,6 +67,7 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 14:28:49] [urlrule] sites weipai.cn update 糖果果国
     * [2014/12/12 14:23:27] [urlrule] sites weipai.cn update 粽子喜欢秋天
     * [2014/12/12 14:23:25] [urlrule] sites weipai.cn update 粵講粵潮
     * [2014/12/12 14:23:24] [urlrule] sites weipai.cn update 粉小溪CC
