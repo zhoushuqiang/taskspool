@@ -1,3 +1,17 @@
+* [urlrule] sites weipai.cn follow 500beda9813494db56000174 晓卉日记
+
+
+    * Begin : 2014/12/12 23:39:05
+    * End   : 2014/12/12 23:39:05
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 500beda9813494db56000174 晓卉日记
+
+
+    * Begin : 2014/12/12 23:39:05
+    * End   : 2014/12/12 23:39:05
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 佳佳
 
 

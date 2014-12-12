@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 500beda9813494db56000174 晓卉日记
+
 * Finished:
+    * [2014/12/12 23:39:05] [urlrule] sites weipai.cn follow 500beda9813494db56000174 晓卉日记
+
     * [2014/12/12 23:38:57] [urlrule] sites weipai.cn UPDATE 佳佳
 
     * [2014/12/12 23:36:02] [urlrule] sites weipai.cn follow 514333c57d3494483300004f 佳佳
@@ -195,6 +200,8 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 23:39:05] [urlrule] sites weipai.cn add 500beda9813494db56000174 晓卉日记
+
     * [2014/12/12 23:36:02] [urlrule] sites weipai.cn add 514333c57d3494483300004f 佳佳
 
     * [2014/12/12 23:32:07] [urlrule] sites weipai.cn add 545737e5a8640b80428b4583 黒目瞳
