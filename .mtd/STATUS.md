@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 14:10:16] [urlrule] sites weipai.cn update 秦蕾
     * [2014/12/12 13:46:24] [urlrule] sites weipai.cn update 秦勉叫冉冉
     * [2014/12/12 13:43:00] [urlrule] sites weipai.cn update 私人空间
     * [2014/12/12 13:42:50] [urlrule] sites weipai.cn update 神仙姐姐__艾溪
