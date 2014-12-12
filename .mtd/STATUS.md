@@ -2,6 +2,21 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/13 03:07:47] [urlrule] sites weipai.cn update 20131211281
+    * [2014/12/13 03:01:17] [urlrule] sites vlook.cn update 1824329072宅女轩轩
+    * [2014/12/13 02:58:56] [urlrule] sites weipai.cn update 16姐
+    * [2014/12/13 02:54:56] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
+    * [2014/12/13 02:53:39] [urlrule] sites weipai.cn UPDATE 梁倩cat
+
+    * [2014/12/13 02:53:15] [urlrule] sites weipai.cn follow 522b84d07d3494740b04faf5 梁倩cat
+
+    * [2014/12/13 02:53:08] [urlrule] sites weipai.cn UPDATE Abbymiki
+
+    * [2014/12/13 02:52:57] [urlrule] sites weipai.cn UPDATE 姐妹的范er
+
+    * [2014/12/13 02:44:54] [urlrule] sites weipai.cn follow 53c10bd481349499409c2ce9 姐妹的范er
+
+    * [2014/12/13 02:44:46] [urlrule] sites vlook.cn SAVE dWlkPTMzNDQ0OTc=
     * [2014/12/13 02:42:41] [urlrule] sites weipai.cn UPDATE 范范范小范
 
     * [2014/12/13 00:13:17] [urlrule] sites weipai.cn follow 52c6b16c803494867c92f58d 范范范小范
@@ -221,6 +236,24 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/13 03:01:27] [urlrule] sites weipai.cn update 1824329072宅女轩轩
+    * [2014/12/13 02:55:08] [urlrule] sites weipai.cn update 1589753
+    * [2014/12/13 02:55:06] [urlrule] sites weipai.cn update 10120
+    * [2014/12/13 02:55:03] [urlrule] sites weipai.cn update 0王妃0
+    * [2014/12/13 02:53:15] [urlrule] sites weipai.cn add 522b84d07d3494740b04faf5 梁倩cat
+
+    * [2014/12/13 02:53:07] [urlrule] sites weipai.cn follow 50e7e03d7f34941f32000015 Abbymiki
+
+    * [2014/12/13 02:53:06] [urlrule] sites weipai.cn add 50e7e03d7f34941f32000015 Abbymiki
+
+    * [2014/12/13 02:53:05] [urlrule] sites weipai.cn UPDATE 邻家茜茜
+
+    * [2014/12/13 02:53:04] [urlrule] sites weipai.cn follow 52c10b83a07f0338598b4568 邻家茜茜
+
+    * [2014/12/13 02:53:04] [urlrule] sites weipai.cn add 52c10b83a07f0338598b4568 邻家茜茜
+
+    * [2014/12/13 02:44:53] [urlrule] sites weipai.cn add 53c10bd481349499409c2ce9 姐妹的范er
+
     * [2014/12/13 00:13:17] [urlrule] sites weipai.cn add 52c6b16c803494867c92f58d 范范范小范
 
     * [2014/12/13 00:13:16] [urlrule] sites weipai.cn UPDATE 魏嘉蒂Betty

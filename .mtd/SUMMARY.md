@@ -1,3 +1,68 @@
+* [urlrule] sites weipai.cn update 20131211281
+
+    * Begin : 2014/12/13 03:01:31
+    * End   : 2014/12/13 03:07:47
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 1824329072宅女轩轩
+
+    * Begin : 2014/12/13 02:59:34
+    * End   : 2014/12/13 03:01:17
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 16姐
+
+    * Begin : 2014/12/13 02:55:09
+    * End   : 2014/12/13 02:58:56
+    * Result: OK
+
+* [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
+
+    * Begin : 2014/12/13 02:53:48
+    * End   : 2014/12/13 02:54:56
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 梁倩cat
+
+
+    * Begin : 2014/12/13 02:53:21
+    * End   : 2014/12/13 02:53:39
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 522b84d07d3494740b04faf5 梁倩cat
+
+
+    * Begin : 2014/12/13 02:53:15
+    * End   : 2014/12/13 02:53:15
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE Abbymiki
+
+
+    * Begin : 2014/12/13 02:53:07
+    * End   : 2014/12/13 02:53:08
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 姐妹的范er
+
+
+    * Begin : 2014/12/13 02:44:59
+    * End   : 2014/12/13 02:52:57
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 53c10bd481349499409c2ce9 姐妹的范er
+
+
+    * Begin : 2014/12/13 02:44:53
+    * End   : 2014/12/13 02:44:54
+    * Result: OK
+
+* [urlrule] sites vlook.cn SAVE dWlkPTMzNDQ0OTc=
+
+    * Begin : 2014/12/13 02:43:46
+    * End   : 2014/12/13 02:44:46
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 范范范小范
 
 
