@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 草莓Rasa
+
+    * Begin : 2014/12/12 16:18:44
+    * End   : 2014/12/12 16:18:47
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 茜baby
 
     * Begin : 2014/12/12 16:17:51
