@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 52e25e0e78d3cc17708b458f 叶豆豆_baby
-
 * Finished:
+    * [2014/12/12 22:04:21] [urlrule] sites weipai.cn UPDATE 叶豆豆_baby
+
     * [2014/12/12 20:43:29] [urlrule] sites weipai.cn follow 52e25e0e78d3cc17708b458f 叶豆豆_baby
 
     * [2014/12/12 20:43:20] [urlrule] sites weipai.cn UPDATE 乔宝宝i

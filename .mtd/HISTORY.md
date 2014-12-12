@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 叶豆豆_baby
+
+
+    * Begin : 2014/12/12 20:43:35
+    * End   : 2014/12/12 22:04:21
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 52e25e0e78d3cc17708b458f 叶豆豆_baby
 
 
