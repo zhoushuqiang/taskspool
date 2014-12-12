@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 米洁
+
+    * Begin : 2014/12/12 14:15:15
+    * End   : 2014/12/12 14:23:08
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 米拉贝拉Mirabella
+
+    * Begin : 2014/12/12 14:15:13
+    * End   : 2014/12/12 14:15:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 米妮mini_20140821
+
+    * Begin : 2014/12/12 14:15:12
+    * End   : 2014/12/12 14:15:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 笑笑dem
+
+    * Begin : 2014/12/12 14:15:10
+    * End   : 2014/12/12 14:15:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 笑笑Sophia
+
+    * Begin : 2014/12/12 14:15:08
+    * End   : 2014/12/12 14:15:09
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 笑笑
 
     * Begin : 2014/12/12 14:10:28
