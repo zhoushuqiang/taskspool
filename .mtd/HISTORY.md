@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 肥尻夫人Linanan
+
+    * Begin : 2014/12/12 14:43:31
+    * End   : 2014/12/12 14:43:33
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 肚皮舞皇后
 
     * Begin : 2014/12/12 14:37:18

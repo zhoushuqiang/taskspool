@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 14:43:33] [urlrule] sites weipai.cn update 肥尻夫人Linanan
     * [2014/12/12 14:43:23] [urlrule] sites weipai.cn update 肚皮舞皇后
     * [2014/12/12 14:37:02] [urlrule] sites weipai.cn update 美媛媛
     * [2014/12/12 14:36:41] [urlrule] sites weipai.cn update 美媚腿
