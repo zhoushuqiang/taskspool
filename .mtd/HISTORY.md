@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 铁粉1号
+
+    * Begin : 2014/12/12 17:18:46
+    * End   : 2014/12/12 17:19:37
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 钱小美
+
+    * Begin : 2014/12/12 17:18:44
+    * End   : 2014/12/12 17:18:45
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 钟紫心
 
     * Begin : 2014/12/12 17:17:23

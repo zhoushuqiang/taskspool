@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 17:19:37] [urlrule] sites weipai.cn update 铁粉1号
     * [2014/12/12 17:18:36] [urlrule] sites weipai.cn update 钟紫心
     * [2014/12/12 17:17:10] [urlrule] sites weipai.cn update 酒窝妹子
     * [2014/12/12 17:16:54] [urlrule] sites weipai.cn update 郑菲儿
@@ -111,6 +112,7 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 17:18:45] [urlrule] sites weipai.cn update 钱小美
     * [2014/12/12 17:17:22] [urlrule] sites weipai.cn update 金金金金小沙
     * [2014/12/12 17:17:20] [urlrule] sites vlook.cn update 酔熱舆Beer
     * [2014/12/12 17:17:03] [urlrule] sites weipai.cn update 酒才是最忠诚的男朋友
