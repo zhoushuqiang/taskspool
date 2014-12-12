@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 琦琦loveBaby
+
+    * Begin : 2014/12/12 11:49:02
+    * End   : 2014/12/12 11:49:38
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 森玲
 
     * Begin : 2014/12/12 11:48:47
