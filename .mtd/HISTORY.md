@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 佳佳
+
+
+    * Begin : 2014/12/12 23:36:09
+    * End   : 2014/12/12 23:38:57
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 514333c57d3494483300004f 佳佳
 
 

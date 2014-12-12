@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 514333c57d3494483300004f 佳佳
-
 * Finished:
+    * [2014/12/12 23:38:57] [urlrule] sites weipai.cn UPDATE 佳佳
+
     * [2014/12/12 23:36:02] [urlrule] sites weipai.cn follow 514333c57d3494483300004f 佳佳
 
     * [2014/12/12 23:35:54] [urlrule] sites weipai.cn UPDATE 黒目瞳
