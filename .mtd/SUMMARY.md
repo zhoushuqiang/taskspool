@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 没有鼻梁的姑娘
+
+    * Begin : 2014/12/12 06:12:52
+    * End   : 2014/12/12 11:34:11
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 汉小仙
 
     * Begin : 2014/12/12 06:11:18
