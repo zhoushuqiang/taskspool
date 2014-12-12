@@ -1,3 +1,51 @@
+* [urlrule] sites weipai.cn update 颖小姐
+
+    * Begin : 2014/12/12 17:49:19
+    * End   : 2014/12/12 17:52:32
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 颕姐good-looking
+
+    * Begin : 2014/12/12 17:49:17
+    * End   : 2014/12/12 17:49:17
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 顾美丽
+
+    * Begin : 2014/12/12 17:49:15
+    * End   : 2014/12/12 17:49:16
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 顽石化钻恋玉人
+
+    * Begin : 2014/12/12 17:49:12
+    * End   : 2014/12/12 17:49:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 順唭自嘫
+
+    * Begin : 2014/12/12 17:49:10
+    * End   : 2014/12/12 17:49:10
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 韩金丽
+
+    * Begin : 2014/12/12 17:49:07
+    * End   : 2014/12/12 17:49:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩金丽
+
+    * Begin : 2014/12/12 17:49:05
+    * End   : 2014/12/12 17:49:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩田稀小号
+
+    * Begin : 2014/12/12 17:49:04
+    * End   : 2014/12/12 17:49:04
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 韩田稀
 
     * Begin : 2014/12/12 17:47:44
