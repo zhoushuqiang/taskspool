@@ -1,3 +1,17 @@
+* [urlrule] sites weipai.cn follow 514333c57d3494483300004f 佳佳
+
+
+    * Begin : 2014/12/12 23:36:02
+    * End   : 2014/12/12 23:36:02
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 514333c57d3494483300004f 佳佳
+
+
+    * Begin : 2014/12/12 23:36:02
+    * End   : 2014/12/12 23:36:02
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 黒目瞳
 
 
