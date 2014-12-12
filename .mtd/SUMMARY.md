@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 酒窝妹子
+
+    * Begin : 2014/12/12 17:17:04
+    * End   : 2014/12/12 17:17:10
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 郑菲儿
 
     * Begin : 2014/12/12 17:16:13

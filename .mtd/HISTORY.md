@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 酒窝妹子
+
+    * Begin : 2014/12/12 17:17:04
+    * End   : 2014/12/12 17:17:10
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 酒才是最忠诚的男朋友
+
+    * Begin : 2014/12/12 17:17:02
+    * End   : 2014/12/12 17:17:03
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 郑菲儿
 
     * Begin : 2014/12/12 17:16:13
