@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 高冷漾
+
+    * Begin : 2014/12/12 17:53:59
+    * End   : 2014/12/12 17:54:14
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 高依然Doris
+
+    * Begin : 2014/12/12 17:53:58
+    * End   : 2014/12/12 17:53:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 馨妹纸
+
+    * Begin : 2014/12/12 17:53:56
+    * End   : 2014/12/12 17:53:56
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 颜若熙92
 
     * Begin : 2014/12/12 17:53:36
