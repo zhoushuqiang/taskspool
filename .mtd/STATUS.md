@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 5472d768a5640b124e8b457f sack莎莎
-
 * Finished:
+    * [2014/12/12 18:11:31] [urlrule] sites weipai.cn UPDATE sack莎莎
+
     * [2014/12/12 18:09:18] [urlrule] sites weipai.cn follow 5472d768a5640b124e8b457f sack莎莎
 
     * [2014/12/12 18:09:09] [urlrule] sites weipai.cn UPDATE Alla-王愛
