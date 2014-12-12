@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 乔宝宝i
+
+
+    * Begin : 2014/12/12 20:40:55
+    * End   : 2014/12/12 20:43:20
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 544c086ba8640bf2048b457b 乔宝宝i
 
 

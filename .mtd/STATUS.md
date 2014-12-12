@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 544c086ba8640bf2048b457b 乔宝宝i
-
 * Finished:
+    * [2014/12/12 20:43:20] [urlrule] sites weipai.cn UPDATE 乔宝宝i
+
     * [2014/12/12 20:40:48] [urlrule] sites weipai.cn follow 544c086ba8640bf2048b457b 乔宝宝i
 
     * [2014/12/12 20:40:39] [urlrule] sites weipai.cn UPDATE 张栩菲-ManGo
