@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 湯大师
+
+    * Begin : 2014/12/12 11:42:48
+    * End   : 2014/12/12 11:43:45
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 混血演员安娜
 
     * Begin : 2014/12/12 11:42:01
