@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 20:40:39] [urlrule] sites weipai.cn UPDATE 张栩菲-ManGo
+
     * [2014/12/12 20:39:52] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
     * [2014/12/12 20:39:29] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
     * [2014/12/12 18:28:35] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
@@ -157,6 +159,16 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 20:40:02] [urlrule] sites weipai.cn follow 546c58f7a8640be32f8b457d 张栩菲-ManGo
+
+    * [2014/12/12 20:40:02] [urlrule] sites weipai.cn add 546c58f7a8640be32f8b457d 张栩菲-ManGo
+
+    * [2014/12/12 20:40:01] [urlrule] sites weipai.cn UPDATE 梅姿baby
+
+    * [2014/12/12 20:40:00] [urlrule] sites weipai.cn follow 508e3aa38134941b2400001a 梅姿baby
+
+    * [2014/12/12 20:40:00] [urlrule] sites weipai.cn add 508e3aa38134941b2400001a 梅姿baby
+
     * [2014/12/12 18:20:12] [urlrule] sites weipai.cn follow 531f3a3aebeddb5e508b45a4 淼菟菟-
 
     * [2014/12/12 18:20:12] [urlrule] sites weipai.cn add 531f3a3aebeddb5e508b45a4 淼菟菟-
