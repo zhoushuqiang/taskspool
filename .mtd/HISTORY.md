@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 魏嘉蒂Betty
+
+    * Begin : 2014/12/12 17:54:22
+    * End   : 2014/12/12 17:55:48
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 高冷漾
 
     * Begin : 2014/12/12 17:53:59
