@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 芮涵Annabelle
+
+    * Begin : 2014/12/12 15:46:54
+    * End   : 2014/12/12 15:47:12
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 芭芘李迪娅
+
+    * Begin : 2014/12/12 15:46:52
+    * End   : 2014/12/12 15:46:53
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 芭比娃哈
 
     * Begin : 2014/12/12 15:46:28
