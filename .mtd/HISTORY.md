@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 陈可鑫
+
+    * Begin : 2014/12/12 17:26:22
+    * End   : 2014/12/12 17:29:11
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 陆晨依
 
     * Begin : 2014/12/12 17:26:01
