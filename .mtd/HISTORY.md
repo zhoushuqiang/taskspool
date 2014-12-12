@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
+
+    * Begin : 2014/12/13 00:08:49
+    * End   : 2014/12/13 00:10:09
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 小菲菲yoyo
 
 
