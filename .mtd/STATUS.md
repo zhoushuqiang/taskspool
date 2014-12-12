@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 52e25e0e78d3cc17708b458f 叶豆豆_baby
+
 * Finished:
+    * [2014/12/12 20:43:29] [urlrule] sites weipai.cn follow 52e25e0e78d3cc17708b458f 叶豆豆_baby
+
     * [2014/12/12 20:43:20] [urlrule] sites weipai.cn UPDATE 乔宝宝i
 
     * [2014/12/12 20:40:48] [urlrule] sites weipai.cn follow 544c086ba8640bf2048b457b 乔宝宝i
@@ -163,6 +168,8 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 20:43:28] [urlrule] sites weipai.cn add 52e25e0e78d3cc17708b458f 叶豆豆_baby
+
     * [2014/12/12 20:40:48] [urlrule] sites weipai.cn add 544c086ba8640bf2048b457b 乔宝宝i
 
     * [2014/12/12 20:40:02] [urlrule] sites weipai.cn follow 546c58f7a8640be32f8b457d 张栩菲-ManGo

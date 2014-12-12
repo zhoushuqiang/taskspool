@@ -1,3 +1,17 @@
+* [urlrule] sites weipai.cn follow 52e25e0e78d3cc17708b458f 叶豆豆_baby
+
+
+    * Begin : 2014/12/12 20:43:28
+    * End   : 2014/12/12 20:43:29
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 52e25e0e78d3cc17708b458f 叶豆豆_baby
+
+
+    * Begin : 2014/12/12 20:43:28
+    * End   : 2014/12/12 20:43:28
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 乔宝宝i
 
 
