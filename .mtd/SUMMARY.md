@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn follow 52a8974debeddb4d1f8b4598 TinaWong
+
+
+    * Begin : 2014/12/12 23:53:31
+    * End   : 2014/12/12 23:53:31
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 
     * Begin : 2014/12/12 23:53:07

@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 52a8974debeddb4d1f8b4598 TinaWong
+
 * Finished:
+    * [2014/12/12 23:53:31] [urlrule] sites weipai.cn follow 52a8974debeddb4d1f8b4598 TinaWong
+
     * [2014/12/12 23:53:23] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
     * [2014/12/12 23:52:57] [urlrule] sites weipai.cn UPDATE 表妹baby
 
@@ -204,6 +209,8 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 23:53:31] [urlrule] sites weipai.cn add 52a8974debeddb4d1f8b4598 TinaWong
+
     * [2014/12/12 23:53:06] [urlrule] sites weipai.cn UPDATE 王悠悠
 
     * [2014/12/12 23:53:05] [urlrule] sites weipai.cn follow 50d20ea77d3494ef7a0001e1 王悠悠
