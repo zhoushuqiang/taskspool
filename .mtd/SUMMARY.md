@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 萱萱-H
+
+    * Begin : 2014/12/12 16:49:12
+    * End   : 2014/12/12 16:49:19
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 萨莎
 
     * Begin : 2014/12/12 16:38:24
