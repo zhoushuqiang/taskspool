@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 魔法倩
+
+    * Begin : 2014/12/12 17:55:58
+    * End   : 2014/12/12 17:57:18
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 魏嘉蒂Betty
 
     * Begin : 2014/12/12 17:54:22
