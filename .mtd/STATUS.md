@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 5481983ba5640b0d2d8b45d9 Jun20141205
-
 * Finished:
+    * [2014/12/12 18:15:48] [urlrule] sites weipai.cn UPDATE Jun20141205
+
     * [2014/12/12 18:12:11] [urlrule] sites weipai.cn follow 5481983ba5640b0d2d8b45d9 Jun20141205
 
     * [2014/12/12 18:11:31] [urlrule] sites weipai.cn UPDATE sack莎莎
