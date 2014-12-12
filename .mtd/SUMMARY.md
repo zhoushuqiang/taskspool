@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 美媚腿
+
+    * Begin : 2014/12/12 14:36:27
+    * End   : 2014/12/12 14:36:41
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 罗小佩
 
     * Begin : 2014/12/12 14:33:34
