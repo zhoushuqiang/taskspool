@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 胸奀
+
+    * Begin : 2014/12/12 14:43:43
+    * End   : 2014/12/12 14:43:52
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 胡金熙
+
+    * Begin : 2014/12/12 14:43:40
+    * End   : 2014/12/12 14:43:42
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 肥尻夫人Linanan
 
     * Begin : 2014/12/12 14:43:31

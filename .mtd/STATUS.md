@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 14:43:52] [urlrule] sites weipai.cn update 胸奀
     * [2014/12/12 14:43:33] [urlrule] sites weipai.cn update 肥尻夫人Linanan
     * [2014/12/12 14:43:23] [urlrule] sites weipai.cn update 肚皮舞皇后
     * [2014/12/12 14:37:02] [urlrule] sites weipai.cn update 美媛媛
@@ -74,6 +75,7 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 14:43:42] [urlrule] sites vlook.cn update 胡金熙
     * [2014/12/12 14:37:16] [urlrule] sites weipai.cn update 肖蕾微博
     * [2014/12/12 14:37:14] [urlrule] sites weipai.cn update 翡翠妹妹
     * [2014/12/12 14:37:13] [urlrule] sites weipai.cn update 美色驿站
