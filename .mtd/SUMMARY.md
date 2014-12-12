@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 艾小爱
+
+    * Begin : 2014/12/12 15:32:10
+    * End   : 2014/12/12 15:37:15
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 般若的每一天
 
     * Begin : 2014/12/12 14:44:00
