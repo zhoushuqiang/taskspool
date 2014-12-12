@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update 陈怡曼coco
+
+    * Begin : 2014/12/12 17:33:31
+    * End   : 2014/12/12 17:35:35
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 陈子萱vivi
 
     * Begin : 2014/12/12 17:32:56
