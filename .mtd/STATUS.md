@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 51f91bc881349422360000f3 心宁儿cecilia
+
 * Finished:
+    * [2014/12/12 18:07:57] [urlrule] sites weipai.cn follow 51f91bc881349422360000f3 心宁儿cecilia
+
     * [2014/12/12 18:07:43] [urlrule] sites vlook.cn update 黒目瞳
     * [2014/12/12 18:00:57] [urlrule] sites weipai.cn update 麦子orSkala
     * [2014/12/12 17:57:18] [urlrule] sites weipai.cn update 魔法倩
@@ -134,6 +139,9 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 18:07:56] [urlrule] sites weipai.cn add 51f91bc881349422360000f3 心宁儿cecilia
+
+    * [2014/12/12 18:07:53] [urlrule] sites weipai.cn update 龙儿20140330
     * [2014/12/12 18:01:13] [urlrule] sites weipai.cn update 黑桃女王
     * [2014/12/12 18:01:11] [urlrule] sites weipai.cn update 黎儿
     * [2014/12/12 18:01:09] [urlrule] sites vlook.cn update 麻酥酥

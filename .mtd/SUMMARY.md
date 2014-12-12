@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn follow 51f91bc881349422360000f3 心宁儿cecilia
+
+
+    * Begin : 2014/12/12 18:07:56
+    * End   : 2014/12/12 18:07:57
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 黒目瞳
 
     * Begin : 2014/12/12 18:01:14
