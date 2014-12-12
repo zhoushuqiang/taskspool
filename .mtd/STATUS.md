@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 545737e5a8640b80428b4583 黒目瞳
+
 * Finished:
+    * [2014/12/12 23:32:08] [urlrule] sites weipai.cn follow 545737e5a8640b80428b4583 黒目瞳
+
     * [2014/12/12 23:31:58] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
     * [2014/12/12 23:31:49] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/12 23:31:18] [urlrule] sites weipai.cn UPDATE 吴婉婷wwt
@@ -187,6 +192,14 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 23:32:07] [urlrule] sites weipai.cn add 545737e5a8640b80428b4583 黒目瞳
+
+    * [2014/12/12 23:32:06] [urlrule] sites weipai.cn UPDATE 王蜜娅Mia
+
+    * [2014/12/12 23:32:06] [urlrule] sites weipai.cn follow 50274a227f349423710001e2 王蜜娅Mia
+
+    * [2014/12/12 23:32:05] [urlrule] sites weipai.cn add 50274a227f349423710001e2 王蜜娅Mia
+
     * [2014/12/12 23:31:27] [urlrule] sites weipai.cn UPDATE 张馨馨Maggie
 
     * [2014/12/12 23:31:27] [urlrule] sites weipai.cn follow 50051ba37f3494ff4f000245 张馨馨Maggie
