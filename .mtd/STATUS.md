@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 500beda9813494db56000174 晓卉日记
-
 * Finished:
+    * [2014/12/12 23:51:52] [urlrule] sites weipai.cn UPDATE 晓卉日记
+
     * [2014/12/12 23:39:05] [urlrule] sites weipai.cn follow 500beda9813494db56000174 晓卉日记
 
     * [2014/12/12 23:38:57] [urlrule] sites weipai.cn UPDATE 佳佳

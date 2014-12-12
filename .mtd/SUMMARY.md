@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 晓卉日记
+
+
+    * Begin : 2014/12/12 23:39:12
+    * End   : 2014/12/12 23:51:52
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 500beda9813494db56000174 晓卉日记
 
 
