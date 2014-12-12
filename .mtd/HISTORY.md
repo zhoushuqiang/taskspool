@@ -1,3 +1,17 @@
+* [urlrule] sites weipai.cn follow 5481983ba5640b0d2d8b45d9 Jun20141205
+
+
+    * Begin : 2014/12/12 18:12:11
+    * End   : 2014/12/12 18:12:11
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 5481983ba5640b0d2d8b45d9 Jun20141205
+
+
+    * Begin : 2014/12/12 18:12:11
+    * End   : 2014/12/12 18:12:11
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE sack莎莎
 
 

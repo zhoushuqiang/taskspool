@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 5481983ba5640b0d2d8b45d9 Jun20141205
+
 * Finished:
+    * [2014/12/12 18:12:11] [urlrule] sites weipai.cn follow 5481983ba5640b0d2d8b45d9 Jun20141205
+
     * [2014/12/12 18:11:31] [urlrule] sites weipai.cn UPDATE sack莎莎
 
     * [2014/12/12 18:09:18] [urlrule] sites weipai.cn follow 5472d768a5640b124e8b457f sack莎莎
@@ -144,6 +149,8 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 18:12:11] [urlrule] sites weipai.cn add 5481983ba5640b0d2d8b45d9 Jun20141205
+
     * [2014/12/12 18:09:18] [urlrule] sites weipai.cn add 5472d768a5640b124e8b457f sack莎莎
 
     * [2014/12/12 18:08:47] [urlrule] sites weipai.cn follow 52e192f179d3cceb238b45a0 Alla-王愛
