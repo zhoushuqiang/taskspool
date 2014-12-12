@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 18:28:35] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
     * [2014/12/12 18:21:57] [urlrule] sites weipai.cn UPDATE 淼菟菟-
 
     * [2014/12/12 18:20:00] [urlrule] sites weipai.cn UPDATE 台灣出產-蜜卡妹子
