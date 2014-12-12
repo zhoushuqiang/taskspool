@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 波波小姐
+
+    * Begin : 2014/12/12 11:34:50
+    * End   : 2014/12/12 11:39:35
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 没有鼻梁的姑娘
 
     * Begin : 2014/12/12 06:12:52
