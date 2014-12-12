@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 13:39:42] [urlrule] sites weipai.cn update 瞄小婷
     * [2014/12/12 11:57:34] [urlrule] sites weipai.cn update 白日不湿
     * [2014/12/12 11:57:22] [urlrule] sites weipai.cn update 画泪听雨眠
     * [2014/12/12 11:53:27] [urlrule] sites weipai.cn update 生如夏花12
@@ -56,6 +57,7 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 11:57:43] [urlrule] sites weipai.cn update 真子佳佳
     * [2014/12/12 11:53:35] [urlrule] sites weipai.cn update 田晓多tesia
     * [2014/12/12 11:53:08] [urlrule] sites vlook.cn update 甜心宝
     * [2014/12/12 11:53:04] [urlrule] sites weipai.cn update 瓶宝宝
