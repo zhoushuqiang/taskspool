@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 爱爱微拍
+
+    * Begin : 2014/12/12 11:45:29
+    * End   : 2014/12/12 11:45:30
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 熙悦儿丶
+
+    * Begin : 2014/12/12 11:45:26
+    * End   : 2014/12/12 11:45:28
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 激情一夏
+
+    * Begin : 2014/12/12 11:45:22
+    * End   : 2014/12/12 11:45:24
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 澄小兔
 
     * Begin : 2014/12/12 11:45:03

@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 爱爱微拍
+
+    * Begin : 2014/12/12 11:45:29
+    * End   : 2014/12/12 11:45:30
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 澄小兔
 
     * Begin : 2014/12/12 11:45:03
