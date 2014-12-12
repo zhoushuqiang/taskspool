@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 般若的每一天
+
+    * Begin : 2014/12/12 14:44:00
+    * End   : 2014/12/12 15:31:37
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 胸奀
 
     * Begin : 2014/12/12 14:43:43

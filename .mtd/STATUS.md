@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 15:31:37] [urlrule] sites weipai.cn update 般若的每一天
     * [2014/12/12 14:43:52] [urlrule] sites weipai.cn update 胸奀
     * [2014/12/12 14:43:33] [urlrule] sites weipai.cn update 肥尻夫人Linanan
     * [2014/12/12 14:43:23] [urlrule] sites weipai.cn update 肚皮舞皇后
