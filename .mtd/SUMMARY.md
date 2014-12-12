@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn follow 5472d768a5640b124e8b457f sack莎莎
+
+
+    * Begin : 2014/12/12 18:09:18
+    * End   : 2014/12/12 18:09:18
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE Alla-王愛
 
 
