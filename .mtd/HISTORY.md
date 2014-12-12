@@ -1,3 +1,38 @@
+* [urlrule] sites weipai.cn follow 52c6b16c803494867c92f58d 范范范小范
+
+
+    * Begin : 2014/12/13 00:13:17
+    * End   : 2014/12/13 00:13:17
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 52c6b16c803494867c92f58d 范范范小范
+
+
+    * Begin : 2014/12/13 00:13:17
+    * End   : 2014/12/13 00:13:17
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 魏嘉蒂Betty
+
+
+    * Begin : 2014/12/13 00:13:15
+    * End   : 2014/12/13 00:13:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5062bab7803494d8500000c7 魏嘉蒂Betty
+
+
+    * Begin : 2014/12/13 00:13:15
+    * End   : 2014/12/13 00:13:15
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5062bab7803494d8500000c7 魏嘉蒂Betty
+
+
+    * Begin : 2014/12/13 00:13:15
+    * End   : 2014/12/13 00:13:15
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE baby小菲
 
 
