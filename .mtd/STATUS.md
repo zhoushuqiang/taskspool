@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 545737e5a8640b80428b4583 黒目瞳
-
 * Finished:
+    * [2014/12/12 23:35:54] [urlrule] sites weipai.cn UPDATE 黒目瞳
+
     * [2014/12/12 23:32:08] [urlrule] sites weipai.cn follow 545737e5a8640b80428b4583 黒目瞳
 
     * [2014/12/12 23:31:58] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
