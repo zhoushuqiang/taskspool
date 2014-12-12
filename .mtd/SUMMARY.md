@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 颜珊珊baby
+
+    * Begin : 2014/12/12 17:52:41
+    * End   : 2014/12/12 17:53:24
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 颖小姐
 
     * Begin : 2014/12/12 17:49:19
