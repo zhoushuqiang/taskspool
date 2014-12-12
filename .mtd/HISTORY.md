@@ -1,3 +1,59 @@
+* [urlrule] sites weipai.cn follow 52ac9c4b504a13650b8b4596 安妮Annie
+
+
+    * Begin : 2014/12/12 23:16:19
+    * End   : 2014/12/12 23:16:19
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 52ac9c4b504a13650b8b4596 安妮Annie
+
+
+    * Begin : 2014/12/12 23:16:19
+    * End   : 2014/12/12 23:16:19
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 罗小佩
+
+
+    * Begin : 2014/12/12 23:16:17
+    * End   : 2014/12/12 23:16:17
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53190e7b9d67d9f0268b4569 罗小佩
+
+
+    * Begin : 2014/12/12 23:16:16
+    * End   : 2014/12/12 23:16:17
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53190e7b9d67d9f0268b4569 罗小佩
+
+
+    * Begin : 2014/12/12 23:16:16
+    * End   : 2014/12/12 23:16:16
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 索菲娅5200
+
+
+    * Begin : 2014/12/12 23:16:15
+    * End   : 2014/12/12 23:16:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53a15b81ebeddbe6738b458b 索菲娅5200
+
+
+    * Begin : 2014/12/12 23:16:14
+    * End   : 2014/12/12 23:16:15
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53a15b81ebeddbe6738b458b 索菲娅5200
+
+
+    * Begin : 2014/12/12 23:16:14
+    * End   : 2014/12/12 23:16:14
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 刘小莎
 
 

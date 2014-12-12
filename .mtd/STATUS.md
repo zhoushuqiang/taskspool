@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 52ac9c4b504a13650b8b4596 安妮Annie
+
 * Finished:
+    * [2014/12/12 23:16:19] [urlrule] sites weipai.cn follow 52ac9c4b504a13650b8b4596 安妮Annie
+
     * [2014/12/12 23:15:49] [urlrule] sites weipai.cn UPDATE 刘小莎
 
     * [2014/12/12 22:33:55] [urlrule] sites weipai.cn follow 5149bc1c7d34946e5500003e 刘小莎
@@ -179,6 +184,20 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 23:16:19] [urlrule] sites weipai.cn add 52ac9c4b504a13650b8b4596 安妮Annie
+
+    * [2014/12/12 23:16:17] [urlrule] sites weipai.cn UPDATE 罗小佩
+
+    * [2014/12/12 23:16:17] [urlrule] sites weipai.cn follow 53190e7b9d67d9f0268b4569 罗小佩
+
+    * [2014/12/12 23:16:16] [urlrule] sites weipai.cn add 53190e7b9d67d9f0268b4569 罗小佩
+
+    * [2014/12/12 23:16:15] [urlrule] sites weipai.cn UPDATE 索菲娅5200
+
+    * [2014/12/12 23:16:15] [urlrule] sites weipai.cn follow 53a15b81ebeddbe6738b458b 索菲娅5200
+
+    * [2014/12/12 23:16:14] [urlrule] sites weipai.cn add 53a15b81ebeddbe6738b458b 索菲娅5200
+
     * [2014/12/12 22:33:55] [urlrule] sites weipai.cn add 5149bc1c7d34946e5500003e 刘小莎
 
     * [2014/12/12 22:25:49] [urlrule] sites weipai.cn add 53022c904e4a132d238b4767 晨yoka
