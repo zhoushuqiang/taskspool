@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 52d2e471e34167df058b459c 小菲菲yoyo
-
 * Finished:
+    * [2014/12/13 00:08:29] [urlrule] sites weipai.cn UPDATE 小菲菲yoyo
+
     * [2014/12/13 00:05:32] [urlrule] sites weipai.cn follow 52d2e471e34167df058b459c 小菲菲yoyo
 
     * [2014/12/13 00:04:40] [urlrule] sites weipai.cn UPDATE TinaWong
