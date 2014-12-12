@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 16:02:17] [urlrule] sites weipai.cn update 苏夏妞妞
     * [2014/12/12 15:53:31] [urlrule] sites weipai.cn update 花旗是个双面少女
     * [2014/12/12 15:47:12] [urlrule] sites weipai.cn update 芮涵Annabelle
     * [2014/12/12 15:46:44] [urlrule] sites weipai.cn update 芭比娃哈
