@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 14:14:59] [urlrule] sites weipai.cn update 笑笑
     * [2014/12/12 14:10:16] [urlrule] sites weipai.cn update 秦蕾
     * [2014/12/12 13:46:24] [urlrule] sites weipai.cn update 秦勉叫冉冉
     * [2014/12/12 13:43:00] [urlrule] sites weipai.cn update 私人空间
@@ -63,6 +64,7 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 14:10:27] [urlrule] sites weipai.cn update 穿着高跟鞋跳芭蕾--
     * [2014/12/12 13:40:20] [urlrule] sites weipai.cn update 瞥瞥
     * [2014/12/12 11:57:43] [urlrule] sites weipai.cn update 真子佳佳
     * [2014/12/12 11:53:35] [urlrule] sites weipai.cn update 田晓多tesia
