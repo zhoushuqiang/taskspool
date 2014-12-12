@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 萨莎
+
+    * Begin : 2014/12/12 16:38:24
+    * End   : 2014/12/12 16:49:03
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 萝卜baby
+
+    * Begin : 2014/12/12 16:38:23
+    * End   : 2014/12/12 16:38:23
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 萌萌焕
 
     * Begin : 2014/12/12 16:36:39

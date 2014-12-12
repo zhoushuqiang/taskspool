@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 16:49:03] [urlrule] sites weipai.cn update 萨莎
     * [2014/12/12 16:38:14] [urlrule] sites weipai.cn update 萌萌焕
     * [2014/12/12 16:36:27] [urlrule] sites weipai.cn update 菲飞飞
     * [2014/12/12 16:35:50] [urlrule] sites weipai.cn update 菲儿
@@ -96,6 +97,7 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 16:38:23] [urlrule] sites weipai.cn update 萝卜baby
     * [2014/12/12 16:36:37] [urlrule] sites weipai.cn update 萌小萌不萌
     * [2014/12/12 16:36:36] [urlrule] sites weipai.cn update 萌不可言
     * [2014/12/12 16:36:00] [urlrule] sites weipai.cn update 菲菲和娜娜
