@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 52ac9c4b504a13650b8b4596 安妮Annie
-
 * Finished:
+    * [2014/12/12 23:29:46] [urlrule] sites weipai.cn UPDATE 安妮Annie
+
     * [2014/12/12 23:16:19] [urlrule] sites weipai.cn follow 52ac9c4b504a13650b8b4596 安妮Annie
 
     * [2014/12/12 23:15:49] [urlrule] sites weipai.cn UPDATE 刘小莎
