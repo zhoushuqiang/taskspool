@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 王悠悠
+
+    * Begin : 2014/12/12 11:46:38
+    * End   : 2014/12/12 11:47:26
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 王小珏elva
+
+    * Begin : 2014/12/12 11:46:36
+    * End   : 2014/12/12 11:46:36
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 王大小姐__Miss
+
+    * Begin : 2014/12/12 11:46:34
+    * End   : 2014/12/12 11:46:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 王允甜
+
+    * Begin : 2014/12/12 11:46:32
+    * End   : 2014/12/12 11:46:33
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 王丹妮baby
 
     * Begin : 2014/12/12 11:46:18

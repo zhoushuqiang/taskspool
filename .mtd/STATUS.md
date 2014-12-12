@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 11:47:26] [urlrule] sites weipai.cn update 王悠悠
     * [2014/12/12 11:46:24] [urlrule] sites weipai.cn update 王丹妮baby
     * [2014/12/12 11:46:01] [urlrule] sites weipai.cn update 独爱简单控
     * [2014/12/12 11:45:30] [urlrule] sites weipai.cn update 爱爱微拍
@@ -45,6 +46,9 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 11:46:36] [urlrule] sites weipai.cn update 王小珏elva
+    * [2014/12/12 11:46:34] [urlrule] sites weipai.cn update 王大小姐__Miss
+    * [2014/12/12 11:46:33] [urlrule] sites weipai.cn update 王允甜
     * [2014/12/12 11:46:17] [urlrule] sites vlook.cn update 猫小咪Queen
     * [2014/12/12 11:46:14] [urlrule] sites weipai.cn update 猫小咪Queen
     * [2014/12/12 11:46:13] [urlrule] sites weipai.cn update 猫大人是猫大人
