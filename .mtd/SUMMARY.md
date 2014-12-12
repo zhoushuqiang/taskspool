@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE TinaWong
+
+
+    * Begin : 2014/12/12 23:53:38
+    * End   : 2014/12/13 00:04:40
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 52a8974debeddb4d1f8b4598 TinaWong
 
 

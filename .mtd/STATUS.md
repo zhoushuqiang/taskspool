@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 52a8974debeddb4d1f8b4598 TinaWong
-
 * Finished:
+    * [2014/12/13 00:04:40] [urlrule] sites weipai.cn UPDATE TinaWong
+
     * [2014/12/12 23:53:31] [urlrule] sites weipai.cn follow 52a8974debeddb4d1f8b4598 TinaWong
 
     * [2014/12/12 23:53:23] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
