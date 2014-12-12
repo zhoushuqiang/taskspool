@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 晨yoka
+
+
+    * Begin : 2014/12/12 22:25:57
+    * End   : 2014/12/12 22:33:46
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53022c904e4a132d238b4767 晨yoka
 
 

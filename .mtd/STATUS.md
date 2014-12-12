@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 53022c904e4a132d238b4767 晨yoka
-
 * Finished:
+    * [2014/12/12 22:33:46] [urlrule] sites weipai.cn UPDATE 晨yoka
+
     * [2014/12/12 22:25:49] [urlrule] sites weipai.cn follow 53022c904e4a132d238b4767 晨yoka
 
     * [2014/12/12 22:25:36] [urlrule] sites weipai.cn UPDATE 小金人888
