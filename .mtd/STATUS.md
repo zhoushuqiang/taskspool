@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 13:41:41] [urlrule] sites weipai.cn update 硬伦X妹
     * [2014/12/12 13:41:15] [urlrule] sites weipai.cn update 知了
     * [2014/12/12 13:39:42] [urlrule] sites weipai.cn update 瞄小婷
     * [2014/12/12 11:57:34] [urlrule] sites weipai.cn update 白日不湿
