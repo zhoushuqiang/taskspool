@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 52d2e471e34167df058b459c 小菲菲yoyo
+
 * Finished:
+    * [2014/12/13 00:05:32] [urlrule] sites weipai.cn follow 52d2e471e34167df058b459c 小菲菲yoyo
+
     * [2014/12/13 00:04:40] [urlrule] sites weipai.cn UPDATE TinaWong
 
     * [2014/12/12 23:53:31] [urlrule] sites weipai.cn follow 52a8974debeddb4d1f8b4598 TinaWong
@@ -208,6 +213,14 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/13 00:05:31] [urlrule] sites weipai.cn add 52d2e471e34167df058b459c 小菲菲yoyo
+
+    * [2014/12/13 00:05:30] [urlrule] sites weipai.cn UPDATE bobobobobo
+
+    * [2014/12/13 00:05:30] [urlrule] sites weipai.cn follow 524803bb8134942259dc4a53 bobobobobo
+
+    * [2014/12/13 00:05:29] [urlrule] sites weipai.cn add 524803bb8134942259dc4a53 bobobobobo
+
     * [2014/12/12 23:53:31] [urlrule] sites weipai.cn add 52a8974debeddb4d1f8b4598 TinaWong
 
     * [2014/12/12 23:53:06] [urlrule] sites weipai.cn UPDATE 王悠悠

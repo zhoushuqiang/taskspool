@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn follow 52d2e471e34167df058b459c 小菲菲yoyo
+
+
+    * Begin : 2014/12/13 00:05:31
+    * End   : 2014/12/13 00:05:32
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE TinaWong
 
 

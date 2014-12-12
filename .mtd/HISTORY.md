@@ -1,3 +1,38 @@
+* [urlrule] sites weipai.cn follow 52d2e471e34167df058b459c 小菲菲yoyo
+
+
+    * Begin : 2014/12/13 00:05:31
+    * End   : 2014/12/13 00:05:32
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 52d2e471e34167df058b459c 小菲菲yoyo
+
+
+    * Begin : 2014/12/13 00:05:31
+    * End   : 2014/12/13 00:05:31
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE bobobobobo
+
+
+    * Begin : 2014/12/13 00:05:30
+    * End   : 2014/12/13 00:05:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 524803bb8134942259dc4a53 bobobobobo
+
+
+    * Begin : 2014/12/13 00:05:29
+    * End   : 2014/12/13 00:05:30
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 524803bb8134942259dc4a53 bobobobobo
+
+
+    * Begin : 2014/12/13 00:05:29
+    * End   : 2014/12/13 00:05:29
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE TinaWong
 
 
