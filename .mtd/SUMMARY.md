@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 画泪听雨眠
+
+    * Begin : 2014/12/12 11:53:36
+    * End   : 2014/12/12 11:57:22
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 生如夏花12
 
     * Begin : 2014/12/12 11:53:09
