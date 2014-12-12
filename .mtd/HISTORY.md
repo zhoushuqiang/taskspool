@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 雨辰Raina
+
+    * Begin : 2014/12/12 17:43:17
+    * End   : 2014/12/12 17:43:46
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 雅蒂Atind
+
+    * Begin : 2014/12/12 17:43:15
+    * End   : 2014/12/12 17:43:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 随遇而安20140415
+
+    * Begin : 2014/12/12 17:43:14
+    * End   : 2014/12/12 17:43:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陛下陛下女王王
+
+    * Begin : 2014/12/12 17:43:12
+    * End   : 2014/12/12 17:43:12
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 陈语乔
 
     * Begin : 2014/12/12 17:42:00
