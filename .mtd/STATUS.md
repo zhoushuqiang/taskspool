@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 547f01d2a5640bab228b4572 表妹baby
-
 * Finished:
+    * [2014/12/12 23:52:57] [urlrule] sites weipai.cn UPDATE 表妹baby
+
     * [2014/12/12 23:52:03] [urlrule] sites weipai.cn follow 547f01d2a5640bab228b4572 表妹baby
 
     * [2014/12/12 23:51:52] [urlrule] sites weipai.cn UPDATE 晓卉日记

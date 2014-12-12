@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 表妹baby
+
+
+    * Begin : 2014/12/12 23:52:11
+    * End   : 2014/12/12 23:52:57
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 547f01d2a5640bab228b4572 表妹baby
 
 
