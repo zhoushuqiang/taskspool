@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 52c6b16c803494867c92f58d 范范范小范
-
 * Finished:
+    * [2014/12/13 02:42:41] [urlrule] sites weipai.cn UPDATE 范范范小范
+
     * [2014/12/13 00:13:17] [urlrule] sites weipai.cn follow 52c6b16c803494867c92f58d 范范范小范
 
     * [2014/12/13 00:13:01] [urlrule] sites weipai.cn UPDATE baby小菲

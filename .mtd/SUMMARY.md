@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 范范范小范
+
+
+    * Begin : 2014/12/13 00:13:25
+    * End   : 2014/12/13 02:42:41
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 52c6b16c803494867c92f58d 范范范小范
 
 
