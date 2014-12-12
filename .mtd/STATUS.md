@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 545fac68a8640bd2438b4574 台灣出產-蜜卡妹子
-
 * Finished:
+    * [2014/12/12 18:20:00] [urlrule] sites weipai.cn UPDATE 台灣出產-蜜卡妹子
+
     * [2014/12/12 18:15:59] [urlrule] sites weipai.cn follow 545fac68a8640bd2438b4574 台灣出產-蜜卡妹子
 
     * [2014/12/12 18:15:48] [urlrule] sites weipai.cn UPDATE Jun20141205
