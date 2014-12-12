@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 11:45:13] [urlrule] sites weipai.cn update 澄小兔
     * [2014/12/12 11:44:53] [urlrule] sites weipai.cn update 满天都是小鑫鑫_
     * [2014/12/12 11:43:45] [urlrule] sites weipai.cn update 湯大师
     * [2014/12/12 11:42:39] [urlrule] sites weipai.cn update 混血演员安娜
@@ -41,6 +42,7 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 11:45:02] [urlrule] sites weipai.cn update 潘小云云
     * [2014/12/12 11:41:34] [urlrule] sites weipai.cn update 浮生若梦
     * [2014/12/12 06:12:51] [urlrule] sites weipai.cn update 沈希JOY
     * [2014/12/12 06:12:49] [urlrule] sites weipai.cn update 江宣
