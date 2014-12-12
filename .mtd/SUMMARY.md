@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE Alla-王愛
+
+
+    * Begin : 2014/12/12 18:08:47
+    * End   : 2014/12/12 18:09:09
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 心宁儿cecilia
 
 

@@ -1,3 +1,66 @@
+* [urlrule] sites weipai.cn UPDATE Alla-王愛
+
+
+    * Begin : 2014/12/12 18:08:47
+    * End   : 2014/12/12 18:09:09
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 52e192f179d3cceb238b45a0 Alla-王愛
+
+
+    * Begin : 2014/12/12 18:08:47
+    * End   : 2014/12/12 18:08:47
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52e192f179d3cceb238b45a0 Alla-王愛
+
+
+    * Begin : 2014/12/12 18:08:47
+    * End   : 2014/12/12 18:08:47
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE aling_888
+
+
+    * Begin : 2014/12/12 18:08:45
+    * End   : 2014/12/12 18:08:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 519e39d45d8e87f706000007 aling_888
+
+
+    * Begin : 2014/12/12 18:08:45
+    * End   : 2014/12/12 18:08:45
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 519e39d45d8e87f706000007 aling_888
+
+
+    * Begin : 2014/12/12 18:08:45
+    * End   : 2014/12/12 18:08:45
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 菲飞飞
+
+
+    * Begin : 2014/12/12 18:08:43
+    * End   : 2014/12/12 18:08:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53f08ff2a8640b557f8b459f 菲飞飞
+
+
+    * Begin : 2014/12/12 18:08:42
+    * End   : 2014/12/12 18:08:43
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53f08ff2a8640b557f8b459f 菲飞飞
+
+
+    * Begin : 2014/12/12 18:08:42
+    * End   : 2014/12/12 18:08:42
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 心宁儿cecilia
 
 

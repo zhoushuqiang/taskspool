@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 18:09:09] [urlrule] sites weipai.cn UPDATE Alla-王愛
+
     * [2014/12/12 18:08:34] [urlrule] sites weipai.cn UPDATE 心宁儿cecilia
 
     * [2014/12/12 18:07:57] [urlrule] sites weipai.cn follow 51f91bc881349422360000f3 心宁儿cecilia
@@ -138,6 +140,22 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 18:08:47] [urlrule] sites weipai.cn follow 52e192f179d3cceb238b45a0 Alla-王愛
+
+    * [2014/12/12 18:08:47] [urlrule] sites weipai.cn add 52e192f179d3cceb238b45a0 Alla-王愛
+
+    * [2014/12/12 18:08:45] [urlrule] sites weipai.cn UPDATE aling_888
+
+    * [2014/12/12 18:08:45] [urlrule] sites weipai.cn follow 519e39d45d8e87f706000007 aling_888
+
+    * [2014/12/12 18:08:45] [urlrule] sites weipai.cn add 519e39d45d8e87f706000007 aling_888
+
+    * [2014/12/12 18:08:43] [urlrule] sites weipai.cn UPDATE 菲飞飞
+
+    * [2014/12/12 18:08:43] [urlrule] sites weipai.cn follow 53f08ff2a8640b557f8b459f 菲飞飞
+
+    * [2014/12/12 18:08:42] [urlrule] sites weipai.cn add 53f08ff2a8640b557f8b459f 菲飞飞
+
     * [2014/12/12 18:07:56] [urlrule] sites weipai.cn add 51f91bc881349422360000f3 心宁儿cecilia
 
     * [2014/12/12 18:07:53] [urlrule] sites weipai.cn update 龙儿20140330
