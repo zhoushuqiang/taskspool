@@ -1,3 +1,38 @@
+* [urlrule] sites weipai.cn follow 53022c904e4a132d238b4767 晨yoka
+
+
+    * Begin : 2014/12/12 22:25:49
+    * End   : 2014/12/12 22:25:49
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 53022c904e4a132d238b4767 晨yoka
+
+
+    * Begin : 2014/12/12 22:25:49
+    * End   : 2014/12/12 22:25:49
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE suna2411
+
+
+    * Begin : 2014/12/12 22:25:47
+    * End   : 2014/12/12 22:25:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5476742ea6640b6a2c8b4577 suna2411
+
+
+    * Begin : 2014/12/12 22:25:47
+    * End   : 2014/12/12 22:25:47
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5476742ea6640b6a2c8b4577 suna2411
+
+
+    * Begin : 2014/12/12 22:25:47
+    * End   : 2014/12/12 22:25:47
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 小金人888
 
 

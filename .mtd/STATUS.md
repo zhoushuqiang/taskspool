@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 53022c904e4a132d238b4767 晨yoka
+
 * Finished:
+    * [2014/12/12 22:25:49] [urlrule] sites weipai.cn follow 53022c904e4a132d238b4767 晨yoka
+
     * [2014/12/12 22:25:36] [urlrule] sites weipai.cn UPDATE 小金人888
 
     * [2014/12/12 22:04:30] [urlrule] sites weipai.cn follow 539eece1803494a56adf9156 小金人888
@@ -171,6 +176,14 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 22:25:49] [urlrule] sites weipai.cn add 53022c904e4a132d238b4767 晨yoka
+
+    * [2014/12/12 22:25:48] [urlrule] sites weipai.cn UPDATE suna2411
+
+    * [2014/12/12 22:25:47] [urlrule] sites weipai.cn follow 5476742ea6640b6a2c8b4577 suna2411
+
+    * [2014/12/12 22:25:47] [urlrule] sites weipai.cn add 5476742ea6640b6a2c8b4577 suna2411
+
     * [2014/12/12 22:04:30] [urlrule] sites weipai.cn add 539eece1803494a56adf9156 小金人888
 
     * [2014/12/12 20:43:28] [urlrule] sites weipai.cn add 52e25e0e78d3cc17708b458f 叶豆豆_baby
