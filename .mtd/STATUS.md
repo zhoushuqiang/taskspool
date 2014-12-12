@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 23:53:23] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
     * [2014/12/12 23:52:57] [urlrule] sites weipai.cn UPDATE 表妹baby
 
     * [2014/12/12 23:52:03] [urlrule] sites weipai.cn follow 547f01d2a5640bab228b4572 表妹baby
@@ -203,6 +204,12 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 23:53:06] [urlrule] sites weipai.cn UPDATE 王悠悠
+
+    * [2014/12/12 23:53:05] [urlrule] sites weipai.cn follow 50d20ea77d3494ef7a0001e1 王悠悠
+
+    * [2014/12/12 23:53:05] [urlrule] sites weipai.cn add 50d20ea77d3494ef7a0001e1 王悠悠
+
     * [2014/12/12 23:52:02] [urlrule] sites weipai.cn add 547f01d2a5640bab228b4572 表妹baby
 
     * [2014/12/12 23:39:05] [urlrule] sites weipai.cn add 500beda9813494db56000174 晓卉日记
