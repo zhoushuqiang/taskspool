@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn follow 544c086ba8640bf2048b457b 乔宝宝i
+
+
+    * Begin : 2014/12/12 20:40:48
+    * End   : 2014/12/12 20:40:48
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 张栩菲-ManGo
 
 
