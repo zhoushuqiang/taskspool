@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 17:19:56] [urlrule] sites weipai.cn update 长裙飘飘21
     * [2014/12/12 17:19:37] [urlrule] sites weipai.cn update 铁粉1号
     * [2014/12/12 17:18:36] [urlrule] sites weipai.cn update 钟紫心
     * [2014/12/12 17:17:10] [urlrule] sites weipai.cn update 酒窝妹子
