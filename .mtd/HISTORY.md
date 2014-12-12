@@ -1,3 +1,17 @@
+* [urlrule] sites weipai.cn follow 547f01d2a5640bab228b4572 表妹baby
+
+
+    * Begin : 2014/12/12 23:52:02
+    * End   : 2014/12/12 23:52:03
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 547f01d2a5640bab228b4572 表妹baby
+
+
+    * Begin : 2014/12/12 23:52:02
+    * End   : 2014/12/12 23:52:02
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 晓卉日记
 
 
