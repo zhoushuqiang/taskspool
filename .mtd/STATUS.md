@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 11:52:54] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/12 11:50:05] [urlrule] sites weipai.cn update 瑜伽女神青文
     * [2014/12/12 11:49:38] [urlrule] sites weipai.cn update 琦琦loveBaby
     * [2014/12/12 11:48:51] [urlrule] sites vlook.cn update 森玲
