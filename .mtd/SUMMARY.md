@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 钟紫心
+
+    * Begin : 2014/12/12 17:17:23
+    * End   : 2014/12/12 17:18:36
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 酒窝妹子
 
     * Begin : 2014/12/12 17:17:04

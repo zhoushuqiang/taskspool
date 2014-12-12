@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 钟紫心
+
+    * Begin : 2014/12/12 17:17:23
+    * End   : 2014/12/12 17:18:36
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 金金金金小沙
+
+    * Begin : 2014/12/12 17:17:21
+    * End   : 2014/12/12 17:17:22
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 酔熱舆Beer
+
+    * Begin : 2014/12/12 17:17:18
+    * End   : 2014/12/12 17:17:20
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 酒窝妹子
 
     * Begin : 2014/12/12 17:17:04
