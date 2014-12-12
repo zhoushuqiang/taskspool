@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 肚皮舞皇后
+
+    * Begin : 2014/12/12 14:37:18
+    * End   : 2014/12/12 14:43:23
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 肖蕾微博
+
+    * Begin : 2014/12/12 14:37:16
+    * End   : 2014/12/12 14:37:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 翡翠妹妹
+
+    * Begin : 2014/12/12 14:37:14
+    * End   : 2014/12/12 14:37:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 美色驿站
+
+    * Begin : 2014/12/12 14:37:12
+    * End   : 2014/12/12 14:37:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 美瑩
+
+    * Begin : 2014/12/12 14:37:10
+    * End   : 2014/12/12 14:37:11
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 美媛媛
 
     * Begin : 2014/12/12 14:36:49
