@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 私人空间
+
+    * Begin : 2014/12/12 13:42:58
+    * End   : 2014/12/12 13:43:00
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 神仙姐姐__艾溪
 
     * Begin : 2014/12/12 13:41:49
