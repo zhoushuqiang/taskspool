@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 11:41:25] [urlrule] sites weipai.cn update 洛熙爱爱
     * [2014/12/12 11:39:45] [urlrule] sites weipai.cn update 洛可馨
     * [2014/12/12 11:39:35] [urlrule] sites weipai.cn update 波波小姐
     * [2014/12/12 11:34:11] [urlrule] sites weipai.cn update 没有鼻梁的姑娘
