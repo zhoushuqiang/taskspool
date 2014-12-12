@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 艾舞kathy
+
+    * Begin : 2014/12/12 15:37:24
+    * End   : 2014/12/12 15:44:59
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 艾小爱
 
     * Begin : 2014/12/12 15:32:10

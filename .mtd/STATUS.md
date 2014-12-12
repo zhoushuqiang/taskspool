@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 15:44:59] [urlrule] sites weipai.cn update 艾舞kathy
     * [2014/12/12 15:37:15] [urlrule] sites weipai.cn update 艾小爱
     * [2014/12/12 15:31:37] [urlrule] sites weipai.cn update 般若的每一天
     * [2014/12/12 14:43:52] [urlrule] sites weipai.cn update 胸奀
