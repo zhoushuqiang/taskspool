@@ -1,3 +1,15 @@
+* [urlrule] sites vlook.cn update 陆晨依
+
+    * Begin : 2014/12/12 17:26:01
+    * End   : 2014/12/12 17:26:14
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 陆晨依
+
+    * Begin : 2014/12/12 17:25:59
+    * End   : 2014/12/12 17:25:59
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 阿朵拉Adora
 
     * Begin : 2014/12/12 17:20:08
