@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn UPDATE 淼菟菟-
+
+
+    * Begin : 2014/12/12 18:20:12
+    * End   : 2014/12/12 18:21:57
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 531f3a3aebeddb5e508b45a4 淼菟菟-
+
+
+    * Begin : 2014/12/12 18:20:12
+    * End   : 2014/12/12 18:20:12
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 531f3a3aebeddb5e508b45a4 淼菟菟-
+
+
+    * Begin : 2014/12/12 18:20:12
+    * End   : 2014/12/12 18:20:12
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 画泪听雨眠
+
+
+    * Begin : 2014/12/12 18:20:09
+    * End   : 2014/12/12 18:20:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 515f6dfb7f34942f6500000a 画泪听雨眠
+
+
+    * Begin : 2014/12/12 18:20:08
+    * End   : 2014/12/12 18:20:09
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 515f6dfb7f34942f6500000a 画泪听雨眠
+
+
+    * Begin : 2014/12/12 18:20:08
+    * End   : 2014/12/12 18:20:08
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 台灣出產-蜜卡妹子
 
 
