@@ -1,3 +1,17 @@
+* [urlrule] sites weipai.cn follow 54709ffca8640b7e028b457d baby小菲
+
+
+    * Begin : 2014/12/13 00:10:27
+    * End   : 2014/12/13 00:10:28
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 54709ffca8640b7e028b457d baby小菲
+
+
+    * Begin : 2014/12/13 00:10:27
+    * End   : 2014/12/13 00:10:27
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
 
     * Begin : 2014/12/13 00:08:49
