@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE baby小菲
+
+
+    * Begin : 2014/12/13 00:10:35
+    * End   : 2014/12/13 00:13:01
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 54709ffca8640b7e028b457d baby小菲
 
 

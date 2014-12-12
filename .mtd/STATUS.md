@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 54709ffca8640b7e028b457d baby小菲
-
 * Finished:
+    * [2014/12/13 00:13:01] [urlrule] sites weipai.cn UPDATE baby小菲
+
     * [2014/12/13 00:10:28] [urlrule] sites weipai.cn follow 54709ffca8640b7e028b457d baby小菲
 
     * [2014/12/13 00:10:09] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
