@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 17:32:44] [urlrule] sites weipai.cn update 陈大榕
     * [2014/12/12 17:29:11] [urlrule] sites weipai.cn update 陈可鑫
     * [2014/12/12 17:26:14] [urlrule] sites vlook.cn update 陆晨依
     * [2014/12/12 17:25:50] [urlrule] sites weipai.cn update 阿朵拉Adora
