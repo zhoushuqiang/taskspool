@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 混血演员安娜
+
+    * Begin : 2014/12/12 11:42:01
+    * End   : 2014/12/12 11:42:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 涵肉肉
 
     * Begin : 2014/12/12 11:41:35
