@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 瑜伽女神青文
+
+    * Begin : 2014/12/12 11:49:49
+    * End   : 2014/12/12 11:50:05
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 琦琦loveBaby
 
     * Begin : 2014/12/12 11:49:02
