@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 11:41:52] [urlrule] sites weipai.cn update 涵肉肉
     * [2014/12/12 11:41:25] [urlrule] sites weipai.cn update 洛熙爱爱
     * [2014/12/12 11:39:45] [urlrule] sites weipai.cn update 洛可馨
     * [2014/12/12 11:39:35] [urlrule] sites weipai.cn update 波波小姐
@@ -37,6 +38,7 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 11:41:34] [urlrule] sites weipai.cn update 浮生若梦
     * [2014/12/12 06:12:51] [urlrule] sites weipai.cn update 沈希JOY
     * [2014/12/12 06:12:49] [urlrule] sites weipai.cn update 江宣
     * [2014/12/12 06:09:13] [urlrule] sites weipai.cn update 欠缺完美

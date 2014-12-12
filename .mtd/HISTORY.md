@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 涵肉肉
+
+    * Begin : 2014/12/12 11:41:35
+    * End   : 2014/12/12 11:41:52
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 浮生若梦
+
+    * Begin : 2014/12/12 11:41:34
+    * End   : 2014/12/12 11:41:34
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 洛熙爱爱
 
     * Begin : 2014/12/12 11:39:53
