@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 吴婉婷wwt
+
+
+    * Begin : 2014/12/12 23:29:55
+    * End   : 2014/12/12 23:31:18
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 安妮Annie
 
 

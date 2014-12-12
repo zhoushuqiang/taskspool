@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE 吴婉婷wwt
+
+
+    * Begin : 2014/12/12 23:29:55
+    * End   : 2014/12/12 23:31:18
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 50f8ff597f3494a702000066 吴婉婷wwt
+
+
+    * Begin : 2014/12/12 23:29:55
+    * End   : 2014/12/12 23:29:55
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 50f8ff597f3494a702000066 吴婉婷wwt
+
+
+    * Begin : 2014/12/12 23:29:54
+    * End   : 2014/12/12 23:29:55
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 安妮Annie
 
 

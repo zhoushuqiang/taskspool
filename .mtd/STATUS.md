@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 23:31:18] [urlrule] sites weipai.cn UPDATE 吴婉婷wwt
+
     * [2014/12/12 23:29:46] [urlrule] sites weipai.cn UPDATE 安妮Annie
 
     * [2014/12/12 23:16:19] [urlrule] sites weipai.cn follow 52ac9c4b504a13650b8b4596 安妮Annie
@@ -183,6 +185,10 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 23:29:55] [urlrule] sites weipai.cn follow 50f8ff597f3494a702000066 吴婉婷wwt
+
+    * [2014/12/12 23:29:55] [urlrule] sites weipai.cn add 50f8ff597f3494a702000066 吴婉婷wwt
+
     * [2014/12/12 23:16:19] [urlrule] sites weipai.cn add 52ac9c4b504a13650b8b4596 安妮Annie
 
     * [2014/12/12 23:16:17] [urlrule] sites weipai.cn UPDATE 罗小佩
