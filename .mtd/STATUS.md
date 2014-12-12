@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 545fac68a8640bd2438b4574 台灣出產-蜜卡妹子
+
 * Finished:
+    * [2014/12/12 18:15:59] [urlrule] sites weipai.cn follow 545fac68a8640bd2438b4574 台灣出產-蜜卡妹子
+
     * [2014/12/12 18:15:48] [urlrule] sites weipai.cn UPDATE Jun20141205
 
     * [2014/12/12 18:12:11] [urlrule] sites weipai.cn follow 5481983ba5640b0d2d8b45d9 Jun20141205
@@ -148,6 +153,14 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 18:15:58] [urlrule] sites weipai.cn add 545fac68a8640bd2438b4574 台灣出產-蜜卡妹子
+
+    * [2014/12/12 18:15:57] [urlrule] sites weipai.cn UPDATE 莹小白
+
+    * [2014/12/12 18:15:57] [urlrule] sites weipai.cn follow 5337a885504a13c6408b4571 莹小白
+
+    * [2014/12/12 18:15:56] [urlrule] sites weipai.cn add 5337a885504a13c6408b4571 莹小白
+
     * [2014/12/12 18:12:11] [urlrule] sites weipai.cn add 5481983ba5640b0d2d8b45d9 Jun20141205
 
     * [2014/12/12 18:09:18] [urlrule] sites weipai.cn add 5472d768a5640b124e8b457f sack莎莎

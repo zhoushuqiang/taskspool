@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn follow 545fac68a8640bd2438b4574 台灣出產-蜜卡妹子
+
+
+    * Begin : 2014/12/12 18:15:58
+    * End   : 2014/12/12 18:15:59
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE Jun20141205
 
 

@@ -1,3 +1,38 @@
+* [urlrule] sites weipai.cn follow 545fac68a8640bd2438b4574 台灣出產-蜜卡妹子
+
+
+    * Begin : 2014/12/12 18:15:58
+    * End   : 2014/12/12 18:15:59
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 545fac68a8640bd2438b4574 台灣出產-蜜卡妹子
+
+
+    * Begin : 2014/12/12 18:15:58
+    * End   : 2014/12/12 18:15:58
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 莹小白
+
+
+    * Begin : 2014/12/12 18:15:57
+    * End   : 2014/12/12 18:15:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5337a885504a13c6408b4571 莹小白
+
+
+    * Begin : 2014/12/12 18:15:56
+    * End   : 2014/12/12 18:15:57
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5337a885504a13c6408b4571 莹小白
+
+
+    * Begin : 2014/12/12 18:15:56
+    * End   : 2014/12/12 18:15:56
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE Jun20141205
 
 
