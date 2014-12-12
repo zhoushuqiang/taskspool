@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 神仙姐姐__艾溪
+
+    * Begin : 2014/12/12 13:41:49
+    * End   : 2014/12/12 13:42:50
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 硬伦X妹
 
     * Begin : 2014/12/12 13:41:23
