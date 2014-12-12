@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 17:15:23] [urlrule] sites weipai.cn update 辣妈ai美丽
     * [2014/12/12 17:14:32] [urlrule] sites weipai.cn update 谭昙
     * [2014/12/12 17:13:50] [urlrule] sites weipai.cn update 请叫我二爷_Su
     * [2014/12/12 17:11:22] [urlrule] sites weipai.cn update 语儿
@@ -106,6 +107,8 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 17:14:44] [urlrule] sites vlook.cn update 软萌妹
+    * [2014/12/12 17:14:41] [urlrule] sites weipai.cn update 豆妞妞
     * [2014/12/12 17:10:49] [urlrule] sites weipai.cn update 诗梓佳Kitty
     * [2014/12/12 16:57:12] [urlrule] sites weipai.cn update 许小雪S
     * [2014/12/12 16:57:11] [urlrule] sites weipai.cn update 許曼妮

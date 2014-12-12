@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 辣妈ai美丽
+
+    * Begin : 2014/12/12 17:14:45
+    * End   : 2014/12/12 17:15:23
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 软萌妹
+
+    * Begin : 2014/12/12 17:14:42
+    * End   : 2014/12/12 17:14:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 豆妞妞
+
+    * Begin : 2014/12/12 17:14:40
+    * End   : 2014/12/12 17:14:41
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 谭昙
 
     * Begin : 2014/12/12 17:13:58
