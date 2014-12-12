@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 539eece1803494a56adf9156 小金人888
-
 * Finished:
+    * [2014/12/12 22:25:36] [urlrule] sites weipai.cn UPDATE 小金人888
+
     * [2014/12/12 22:04:30] [urlrule] sites weipai.cn follow 539eece1803494a56adf9156 小金人888
 
     * [2014/12/12 22:04:21] [urlrule] sites weipai.cn UPDATE 叶豆豆_baby

@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 小金人888
+
+
+    * Begin : 2014/12/12 22:04:37
+    * End   : 2014/12/12 22:25:36
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 539eece1803494a56adf9156 小金人888
 
 
