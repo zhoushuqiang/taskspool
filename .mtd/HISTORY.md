@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 心宁儿cecilia
+
+
+    * Begin : 2014/12/12 18:08:04
+    * End   : 2014/12/12 18:08:34
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 51f91bc881349422360000f3 心宁儿cecilia
 
 

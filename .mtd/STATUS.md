@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 51f91bc881349422360000f3 心宁儿cecilia
-
 * Finished:
+    * [2014/12/12 18:08:34] [urlrule] sites weipai.cn UPDATE 心宁儿cecilia
+
     * [2014/12/12 18:07:57] [urlrule] sites weipai.cn follow 51f91bc881349422360000f3 心宁儿cecilia
 
     * [2014/12/12 18:07:43] [urlrule] sites vlook.cn update 黒目瞳
