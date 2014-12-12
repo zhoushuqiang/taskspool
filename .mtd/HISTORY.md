@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn update 诗卉95113
+
+    * Begin : 2014/12/12 16:57:14
+    * End   : 2014/12/12 17:10:40
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 许小雪S
+
+    * Begin : 2014/12/12 16:57:12
+    * End   : 2014/12/12 16:57:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 許曼妮
+
+    * Begin : 2014/12/12 16:57:10
+    * End   : 2014/12/12 16:57:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 角落宝贝
+
+    * Begin : 2014/12/12 16:57:09
+    * End   : 2014/12/12 16:57:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 西瓜姑娘
+
+    * Begin : 2014/12/12 16:57:07
+    * End   : 2014/12/12 16:57:07
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 表表表
+
+    * Begin : 2014/12/12 16:57:04
+    * End   : 2014/12/12 16:57:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 蜜蜜波
+
+    * Begin : 2014/12/12 16:57:02
+    * End   : 2014/12/12 16:57:03
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 蛇蛇姜瑾芝
 
     * Begin : 2014/12/12 16:56:18

@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 17:10:40] [urlrule] sites weipai.cn update 诗卉95113
     * [2014/12/12 16:56:54] [urlrule] sites weipai.cn update 蛇蛇姜瑾芝
     * [2014/12/12 16:56:03] [urlrule] sites weipai.cn update 虞梦-宝贝
     * [2014/12/12 16:50:19] [urlrule] sites weipai.cn update 薇妮BABY
@@ -102,6 +103,12 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 16:57:12] [urlrule] sites weipai.cn update 许小雪S
+    * [2014/12/12 16:57:11] [urlrule] sites weipai.cn update 許曼妮
+    * [2014/12/12 16:57:09] [urlrule] sites weipai.cn update 角落宝贝
+    * [2014/12/12 16:57:07] [urlrule] sites weipai.cn update 西瓜姑娘
+    * [2014/12/12 16:57:06] [urlrule] sites vlook.cn update 表表表
+    * [2014/12/12 16:57:03] [urlrule] sites weipai.cn update 蜜蜜波
     * [2014/12/12 16:56:17] [urlrule] sites weipai.cn update 蛇精病---
     * [2014/12/12 16:56:15] [urlrule] sites weipai.cn update 虞梦-宝贝
     * [2014/12/12 16:56:13] [urlrule] sites vlook.cn update 虞梦-宝贝
