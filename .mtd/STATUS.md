@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 17:48:55] [urlrule] sites weipai.cn update 韩田稀
     * [2014/12/12 17:47:28] [urlrule] sites weipai.cn update 韩士博
     * [2014/12/12 17:46:52] [urlrule] sites weipai.cn update 雷婷婷Baby
     * [2014/12/12 17:43:46] [urlrule] sites weipai.cn update 雨辰Raina
@@ -125,6 +126,9 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 17:47:42] [urlrule] sites weipai.cn update 韩田稀
+    * [2014/12/12 17:47:40] [urlrule] sites vlook.cn update 韩昕怡Summer
+    * [2014/12/12 17:47:36] [urlrule] sites weipai.cn update 韩媚希
     * [2014/12/12 17:43:16] [urlrule] sites weipai.cn update 雅蒂Atind
     * [2014/12/12 17:43:14] [urlrule] sites weipai.cn update 随遇而安20140415
     * [2014/12/12 17:43:12] [urlrule] sites weipai.cn update 陛下陛下女王王
