@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 5149bc1c7d34946e5500003e 刘小莎
-
 * Finished:
+    * [2014/12/12 23:15:49] [urlrule] sites weipai.cn UPDATE 刘小莎
+
     * [2014/12/12 22:33:55] [urlrule] sites weipai.cn follow 5149bc1c7d34946e5500003e 刘小莎
 
     * [2014/12/12 22:33:46] [urlrule] sites weipai.cn UPDATE 晨yoka
