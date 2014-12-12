@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 秦勉叫冉冉
+
+    * Begin : 2014/12/12 13:43:07
+    * End   : 2014/12/12 13:46:24
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 私人空间
 
     * Begin : 2014/12/12 13:42:58
