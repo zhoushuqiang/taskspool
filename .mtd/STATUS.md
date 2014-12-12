@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 11:44:53] [urlrule] sites weipai.cn update 满天都是小鑫鑫_
     * [2014/12/12 11:43:45] [urlrule] sites weipai.cn update 湯大师
     * [2014/12/12 11:42:39] [urlrule] sites weipai.cn update 混血演员安娜
     * [2014/12/12 11:41:52] [urlrule] sites weipai.cn update 涵肉肉
