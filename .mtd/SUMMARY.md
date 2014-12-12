@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 花旗是个双面少女
+
+    * Begin : 2014/12/12 15:50:56
+    * End   : 2014/12/12 15:53:31
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 芮涵Annabelle
 
     * Begin : 2014/12/12 15:46:54
