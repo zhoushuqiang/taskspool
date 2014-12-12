@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 罗妍-D
+
+    * Begin : 2014/12/12 14:33:10
+    * End   : 2014/12/12 14:33:26
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 红玫瑰
+
+    * Begin : 2014/12/12 14:33:08
+    * End   : 2014/12/12 14:33:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 红心点起来
+
+    * Begin : 2014/12/12 14:33:07
+    * End   : 2014/12/12 14:33:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 索菲娅
+
+    * Begin : 2014/12/12 14:33:05
+    * End   : 2014/12/12 14:33:05
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 索菲娅5200
 
     * Begin : 2014/12/12 14:29:06
