@@ -1,3 +1,21 @@
+* [urlrule] sites vlook.cn update 蒙丽伊
+
+    * Begin : 2014/12/12 16:49:32
+    * End   : 2014/12/12 16:49:48
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 蒂娜
+
+    * Begin : 2014/12/12 16:49:29
+    * End   : 2014/12/12 16:49:31
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 董洁1022
+
+    * Begin : 2014/12/12 16:49:27
+    * End   : 2014/12/12 16:49:27
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 萱萱-H
 
     * Begin : 2014/12/12 16:49:12
