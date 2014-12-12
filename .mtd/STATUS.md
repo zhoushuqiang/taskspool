@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 18:00:57] [urlrule] sites weipai.cn update 麦子orSkala
     * [2014/12/12 17:57:18] [urlrule] sites weipai.cn update 魔法倩
     * [2014/12/12 17:55:48] [urlrule] sites weipai.cn update 魏嘉蒂Betty
     * [2014/12/12 17:54:14] [urlrule] sites weipai.cn update 高冷漾
@@ -132,6 +133,8 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 18:00:54] [urlrule] sites weipai.cn update 魚你你你你你
+    * [2014/12/12 18:00:51] [urlrule] sites vlook.cn update 魔都天后
     * [2014/12/12 17:53:58] [urlrule] sites weipai.cn update 高依然Doris
     * [2014/12/12 17:53:56] [urlrule] sites weipai.cn update 馨妹纸
     * [2014/12/12 17:53:35] [urlrule] sites vlook.cn update 颜若曦子

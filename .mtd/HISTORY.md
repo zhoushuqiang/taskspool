@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 麦子orSkala
+
+    * Begin : 2014/12/12 18:00:55
+    * End   : 2014/12/12 18:00:57
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 魚你你你你你
+
+    * Begin : 2014/12/12 18:00:53
+    * End   : 2014/12/12 18:00:54
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 魔都天后
+
+    * Begin : 2014/12/12 17:57:27
+    * End   : 2014/12/12 18:00:51
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 魔法倩
 
     * Begin : 2014/12/12 17:55:58
