@@ -1,3 +1,33 @@
+* [urlrule] sites vlook.cn update 黒目瞳
+
+    * Begin : 2014/12/12 18:01:14
+    * End   : 2014/12/12 18:07:43
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 黑桃女王
+
+    * Begin : 2014/12/12 18:01:12
+    * End   : 2014/12/12 18:01:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 黎儿
+
+    * Begin : 2014/12/12 18:01:10
+    * End   : 2014/12/12 18:01:11
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 麻酥酥
+
+    * Begin : 2014/12/12 18:01:07
+    * End   : 2014/12/12 18:01:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 麻优酥酥
+
+    * Begin : 2014/12/12 18:01:05
+    * End   : 2014/12/12 18:01:06
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 麦子orSkala
 
     * Begin : 2014/12/12 18:00:55

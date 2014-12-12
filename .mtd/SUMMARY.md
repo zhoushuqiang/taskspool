@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update 黒目瞳
+
+    * Begin : 2014/12/12 18:01:14
+    * End   : 2014/12/12 18:07:43
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 麦子orSkala
 
     * Begin : 2014/12/12 18:00:55
