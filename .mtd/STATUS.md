@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/12 11:53:27] [urlrule] sites weipai.cn update 生如夏花12
     * [2014/12/12 11:52:54] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/12 11:50:05] [urlrule] sites weipai.cn update 瑜伽女神青文
     * [2014/12/12 11:49:38] [urlrule] sites weipai.cn update 琦琦loveBaby
@@ -53,6 +54,9 @@ Tasks Status Report
     * [2014/12/12 03:29:42] [urlrule] sites weipai.cn SAVE 522d2f6d7f34949e0a6ff7c6
     * [2014/12/12 03:24:14] [urlrule] sites weipai.cn SAVE 545d8e96a7640b1a7a8b45a1
 * Doing Nothing:
+    * [2014/12/12 11:53:08] [urlrule] sites vlook.cn update 甜心宝
+    * [2014/12/12 11:53:04] [urlrule] sites weipai.cn update 瓶宝宝
+    * [2014/12/12 11:53:03] [urlrule] sites weipai.cn update 璇子_Yvonne
     * [2014/12/12 11:49:48] [urlrule] sites weipai.cn update 琪胖胖
     * [2014/12/12 11:49:01] [urlrule] sites vlook.cn update 玩摄影Rayshen
     * [2014/12/12 11:48:46] [urlrule] sites weipai.cn update 王馨瑶

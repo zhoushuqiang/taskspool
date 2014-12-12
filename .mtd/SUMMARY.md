@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 生如夏花12
+
+    * Begin : 2014/12/12 11:53:09
+    * End   : 2014/12/12 11:53:27
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 瑶瑶baby
 
     * Begin : 2014/12/12 11:50:13
