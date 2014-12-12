@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 王丹妮baby
+
+    * Begin : 2014/12/12 11:46:18
+    * End   : 2014/12/12 11:46:24
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 独爱简单控
 
     * Begin : 2014/12/12 11:45:40
