@@ -65,3 +65,10 @@ http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6k74&client=pc&imei=ee257
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6kvt&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140916160059_分享于 Paris Rouge 2014916 1601_23秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6lJJ&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140918210009_兔女郎，工作片_34秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6owd&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140923170953_分享于 2014923 1703_41秒.mp4
+http://download1.vlook.cn/video/high/6W7L.mp4	20141209130029_失眠[思考中]_23秒.mp4
+http://download1.vlook.cn/video/high/6UF-.mp4	20141205215903_今天温水蒸螃蟹_9秒.mp4
+http://download1.vlook.cn/video/high/6U4B.mp4	20141204144814_最近流行咬唇妆_10秒.mp4
+http://download1.vlook.cn/video/high/6U4z.mp4	20141204144652_[害羞]感觉自己萌萌哒_9秒.mp4
+http://download1.vlook.cn/video/high/6U4x.mp4	20141204144532_好久不见啊，小伙伴们[媚眼]_9秒.mp4
+http://download1.vlook.cn/video/high/6SKJ.mp4	20141130213840_分享于 20141130 2121_26秒.mp4
+http://download1.vlook.cn/video/high/6Yke.mp4	20141213211329_战争，一生一灭，只能虽远必诛，不可虽败犹荣，历史，一左一右，来路不止一边，未来不止明天，铭记历史，吾辈自强#国家公祭日#_19秒.mp4

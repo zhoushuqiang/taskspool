@@ -129,3 +129,6 @@ http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6hHo&client=pc&imei=ee257
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6ial&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140912050432_照片剪辑_9秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6jSh&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140915110641_高富帅和屌丝的搭讪方式_1分钟46秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6mqn&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140920070110_送给所有在爱情中真心付出却委屈收场的人_1分钟12秒.mp4
+http://download1.vlook.cn/video/high/6WBc.mp4	20141210024439_笨的无可救药_12秒.mp4
+http://download1.vlook.cn/video/high/6VL6.mp4	20141208103608_抗冻，任性_22秒.mp4
+http://download1.vlook.cn/video/high/6SKT.mp4	20141201004401_大家感恩节都在干什么呢_45秒.mp4

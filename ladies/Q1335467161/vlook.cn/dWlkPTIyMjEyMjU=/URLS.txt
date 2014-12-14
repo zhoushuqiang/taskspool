@@ -54,3 +54,5 @@ http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6kzn&client=pc&imei=ee257
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6l-G&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140919131001_我的Q1335467161：我跟我的姐妹们[媚眼][媚眼]_8秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6oBR&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140923195632_我的Q1335467161：[害羞][害羞][害羞]_8秒.mp4
 http://download1.vlook.cn/video/high/6RfP.mp4	20141127103434_我的Q1335467161：我的写真集_8秒.mp4
+http://download1.vlook.cn/video/high/6RU8.mp4	20141128214430_我的Q1335467161：各位晚安喽_8秒.mp4
+http://download1.vlook.cn/video/high/6RTf.mp4	20141128205949_我的Q1335467161：无聊的一天过来[鼓掌]_10秒.mp4

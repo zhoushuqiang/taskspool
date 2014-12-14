@@ -64,3 +64,5 @@ http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6oWG&client=pc&imei=ee257
 http://download1.vlook.cn/video/high/6Wnx.mp4	20141209174722_喜欢点[心]加关注哦_9秒.mp4
 http://download1.vlook.cn/video/high/6UO7.mp4	20141206080937_[心][心][心]_31秒.mp4
 http://download1.vlook.cn/video/high/6TI8.mp4	20141203131607_呵呵_1分钟30秒.mp4
+http://download1.vlook.cn/video/high/6Xfp.mp4	20141211175714_喜欢_42秒.mp4
+http://download1.vlook.cn/video/high/6Yc6.mp4	20141213181911_谢谢关注！[心][心][心]_48秒.mp4

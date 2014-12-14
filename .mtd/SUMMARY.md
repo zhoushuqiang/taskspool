@@ -1,813 +1,278 @@
-* [urlrule] sites weipai.cn update 20131211281
+* [urlrule] sites weipai.cn update Diva_狄娃
 
-    * Begin : 2014/12/13 03:01:31
-    * End   : 2014/12/13 03:07:47
-    * Result: OK
-
-* [urlrule] sites vlook.cn update 1824329072宅女轩轩
-
-    * Begin : 2014/12/13 02:59:34
-    * End   : 2014/12/13 03:01:17
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 16姐
-
-    * Begin : 2014/12/13 02:55:09
-    * End   : 2014/12/13 02:58:56
+    * Begin : 2014/12/14 23:10:52
+    * End   : 2014/12/14 23:11:53
     * Result: OK
 
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
-    * Begin : 2014/12/13 02:53:48
-    * End   : 2014/12/13 02:54:56
+    * Begin : 2014/12/14 23:08:09
+    * End   : 2014/12/14 23:08:11
     * Result: OK
 
-* [urlrule] sites weipai.cn UPDATE 梁倩cat
+* [urlrule] sites weipai.cn SAVE 546d8fcfa5640b21118b4599
 
-
-    * Begin : 2014/12/13 02:53:21
-    * End   : 2014/12/13 02:53:39
+    * Begin : 2014/12/14 23:06:32
+    * End   : 2014/12/14 23:08:00
     * Result: OK
 
-* [urlrule] sites weipai.cn follow 522b84d07d3494740b04faf5 梁倩cat
+* [urlrule] sites weipai.cn follow 546d8fcfa5640b21118b4599 
 
-
-    * Begin : 2014/12/13 02:53:15
-    * End   : 2014/12/13 02:53:15
+    * Begin : 2014/12/14 23:06:26
+    * End   : 2014/12/14 23:06:26
     * Result: OK
 
-* [urlrule] sites weipai.cn UPDATE Abbymiki
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a3a98a5640b44328b458c
 
-
-    * Begin : 2014/12/13 02:53:07
-    * End   : 2014/12/13 02:53:08
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE 姐妹的范er
-
-
-    * Begin : 2014/12/13 02:44:59
-    * End   : 2014/12/13 02:52:57
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 53c10bd481349499409c2ce9 姐妹的范er
-
-
-    * Begin : 2014/12/13 02:44:53
-    * End   : 2014/12/13 02:44:54
-    * Result: OK
-
-* [urlrule] sites vlook.cn SAVE dWlkPTMzNDQ0OTc=
-
-    * Begin : 2014/12/13 02:43:46
-    * End   : 2014/12/13 02:44:46
-    * Result: OK
+    * Begin : 2014/12/14 23:06:04
+    * End   : 2014/12/14 23:06:20
+    * Result: => 雨020141120/weipai.cn/546d8fcfa5640b21118b4599
 
 * [urlrule] sites weipai.cn UPDATE 范范范小范
 
 
-    * Begin : 2014/12/13 00:13:25
-    * End   : 2014/12/13 02:42:41
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 52c6b16c803494867c92f58d 范范范小范
-
-
-    * Begin : 2014/12/13 00:13:17
-    * End   : 2014/12/13 00:13:17
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE baby小菲
-
-
-    * Begin : 2014/12/13 00:10:35
-    * End   : 2014/12/13 00:13:01
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 54709ffca8640b7e028b457d baby小菲
-
-
-    * Begin : 2014/12/13 00:10:27
-    * End   : 2014/12/13 00:10:28
+    * Begin : 2014/12/14 23:04:53
+    * End   : 2014/12/14 23:05:49
     * Result: OK
 
 * [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
 
-    * Begin : 2014/12/13 00:08:49
-    * End   : 2014/12/13 00:10:09
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE 小菲菲yoyo
-
-
-    * Begin : 2014/12/13 00:05:39
-    * End   : 2014/12/13 00:08:29
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 52d2e471e34167df058b459c 小菲菲yoyo
-
-
-    * Begin : 2014/12/13 00:05:31
-    * End   : 2014/12/13 00:05:32
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE TinaWong
-
-
-    * Begin : 2014/12/12 23:53:38
-    * End   : 2014/12/13 00:04:40
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 52a8974debeddb4d1f8b4598 TinaWong
-
-
-    * Begin : 2014/12/12 23:53:31
-    * End   : 2014/12/12 23:53:31
+    * Begin : 2014/12/14 23:04:39
+    * End   : 2014/12/14 23:04:40
     * Result: OK
 
 * [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 
-    * Begin : 2014/12/12 23:53:07
-    * End   : 2014/12/12 23:53:23
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE 表妹baby
-
-
-    * Begin : 2014/12/12 23:52:11
-    * End   : 2014/12/12 23:52:57
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 547f01d2a5640bab228b4572 表妹baby
-
-
-    * Begin : 2014/12/12 23:52:02
-    * End   : 2014/12/12 23:52:03
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE 晓卉日记
-
-
-    * Begin : 2014/12/12 23:39:12
-    * End   : 2014/12/12 23:51:52
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 500beda9813494db56000174 晓卉日记
-
-
-    * Begin : 2014/12/12 23:39:05
-    * End   : 2014/12/12 23:39:05
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE 佳佳
-
-
-    * Begin : 2014/12/12 23:36:09
-    * End   : 2014/12/12 23:38:57
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 514333c57d3494483300004f 佳佳
-
-
-    * Begin : 2014/12/12 23:36:02
-    * End   : 2014/12/12 23:36:02
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE 黒目瞳
-
-
-    * Begin : 2014/12/12 23:32:14
-    * End   : 2014/12/12 23:35:54
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 545737e5a8640b80428b4583 黒目瞳
-
-
-    * Begin : 2014/12/12 23:32:07
-    * End   : 2014/12/12 23:32:08
+    * Begin : 2014/12/14 23:04:20
+    * End   : 2014/12/14 23:04:22
     * Result: OK
 
 * [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
 
-    * Begin : 2014/12/12 23:31:56
-    * End   : 2014/12/12 23:31:58
+    * Begin : 2014/12/14 23:03:51
+    * End   : 2014/12/14 23:03:52
     * Result: OK
 
 * [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
 
-    * Begin : 2014/12/12 23:31:29
-    * End   : 2014/12/12 23:31:49
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE 吴婉婷wwt
-
-
-    * Begin : 2014/12/12 23:29:55
-    * End   : 2014/12/12 23:31:18
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE 安妮Annie
-
-
-    * Begin : 2014/12/12 23:16:26
-    * End   : 2014/12/12 23:29:46
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 52ac9c4b504a13650b8b4596 安妮Annie
-
-
-    * Begin : 2014/12/12 23:16:19
-    * End   : 2014/12/12 23:16:19
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE 刘小莎
-
-
-    * Begin : 2014/12/12 22:34:02
-    * End   : 2014/12/12 23:15:49
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 5149bc1c7d34946e5500003e 刘小莎
-
-
-    * Begin : 2014/12/12 22:33:55
-    * End   : 2014/12/12 22:33:55
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE 晨yoka
-
-
-    * Begin : 2014/12/12 22:25:57
-    * End   : 2014/12/12 22:33:46
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 53022c904e4a132d238b4767 晨yoka
-
-
-    * Begin : 2014/12/12 22:25:49
-    * End   : 2014/12/12 22:25:49
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE 小金人888
-
-
-    * Begin : 2014/12/12 22:04:37
-    * End   : 2014/12/12 22:25:36
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 539eece1803494a56adf9156 小金人888
-
-
-    * Begin : 2014/12/12 22:04:30
-    * End   : 2014/12/12 22:04:30
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE 叶豆豆_baby
-
-
-    * Begin : 2014/12/12 20:43:35
-    * End   : 2014/12/12 22:04:21
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 52e25e0e78d3cc17708b458f 叶豆豆_baby
-
-
-    * Begin : 2014/12/12 20:43:28
-    * End   : 2014/12/12 20:43:29
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE 乔宝宝i
-
-
-    * Begin : 2014/12/12 20:40:55
-    * End   : 2014/12/12 20:43:20
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 544c086ba8640bf2048b457b 乔宝宝i
-
-
-    * Begin : 2014/12/12 20:40:48
-    * End   : 2014/12/12 20:40:48
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE 张栩菲-ManGo
-
-
-    * Begin : 2014/12/12 20:40:02
-    * End   : 2014/12/12 20:40:39
+    * Begin : 2014/12/14 23:03:43
+    * End   : 2014/12/14 23:03:44
     * Result: OK
 
 * [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
 
-    * Begin : 2014/12/12 20:39:36
-    * End   : 2014/12/12 20:39:52
+    * Begin : 2014/12/14 23:02:49
+    * End   : 2014/12/14 23:02:50
     * Result: OK
 
 * [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
 
-    * Begin : 2014/12/12 18:28:43
-    * End   : 2014/12/12 20:39:29
+    * Begin : 2014/12/14 22:57:04
+    * End   : 2014/12/14 23:02:42
     * Result: OK
 
 * [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
 
-    * Begin : 2014/12/12 18:22:07
-    * End   : 2014/12/12 18:28:35
+    * Begin : 2014/12/14 22:51:01
+    * End   : 2014/12/14 22:56:57
     * Result: OK
 
-* [urlrule] sites weipai.cn UPDATE 淼菟菟-
+* [urlrule] sites weipai.cn UPDATE 画泪听雨眠
 
 
-    * Begin : 2014/12/12 18:20:12
-    * End   : 2014/12/12 18:21:57
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE 台灣出產-蜜卡妹子
-
-
-    * Begin : 2014/12/12 18:16:06
-    * End   : 2014/12/12 18:20:00
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 545fac68a8640bd2438b4574 台灣出產-蜜卡妹子
-
-
-    * Begin : 2014/12/12 18:15:58
-    * End   : 2014/12/12 18:15:59
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE Jun20141205
-
-
-    * Begin : 2014/12/12 18:12:18
-    * End   : 2014/12/12 18:15:48
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 5481983ba5640b0d2d8b45d9 Jun20141205
-
-
-    * Begin : 2014/12/12 18:12:11
-    * End   : 2014/12/12 18:12:11
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE sack莎莎
-
-
-    * Begin : 2014/12/12 18:09:25
-    * End   : 2014/12/12 18:11:31
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 5472d768a5640b124e8b457f sack莎莎
-
-
-    * Begin : 2014/12/12 18:09:18
-    * End   : 2014/12/12 18:09:18
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE Alla-王愛
-
-
-    * Begin : 2014/12/12 18:08:47
-    * End   : 2014/12/12 18:09:09
-    * Result: OK
-
-* [urlrule] sites weipai.cn UPDATE 心宁儿cecilia
-
-
-    * Begin : 2014/12/12 18:08:04
-    * End   : 2014/12/12 18:08:34
-    * Result: OK
-
-* [urlrule] sites weipai.cn follow 51f91bc881349422360000f3 心宁儿cecilia
-
-
-    * Begin : 2014/12/12 18:07:56
-    * End   : 2014/12/12 18:07:57
+    * Begin : 2014/12/14 21:19:11
+    * End   : 2014/12/14 22:50:51
     * Result: OK
 
 * [urlrule] sites vlook.cn update 黒目瞳
 
-    * Begin : 2014/12/12 18:01:14
-    * End   : 2014/12/12 18:07:43
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 麦子orSkala
-
-    * Begin : 2014/12/12 18:00:55
-    * End   : 2014/12/12 18:00:57
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 魔法倩
-
-    * Begin : 2014/12/12 17:55:58
-    * End   : 2014/12/12 17:57:18
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 魏嘉蒂Betty
-
-    * Begin : 2014/12/12 17:54:22
-    * End   : 2014/12/12 17:55:48
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 高冷漾
-
-    * Begin : 2014/12/12 17:53:59
-    * End   : 2014/12/12 17:54:14
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 颜若熙92
-
-    * Begin : 2014/12/12 17:53:36
-    * End   : 2014/12/12 17:53:48
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 颜珊珊baby
-
-    * Begin : 2014/12/12 17:52:41
-    * End   : 2014/12/12 17:53:24
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 颖小姐
-
-    * Begin : 2014/12/12 17:49:19
-    * End   : 2014/12/12 17:52:32
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 韩田稀
-
-    * Begin : 2014/12/12 17:47:44
-    * End   : 2014/12/12 17:48:55
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 韩士博
-
-    * Begin : 2014/12/12 17:47:00
-    * End   : 2014/12/12 17:47:28
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 雷婷婷Baby
-
-    * Begin : 2014/12/12 17:43:54
-    * End   : 2014/12/12 17:46:52
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 雨辰Raina
-
-    * Begin : 2014/12/12 17:43:17
-    * End   : 2014/12/12 17:43:46
+    * Begin : 2014/12/14 21:17:49
+    * End   : 2014/12/14 21:18:33
     * Result: OK
 
 * [urlrule] sites weipai.cn update 陈语乔
 
-    * Begin : 2014/12/12 17:42:00
-    * End   : 2014/12/12 17:43:04
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 陈美琳Mandy
-
-    * Begin : 2014/12/12 17:40:58
-    * End   : 2014/12/12 17:41:50
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 陈柔轩Michel
-
-    * Begin : 2014/12/12 17:35:44
-    * End   : 2014/12/12 17:40:50
-    * Result: OK
-
-* [urlrule] sites vlook.cn update 陈怡曼coco
-
-    * Begin : 2014/12/12 17:33:31
-    * End   : 2014/12/12 17:35:35
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 陈子萱vivi
-
-    * Begin : 2014/12/12 17:32:56
-    * End   : 2014/12/12 17:33:21
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 陈大榕
-
-    * Begin : 2014/12/12 17:29:19
-    * End   : 2014/12/12 17:32:44
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 陈可鑫
-
-    * Begin : 2014/12/12 17:26:22
-    * End   : 2014/12/12 17:29:11
-    * Result: OK
-
-* [urlrule] sites vlook.cn update 陆晨依
-
-    * Begin : 2014/12/12 17:26:01
-    * End   : 2014/12/12 17:26:14
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 阿朵拉Adora
-
-    * Begin : 2014/12/12 17:20:08
-    * End   : 2014/12/12 17:25:50
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 长裙飘飘21
-
-    * Begin : 2014/12/12 17:19:46
-    * End   : 2014/12/12 17:19:56
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 铁粉1号
-
-    * Begin : 2014/12/12 17:18:46
-    * End   : 2014/12/12 17:19:37
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 钟紫心
-
-    * Begin : 2014/12/12 17:17:23
-    * End   : 2014/12/12 17:18:36
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 酒窝妹子
-
-    * Begin : 2014/12/12 17:17:04
-    * End   : 2014/12/12 17:17:10
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 郑菲儿
-
-    * Begin : 2014/12/12 17:16:13
-    * End   : 2014/12/12 17:16:54
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 郑瑞熙_
-
-    * Begin : 2014/12/12 17:15:33
-    * End   : 2014/12/12 17:16:05
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 辣妈ai美丽
-
-    * Begin : 2014/12/12 17:14:45
-    * End   : 2014/12/12 17:15:23
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 谭昙
-
-    * Begin : 2014/12/12 17:13:58
-    * End   : 2014/12/12 17:14:32
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 请叫我二爷_Su
-
-    * Begin : 2014/12/12 17:11:30
-    * End   : 2014/12/12 17:13:50
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 语儿
-
-    * Begin : 2014/12/12 17:10:50
-    * End   : 2014/12/12 17:11:22
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 诗卉95113
-
-    * Begin : 2014/12/12 16:57:14
-    * End   : 2014/12/12 17:10:40
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 蛇蛇姜瑾芝
-
-    * Begin : 2014/12/12 16:56:18
-    * End   : 2014/12/12 16:56:54
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 虞梦-宝贝
-
-    * Begin : 2014/12/12 16:50:27
-    * End   : 2014/12/12 16:56:03
+    * Begin : 2014/12/14 21:15:19
+    * End   : 2014/12/14 21:16:13
     * Result: OK
 
 * [urlrule] sites weipai.cn update 薇妮BABY
 
-    * Begin : 2014/12/12 16:49:58
-    * End   : 2014/12/12 16:50:19
-    * Result: OK
-
-* [urlrule] sites vlook.cn update 蒙丽伊
-
-    * Begin : 2014/12/12 16:49:32
-    * End   : 2014/12/12 16:49:48
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 萱萱-H
-
-    * Begin : 2014/12/12 16:49:12
-    * End   : 2014/12/12 16:49:19
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 萨莎
-
-    * Begin : 2014/12/12 16:38:24
-    * End   : 2014/12/12 16:49:03
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 萌萌焕
-
-    * Begin : 2014/12/12 16:36:39
-    * End   : 2014/12/12 16:38:14
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 菲飞飞
-
-    * Begin : 2014/12/12 16:36:01
-    * End   : 2014/12/12 16:36:27
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 菲儿
-
-    * Begin : 2014/12/12 16:30:16
-    * End   : 2014/12/12 16:35:50
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 莹小白
-
-    * Begin : 2014/12/12 16:30:05
-    * End   : 2014/12/12 16:30:08
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 莹姐
-
-    * Begin : 2014/12/12 16:19:04
-    * End   : 2014/12/12 16:29:55
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 莫小尤
-
-    * Begin : 2014/12/12 16:18:55
-    * End   : 2014/12/12 16:18:57
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 草莓Rasa
-
-    * Begin : 2014/12/12 16:18:44
-    * End   : 2014/12/12 16:18:47
+    * Begin : 2014/12/14 21:13:06
+    * End   : 2014/12/14 21:13:07
     * Result: OK
 
 * [urlrule] sites weipai.cn update 茜baby
 
-    * Begin : 2014/12/12 16:17:51
-    * End   : 2014/12/12 16:18:36
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 茉莉_
-
-    * Begin : 2014/12/12 16:16:09
-    * End   : 2014/12/12 16:17:43
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 范美熙Jennifer
-
-    * Begin : 2014/12/12 16:14:03
-    * End   : 2014/12/12 16:16:00
+    * Begin : 2014/12/14 21:10:14
+    * End   : 2014/12/14 21:12:09
     * Result: OK
 
 * [urlrule] sites weipai.cn update 范琪
 
-    * Begin : 2014/12/12 16:05:15
-    * End   : 2014/12/12 16:13:53
-    * Result: OK
-
-* [urlrule] sites vlook.cn update 若含baby
-
-    * Begin : 2014/12/12 16:04:37
-    * End   : 2014/12/12 16:05:07
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 若含_Princess
-
-    * Begin : 2014/12/12 16:02:28
-    * End   : 2014/12/12 16:04:29
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 苏夏妞妞
-
-    * Begin : 2014/12/12 15:53:39
-    * End   : 2014/12/12 16:02:17
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 花旗是个双面少女
-
-    * Begin : 2014/12/12 15:50:56
-    * End   : 2014/12/12 15:53:31
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 芮涵Annabelle
-
-    * Begin : 2014/12/12 15:46:54
-    * End   : 2014/12/12 15:47:12
+    * Begin : 2014/12/14 21:08:36
+    * End   : 2014/12/14 21:10:00
     * Result: OK
 
 * [urlrule] sites weipai.cn update 芭比娃哈
 
-    * Begin : 2014/12/12 15:46:28
-    * End   : 2014/12/12 15:46:44
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 芒果小懒猫
-
-    * Begin : 2014/12/12 15:45:07
-    * End   : 2014/12/12 15:46:20
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 艾舞kathy
-
-    * Begin : 2014/12/12 15:37:24
-    * End   : 2014/12/12 15:44:59
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 艾小爱
-
-    * Begin : 2014/12/12 15:32:10
-    * End   : 2014/12/12 15:37:15
+    * Begin : 2014/12/14 21:08:07
+    * End   : 2014/12/14 21:08:08
     * Result: OK
 
 * [urlrule] sites weipai.cn update 般若的每一天
 
-    * Begin : 2014/12/12 14:44:00
-    * End   : 2014/12/12 15:31:37
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 胸奀
-
-    * Begin : 2014/12/12 14:43:43
-    * End   : 2014/12/12 14:43:52
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 肥尻夫人Linanan
-
-    * Begin : 2014/12/12 14:43:31
-    * End   : 2014/12/12 14:43:33
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 肚皮舞皇后
-
-    * Begin : 2014/12/12 14:37:18
-    * End   : 2014/12/12 14:43:23
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 美媛媛
-
-    * Begin : 2014/12/12 14:36:49
-    * End   : 2014/12/12 14:37:02
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 美媚腿
-
-    * Begin : 2014/12/12 14:36:27
-    * End   : 2014/12/12 14:36:41
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 罗小佩
-
-    * Begin : 2014/12/12 14:33:34
-    * End   : 2014/12/12 14:36:18
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 罗妍-D
-
-    * Begin : 2014/12/12 14:33:10
-    * End   : 2014/12/12 14:33:26
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 索菲娅5200
-
-    * Begin : 2014/12/12 14:29:06
-    * End   : 2014/12/12 14:32:57
-    * Result: OK
-
-* [urlrule] sites weipai.cn update 素兒
-
-    * Begin : 2014/12/12 14:28:50
-    * End   : 2014/12/12 14:28:58
+    * Begin : 2014/12/14 21:04:31
+    * End   : 2014/12/14 21:07:51
     * Result: OK
 
 * [urlrule] sites weipai.cn update 粽子小姐
 
-    * Begin : 2014/12/12 14:23:28
-    * End   : 2014/12/12 14:28:38
+    * Begin : 2014/12/14 20:53:36
+    * End   : 2014/12/14 21:03:46
     * Result: OK
 
-* [urlrule] sites weipai.cn update 米洁
+* [urlrule] sites weipai.cn update 白日不湿
 
-    * Begin : 2014/12/12 14:15:15
-    * End   : 2014/12/12 14:23:08
+    * Begin : 2014/12/14 20:52:46
+    * End   : 2014/12/14 20:52:47
     * Result: OK
 
-* [urlrule] sites weipai.cn update 笑笑
+* [urlrule] sites weipai.cn update 水蜜桃子
 
-    * Begin : 2014/12/12 14:10:28
-    * End   : 2014/12/12 14:14:59
+    * Begin : 2014/12/14 20:50:50
+    * End   : 2014/12/14 20:50:51
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 曼丽LXL
+
+    * Begin : 2014/12/14 20:47:21
+    * End   : 2014/12/14 20:49:07
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 屌丝福利小清新
+
+    * Begin : 2014/12/14 20:44:51
+    * End   : 2014/12/14 20:44:52
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 小茹子
+
+    * Begin : 2014/12/14 20:42:40
+    * End   : 2014/12/14 20:44:23
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 妮妮love
+
+    * Begin : 2014/12/14 20:39:44
+    * End   : 2014/12/14 20:40:41
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 女神集团
+
+    * Begin : 2014/12/14 20:39:27
+    * End   : 2014/12/14 20:39:29
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 女王女王陛下
+
+    * Begin : 2014/12/14 20:39:16
+    * End   : 2014/12/14 20:39:17
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 大靓
+
+    * Begin : 2014/12/14 20:37:58
+    * End   : 2014/12/14 20:39:03
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 内涵湿姐
+
+    * Begin : 2014/12/14 20:35:50
+    * End   : 2014/12/14 20:35:51
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 兮颜SSS
+
+    * Begin : 2014/12/14 20:34:01
+    * End   : 2014/12/14 20:35:40
+    * Result: OK
+
+* [urlrule task] update urlrule/task/follows.txt
+
+    * Begin : 2014/12/14 20:32:43
+    * End   : 2014/12/14 20:32:44
+    * Result: OK
+
+* [urlrule] sites weipai.cn update baby蜜儿
+
+    * Begin : 2014/12/14 20:30:33
+    * End   : 2014/12/14 20:31:33
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 424195082
+
+    * Begin : 2014/12/14 20:21:59
+    * End   : 2014/12/14 20:25:02
+    * Result: OK
+
+* [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
+
+    * Begin : 2014/12/14 20:14:43
+    * End   : 2014/12/14 20:21:23
+    * Result: OK
+
+* [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
+
+    * Begin : 2014/12/14 20:05:27
+    * End   : 2014/12/14 20:14:11
+    * Result: OK
+
+* [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
+
+    * Begin : 2014/12/14 19:57:01
+    * End   : 2014/12/14 20:05:12
+    * Result: OK
+
+* [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
+
+    * Begin : 2014/12/14 19:48:54
+    * End   : 2014/12/14 19:56:37
+    * Result: OK
+
+* [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
+
+    * Begin : 2014/12/14 19:33:13
+    * End   : 2014/12/14 19:48:45
+    * Result: OK
+
+* [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
+
+    * Begin : 2014/12/14 19:22:57
+    * End   : 2014/12/14 19:32:27
+    * Result: OK
+
+* [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
+
+    * Begin : 2014/12/14 19:11:27
+    * End   : 2014/12/14 19:22:49
+    * Result: OK
+
+* [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
+
+    * Begin : 2014/12/14 19:03:36
+    * End   : 2014/12/14 19:11:19
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 薇妮BABY
+
+    * Begin : 2014/12/14 18:59:42
+    * End   : 2014/12/14 18:59:43
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 芭比娃哈
+
+    * Begin : 2014/12/14 18:58:26
+    * End   : 2014/12/14 18:58:27
     * Result: OK
 
