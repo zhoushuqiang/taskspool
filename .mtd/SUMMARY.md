@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 543d4e70a5640b01098b457a 我是安琪小铁粉
+
+    * Begin : 2014/12/15 01:07:14
+    * End   : 2014/12/15 01:07:15
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547391d7a5640b19348b4585
 
     * Begin : 2014/12/15 01:07:04
