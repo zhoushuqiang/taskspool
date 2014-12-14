@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 季末20140225
+
+    * Begin : 2014/12/15 01:11:36
+    * End   : 2014/12/15 01:11:43
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 530bb65d9d67d9031f8b4567 季末20140225
 
     * Begin : 2014/12/15 01:11:29
