@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 514988237d34945b2d000006 颜若曦子
+
+    * Begin : 2014/12/15 01:43:23
+    * End   : 2014/12/15 01:43:23
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 514988237d34945b2d000006 颜若曦子
+
+    * Begin : 2014/12/15 01:43:22
+    * End   : 2014/12/15 01:43:23
+    * Result: http://www.weipai.cn/video/5474ba4ea5640bba638b456e=>[weipai.cn] 514988237d34945b2d000006 (颜若曦子) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474b9f8a5640be85f8b4598
 
     * Begin : 2014/12/15 01:42:15
