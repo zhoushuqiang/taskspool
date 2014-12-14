@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 54741079a5640b54018b45c4 张美荧
+
+    * Begin : 2014/12/15 03:07:03
+    * End   : 2014/12/15 03:07:03
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ca62a5640ba76a8b4591
 
     * Begin : 2014/12/15 03:06:30
