@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 雨020141120
+
+    * Begin : 2014/12/14 23:13:12
+    * End   : 2014/12/14 23:14:43
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 546d8fcfa5640b21118b4599 雨020141120
 
     * Begin : 2014/12/14 23:13:02
