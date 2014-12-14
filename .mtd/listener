@@ -247,6 +247,7 @@ sub listener_init {
 				else {
 					unshift @_,$ARG1;
 				}					
+
 				if($CMD eq 'SAVEURLS') {
 					my $id = shift;
 					my $name = shift;
@@ -313,7 +314,7 @@ sub listener_init {
 					if($add) {
 						app_message2 "Queue task\n *** urlrule sites $hosts $add $id $name\n";
 						my $t = new MyPlace::Tasks::Task(qw/urlrule sites/,$hosts,$add,$id,$name,@_);
-						$TASKER->queue($t);
+						$TASKER->queue($t,1);
 					}
 					$task->{title} = "[urlrule] sites $hosts follow $id $name";
 					my $dstd = "urlrule/sites/$hosts";
@@ -352,7 +353,7 @@ sub listener_init {
 					if($add) {
 						app_message2 "Queue task\n *** urlrule sites " . join(" ",$hosts,$add,$id,$name,@_) . "\n";
 						my $task = new MyPlace::Tasks::Task(qw/urlrule sites/,$hosts,$add,$id,$name,@_);
-						$TASKER->queue($task);
+						$TASKER->queue($task,1);
 					}
 					app_message2 "\tAdd [$id $name] to database of [$hosts]\n";
 					if($USQ->execute('--host',$hosts,'--command','additem','--',$id,$name)==0) {
