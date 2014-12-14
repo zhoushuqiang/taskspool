@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54739945a5640bdf348b45ba
+
+    * Begin : 2014/12/15 01:10:49
+    * End   : 2014/12/15 01:11:21
+    * Result: => 我是安琪小铁粉/weipai.cn/543d4e70a5640b01098b457a
+
 * [urlrule] sites weipai.cn SAVE 我是安琪小铁粉
 
     * Begin : 2014/12/15 01:07:21
