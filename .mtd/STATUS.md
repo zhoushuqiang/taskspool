@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/14 23:42:42] [urlrule] sites weipai.cn update 洛熙爱爱
     * [2014/12/14 23:41:13] [urlrule] sites weipai.cn update 水蜜桃子
     * [2014/12/14 23:38:24] [urlrule] sites weipai.cn SAVE 威信qianfei2012
     * [2014/12/14 23:34:03] [urlrule] sites weipai.cn follow 546ecb52a5640be25c8b456b 威信qianfei2012
@@ -269,6 +270,12 @@ Tasks Status Report
     * [2014/12/14 04:25:12] [urlrule] sites weipai.cn update Lolita4ever
     * [2014/12/14 04:21:21] [urlrule] sites weipai.cn update Diva_狄娃
 * Doing Nothing:
+    * [2014/12/14 23:41:34] [urlrule] sites weipai.cn update 洛可馨
+    * [2014/12/14 23:41:32] [urlrule] sites weipai.cn update 波波小姐
+    * [2014/12/14 23:41:30] [urlrule] sites weipai.cn update 没有鼻梁的姑娘
+    * [2014/12/14 23:41:28] [urlrule] sites weipai.cn update 沈希JOY
+    * [2014/12/14 23:41:26] [urlrule] sites weipai.cn update 江宣
+    * [2014/12/14 23:41:24] [urlrule] sites weipai.cn update 汉小仙
     * [2014/12/14 23:41:11] [urlrule] sites weipai.cn update 欠缺完美
     * [2014/12/14 23:41:09] [urlrule] sites weipai.cn update 橙子醬
     * [2014/12/14 23:41:07] [urlrule] sites weipai.cn update 橙大爷
