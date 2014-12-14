@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54736b60a5640bc01e8b459f
+
+    * Begin : 2014/12/15 01:01:10
+    * End   : 2014/12/15 01:01:12
+    * Result: => Dj_kelly/weipai.cn/529209efc58a87f14530e526
+
 * [urlrule] sites weipai.cn SAVE Dj_kelly
 
     * Begin : 2014/12/15 01:00:52
