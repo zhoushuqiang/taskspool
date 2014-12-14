@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 537e0e6bebeddb295b8b45aa 婷MM
+
+    * Begin : 2014/12/15 01:20:00
+    * End   : 2014/12/15 01:20:00
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 50c28391803494bf15000060 乖乖幽
 
     * Begin : 2014/12/15 01:12:06
