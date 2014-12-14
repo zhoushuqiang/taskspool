@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE Sara项信
+
+    * Begin : 2014/12/15 01:28:04
+    * End   : 2014/12/15 01:35:17
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 4fd1e59d7f3494333400004d Sara项信
 
     * Begin : 2014/12/15 01:27:57
