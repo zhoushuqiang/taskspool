@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE zxszxs1967
+
+    * Begin : 2014/12/15 01:05:12
+    * End   : 2014/12/15 01:06:57
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 546b6465a7640ba4418b4569 zxszxs1967
 
     * Begin : 2014/12/15 01:05:06
