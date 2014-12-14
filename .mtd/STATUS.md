@@ -1,9 +1,8 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn SAVE 5486818da6640b360a8b45ac 2014121236
 * Finished:
+    * [2014/12/15 00:09:06] [urlrule] sites weipai.cn update 麦子orSkala
     * [2014/12/15 00:08:11] [urlrule] sites weipai.cn follow 5486818da6640b360a8b45ac 2014121236
     * [2014/12/15 00:08:03] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a7d4ea5640bd36f8b45b8
     * [2014/12/15 00:06:39] [urlrule] sites weipai.cn SAVE 小将士
@@ -283,6 +282,17 @@ Tasks Status Report
     * [2014/12/14 04:25:12] [urlrule] sites weipai.cn update Lolita4ever
     * [2014/12/14 04:21:21] [urlrule] sites weipai.cn update Diva_狄娃
 * Doing Nothing:
+    * [2014/12/15 00:08:43] [urlrule] sites weipai.cn update 魚你你你你你
+    * [2014/12/15 00:08:42] [urlrule] sites vlook.cn update 魔都天后
+    * [2014/12/15 00:08:37] [urlrule] sites weipai.cn update 魔法倩
+    * [2014/12/15 00:08:35] [urlrule] sites weipai.cn update 魏嘉蒂Betty
+    * [2014/12/15 00:08:33] [urlrule] sites weipai.cn update 高冷漾
+    * [2014/12/15 00:08:31] [urlrule] sites weipai.cn update 高依然Doris
+    * [2014/12/15 00:08:29] [urlrule] sites weipai.cn update 馨妹纸
+    * [2014/12/15 00:08:27] [urlrule] sites weipai.cn update 颜若熙92
+    * [2014/12/15 00:08:25] [urlrule] sites vlook.cn update 颜若曦子
+    * [2014/12/15 00:08:21] [urlrule] sites weipai.cn update 颜珊珊baby
+    * [2014/12/15 00:08:19] [urlrule] sites weipai.cn SAVE 2014121236
     * [2014/12/15 00:06:48] [urlrule] sites weipai.cn add 5486818da6640b360a8b45ac 2014121236
     * [2014/12/14 23:53:05] [urlrule] sites weipai.cn add 53945aeaebeddbf6018b457b 小将士
     * [2014/12/14 23:51:37] [urlrule] sites weipai.cn update 颕姐good-looking

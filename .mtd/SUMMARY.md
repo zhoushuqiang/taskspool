@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 麦子orSkala
+
+    * Begin : 2014/12/15 00:08:45
+    * End   : 2014/12/15 00:09:06
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5486818da6640b360a8b45ac 2014121236
 
     * Begin : 2014/12/15 00:08:11
