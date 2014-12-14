@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/14 23:31:59] [urlrule] sites weipai.cn update 小燃燃baby
     * [2014/12/14 23:29:41] [urlrule] sites weipai.cn update 寂寞姐姐
     * [2014/12/14 23:28:56] [urlrule] sites weipai.cn update 孤单的84剩女
     * [2014/12/14 23:28:07] [urlrule] sites weipai.cn update 娜依灵儿
@@ -264,6 +265,18 @@ Tasks Status Report
     * [2014/12/14 04:25:12] [urlrule] sites weipai.cn update Lolita4ever
     * [2014/12/14 04:21:21] [urlrule] sites weipai.cn update Diva_狄娃
 * Doing Nothing:
+    * [2014/12/14 23:30:11] [urlrule] sites weipai.cn update 小柔L
+    * [2014/12/14 23:30:09] [urlrule] sites weipai.cn update 小晴天baby
+    * [2014/12/14 23:30:07] [urlrule] sites weipai.cn update 小惡魔Linsey
+    * [2014/12/14 23:30:05] [urlrule] sites weipai.cn update 小小美mmmmmm
+    * [2014/12/14 23:30:03] [urlrule] sites weipai.cn update 小容嬷嬷
+    * [2014/12/14 23:30:01] [urlrule] sites weipai.cn update 小可爱mmd
+    * [2014/12/14 23:29:59] [urlrule] sites weipai.cn update 小仓老师
+    * [2014/12/14 23:29:58] [urlrule] sites weipai.cn update 小也慧子
+    * [2014/12/14 23:29:56] [urlrule] sites weipai.cn update 小乔流水
+    * [2014/12/14 23:29:54] [urlrule] sites weipai.cn update 小乔Cheryl
+    * [2014/12/14 23:29:52] [urlrule] sites weipai.cn update 小qiqi总爱凑美呦
+    * [2014/12/14 23:29:50] [urlrule] sites weipai.cn update 对你着了迷
     * [2014/12/14 23:29:31] [urlrule] sites weipai.cn update 家菱
     * [2014/12/14 23:29:29] [urlrule] sites weipai.cn update 家妹xxoo
     * [2014/12/14 23:29:27] [urlrule] sites weipai.cn update 宝小丁

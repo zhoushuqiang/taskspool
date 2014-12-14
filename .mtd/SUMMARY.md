@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小燃燃baby
+
+    * Begin : 2014/12/14 23:30:12
+    * End   : 2014/12/14 23:31:59
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 寂寞姐姐
 
     * Begin : 2014/12/14 23:29:32
