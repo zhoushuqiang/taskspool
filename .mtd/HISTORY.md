@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE CFTZ
+
+    * Begin : 2014/12/15 02:03:18
+    * End   : 2014/12/15 02:38:35
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53570cb39d67d97f3e8b4567 CFTZ
 
     * Begin : 2014/12/15 02:03:11
