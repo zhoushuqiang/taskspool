@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54736b60a5640bc01e8b459f
+
+    * Begin : 2014/12/15 00:52:59
+    * End   : 2014/12/15 00:53:29
+    * Result: => Dj_kelly/weipai.cn/529209efc58a87f14530e526
+
+* [urlrule] sites weipai.cn add 529209efc58a87f14530e526 Dj_kelly
+
+    * Begin : 2014/12/15 00:52:57
+    * End   : 2014/12/15 00:52:59
+    * Result: http://www.weipai.cn/video/54736b60a5640bc01e8b459f=>[weipai.cn] 529209efc58a87f14530e526 (Dj_kelly) FAILED
+
+* [urlrule] sites weipai.cn update 汉小仙
+
+    * Begin : 2014/12/15 00:52:56
+    * End   : 2014/12/15 00:52:57
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 水蜜桃子
 
     * Begin : 2014/12/15 00:52:45
