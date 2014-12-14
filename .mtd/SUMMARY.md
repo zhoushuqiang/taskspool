@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 白雪团队全球招募创业伙伴
+
+    * Begin : 2014/12/15 03:08:43
+    * End   : 2014/12/15 03:10:31
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5474c2bba5640b956a8b456c 白雪团队全球招募创业伙伴
 
     * Begin : 2014/12/15 03:08:35
