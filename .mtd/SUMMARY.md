@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 小猫有毒
+
+    * Begin : 2014/12/15 04:17:24
+    * End   : 2014/12/15 04:19:45
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 546984cda5640b7b3b8b4590 小猫有毒
 
     * Begin : 2014/12/15 04:17:16

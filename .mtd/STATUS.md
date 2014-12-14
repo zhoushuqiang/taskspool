@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 546984cda5640b7b3b8b4590 小猫有毒
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54752c02a5640b012a8b45a2
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/54752d7da5640bb42b8b4582
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54752d7da5640bb42b8b4582
@@ -425,6 +424,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/15 04:19:45] [urlrule] sites weipai.cn UPDATE 小猫有毒
     * [2014/12/15 04:17:17] [urlrule] sites weipai.cn follow 546984cda5640b7b3b8b4590 小猫有毒
     * [2014/12/15 04:17:08] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547528b3a5640bb0288b459f
     * [2014/12/15 04:16:57] [urlrule] sites weipai.cn UPDATE 我就是爱瞎胡闹
