@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a7d4ea5640bd36f8b45b8
+
+    * Begin : 2014/12/15 00:06:48
+    * End   : 2014/12/15 00:08:03
+    * Result: => 2014121236/weipai.cn/5486818da6640b360a8b45ac
+
+* [urlrule] sites weipai.cn add 5486818da6640b360a8b45ac 2014121236
+
+    * Begin : 2014/12/15 00:06:47
+    * End   : 2014/12/15 00:06:48
+    * Result: http://www.weipai.cn/video/548a7d4ea5640bd36f8b45b8=>[weipai.cn] 5486818da6640b360a8b45ac (2014121236) OK
+
 * [urlrule] sites weipai.cn SAVE 小将士
 
     * Begin : 2014/12/14 23:54:36
