@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 女神集团
+
+    * Begin : 2014/12/15 00:40:46
+    * End   : 2014/12/15 00:40:47
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 女神情情
+
+    * Begin : 2014/12/15 00:40:43
+    * End   : 2014/12/15 00:40:44
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 女王女王陛下
 
     * Begin : 2014/12/15 00:40:31
