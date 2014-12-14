@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 小将士
+
+    * Begin : 2014/12/14 23:54:36
+    * End   : 2014/12/15 00:06:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53945aeaebeddbf6018b457b 小将士
 
     * Begin : 2014/12/14 23:54:29
