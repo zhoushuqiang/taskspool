@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54752d7da5640bb42b8b4582
+
+    * Begin : 2014/12/15 04:20:06
+    * End   : 2014/12/15 04:20:08
+    * Result: => 徐妍馨Mandy/weipai.cn/531374499d67d9ee0b8b4567
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54752c02a5640b012a8b45a2
 
     * Begin : 2014/12/15 04:19:53
