@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 朵朵猪
+
+    * Begin : 2014/12/15 03:02:45
+    * End   : 2014/12/15 03:06:22
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5471afb3a8640b2e268b459f 朵朵猪
 
     * Begin : 2014/12/15 03:02:38

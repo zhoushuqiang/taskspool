@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 5471afb3a8640b2e268b459f 朵朵猪
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ca62a5640ba76a8b4591
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/5474cb2ba5640b696f8b457d
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474cb2ba5640b696f8b457d
@@ -445,6 +444,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/15 03:06:22] [urlrule] sites weipai.cn UPDATE 朵朵猪
     * [2014/12/15 03:02:38] [urlrule] sites weipai.cn follow 5471afb3a8640b2e268b459f 朵朵猪
     * [2014/12/15 03:02:28] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474c9c3a5640b926a8b45b3
     * [2014/12/15 03:02:18] [urlrule] sites weipai.cn UPDATE 李豪Joylee
