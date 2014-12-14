@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 50c28391803494bf15000060 乖乖幽
+
+    * Begin : 2014/12/15 01:12:06
+    * End   : 2014/12/15 01:12:06
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 50c28391803494bf15000060 乖乖幽
+
+    * Begin : 2014/12/15 01:12:05
+    * End   : 2014/12/15 01:12:06
+    * Result: http://www.weipai.cn/video/5473dacfa5640b64638b459b=>[weipai.cn] 50c28391803494bf15000060 (乖乖幽) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5473d191a5640bdd5c8b45b0
 
     * Begin : 2014/12/15 01:11:50
