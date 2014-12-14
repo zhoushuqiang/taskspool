@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 内涵湿姐
+
+    * Begin : 2014/12/15 00:37:33
+    * End   : 2014/12/15 00:37:35
+    * Result: OK
+
 * [urlrule task] update urlrule/task/follows.txt
 
     * Begin : 2014/12/15 00:35:59
