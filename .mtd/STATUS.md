@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/15 00:25:01] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
     * [2014/12/15 00:10:23] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
     * [2014/12/15 00:09:06] [urlrule] sites weipai.cn update 麦子orSkala
     * [2014/12/15 00:08:11] [urlrule] sites weipai.cn follow 5486818da6640b360a8b45ac 2014121236
