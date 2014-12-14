@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 血红色婚纱
+
+    * Begin : 2014/12/15 01:04:37
+    * End   : 2014/12/15 01:04:49
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 54682846a7640b32768b4596 血红色婚纱
 
     * Begin : 2014/12/15 01:04:30

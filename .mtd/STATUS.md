@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 54682846a7640b32768b4596 血红色婚纱
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54739141a5640b15348b4592
     *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/547391d7a5640b19348b4585
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547391d7a5640b19348b4585
@@ -479,6 +478,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/15 01:04:49] [urlrule] sites weipai.cn SAVE 血红色婚纱
     * [2014/12/15 01:04:31] [urlrule] sites weipai.cn follow 54682846a7640b32768b4596 血红色婚纱
     * [2014/12/15 01:04:23] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54736b61a5640bd61e8b458f
     * [2014/12/15 01:04:14] [urlrule] sites weipai.cn SAVE 静静的微笑
