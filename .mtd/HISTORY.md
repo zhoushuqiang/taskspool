@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 53778c32ebeddbb76e8b4579 DM靜兒
+
+    * Begin : 2014/12/15 02:39:06
+    * End   : 2014/12/15 02:39:06
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 53778c32ebeddbb76e8b4579 DM靜兒
+
+    * Begin : 2014/12/15 02:39:05
+    * End   : 2014/12/15 02:39:06
+    * Result: http://www.weipai.cn/video/5474c141a5640b65698b456f=>[weipai.cn] 53778c32ebeddbb76e8b4579 (DM靜兒) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474bf3da5640b95648b458f
 
     * Begin : 2014/12/15 02:38:53
