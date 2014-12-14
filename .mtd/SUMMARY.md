@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
+
+    * Begin : 2014/12/15 02:00:55
+    * End   : 2014/12/15 02:00:55
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 
     * Begin : 2014/12/15 01:57:54
