@@ -1,3 +1,87 @@
+* [urlrule] sites weipai.cn update 屌丝福利小清新
+
+    * Begin : 2014/12/15 00:45:32
+    * End   : 2014/12/15 00:45:35
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 尤物大王
+
+    * Begin : 2014/12/15 00:45:31
+    * End   : 2014/12/15 00:45:31
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 尢金金
+
+    * Begin : 2014/12/15 00:45:29
+    * End   : 2014/12/15 00:45:29
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小露露仔
+
+    * Begin : 2014/12/15 00:45:27
+    * End   : 2014/12/15 00:45:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小雨姐
+
+    * Begin : 2014/12/15 00:45:25
+    * End   : 2014/12/15 00:45:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小雅果子
+
+    * Begin : 2014/12/15 00:45:23
+    * End   : 2014/12/15 00:45:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小镁媄-
+
+    * Begin : 2014/12/15 00:45:19
+    * End   : 2014/12/15 00:45:21
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小钕Ren
+
+    * Begin : 2014/12/15 00:45:17
+    * End   : 2014/12/15 00:45:17
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小金人888
+
+    * Begin : 2014/12/15 00:45:15
+    * End   : 2014/12/15 00:45:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小资y
+
+    * Begin : 2014/12/15 00:45:13
+    * End   : 2014/12/15 00:45:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小菲菲yoyo
+
+    * Begin : 2014/12/15 00:45:11
+    * End   : 2014/12/15 00:45:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小茹子
+
+    * Begin : 2014/12/15 00:45:08
+    * End   : 2014/12/15 00:45:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小花妹妹
+
+    * Begin : 2014/12/15 00:45:06
+    * End   : 2014/12/15 00:45:06
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 小芒果
+
+    * Begin : 2014/12/15 00:45:01
+    * End   : 2014/12/15 00:45:04
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 小美宝贝
 
     * Begin : 2014/12/15 00:44:50
