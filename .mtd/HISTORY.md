@@ -1,3 +1,8 @@
+* [urlrule] sites weipai.cn SAVE 乖乖幽
+
+    * Begin : 2014/12/15 01:12:13
+    * Result: PENDING
+
 * [urlrule] sites weipai.cn follow 50c28391803494bf15000060 乖乖幽
 
     * Begin : 2014/12/15 01:12:06
