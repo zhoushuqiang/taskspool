@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 劉點點dotey_
+
+    * Begin : 2014/12/14 23:23:56
+    * End   : 2014/12/14 23:24:18
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 内涵湿姐
 
     * Begin : 2014/12/14 23:23:28
