@@ -1,3 +1,8 @@
+* [urlrule] sites weipai.cn SAVE 婷MM
+
+    * Begin : 2014/12/15 01:20:06
+    * Result: PENDING
+
 * [urlrule] sites weipai.cn follow 537e0e6bebeddb295b8b45aa 婷MM
 
     * Begin : 2014/12/15 01:20:00
