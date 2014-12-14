@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/14 23:45:49] [urlrule] sites weipai.cn update 白日不湿
     * [2014/12/14 23:45:39] [urlrule] sites weipai.cn update 画泪听雨眠
     * [2014/12/14 23:42:42] [urlrule] sites weipai.cn update 洛熙爱爱
     * [2014/12/14 23:41:13] [urlrule] sites weipai.cn update 水蜜桃子
