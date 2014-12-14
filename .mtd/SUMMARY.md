@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474895ba5640be8418b45d0
+
+    * Begin : 2014/12/15 01:35:24
+    * End   : 2014/12/15 01:35:41
+    * Result: => Sara项信/weipai.cn/4fd1e59d7f3494333400004d
+
 * [urlrule] sites weipai.cn UPDATE Sara项信
 
     * Begin : 2014/12/15 01:28:04
