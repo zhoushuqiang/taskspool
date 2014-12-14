@@ -1,3 +1,14 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
+
+    * Begin : 2014/12/15 01:44:31
+    * Result: PENDING
+
+* [urlrule] sites weipai.cn UPDATE 颜若曦子
+
+    * Begin : 2014/12/15 01:43:30
+    * End   : 2014/12/15 01:44:30
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn follow 514988237d34945b2d000006 颜若曦子
 
     * Begin : 2014/12/15 01:43:23
