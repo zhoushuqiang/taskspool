@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474b9f8a5640be85f8b4598
+
+    * Begin : 2014/12/15 01:42:15
+    * End   : 2014/12/15 01:43:15
+    * Result: Extract information from URL failed
+
 * [urlrule] sites weipai.cn UPDATE 刘培雨雨小熊
 
     * Begin : 2014/12/15 01:35:56

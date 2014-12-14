@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474b9f8a5640be85f8b4598
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/5474ba4ea5640bba638b456e
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/5474be2ea5640ba0648b4589
@@ -481,3 +480,5 @@ Tasks Status Report
 * Ignored:
     * [myplace-tasks] 
     * [myplace-tasks] 
+* Error:
+    * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474b9f8a5640be85f8b4598
