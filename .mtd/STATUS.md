@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/15 00:44:18] [urlrule] sites weipai.cn update 小将士
     * [2014/12/15 00:42:42] [urlrule] sites vlook.cn update 娇娇2014
     * [2014/12/15 00:41:18] [urlrule] sites weipai.cn update 威信qianfei2012
     * [2014/12/15 00:40:47] [urlrule] sites weipai.cn update 女神集团
@@ -298,6 +299,38 @@ Tasks Status Report
     * [2014/12/14 04:25:12] [urlrule] sites weipai.cn update Lolita4ever
     * [2014/12/14 04:21:21] [urlrule] sites weipai.cn update Diva_狄娃
 * Doing Nothing:
+    * [2014/12/15 00:44:14] [urlrule] sites weipai.cn update 小容嬷嬷
+    * [2014/12/15 00:44:12] [urlrule] sites weipai.cn update 小可爱mmd
+    * [2014/12/15 00:44:09] [urlrule] sites weipai.cn update 小仓老师
+    * [2014/12/15 00:44:06] [urlrule] sites weipai.cn update 小也慧子
+    * [2014/12/15 00:44:03] [urlrule] sites weipai.cn update 小乔流水
+    * [2014/12/15 00:44:01] [urlrule] sites weipai.cn update 小乔Cheryl
+    * [2014/12/15 00:43:59] [urlrule] sites weipai.cn update 小qiqi总爱凑美呦
+    * [2014/12/15 00:43:57] [urlrule] sites weipai.cn update 对你着了迷
+    * [2014/12/15 00:43:55] [urlrule] sites weipai.cn update 寂寞姐姐
+    * [2014/12/15 00:43:53] [urlrule] sites weipai.cn update 家菱
+    * [2014/12/15 00:43:51] [urlrule] sites weipai.cn update 家妹xxoo
+    * [2014/12/15 00:43:48] [urlrule] sites weipai.cn update 宝小丁
+    * [2014/12/15 00:43:46] [urlrule] sites weipai.cn update 宝宝倩
+    * [2014/12/15 00:43:43] [urlrule] sites weipai.cn update 宜官官
+    * [2014/12/15 00:43:41] [urlrule] sites vlook.cn update 宋小猫cat
+    * [2014/12/15 00:43:38] [urlrule] sites weipai.cn update 宋小猫cat
+    * [2014/12/15 00:43:35] [urlrule] sites vlook.cn update 安瑞甜
+    * [2014/12/15 00:43:31] [urlrule] sites weipai.cn update 安瑞甜
+    * [2014/12/15 00:43:29] [urlrule] sites weipai.cn update 安妮Annie
+    * [2014/12/15 00:43:27] [urlrule] sites weipai.cn update 安之拉
+    * [2014/12/15 00:43:25] [urlrule] sites weipai.cn update 孤独患者
+    * [2014/12/15 00:43:23] [urlrule] sites weipai.cn update 孤单的84剩女
+    * [2014/12/15 00:43:21] [urlrule] sites weipai.cn update 孟晓艺dana
+    * [2014/12/15 00:43:18] [urlrule] sites vlook.cn update 孟晓晴Aimme
+    * [2014/12/15 00:43:09] [urlrule] sites weipai.cn update 孙星星
+    * [2014/12/15 00:43:07] [urlrule] sites weipai.cn update 孙大星
+    * [2014/12/15 00:43:05] [urlrule] sites weipai.cn update 媛妞儿
+    * [2014/12/15 00:43:03] [urlrule] sites weipai.cn update 媚力女人
+    * [2014/12/15 00:43:00] [urlrule] sites weipai.cn update 婷宝20141030
+    * [2014/12/15 00:42:58] [urlrule] sites vlook.cn update 婷婷aiweier
+    * [2014/12/15 00:42:54] [urlrule] sites weipai.cn update 娜娜-_
+    * [2014/12/15 00:42:52] [urlrule] sites weipai.cn update 娜依灵儿
     * [2014/12/15 00:41:14] [urlrule] sites vlook.cn update 姚雪
     * [2014/12/15 00:41:11] [urlrule] sites weipai.cn update 姐妹的范er
     * [2014/12/15 00:41:09] [urlrule] sites weipai.cn update 姐又内涵了
