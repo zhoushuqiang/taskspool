@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 54490173a7640bcb468b457c 我就是爱瞎胡闹
+
+    * Begin : 2014/12/15 04:13:41
+    * End   : 2014/12/15 04:13:41
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 54490173a7640bcb468b457c 我就是爱瞎胡闹
+
+    * Begin : 2014/12/15 04:13:40
+    * End   : 2014/12/15 04:13:41
+    * Result: http://www.weipai.cn/video/547528b3a5640bb0288b459f=>[weipai.cn] 54490173a7640bcb468b457c (我就是爱瞎胡闹) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547526d5a5640b762b8b4569
 
     * Begin : 2014/12/15 04:13:30
