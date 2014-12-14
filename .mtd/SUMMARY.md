@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Jocelyn_晶
+
+    * Begin : 2014/12/14 23:15:24
+    * End   : 2014/12/14 23:15:48
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 雨020141120
 
     * Begin : 2014/12/14 23:13:12

@@ -1,3 +1,93 @@
+* [urlrule] sites weipai.cn update Jocelyn_晶
+
+    * Begin : 2014/12/14 23:15:24
+    * End   : 2014/12/14 23:15:48
+    * Result: OK
+
+* [urlrule] sites vlook.cn update Joanbaby倩
+
+    * Begin : 2014/12/14 23:15:20
+    * End   : 2014/12/14 23:15:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update HellenBaby_
+
+    * Begin : 2014/12/14 23:15:18
+    * End   : 2014/12/14 23:15:19
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Godismyfather
+
+    * Begin : 2014/12/14 23:15:16
+    * End   : 2014/12/14 23:15:17
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Gaby_Kim金慧嫄
+
+    * Begin : 2014/12/14 23:15:13
+    * End   : 2014/12/14 23:15:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Fox_00
+
+    * Begin : 2014/12/14 23:15:11
+    * End   : 2014/12/14 23:15:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Fiy
+
+    * Begin : 2014/12/14 23:15:09
+    * End   : 2014/12/14 23:15:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update EverdayBaby
+
+    * Begin : 2014/12/14 23:15:07
+    * End   : 2014/12/14 23:15:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Elise谭晓彤
+
+    * Begin : 2014/12/14 23:15:05
+    * End   : 2014/12/14 23:15:06
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Elise谭晓彤
+
+    * Begin : 2014/12/14 23:15:03
+    * End   : 2014/12/14 23:15:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Elise谭晓彤
+
+    * Begin : 2014/12/14 23:15:01
+    * End   : 2014/12/14 23:15:01
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Djkkrmx慧玲
+
+    * Begin : 2014/12/14 23:14:59
+    * End   : 2014/12/14 23:14:59
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Dj_kelly
+
+    * Begin : 2014/12/14 23:14:58
+    * End   : 2014/12/14 23:14:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Dj_kelly
+
+    * Begin : 2014/12/14 23:14:56
+    * End   : 2014/12/14 23:14:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update DjTina
+
+    * Begin : 2014/12/14 23:14:54
+    * End   : 2014/12/14 23:14:54
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn SAVE 雨020141120
 
     * Begin : 2014/12/14 23:13:12

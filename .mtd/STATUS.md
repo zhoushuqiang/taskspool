@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/14 23:15:48] [urlrule] sites weipai.cn update Jocelyn_晶
     * [2014/12/14 23:14:43] [urlrule] sites weipai.cn SAVE 雨020141120
     * [2014/12/14 23:13:02] [urlrule] sites weipai.cn follow 546d8fcfa5640b21118b4599 雨020141120
     * [2014/12/14 23:11:53] [urlrule] sites weipai.cn update Diva_狄娃
@@ -249,6 +250,20 @@ Tasks Status Report
     * [2014/12/14 04:25:12] [urlrule] sites weipai.cn update Lolita4ever
     * [2014/12/14 04:21:21] [urlrule] sites weipai.cn update Diva_狄娃
 * Doing Nothing:
+    * [2014/12/14 23:15:22] [urlrule] sites vlook.cn update Joanbaby倩
+    * [2014/12/14 23:15:19] [urlrule] sites weipai.cn update HellenBaby_
+    * [2014/12/14 23:15:17] [urlrule] sites weipai.cn update Godismyfather
+    * [2014/12/14 23:15:15] [urlrule] sites vlook.cn update Gaby_Kim金慧嫄
+    * [2014/12/14 23:15:11] [urlrule] sites weipai.cn update Fox_00
+    * [2014/12/14 23:15:09] [urlrule] sites weipai.cn update Fiy
+    * [2014/12/14 23:15:07] [urlrule] sites weipai.cn update EverdayBaby
+    * [2014/12/14 23:15:06] [urlrule] sites weipai.cn update Elise谭晓彤
+    * [2014/12/14 23:15:04] [urlrule] sites vlook.cn update Elise谭晓彤
+    * [2014/12/14 23:15:01] [urlrule] sites weipai.cn update Elise谭晓彤
+    * [2014/12/14 23:14:59] [urlrule] sites weipai.cn update Djkkrmx慧玲
+    * [2014/12/14 23:14:58] [urlrule] sites vlook.cn update Dj_kelly
+    * [2014/12/14 23:14:56] [urlrule] sites weipai.cn update Dj_kelly
+    * [2014/12/14 23:14:54] [urlrule] sites weipai.cn update DjTina
     * [2014/12/14 23:13:02] [urlrule] sites weipai.cn add 546d8fcfa5640b21118b4599 雨020141120
     * [2014/12/14 23:10:51] [urlrule] sites weipai.cn update Despair-假寐
     * [2014/12/14 23:10:49] [urlrule] sites weipai.cn update Dance小宝
