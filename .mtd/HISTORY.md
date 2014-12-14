@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 徐妍馨Mandy
+
+    * Begin : 2014/12/15 00:47:16
+    * End   : 2014/12/15 00:48:03
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 张馨馨Maggie
+
+    * Begin : 2014/12/15 00:47:15
+    * End   : 2014/12/15 00:47:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 张露_Betty
+
+    * Begin : 2014/12/15 00:47:13
+    * End   : 2014/12/15 00:47:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 张鑫Amy
+
+    * Begin : 2014/12/15 00:47:10
+    * End   : 2014/12/15 00:47:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 张若兰
+
+    * Begin : 2014/12/15 00:47:08
+    * End   : 2014/12/15 00:47:08
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 张若兰
 
     * Begin : 2014/12/15 00:46:14
