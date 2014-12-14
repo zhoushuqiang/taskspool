@@ -2,8 +2,9 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn FOLLOW 53945aeaebeddbf6018b457b 小将士 SAVE
+    *[urlrule] sites weipai.cn SAVE 53945aeaebeddbf6018b457b 小将士
 * Finished:
+    * [2014/12/14 23:54:29] [urlrule] sites weipai.cn follow 53945aeaebeddbf6018b457b 小将士
     * [2014/12/14 23:54:20] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a7a95a5640b366a8b45a3
     * [2014/12/14 23:52:56] [urlrule] sites weipai.cn update 颖小姐
     * [2014/12/14 23:49:03] [urlrule] sites weipai.cn update 薇妮BABY
