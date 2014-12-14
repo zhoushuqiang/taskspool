@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 寂寞姐姐
+
+    * Begin : 2014/12/14 23:29:32
+    * End   : 2014/12/14 23:29:41
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 孤单的84剩女
 
     * Begin : 2014/12/14 23:28:44

@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/14 23:29:41] [urlrule] sites weipai.cn update 寂寞姐姐
     * [2014/12/14 23:28:56] [urlrule] sites weipai.cn update 孤单的84剩女
     * [2014/12/14 23:28:07] [urlrule] sites weipai.cn update 娜依灵儿
     * [2014/12/14 23:27:39] [urlrule] sites vlook.cn update 娇娇2014
@@ -263,6 +264,18 @@ Tasks Status Report
     * [2014/12/14 04:25:12] [urlrule] sites weipai.cn update Lolita4ever
     * [2014/12/14 04:21:21] [urlrule] sites weipai.cn update Diva_狄娃
 * Doing Nothing:
+    * [2014/12/14 23:29:31] [urlrule] sites weipai.cn update 家菱
+    * [2014/12/14 23:29:29] [urlrule] sites weipai.cn update 家妹xxoo
+    * [2014/12/14 23:29:27] [urlrule] sites weipai.cn update 宝小丁
+    * [2014/12/14 23:29:25] [urlrule] sites weipai.cn update 宝宝倩
+    * [2014/12/14 23:29:23] [urlrule] sites weipai.cn update 宜官官
+    * [2014/12/14 23:29:21] [urlrule] sites vlook.cn update 宋小猫cat
+    * [2014/12/14 23:29:17] [urlrule] sites weipai.cn update 宋小猫cat
+    * [2014/12/14 23:29:15] [urlrule] sites vlook.cn update 安瑞甜
+    * [2014/12/14 23:29:12] [urlrule] sites weipai.cn update 安瑞甜
+    * [2014/12/14 23:29:10] [urlrule] sites weipai.cn update 安妮Annie
+    * [2014/12/14 23:29:08] [urlrule] sites weipai.cn update 安之拉
+    * [2014/12/14 23:29:06] [urlrule] sites weipai.cn update 孤独患者
     * [2014/12/14 23:28:42] [urlrule] sites weipai.cn update 孟晓艺dana
     * [2014/12/14 23:28:40] [urlrule] sites vlook.cn update 孟晓晴Aimme
     * [2014/12/14 23:28:31] [urlrule] sites weipai.cn update 孙星星
