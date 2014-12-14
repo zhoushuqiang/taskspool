@@ -1,8 +1,6 @@
 Tasks::Builder::Config::LastTask    498
 Tasks::Center::options.no-pull    1
 Tasks::Center::options.sleep    1
-Tasks::Center::tasks_0    urlrule	sites	weipai.cn	SAVE	537e0e6bebeddb295b8b45aa	婷MM
-Tasks::Center::tasks_1    urlrule	sites	weipai.cn	SAVEURL	http://www.weipai.cn/video/5473db68a5640b3e638b4584
 Tasks::Center::tasks_2    urlrule	sites	weipai.cn	AFU	http://www.weipai.cn/video/5473dd0da5640b8d638b459c
 Tasks::Center::tasks_3    urlrule	sites	weipai.cn	SAVEURL	http://www.weipai.cn/video/5473dd0da5640b8d638b459c
 Tasks::Center::tasks_4    urlrule	sites	weipai.cn	AFU	http://www.weipai.cn/video/5473dda2a5640b96638b459e

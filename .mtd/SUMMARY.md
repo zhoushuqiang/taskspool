@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5473dd0da5640b8d638b459c
+
+    * Begin : 2014/12/15 01:21:42
+    * End   : 2014/12/15 01:22:18
+    * Result: => 小雨姐/weipai.cn/530da4af9d67d9b06c8b456a
+
 * [urlrule] sites weipai.cn follow 537e0e6bebeddb295b8b45aa 婷MM
 
     * Begin : 2014/12/15 01:20:00

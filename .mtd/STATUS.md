@@ -2,10 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVE 537e0e6bebeddb295b8b45aa 婷MM
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5473db68a5640b3e638b4584
-    *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/5473dd0da5640b8d638b459c
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5473dd0da5640b8d638b459c
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/5473dda2a5640b96638b459e
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5473dda2a5640b96638b459e
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/54748495a5640be5418b4599
@@ -469,9 +465,11 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
-    * [2014/12/15 01:20:00] [urlrule] sites weipai.cn follow 537e0e6bebeddb295b8b45aa 婷MM
+    * [2014/12/15 01:22:18] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5473dd0da5640b8d638b459c
 * Doing Nothing:
-    * [2014/12/15 01:20:00] [urlrule] sites weipai.cn add 537e0e6bebeddb295b8b45aa 婷MM
+    * [2014/12/15 01:21:42] [urlrule] sites weipai.cn UPDATE 小雨姐
+    * [2014/12/15 01:21:42] [urlrule] sites weipai.cn follow 530da4af9d67d9b06c8b456a 小雨姐
+    * [2014/12/15 01:21:42] [urlrule] sites weipai.cn add 530da4af9d67d9b06c8b456a 小雨姐
 * Ignored:
     * [myplace-tasks] 
     * [myplace-tasks] 
