@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547526d5a5640b762b8b4569
+
+    * Begin : 2014/12/15 04:13:30
+    * End   : 2014/12/15 04:13:32
+    * Result: => 咪-Queen/weipai.cn/506c3b238034941745000068
+
 * [urlrule] sites weipai.cn UPDATE 咪-Queen
 
     * Begin : 2014/12/15 03:56:13
