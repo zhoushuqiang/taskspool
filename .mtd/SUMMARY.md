@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 546984cda5640b7b3b8b4590 小猫有毒
+
+    * Begin : 2014/12/15 04:17:16
+    * End   : 2014/12/15 04:17:17
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547528b3a5640bb0288b459f
 
     * Begin : 2014/12/15 04:17:05
