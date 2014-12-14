@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474cc78a5640b2e6f8b4574
+
+    * Begin : 2014/12/15 03:10:40
+    * End   : 2014/12/15 03:10:43
+    * Result: => 白雪团队全球招募创业伙伴/weipai.cn/5474c2bba5640b956a8b456c
+
 * [urlrule] sites weipai.cn UPDATE 白雪团队全球招募创业伙伴
 
     * Begin : 2014/12/15 03:08:43
