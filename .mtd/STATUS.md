@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 5286bbf5504a13b14f8b45c8 刘培雨雨小熊
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474b9f8a5640be85f8b4598
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/5474ba4ea5640bba638b456e
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
@@ -459,6 +458,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/15 01:42:08] [urlrule] sites weipai.cn UPDATE 刘培雨雨小熊
     * [2014/12/15 01:35:50] [urlrule] sites weipai.cn follow 5286bbf5504a13b14f8b45c8 刘培雨雨小熊
     * [2014/12/15 01:35:41] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474895ba5640be8418b45d0
     * [2014/12/15 01:35:17] [urlrule] sites weipai.cn UPDATE Sara项信

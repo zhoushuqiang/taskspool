@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 刘培雨雨小熊
+
+    * Begin : 2014/12/15 01:35:56
+    * End   : 2014/12/15 01:42:08
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5286bbf5504a13b14f8b45c8 刘培雨雨小熊
 
     * Begin : 2014/12/15 01:35:50
