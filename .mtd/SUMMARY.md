@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 失了他心
+
+    * Begin : 2014/12/15 03:11:01
+    * End   : 2014/12/15 03:11:10
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5474b667a8640bbd718b456f 失了他心
 
     * Begin : 2014/12/15 03:10:53

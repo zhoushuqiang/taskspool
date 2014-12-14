@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 5474b667a8640bbd718b456f 失了他心
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474d2c5a5640b8e728b457f
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/5474d916a5640b9b728b45a9
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474d916a5640b9b728b45a9
@@ -439,6 +438,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/15 03:11:10] [urlrule] sites weipai.cn UPDATE 失了他心
     * [2014/12/15 03:10:53] [urlrule] sites weipai.cn follow 5474b667a8640bbd718b456f 失了他心
     * [2014/12/15 03:10:43] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474cc78a5640b2e6f8b4574
     * [2014/12/15 03:10:31] [urlrule] sites weipai.cn UPDATE 白雪团队全球招募创业伙伴
