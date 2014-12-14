@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a7a95a5640b366a8b45a3
+
+    * Begin : 2014/12/14 23:53:05
+    * End   : 2014/12/14 23:54:20
+    * Result: => 小将士/weipai.cn/53945aeaebeddbf6018b457b
+
 * [urlrule] sites weipai.cn update 颖小姐
 
     * Begin : 2014/12/14 23:51:38

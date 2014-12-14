@@ -1,7 +1,10 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn FOLLOW 53945aeaebeddbf6018b457b 小将士 SAVE
 * Finished:
+    * [2014/12/14 23:54:20] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a7a95a5640b366a8b45a3
     * [2014/12/14 23:52:56] [urlrule] sites weipai.cn update 颖小姐
     * [2014/12/14 23:49:03] [urlrule] sites weipai.cn update 薇妮BABY
     * [2014/12/14 23:48:49] [urlrule] sites vlook.cn update 蒙丽伊
@@ -276,6 +279,7 @@ Tasks Status Report
     * [2014/12/14 04:25:12] [urlrule] sites weipai.cn update Lolita4ever
     * [2014/12/14 04:21:21] [urlrule] sites weipai.cn update Diva_狄娃
 * Doing Nothing:
+    * [2014/12/14 23:53:05] [urlrule] sites weipai.cn add 53945aeaebeddbf6018b457b 小将士
     * [2014/12/14 23:51:37] [urlrule] sites weipai.cn update 颕姐good-looking
     * [2014/12/14 23:51:34] [urlrule] sites weipai.cn update 顾美丽
     * [2014/12/14 23:51:33] [urlrule] sites vlook.cn update 顽石化钻恋玉人
