@@ -2,8 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/54739141a5640b15348b4592
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54739141a5640b15348b4592
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/547391d7a5640b19348b4585
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547391d7a5640b19348b4585
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/54739945a5640bdf348b45ba
@@ -480,7 +478,9 @@ Tasks Status Report
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn FOLLOW 529209efc58a87f14530e526 Dj_kelly UPDATE
     *[urlrule] sites weipai.cn FOLLOW 54585ee4a5640bb5728b45b8 静静的微笑 UPDATE
+    *[urlrule] sites weipai.cn FOLLOW 54682846a7640b32768b4596 血红色婚纱 UPDATE
 * Finished:
+    * [2014/12/15 00:54:23] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54739141a5640b15348b4592
     * [2014/12/15 00:54:07] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54736b61a5640bd61e8b458f
     * [2014/12/15 00:53:29] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54736b60a5640bc01e8b459f
     * [2014/12/15 00:52:46] [urlrule] sites weipai.cn update 水蜜桃子
@@ -786,6 +786,7 @@ Tasks Status Report
     * [2014/12/14 04:25:12] [urlrule] sites weipai.cn update Lolita4ever
     * [2014/12/14 04:21:21] [urlrule] sites weipai.cn update Diva_狄娃
 * Doing Nothing:
+    * [2014/12/15 00:54:16] [urlrule] sites weipai.cn add 54682846a7640b32768b4596 血红色婚纱
     * [2014/12/15 00:53:40] [urlrule] sites weipai.cn add 54585ee4a5640bb5728b45b8 静静的微笑
     * [2014/12/15 00:52:59] [urlrule] sites weipai.cn add 529209efc58a87f14530e526 Dj_kelly
     * [2014/12/15 00:52:57] [urlrule] sites weipai.cn update 汉小仙

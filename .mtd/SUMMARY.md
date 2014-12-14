@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54739141a5640b15348b4592
+
+    * Begin : 2014/12/15 00:54:16
+    * End   : 2014/12/15 00:54:23
+    * Result: => 血红色婚纱/weipai.cn/54682846a7640b32768b4596
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54736b61a5640bd61e8b458f
 
     * Begin : 2014/12/15 00:53:40
