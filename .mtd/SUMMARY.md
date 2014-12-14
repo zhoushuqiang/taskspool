@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 李豪Joylee
+
+    * Begin : 2014/12/15 03:00:49
+    * End   : 2014/12/15 03:02:18
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5091c73a7d34943504000088 李豪Joylee
 
     * Begin : 2014/12/15 03:00:41
