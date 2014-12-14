@@ -2,7 +2,7 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/547519a3a5640bf7178b45ab
+    *[urlrule] sites weipai.cn UPDATE 519d93365d8e87916f000004 广州莉莉玛莲酒吧小熙
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547519a3a5640bf7178b45ab
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/5475230aa5640b0a228b45a8
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475230aa5640b0a228b45a8
@@ -433,6 +433,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/15 03:18:28] [urlrule] sites weipai.cn follow 519d93365d8e87916f000004 广州莉莉玛莲酒吧小熙
     * [2014/12/15 03:18:18] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475174fa5640b27188b459a
     * [2014/12/15 03:16:47] [urlrule] sites weipai.cn UPDATE 李萌萌护肤美美哒
     * [2014/12/15 03:12:23] [urlrule] sites weipai.cn follow 53e882a0a8640b74068b4598 李萌萌护肤美美哒
@@ -464,6 +465,7 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/15 03:18:28] [urlrule] sites weipai.cn add 519d93365d8e87916f000004 广州莉莉玛莲酒吧小熙
     * [2014/12/15 03:12:22] [urlrule] sites weipai.cn add 53e882a0a8640b74068b4598 李萌萌护肤美美哒
     * [2014/12/15 03:11:38] [urlrule] sites weipai.cn add 51cbce165c8e87c12d0000a2 孙十八
     * [2014/12/15 03:10:53] [urlrule] sites weipai.cn add 5474b667a8640bbd718b456f 失了他心
