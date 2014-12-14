@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 5286bbf5504a13b14f8b45c8 刘培雨雨小熊
+
+    * Begin : 2014/12/15 01:35:50
+    * End   : 2014/12/15 01:35:50
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 5286bbf5504a13b14f8b45c8 刘培雨雨小熊
+
+    * Begin : 2014/12/15 01:35:49
+    * End   : 2014/12/15 01:35:50
+    * Result: http://www.weipai.cn/video/5474b9f8a5640be85f8b4598=>[weipai.cn] 5286bbf5504a13b14f8b45c8 (刘培雨雨小熊) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474895ba5640be8418b45d0
 
     * Begin : 2014/12/15 01:35:24
