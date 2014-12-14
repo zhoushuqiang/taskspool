@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5473d191a5640bdd5c8b45b0
+
+    * Begin : 2014/12/15 01:11:50
+    * End   : 2014/12/15 01:11:58
+    * Result: => 季末20140225/weipai.cn/530bb65d9d67d9031f8b4567
+
 * [urlrule] sites weipai.cn SAVE 季末20140225
 
     * Begin : 2014/12/15 01:11:36
