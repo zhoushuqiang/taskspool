@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/14 23:23:31] [urlrule] sites weipai.cn update 内涵湿姐
     * [2014/12/14 23:22:04] [urlrule task] update urlrule/task/follows.txt
     * [2014/12/14 23:21:51] [urlrule] sites weipai.cn SAVE 小美宝贝
     * [2014/12/14 23:21:25] [urlrule] sites weipai.cn follow 547703afa6640b047d8b4570 小美宝贝
@@ -255,6 +256,43 @@ Tasks Status Report
     * [2014/12/14 04:25:12] [urlrule] sites weipai.cn update Lolita4ever
     * [2014/12/14 04:21:21] [urlrule] sites weipai.cn update Diva_狄娃
 * Doing Nothing:
+    * [2014/12/14 23:23:27] [urlrule] sites weipai.cn update 内涵姐姐
+    * [2014/12/14 23:23:25] [urlrule] sites vlook.cn update 兮颜SSS
+    * [2014/12/14 23:23:21] [urlrule] sites weipai.cn update 光头-狠强
+    * [2014/12/14 23:23:19] [urlrule] sites weipai.cn update 倩倩baby
+    * [2014/12/14 23:23:17] [urlrule] sites weipai.cn update 佳佳
+    * [2014/12/14 23:23:15] [urlrule] sites weipai.cn update 你懂我么小娘
+    * [2014/12/14 23:23:13] [urlrule] sites weipai.cn update 你娜爷
+    * [2014/12/14 23:23:11] [urlrule] sites weipai.cn update 何佳琪baby
+    * [2014/12/14 23:23:09] [urlrule] sites weipai.cn update 优优Baby
+    * [2014/12/14 23:23:07] [urlrule] sites weipai.cn update 以我之名祭你风华初成
+    * [2014/12/14 23:23:05] [urlrule] sites weipai.cn update 仙德瑞拉_模特经纪
+    * [2014/12/14 23:23:03] [urlrule] sites weipai.cn update 仙女大人
+    * [2014/12/14 23:23:01] [urlrule] sites weipai.cn update 他不懂我的xin
+    * [2014/12/14 23:22:59] [urlrule] sites weipai.cn update 亿艾儿-baby
+    * [2014/12/14 23:22:57] [urlrule] sites weipai.cn update 于安朵
+    * [2014/12/14 23:22:55] [urlrule] sites weipai.cn update 乔宝宝i
+    * [2014/12/14 23:22:53] [urlrule] sites weipai.cn update 乐怡
+    * [2014/12/14 23:22:51] [urlrule] sites weipai.cn update 丽嫂zyk
+    * [2014/12/14 23:22:49] [urlrule] sites weipai.cn update 丹梦妮ooloo
+    * [2014/12/14 23:22:47] [urlrule] sites weipai.cn update 两只小蜜蜂丫
+    * [2014/12/14 23:22:45] [urlrule] sites weipai.cn update 丝绸裹着性感福利号
+    * [2014/12/14 23:22:43] [urlrule] sites weipai.cn update 丝绸裹着性感
+    * [2014/12/14 23:22:41] [urlrule] sites weipai.cn update 丝绸裹着性感2
+    * [2014/12/14 23:22:39] [urlrule] sites weipai.cn update 丝月阁
+    * [2014/12/14 23:22:37] [urlrule] sites weipai.cn update 不羁的风20140212
+    * [2014/12/14 23:22:35] [urlrule] sites weipai.cn update 上官宁儿大人
+    * [2014/12/14 23:22:33] [urlrule] sites weipai.cn update 丁可和肥松鼠
+    * [2014/12/14 23:22:31] [urlrule] sites weipai.cn update 丁丁丁丁丁小宝
+    * [2014/12/14 23:22:29] [urlrule] sites weipai.cn update 丁丁lris
+    * [2014/12/14 23:22:27] [urlrule] sites weipai.cn update 一生热爱回头太难
+    * [2014/12/14 23:22:25] [urlrule] sites weipai.cn update zz蘑菇小象zz
+    * [2014/12/14 23:22:23] [urlrule] sites weipai.cn update y依凌小姐
+    * [2014/12/14 23:22:21] [urlrule] sites weipai.cn update yiurdhe520
+    * [2014/12/14 23:22:20] [urlrule] sites weipai.cn update yi_sex_mei
+    * [2014/12/14 23:22:18] [urlrule] sites weipai.cn update w女王a
+    * [2014/12/14 23:22:16] [urlrule] sites weipai.cn update vk_bb
+    * [2014/12/14 23:22:14] [urlrule] sites weipai.cn update vamipre小妖
     * [2014/12/14 23:22:02] [urlrule] sites weipai.cn update tina晨曦
     * [2014/12/14 23:21:24] [urlrule] sites weipai.cn add 547703afa6640b047d8b4570 小美宝贝
     * [2014/12/14 23:21:23] [urlrule] sites weipai.cn update suna2411
