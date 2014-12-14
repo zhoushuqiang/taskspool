@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 547703afa6640b047d8b4570 小美宝贝
+
+    * Begin : 2014/12/14 23:21:25
+    * End   : 2014/12/14 23:21:25
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Sooki莹莹孙
 
     * Begin : 2014/12/14 23:17:58
