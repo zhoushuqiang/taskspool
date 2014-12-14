@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/14 23:16:12] [urlrule] sites weipai.cn update Jun20141205
     * [2014/12/14 23:15:48] [urlrule] sites weipai.cn update Jocelyn_晶
     * [2014/12/14 23:14:43] [urlrule] sites weipai.cn SAVE 雨020141120
     * [2014/12/14 23:13:02] [urlrule] sites weipai.cn follow 546d8fcfa5640b21118b4599 雨020141120

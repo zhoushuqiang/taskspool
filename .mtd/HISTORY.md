@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Jun20141205
+
+    * Begin : 2014/12/14 23:15:57
+    * End   : 2014/12/14 23:16:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Jocelyn_晶
 
     * Begin : 2014/12/14 23:15:24
