@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547528b3a5640bb0288b459f
+
+    * Begin : 2014/12/15 04:17:05
+    * End   : 2014/12/15 04:17:08
+    * Result: => 我就是爱瞎胡闹/weipai.cn/54490173a7640bcb468b457c
+
 * [urlrule] sites weipai.cn UPDATE 我就是爱瞎胡闹
 
     * Begin : 2014/12/15 04:13:48
