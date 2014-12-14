@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 506c3b238034941745000068 咪-Queen
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547526d5a5640b762b8b4569
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/547528b3a5640bb0288b459f
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547528b3a5640bb0288b459f
@@ -429,6 +428,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/15 04:13:22] [urlrule] sites weipai.cn UPDATE 咪-Queen
     * [2014/12/15 03:56:05] [urlrule] sites weipai.cn follow 506c3b238034941745000068 咪-Queen
     * [2014/12/15 03:55:56] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475230aa5640b0a228b45a8
     * [2014/12/15 03:55:26] [urlrule] sites weipai.cn UPDATE 静静韩妆护肤

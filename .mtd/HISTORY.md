@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 咪-Queen
+
+    * Begin : 2014/12/15 03:56:13
+    * End   : 2014/12/15 04:13:22
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 506c3b238034941745000068 咪-Queen
 
     * Begin : 2014/12/15 03:56:05
