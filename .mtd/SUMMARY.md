@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475230aa5640b0a228b45a8
+
+    * Begin : 2014/12/15 03:55:34
+    * End   : 2014/12/15 03:55:56
+    * Result: => 静静韩妆护肤/weipai.cn/5351cf94504a13591f8b4621
+
 * [urlrule] sites weipai.cn UPDATE 静静韩妆护肤
 
     * Begin : 2014/12/15 03:55:05
