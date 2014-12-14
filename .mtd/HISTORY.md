@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474c141a5640b65698b456f
+
+    * Begin : 2014/12/15 03:00:28
+    * End   : 2014/12/15 03:00:32
+    * Result: => DM靜兒/weipai.cn/53778c32ebeddbb76e8b4579
+
 * [urlrule] sites weipai.cn UPDATE DM靜兒
 
     * Begin : 2014/12/15 02:39:14
