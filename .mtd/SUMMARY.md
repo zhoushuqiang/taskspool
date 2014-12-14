@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 水蜜桃子
+
+    * Begin : 2014/12/14 23:41:12
+    * End   : 2014/12/14 23:41:13
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 威信qianfei2012
 
     * Begin : 2014/12/14 23:34:11
