@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 54585ee4a5640bb5728b45b8 静静的微笑
+
+    * Begin : 2014/12/15 01:01:19
+    * End   : 2014/12/15 01:01:19
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54736b60a5640bc01e8b459f
 
     * Begin : 2014/12/15 01:01:10
