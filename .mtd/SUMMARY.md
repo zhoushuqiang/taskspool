@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 546ecb52a5640be25c8b456b 威信qianfei2012
+
+    * Begin : 2014/12/14 23:34:03
+    * End   : 2014/12/14 23:34:03
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/14 23:32:44
