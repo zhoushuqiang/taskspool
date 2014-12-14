@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 我就是爱瞎胡闹
+
+    * Begin : 2014/12/15 04:13:48
+    * End   : 2014/12/15 04:16:57
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 54490173a7640bcb468b457c 我就是爱瞎胡闹
 
     * Begin : 2014/12/15 04:13:41
