@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 546d8fcfa5640b21118b4599 雨020141120
+
+    * Begin : 2014/12/14 23:13:02
+    * End   : 2014/12/14 23:13:02
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 546d8fcfa5640b21118b4599 雨020141120
+
+    * Begin : 2014/12/14 23:13:01
+    * End   : 2014/12/14 23:13:02
+    * Result: http://www.weipai.cn/video/548a3a98a5640b44328b458c=>[weipai.cn] 546d8fcfa5640b21118b4599 (雨020141120) OK
+
 * [urlrule] sites weipai.cn update Diva_狄娃
 
     * Begin : 2014/12/14 23:10:52

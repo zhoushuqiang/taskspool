@@ -1,7 +1,10 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn SAVE 546d8fcfa5640b21118b4599 雨020141120
 * Finished:
+    * [2014/12/14 23:13:02] [urlrule] sites weipai.cn follow 546d8fcfa5640b21118b4599 雨020141120
     * [2014/12/14 23:11:53] [urlrule] sites weipai.cn update Diva_狄娃
     * [2014/12/14 23:08:11] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2014/12/14 23:08:00] [urlrule] sites weipai.cn SAVE 546d8fcfa5640b21118b4599
@@ -247,6 +250,7 @@ Tasks Status Report
     * [2014/12/14 04:25:12] [urlrule] sites weipai.cn update Lolita4ever
     * [2014/12/14 04:21:21] [urlrule] sites weipai.cn update Diva_狄娃
 * Doing Nothing:
+    * [2014/12/14 23:13:02] [urlrule] sites weipai.cn add 546d8fcfa5640b21118b4599 雨020141120
     * [2014/12/14 23:10:51] [urlrule] sites weipai.cn update Despair-假寐
     * [2014/12/14 23:10:49] [urlrule] sites weipai.cn update Dance小宝
     * [2014/12/14 23:10:47] [urlrule] sites weipai.cn update Daisy__兔

@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 546d8fcfa5640b21118b4599 雨020141120
+
+    * Begin : 2014/12/14 23:13:02
+    * End   : 2014/12/14 23:13:02
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Diva_狄娃
 
     * Begin : 2014/12/14 23:10:52
