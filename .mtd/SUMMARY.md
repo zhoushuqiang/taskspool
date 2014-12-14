@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 广州莉莉玛莲酒吧小熙
+
+    * Begin : 2014/12/15 03:18:36
+    * End   : 2014/12/15 03:53:40
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 519d93365d8e87916f000004 广州莉莉玛莲酒吧小熙
 
     * Begin : 2014/12/15 03:18:28
