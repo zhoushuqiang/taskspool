@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 5474b667a8640bbd718b456f 失了他心
+
+    * Begin : 2014/12/15 03:10:53
+    * End   : 2014/12/15 03:10:53
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 5474b667a8640bbd718b456f 失了他心
+
+    * Begin : 2014/12/15 03:10:52
+    * End   : 2014/12/15 03:10:53
+    * Result: http://www.weipai.cn/video/5474d2c5a5640b8e728b457f=>[weipai.cn] 5474b667a8640bbd718b456f (失了他心) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474cc78a5640b2e6f8b4574
 
     * Begin : 2014/12/15 03:10:40
