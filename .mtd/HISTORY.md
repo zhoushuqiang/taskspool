@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 5351cf94504a13591f8b4621 静静韩妆护肤
+
+    * Begin : 2014/12/15 03:54:57
+    * End   : 2014/12/15 03:54:58
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 5351cf94504a13591f8b4621 静静韩妆护肤
+
+    * Begin : 2014/12/15 03:54:56
+    * End   : 2014/12/15 03:54:57
+    * Result: http://www.weipai.cn/video/5475230aa5640b0a228b45a8=>[weipai.cn] 5351cf94504a13591f8b4621 (静静韩妆护肤) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547519a3a5640bf7178b45ab
 
     * Begin : 2014/12/15 03:54:44
