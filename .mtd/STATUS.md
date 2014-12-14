@@ -1,9 +1,8 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn SAVE 546ecb52a5640be25c8b456b 威信qianfei2012
 * Finished:
+    * [2014/12/14 23:38:24] [urlrule] sites weipai.cn SAVE 威信qianfei2012
     * [2014/12/14 23:34:03] [urlrule] sites weipai.cn follow 546ecb52a5640be25c8b456b 威信qianfei2012
     * [2014/12/14 23:32:46] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/14 23:31:59] [urlrule] sites weipai.cn update 小燃燃baby
