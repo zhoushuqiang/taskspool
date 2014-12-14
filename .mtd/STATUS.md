@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/14 23:22:04] [urlrule task] update urlrule/task/follows.txt
     * [2014/12/14 23:21:51] [urlrule] sites weipai.cn SAVE 小美宝贝
     * [2014/12/14 23:21:25] [urlrule] sites weipai.cn follow 547703afa6640b047d8b4570 小美宝贝
     * [2014/12/14 23:19:04] [urlrule] sites weipai.cn update Sooki莹莹孙
@@ -254,6 +255,7 @@ Tasks Status Report
     * [2014/12/14 04:25:12] [urlrule] sites weipai.cn update Lolita4ever
     * [2014/12/14 04:21:21] [urlrule] sites weipai.cn update Diva_狄娃
 * Doing Nothing:
+    * [2014/12/14 23:22:02] [urlrule] sites weipai.cn update tina晨曦
     * [2014/12/14 23:21:24] [urlrule] sites weipai.cn add 547703afa6640b047d8b4570 小美宝贝
     * [2014/12/14 23:21:23] [urlrule] sites weipai.cn update suna2411
     * [2014/12/14 23:21:21] [urlrule] sites weipai.cn update sukiyoyo001
