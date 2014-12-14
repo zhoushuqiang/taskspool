@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 李萌萌护肤美美哒
+
+    * Begin : 2014/12/15 03:12:31
+    * End   : 2014/12/15 03:16:47
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53e882a0a8640b74068b4598 李萌萌护肤美美哒
 
     * Begin : 2014/12/15 03:12:22
