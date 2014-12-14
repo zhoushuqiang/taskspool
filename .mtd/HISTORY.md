@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54752c02a5640b012a8b45a2
+
+    * Begin : 2014/12/15 04:19:53
+    * End   : 2014/12/15 04:19:56
+    * Result: => 小猫有毒/weipai.cn/546984cda5640b7b3b8b4590
+
 * [urlrule] sites weipai.cn UPDATE 小猫有毒
 
     * Begin : 2014/12/15 04:17:24
