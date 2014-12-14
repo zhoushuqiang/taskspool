@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 53570cb39d67d97f3e8b4567 CFTZ
+
+    * Begin : 2014/12/15 02:03:11
+    * End   : 2014/12/15 02:03:11
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474bf13a5640b9e648b4598
 
     * Begin : 2014/12/15 02:02:03
