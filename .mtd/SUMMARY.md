@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 小美宝贝
+
+    * Begin : 2014/12/14 23:21:33
+    * End   : 2014/12/14 23:21:51
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 547703afa6640b047d8b4570 小美宝贝
 
     * Begin : 2014/12/14 23:21:25

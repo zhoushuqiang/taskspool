@@ -1,9 +1,8 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn SAVE 547703afa6640b047d8b4570 小美宝贝
 * Finished:
+    * [2014/12/14 23:21:51] [urlrule] sites weipai.cn SAVE 小美宝贝
     * [2014/12/14 23:21:25] [urlrule] sites weipai.cn follow 547703afa6640b047d8b4570 小美宝贝
     * [2014/12/14 23:19:04] [urlrule] sites weipai.cn update Sooki莹莹孙
     * [2014/12/14 23:16:12] [urlrule] sites weipai.cn update Jun20141205
