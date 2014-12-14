@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474be2ea5640ba0648b4589
+
+    * Begin : 2014/12/15 02:00:43
+    * End   : 2014/12/15 02:00:46
+    * Result: Failed
+
 * [urlrule] sites weipai.cn AFU http://www.weipai.cn/video/5474be2ea5640ba0648b4589
 
     * Begin : 2014/12/15 01:59:36
