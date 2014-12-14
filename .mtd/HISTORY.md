@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 5474c2bba5640b956a8b456c 白雪团队全球招募创业伙伴
+
+    * Begin : 2014/12/15 03:08:35
+    * End   : 2014/12/15 03:08:35
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 5474c2bba5640b956a8b456c 白雪团队全球招募创业伙伴
+
+    * Begin : 2014/12/15 03:08:34
+    * End   : 2014/12/15 03:08:35
+    * Result: http://www.weipai.cn/video/5474cc78a5640b2e6f8b4574=>[weipai.cn] 5474c2bba5640b956a8b456c (白雪团队全球招募创业伙伴) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474cb2ba5640b696f8b457d
 
     * Begin : 2014/12/15 03:08:24
