@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 孤单的84剩女
+
+    * Begin : 2014/12/14 23:28:44
+    * End   : 2014/12/14 23:28:56
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 娜依灵儿
 
     * Begin : 2014/12/14 23:27:48

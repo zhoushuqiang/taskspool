@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/14 23:28:56] [urlrule] sites weipai.cn update 孤单的84剩女
     * [2014/12/14 23:28:07] [urlrule] sites weipai.cn update 娜依灵儿
     * [2014/12/14 23:27:39] [urlrule] sites vlook.cn update 娇娇2014
     * [2014/12/14 23:27:07] [urlrule] sites weipai.cn update 女神集团
@@ -262,6 +263,15 @@ Tasks Status Report
     * [2014/12/14 04:25:12] [urlrule] sites weipai.cn update Lolita4ever
     * [2014/12/14 04:21:21] [urlrule] sites weipai.cn update Diva_狄娃
 * Doing Nothing:
+    * [2014/12/14 23:28:42] [urlrule] sites weipai.cn update 孟晓艺dana
+    * [2014/12/14 23:28:40] [urlrule] sites vlook.cn update 孟晓晴Aimme
+    * [2014/12/14 23:28:31] [urlrule] sites weipai.cn update 孙星星
+    * [2014/12/14 23:28:29] [urlrule] sites weipai.cn update 孙大星
+    * [2014/12/14 23:28:27] [urlrule] sites weipai.cn update 媛妞儿
+    * [2014/12/14 23:28:25] [urlrule] sites weipai.cn update 媚力女人
+    * [2014/12/14 23:28:23] [urlrule] sites weipai.cn update 婷宝20141030
+    * [2014/12/14 23:28:20] [urlrule] sites vlook.cn update 婷婷aiweier
+    * [2014/12/14 23:28:17] [urlrule] sites weipai.cn update 娜娜-_
     * [2014/12/14 23:27:32] [urlrule] sites vlook.cn update 姚雪
     * [2014/12/14 23:27:29] [urlrule] sites weipai.cn update 姐妹的范er
     * [2014/12/14 23:27:27] [urlrule] sites weipai.cn update 姐又内涵了
