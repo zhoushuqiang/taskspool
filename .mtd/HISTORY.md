@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 4fd1e59d7f3494333400004d Sara项信
+
+    * Begin : 2014/12/15 01:27:57
+    * End   : 2014/12/15 01:27:57
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 4fd1e59d7f3494333400004d Sara项信
+
+    * Begin : 2014/12/15 01:27:56
+    * End   : 2014/12/15 01:27:57
+    * Result: http://www.weipai.cn/video/5474895ba5640be8418b45d0=>[weipai.cn] 4fd1e59d7f3494333400004d (Sara项信) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54748495a5640be5418b4599
 
     * Begin : 2014/12/15 01:27:34
