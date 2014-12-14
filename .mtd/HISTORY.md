@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE DM靜兒
+
+    * Begin : 2014/12/15 02:39:14
+    * End   : 2014/12/15 03:00:14
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53778c32ebeddbb76e8b4579 DM靜兒
 
     * Begin : 2014/12/15 02:39:06
