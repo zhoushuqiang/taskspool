@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 506c3b238034941745000068 咪-Queen
+
+    * Begin : 2014/12/15 03:56:05
+    * End   : 2014/12/15 03:56:05
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475230aa5640b0a228b45a8
 
     * Begin : 2014/12/15 03:55:34
