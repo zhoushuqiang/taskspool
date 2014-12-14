@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 53e882a0a8640b74068b4598 李萌萌护肤美美哒
+
+    * Begin : 2014/12/15 03:12:22
+    * End   : 2014/12/15 03:12:23
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 53e882a0a8640b74068b4598 李萌萌护肤美美哒
+
+    * Begin : 2014/12/15 03:12:21
+    * End   : 2014/12/15 03:12:22
+    * Result: http://www.weipai.cn/video/5475174fa5640b27188b459a=>[weipai.cn] 53e882a0a8640b74068b4598 (李萌萌护肤美美哒) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474d916a5640b9b728b45a9
 
     * Begin : 2014/12/15 03:12:10
