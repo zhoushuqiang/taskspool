@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547519a3a5640bf7178b45ab
+
+    * Begin : 2014/12/15 03:54:44
+    * End   : 2014/12/15 03:54:48
+    * Result: => 广州莉莉玛莲酒吧小熙/weipai.cn/519d93365d8e87916f000004
+
 * [urlrule] sites weipai.cn UPDATE 广州莉莉玛莲酒吧小熙
 
     * Begin : 2014/12/15 03:18:36
