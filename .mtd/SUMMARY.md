@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 卢思云
+
+    * Begin : 2014/12/15 00:38:07
+    * End   : 2014/12/15 00:38:37
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 内涵湿姐
 
     * Begin : 2014/12/15 00:37:33

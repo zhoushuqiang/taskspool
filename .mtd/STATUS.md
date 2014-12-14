@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/15 00:38:37] [urlrule] sites weipai.cn update 卢思云
     * [2014/12/15 00:37:35] [urlrule] sites weipai.cn update 内涵湿姐
     * [2014/12/15 00:36:03] [urlrule task] update urlrule/task/follows.txt
     * [2014/12/15 00:29:38] [urlrule] sites weipai.cn update Alllili
@@ -293,6 +294,17 @@ Tasks Status Report
     * [2014/12/14 04:25:12] [urlrule] sites weipai.cn update Lolita4ever
     * [2014/12/14 04:21:21] [urlrule] sites weipai.cn update Diva_狄娃
 * Doing Nothing:
+    * [2014/12/15 00:38:05] [urlrule] sites vlook.cn update 北娃大王
+    * [2014/12/15 00:38:03] [urlrule] sites weipai.cn update 北娃大王
+    * [2014/12/15 00:38:01] [urlrule] sites weipai.cn update 劉點點dotey_
+    * [2014/12/15 00:37:59] [urlrule] sites weipai.cn update 前任攻略
+    * [2014/12/15 00:37:57] [urlrule] sites weipai.cn update 初家小雪
+    * [2014/12/15 00:37:55] [urlrule] sites weipai.cn update 刘雯雯darling
+    * [2014/12/15 00:37:53] [urlrule] sites weipai.cn update 刘诗涵
+    * [2014/12/15 00:37:51] [urlrule] sites weipai.cn update 刘小莎
+    * [2014/12/15 00:37:49] [urlrule] sites weipai.cn update 冷美人1
+    * [2014/12/15 00:37:46] [urlrule] sites weipai.cn update 冷美人1
+    * [2014/12/15 00:37:44] [urlrule] sites weipai.cn update 冯猫儿的猫
     * [2014/12/15 00:37:32] [urlrule] sites weipai.cn update 内涵姐姐
     * [2014/12/15 00:37:29] [urlrule] sites vlook.cn update 兮颜SSS
     * [2014/12/15 00:37:26] [urlrule] sites weipai.cn update 光头-狠强
