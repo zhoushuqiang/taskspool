@@ -2,7 +2,7 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/5473d191a5640bdd5c8b45b0
+    *[urlrule] sites weipai.cn SAVE 530bb65d9d67d9031f8b4567 季末20140225
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5473d191a5640bdd5c8b45b0
     *[urlrule] sites weipai.cn AFS http://www.weipai.cn/video/5473dacfa5640b64638b459b
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5473dacfa5640b64638b459b
@@ -473,6 +473,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/15 01:11:29] [urlrule] sites weipai.cn follow 530bb65d9d67d9031f8b4567 季末20140225
     * [2014/12/15 01:11:21] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54739945a5640bdf348b45ba
     * [2014/12/15 01:10:42] [urlrule] sites weipai.cn SAVE 我是安琪小铁粉
     * [2014/12/15 01:07:15] [urlrule] sites weipai.cn follow 543d4e70a5640b01098b457a 我是安琪小铁粉
@@ -488,6 +489,7 @@ Tasks Status Report
     * [2014/12/15 01:01:12] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54736b60a5640bc01e8b459f
     * [2014/12/15 01:01:03] [urlrule] sites weipai.cn SAVE Dj_kelly
 * Doing Nothing:
+    * [2014/12/15 01:11:29] [urlrule] sites weipai.cn add 530bb65d9d67d9031f8b4567 季末20140225
     * [2014/12/15 01:07:14] [urlrule] sites weipai.cn add 543d4e70a5640b01098b457a 我是安琪小铁粉
     * [2014/12/15 01:05:06] [urlrule] sites weipai.cn add 546b6465a7640ba4418b4569 zxszxs1967
     * [2014/12/15 01:04:30] [urlrule] sites weipai.cn add 54682846a7640b32768b4596 血红色婚纱
