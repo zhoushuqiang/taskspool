@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ca62a5640ba76a8b4591
+
+    * Begin : 2014/12/15 03:06:30
+    * End   : 2014/12/15 03:06:54
+    * Result: => 朵朵猪/weipai.cn/5471afb3a8640b2e268b459f
+
 * [urlrule] sites weipai.cn UPDATE 朵朵猪
 
     * Begin : 2014/12/15 03:02:45
