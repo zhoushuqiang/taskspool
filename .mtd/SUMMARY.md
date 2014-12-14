@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 静静的微笑
+
+    * Begin : 2014/12/15 01:01:26
+    * End   : 2014/12/15 01:04:14
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 54585ee4a5640bb5728b45b8 静静的微笑
 
     * Begin : 2014/12/15 01:01:19
