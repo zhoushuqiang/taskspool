@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 静静韩妆护肤
+
+    * Begin : 2014/12/15 03:55:05
+    * End   : 2014/12/15 03:55:26
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5351cf94504a13591f8b4621 静静韩妆护肤
 
     * Begin : 2014/12/15 03:54:57
