@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474d2c5a5640b8e728b457f
+
+    * Begin : 2014/12/15 03:11:20
+    * End   : 2014/12/15 03:11:26
+    * Result: => 失了他心/weipai.cn/5474b667a8640bbd718b456f
+
 * [urlrule] sites weipai.cn UPDATE 失了他心
 
     * Begin : 2014/12/15 03:11:01
