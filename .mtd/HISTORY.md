@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 52516dc85e7feb94348b45ca BABY-張
+
+    * Begin : 2014/12/15 14:30:44
+    * End   : 2014/12/15 14:30:44
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 52516dc85e7feb94348b45ca BABY-張
+
+    * Begin : 2014/12/15 14:30:42
+    * End   : 2014/12/15 14:30:44
+    * Result: http://www.weipai.cn/video/547590c6a5640b33638b4588=>[weipai.cn] 52516dc85e7feb94348b45ca (BABY-張) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54757e0ea5640b0a578b458d
 
     * Begin : 2014/12/15 14:29:01
