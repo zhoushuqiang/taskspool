@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54767e20a5640b87728b45a3
+
+    * Begin : 2014/12/15 19:24:30
+    * End   : 2014/12/15 19:24:33
+    * Result: => 乱搞砖家/weipai.cn/52f1601ee34167155d8b456c
+
 * [urlrule] sites weipai.cn UPDATE 乱搞砖家
 
     * Begin : 2014/12/15 19:14:13
