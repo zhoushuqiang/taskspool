@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476c537a5640b22258b458e
+
+    * Begin : 2014/12/15 23:28:33
+    * End   : 2014/12/15 23:28:35
+    * Result: => 晴海洋/weipai.cn/53434e8a9d67d9b73a8b45a3
+
+* [urlrule] sites weipai.cn UPDATE 晴海洋
+
+    * Begin : 2014/12/15 23:28:33
+    * End   : 2014/12/15 23:28:33
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53434e8a9d67d9b73a8b45a3 晴海洋
+
+    * Begin : 2014/12/15 23:28:32
+    * End   : 2014/12/15 23:28:33
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53434e8a9d67d9b73a8b45a3 晴海洋
+
+    * Begin : 2014/12/15 23:28:31
+    * End   : 2014/12/15 23:28:32
+    * Result: http://www.weipai.cn/video/5476c537a5640b22258b458e=>[weipai.cn] 53434e8a9d67d9b73a8b45a3 (晴海洋) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476c2f7a5640be4248b4571
 
     * Begin : 2014/12/15 23:28:20
