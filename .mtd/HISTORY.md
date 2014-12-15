@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548acb0fa5640b41668b45c1
+
+    * Begin : 2014/12/16 07:04:46
+    * End   : 2014/12/16 07:05:00
+    * Result: => 抗忙昂北鼻够够够/weipai.cn/548673e1a6640b89498b459b
+
 * [urlrule] sites weipai.cn UPDATE 抗忙昂北鼻够够够
 
     * Begin : 2014/12/16 07:03:46
