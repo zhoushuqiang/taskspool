@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 5107c64d8134944e50000012 于小慧
+
+    * Begin : 2014/12/15 14:32:27
+    * End   : 2014/12/15 14:32:27
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 5107c64d8134944e50000012 于小慧
+
+    * Begin : 2014/12/15 14:32:26
+    * End   : 2014/12/15 14:32:27
+    * Result: http://www.weipai.cn/video/5475b25fa5640b64778b456e=>[weipai.cn] 5107c64d8134944e50000012 (于小慧) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475b19ea5640b47758b458a
 
     * Begin : 2014/12/15 14:32:03
