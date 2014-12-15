@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 548837afa8640bc4268b4570 meng-yu520
+
+    * Begin : 2014/12/16 02:08:42
+    * End   : 2014/12/16 02:08:42
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 548837afa8640bc4268b4570 meng-yu520
+
+    * Begin : 2014/12/16 02:08:40
+    * End   : 2014/12/16 02:08:42
+    * Result: http://www.weipai.cn/video/5489dce0a5640bf8798b4570=>[weipai.cn] 548837afa8640bc4268b4570 (meng-yu520) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489c450a5640b7f7d8b457e
 
     * Begin : 2014/12/16 02:08:26
