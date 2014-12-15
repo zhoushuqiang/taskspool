@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54899123a5640baa538b45b3
+
+    * Begin : 2014/12/16 00:31:55
+    * End   : 2014/12/16 00:31:58
+    * Result: => 满天都是小鑫鑫_/weipai.cn/51e97b607d34948f0b000001
+
+* [urlrule] sites weipai.cn UPDATE 满天都是小鑫鑫_
+
+    * Begin : 2014/12/16 00:31:54
+    * End   : 2014/12/16 00:31:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 51e97b607d34948f0b000001 满天都是小鑫鑫_
+
+    * Begin : 2014/12/16 00:31:54
+    * End   : 2014/12/16 00:31:54
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 51e97b607d34948f0b000001 满天都是小鑫鑫_
+
+    * Begin : 2014/12/16 00:31:52
+    * End   : 2014/12/16 00:31:53
+    * Result: http://www.weipai.cn/video/54899123a5640baa538b45b3=>[weipai.cn] 51e97b607d34948f0b000001 (满天都是小鑫鑫_) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548973f5a5640bfe6c8b456d
 
     * Begin : 2014/12/16 00:31:39

@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54899123a5640baa538b45b3
+
+    * Begin : 2014/12/16 00:31:55
+    * End   : 2014/12/16 00:31:58
+    * Result: => 满天都是小鑫鑫_/weipai.cn/51e97b607d34948f0b000001
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548973f5a5640bfe6c8b456d
 
     * Begin : 2014/12/16 00:31:39
