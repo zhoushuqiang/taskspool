@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a8572a5640bbd268b45a7
+
+    * Begin : 2014/12/16 03:56:17
+    * End   : 2014/12/16 03:56:20
+    * Result: => 赵有根/weipai.cn/5489b4a2a5640b80248b4599
+
 * [urlrule] sites weipai.cn UPDATE 赵有根
 
     * Begin : 2014/12/16 03:55:53
