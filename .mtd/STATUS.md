@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 537c543cebeddbd64a8b45a3 小情绪纷纷扰扰
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489ebd8a5640b253e8b4570
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/5489ec4ba5640b64308b4583
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489ec4ba5640b64308b4583
@@ -277,6 +276,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 02:53:58] [urlrule] sites weipai.cn UPDATE 小情绪纷纷扰扰
     * [2014/12/16 02:24:03] [urlrule] sites weipai.cn follow 537c543cebeddbd64a8b45a3 小情绪纷纷扰扰
     * [2014/12/16 02:23:51] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489df9da5640b3f048b4575
     * [2014/12/16 02:22:40] [urlrule] sites weipai.cn UPDATE 珠宝定制-GIA国际证书

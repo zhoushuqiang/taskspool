@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 小情绪纷纷扰扰
+
+    * Begin : 2014/12/16 02:24:12
+    * End   : 2014/12/16 02:53:58
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 537c543cebeddbd64a8b45a3 小情绪纷纷扰扰
 
     * Begin : 2014/12/16 02:24:02
