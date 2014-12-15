@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489bac9a5640b57498b458e
+
+    * Begin : 2014/12/16 00:39:45
+    * End   : 2014/12/16 00:40:31
+    * Result: => 湯大师/weipai.cn/514559307d3494db5500005d
+
+* [urlrule] sites weipai.cn UPDATE 湯大师
+
+    * Begin : 2014/12/16 00:39:42
+    * End   : 2014/12/16 00:39:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 514559307d3494db5500005d 湯大师
+
+    * Begin : 2014/12/16 00:39:42
+    * End   : 2014/12/16 00:39:42
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 514559307d3494db5500005d 湯大师
+
+    * Begin : 2014/12/16 00:39:40
+    * End   : 2014/12/16 00:39:42
+    * Result: http://www.weipai.cn/video/5489bac9a5640b57498b458e=>[weipai.cn] 514559307d3494db5500005d (湯大师) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54899258a5640b726e8b4594
 
     * Begin : 2014/12/16 00:37:55
