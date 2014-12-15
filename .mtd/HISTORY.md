@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54753198a5640b722b8b45a7
+
+    * Begin : 2014/12/15 12:55:03
+    * End   : 2014/12/15 12:55:34
+    * Result: => 大萨萨/weipai.cn/530703b1813494b646a3c7de
+
 * [urlrule] sites weipai.cn UPDATE 大萨萨
 
     * Begin : 2014/12/15 04:20:25
