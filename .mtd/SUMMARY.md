@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE meng-yu520
+
+    * Begin : 2014/12/16 02:08:51
+    * End   : 2014/12/16 02:09:30
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 548837afa8640bc4268b4570 meng-yu520
 
     * Begin : 2014/12/16 02:08:42
