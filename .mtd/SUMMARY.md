@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 54506ab3a6640b076a8b4580 因为爱所以爱20141029
+
+    * Begin : 2014/12/16 03:09:06
+    * End   : 2014/12/16 03:09:07
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a4224a5640b0c458b45a8
 
     * Begin : 2014/12/16 03:08:52
