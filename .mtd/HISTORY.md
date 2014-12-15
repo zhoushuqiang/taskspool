@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 美腿热舞福利分享
+
+    * Begin : 2014/12/16 00:40:51
+    * End   : 2014/12/16 00:41:42
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 516d10cf7d3494216c000087 美腿热舞福利分享
 
     * Begin : 2014/12/16 00:40:43
