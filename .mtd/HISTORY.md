@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a7687a5640b07738b457b
+
+    * Begin : 2014/12/16 03:27:12
+    * End   : 2014/12/16 03:27:16
+    * Result: => 小将士/weipai.cn/53945aeaebeddbf6018b457b
+
+* [urlrule] sites weipai.cn UPDATE 小将士
+
+    * Begin : 2014/12/16 03:27:11
+    * End   : 2014/12/16 03:27:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53945aeaebeddbf6018b457b 小将士
+
+    * Begin : 2014/12/16 03:27:10
+    * End   : 2014/12/16 03:27:11
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53945aeaebeddbf6018b457b 小将士
+
+    * Begin : 2014/12/16 03:27:08
+    * End   : 2014/12/16 03:27:10
+    * Result: http://www.weipai.cn/video/548a7687a5640b07738b457b=>[weipai.cn] 53945aeaebeddbf6018b457b (小将士) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a6c26a5640b9f358b4580
 
     * Begin : 2014/12/16 03:26:53
