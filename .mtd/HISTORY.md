@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 田君er
+
+    * Begin : 2014/12/15 14:39:54
+    * End   : 2014/12/15 14:40:17
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 51b331795c8e876c4b00002b 田君er
 
     * Begin : 2014/12/15 14:39:46
