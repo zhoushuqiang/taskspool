@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54768034a5640b9b758b4587
+
+    * Begin : 2014/12/15 20:29:46
+    * End   : 2014/12/15 20:29:49
+    * Result: => QinQinW/weipai.cn/5400e211a6640b5f158b4570
+
+* [urlrule] sites weipai.cn UPDATE QinQinW
+
+    * Begin : 2014/12/15 20:29:44
+    * End   : 2014/12/15 20:29:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5400e211a6640b5f158b4570 QinQinW
+
+    * Begin : 2014/12/15 20:29:43
+    * End   : 2014/12/15 20:29:44
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5400e211a6640b5f158b4570 QinQinW
+
+    * Begin : 2014/12/15 20:29:42
+    * End   : 2014/12/15 20:29:43
+    * Result: http://www.weipai.cn/video/54768034a5640b9b758b4587=>[weipai.cn] 5400e211a6640b5f158b4570 (QinQinW) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54767f59a5640b9e728b45a3
 
     * Begin : 2014/12/15 20:29:29
