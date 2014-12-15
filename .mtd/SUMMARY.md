@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a933ba5640bb05e8b45d4
+
+    * Begin : 2014/12/16 05:16:45
+    * End   : 2014/12/16 05:16:48
+    * Result: => 暗黑小萝莉/weipai.cn/545edcf0a8640b5d358b4591
+
 * [urlrule] sites weipai.cn UPDATE 暗黑小萝莉
 
     * Begin : 2014/12/16 05:12:30
