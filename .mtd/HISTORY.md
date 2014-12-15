@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 大国GEE
+
+    * Begin : 2014/12/16 07:26:37
+    * End   : 2014/12/16 07:27:16
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 50684229813494312400002c 大国GEE
 
     * Begin : 2014/12/16 07:26:27
