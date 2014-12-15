@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 547cfb4ca5640b69338b458e 新百伦正品代购20141202
+
+    * Begin : 2014/12/16 03:06:13
+    * End   : 2014/12/16 03:06:14
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 547cfb4ca5640b69338b458e 新百伦正品代购20141202
+
+    * Begin : 2014/12/16 03:06:12
+    * End   : 2014/12/16 03:06:13
+    * Result: http://www.weipai.cn/video/548a3ce3a5640bb4318b45a3=>[weipai.cn] 547cfb4ca5640b69338b458e (新百伦正品代购20141202) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a2be5a5640b6c7e8b4576
 
     * Begin : 2014/12/16 03:05:57

@@ -2,7 +2,7 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548a3ce3a5640bb4318b45a3
+    *[urlrule] sites weipai.cn UPDATE 547cfb4ca5640b69338b458e 新百伦正品代购20141202
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a3ce3a5640bb4318b45a3
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548a4224a5640b0c458b45a8
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a4224a5640b0c458b45a8
@@ -267,6 +267,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 03:06:14] [urlrule] sites weipai.cn follow 547cfb4ca5640b69338b458e 新百伦正品代购20141202
     * [2014/12/16 03:06:01] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a2be5a5640b6c7e8b4576
     * [2014/12/16 03:05:22] [urlrule] sites weipai.cn UPDATE 把你家户口本拿出来看看
     * [2014/12/16 03:03:47] [urlrule] sites weipai.cn follow 53a0eaf6813494354b27037e 把你家户口本拿出来看看
@@ -480,6 +481,7 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/16 03:06:13] [urlrule] sites weipai.cn add 547cfb4ca5640b69338b458e 新百伦正品代购20141202
     * [2014/12/16 03:03:47] [urlrule] sites weipai.cn add 53a0eaf6813494354b27037e 把你家户口本拿出来看看
     * [2014/12/16 03:03:13] [urlrule] sites weipai.cn UPDATE 珠宝定制-GIA国际证书
     * [2014/12/16 03:03:12] [urlrule] sites weipai.cn follow 53e38146a6640b7c7d8b4581 珠宝定制-GIA国际证书
