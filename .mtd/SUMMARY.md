@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 黑三小幺
+
+    * Begin : 2014/12/16 03:10:37
+    * End   : 2014/12/16 03:10:48
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 548a63fda5640bea718b45a6 黑三小幺
 
     * Begin : 2014/12/16 03:10:27
