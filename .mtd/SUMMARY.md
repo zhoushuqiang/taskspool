@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a9ef3a5640bea1a8b45ba
+
+    * Begin : 2014/12/16 05:23:24
+    * End   : 2014/12/16 05:23:28
+    * Result: => lady小夜猫/weipai.cn/53fa1f57a7640bb41c8b4569
+
 * [urlrule] sites weipai.cn UPDATE lady小夜猫
 
     * Begin : 2014/12/16 05:22:45
