@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 546c590ca8640b98288b458d Hugme20141119
+
+    * Begin : 2014/12/15 15:03:12
+    * End   : 2014/12/15 15:03:12
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 546c590ca8640b98288b458d Hugme20141119
+
+    * Begin : 2014/12/15 15:03:11
+    * End   : 2014/12/15 15:03:12
+    * Result: http://www.weipai.cn/video/54762f14a5640bcb3d8b4596=>[weipai.cn] 546c590ca8640b98288b458d (Hugme20141119) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54762c4ea5640b0a3a8b45a0
 
     * Begin : 2014/12/15 15:03:00
