@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 545c5abea8640b8f428b458c 重头再来20141107
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489ec4ba5640b64308b4583
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/5489ef7fa5640bd9308b4583
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489ef7fa5640bd9308b4583
@@ -275,6 +274,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 02:58:03] [urlrule] sites weipai.cn UPDATE 重头再来20141107
     * [2014/12/16 02:55:51] [urlrule] sites weipai.cn follow 545c5abea8640b8f428b458c 重头再来20141107
     * [2014/12/16 02:55:35] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489ebd8a5640b253e8b4570
     * [2014/12/16 02:53:58] [urlrule] sites weipai.cn UPDATE 小情绪纷纷扰扰

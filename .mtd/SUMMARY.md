@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 重头再来20141107
+
+    * Begin : 2014/12/16 02:56:01
+    * End   : 2014/12/16 02:58:03
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 545c5abea8640b8f428b458c 重头再来20141107
 
     * Begin : 2014/12/16 02:55:49
