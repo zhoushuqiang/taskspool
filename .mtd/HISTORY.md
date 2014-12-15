@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 536c89639d67d9bc088b4590 妩媚动人栩儿
+
+    * Begin : 2014/12/15 23:01:06
+    * End   : 2014/12/15 23:01:07
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 536c89639d67d9bc088b4590 妩媚动人栩儿
+
+    * Begin : 2014/12/15 23:01:05
+    * End   : 2014/12/15 23:01:06
+    * Result: http://www.weipai.cn/video/54769e72a5640b79058b45ae=>[weipai.cn] 536c89639d67d9bc088b4590 (妩媚动人栩儿) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54769e5ea5640b1f098b4586
 
     * Begin : 2014/12/15 23:00:52
