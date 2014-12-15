@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a7d82a5640bd9708b45c7
+
+    * Begin : 2014/12/16 03:51:34
+    * End   : 2014/12/16 03:52:29
+    * Result: => 2014121236/weipai.cn/5486818da6640b360a8b45ac
+
+* [urlrule] sites weipai.cn UPDATE 2014121236
+
+    * Begin : 2014/12/16 03:51:33
+    * End   : 2014/12/16 03:51:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5486818da6640b360a8b45ac 2014121236
+
+    * Begin : 2014/12/16 03:51:33
+    * End   : 2014/12/16 03:51:33
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5486818da6640b360a8b45ac 2014121236
+
+    * Begin : 2014/12/16 03:51:31
+    * End   : 2014/12/16 03:51:33
+    * Result: http://www.weipai.cn/video/548a7d82a5640bd9708b45c7=>[weipai.cn] 5486818da6640b360a8b45ac (2014121236) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a7992a5640b48038b4587
 
     * Begin : 2014/12/16 03:51:19
