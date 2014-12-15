@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 把你家户口本拿出来看看
+
+    * Begin : 2014/12/16 03:03:56
+    * End   : 2014/12/16 03:05:22
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53a0eaf6813494354b27037e 把你家户口本拿出来看看
 
     * Begin : 2014/12/16 03:03:47
