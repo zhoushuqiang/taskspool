@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 5227e8cb7d3494a87723509b 溅行溅美
+
+    * Begin : 2014/12/15 14:04:59
+    * End   : 2014/12/15 14:04:59
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547538a4a5640b30338b4581
 
     * Begin : 2014/12/15 14:04:31
