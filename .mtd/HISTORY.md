@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE BABY-張
+
+    * Begin : 2014/12/15 14:30:52
+    * End   : 2014/12/15 14:31:33
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 52516dc85e7feb94348b45ca BABY-張
 
     * Begin : 2014/12/15 14:30:44
