@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54762f14a5640bcb3d8b4596
+
+    * Begin : 2014/12/15 15:06:49
+    * End   : 2014/12/15 15:06:52
+    * Result: => Hugme20141119/weipai.cn/546c590ca8640b98288b458d
+
 * [urlrule] sites weipai.cn UPDATE Hugme20141119
 
     * Begin : 2014/12/15 15:03:19
