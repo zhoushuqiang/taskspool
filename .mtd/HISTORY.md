@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aabf8a5640bf7538b45ad
+
+    * Begin : 2014/12/16 07:00:12
+    * End   : 2014/12/16 07:00:26
+    * Result: => ANGELG/weipai.cn/53f04a46a7640b96038b4573
+
 * [urlrule] sites weipai.cn UPDATE ANGELG
 
     * Begin : 2014/12/16 06:58:53
