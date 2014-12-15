@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 5349c3af8134941c6c19ecfd 潘潘20140413
+
+    * Begin : 2014/12/15 23:38:10
+    * End   : 2014/12/15 23:38:10
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 5349c3af8134941c6c19ecfd 潘潘20140413
+
+    * Begin : 2014/12/15 23:38:09
+    * End   : 2014/12/15 23:38:10
+    * Result: http://www.weipai.cn/video/54773a2aa5640b99618b45bc=>[weipai.cn] 5349c3af8134941c6c19ecfd (潘潘20140413) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5477369ca5640b0d5f8b45cd
 
     * Begin : 2014/12/15 23:37:57
