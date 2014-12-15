@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 5489b4a2a5640b80248b4599 赵有根
+
+    * Begin : 2014/12/16 03:55:43
+    * End   : 2014/12/16 03:55:43
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a83aaa5640b05298b458a
 
     * Begin : 2014/12/16 03:55:26
