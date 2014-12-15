@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547537f6a5640b2e338b4576
+
+    * Begin : 2014/12/15 14:04:01
+    * End   : 2014/12/15 14:04:07
+    * Result: => 神神神神神姐/weipai.cn/544cb435a7640be62c8b4577
+
 * [urlrule] sites weipai.cn UPDATE 神神神神神姐
 
     * Begin : 2014/12/15 12:59:11
