@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE __Coco
+
+    * Begin : 2014/12/16 02:10:05
+    * End   : 2014/12/16 02:10:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5489d725a5640b81508b458d __Coco
 
     * Begin : 2014/12/16 02:09:55
