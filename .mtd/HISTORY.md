@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 548a84a6a6640b6b4c8b458f V信qxs95002
+
+    * Begin : 2014/12/16 03:56:32
+    * End   : 2014/12/16 03:56:33
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 548a84a6a6640b6b4c8b458f V信qxs95002
+
+    * Begin : 2014/12/16 03:56:31
+    * End   : 2014/12/16 03:56:32
+    * Result: http://www.weipai.cn/video/548a863da5640bb3328b4589=>[weipai.cn] 548a84a6a6640b6b4c8b458f (V信qxs95002) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a8572a5640bbd268b45a7
 
     * Begin : 2014/12/16 03:56:17
