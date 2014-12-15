@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 5488688ea5640bc9498b4567 ZeroDis
+
+    * Begin : 2014/12/16 03:07:28
+    * End   : 2014/12/16 03:07:29
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a3ce3a5640bb4318b45a3
 
     * Begin : 2014/12/16 03:07:14
