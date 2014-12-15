@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aa08fa5640b8e1a8b45c0
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548aa0dca5640b2f1c8b45c5
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aa0dca5640b2f1c8b45c5
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548aa347a5640b20558b4587
@@ -204,6 +203,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 05:49:58] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aa08fa5640b8e1a8b45c0
     * [2014/12/16 05:48:57] [urlrule] sites weipai.cn UPDATE 黑金色会飞的鱼
     * [2014/12/16 05:25:03] [urlrule] sites weipai.cn follow 51ecd06b7f34942c21000092 黑金色会飞的鱼
     * [2014/12/16 05:24:48] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a9fe3a5640b272a8b459f

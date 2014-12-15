@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aa08fa5640b8e1a8b45c0
+
+    * Begin : 2014/12/16 05:49:53
+    * End   : 2014/12/16 05:49:58
+    * Result: => 黑金色会飞的鱼/weipai.cn/51ecd06b7f34942c21000092
+
 * [urlrule] sites weipai.cn UPDATE 黑金色会飞的鱼
 
     * Begin : 2014/12/16 05:25:13
