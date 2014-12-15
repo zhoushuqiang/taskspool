@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 呗呗兔
+
+    * Begin : 2014/12/16 07:00:48
+    * End   : 2014/12/16 07:03:11
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 532c85805e7feb6d158b4600 呗呗兔
 
     * Begin : 2014/12/16 07:00:38
