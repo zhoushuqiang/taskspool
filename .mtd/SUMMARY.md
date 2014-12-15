@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 52c154f578d3cc004d8b4598 菀児baby
+
+    * Begin : 2014/12/15 14:55:12
+    * End   : 2014/12/15 14:55:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475b7f7a5640b31778b45a4
 
     * Begin : 2014/12/15 14:54:58
