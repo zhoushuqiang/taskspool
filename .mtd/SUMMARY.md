@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 菀児baby
+
+    * Begin : 2014/12/15 14:55:20
+    * End   : 2014/12/15 15:02:52
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 52c154f578d3cc004d8b4598 菀児baby
 
     * Begin : 2014/12/15 14:55:12
