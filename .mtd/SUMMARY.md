@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 50fd32698134949c760000d1 年轻没有什么不可以
+
+    * Begin : 2014/12/16 07:54:05
+    * End   : 2014/12/16 07:54:06
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548ae956a5640b341c8b4595
 
     * Begin : 2014/12/16 07:53:48
