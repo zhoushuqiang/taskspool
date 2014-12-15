@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE forgetlethe
+
+    * Begin : 2014/12/16 03:27:37
+    * End   : 2014/12/16 03:48:02
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 52185f6e813494f9724e4160 forgetlethe
 
     * Begin : 2014/12/16 03:27:28
