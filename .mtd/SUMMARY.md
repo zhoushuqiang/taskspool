@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 妩媚动人栩儿
+
+    * Begin : 2014/12/15 23:01:14
+    * End   : 2014/12/15 23:09:37
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 536c89639d67d9bc088b4590 妩媚动人栩儿
 
     * Begin : 2014/12/15 23:01:06
