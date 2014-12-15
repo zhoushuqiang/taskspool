@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 53f586d5a7640b65458b456a 蓝色的港湾20140821
+
+    * Begin : 2014/12/15 16:11:12
+    * End   : 2014/12/15 16:11:13
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 53f586d5a7640b65458b456a 蓝色的港湾20140821
+
+    * Begin : 2014/12/15 16:11:11
+    * End   : 2014/12/15 16:11:12
+    * Result: http://www.weipai.cn/video/54764868a5640b10508b4573=>[weipai.cn] 53f586d5a7640b65458b456a (蓝色的港湾20140821) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547644a6a5640b294b8b45c2
 
     * Begin : 2014/12/15 16:10:35
