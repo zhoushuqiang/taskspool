@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a2be5a5640b6c7e8b4576
+
+    * Begin : 2014/12/16 03:05:57
+    * End   : 2014/12/16 03:06:01
+    * Result: => 把你家户口本拿出来看看/weipai.cn/53a0eaf6813494354b27037e
+
 * [urlrule] sites weipai.cn UPDATE 把你家户口本拿出来看看
 
     * Begin : 2014/12/16 03:03:56
