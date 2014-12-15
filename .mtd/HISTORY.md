@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 545edcf0a8640b5d358b4591 暗黑小萝莉
+
+    * Begin : 2014/12/16 05:12:19
+    * End   : 2014/12/16 05:12:20
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 545edcf0a8640b5d358b4591 暗黑小萝莉
+
+    * Begin : 2014/12/16 05:12:18
+    * End   : 2014/12/16 05:12:19
+    * Result: http://www.weipai.cn/video/548a933ba5640bb05e8b45d4=>[weipai.cn] 545edcf0a8640b5d358b4591 (暗黑小萝莉) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a90d9a5640b3d5e8b45a3
 
     * Begin : 2014/12/16 05:12:03
