@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 53d27fd6a8640b931a8b4567 ba女i
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aa40da5640b85578b4575
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548aaaf4a5640b08558b45e4
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aaaf4a5640b08558b45e4
@@ -197,6 +196,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 06:57:02] [urlrule] sites weipai.cn UPDATE ba女i
     * [2014/12/16 06:56:35] [urlrule] sites weipai.cn follow 53d27fd6a8640b931a8b4567 ba女i
     * [2014/12/16 06:56:22] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aa398a5640b54588b4577
     * [2014/12/16 06:54:31] [urlrule] sites weipai.cn UPDATE 小小小小米

@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE ba女i
+
+    * Begin : 2014/12/16 06:56:47
+    * End   : 2014/12/16 06:57:02
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53d27fd6a8640b931a8b4567 ba女i
 
     * Begin : 2014/12/16 06:56:34
