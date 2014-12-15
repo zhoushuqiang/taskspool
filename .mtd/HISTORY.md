@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476a420a5640b32098b45a1
+
+    * Begin : 2014/12/15 23:12:24
+    * End   : 2014/12/15 23:12:43
+    * Result: => 私人空间/weipai.cn/5304526f80349483098685a9
+
+* [urlrule] sites weipai.cn UPDATE 私人空间
+
+    * Begin : 2014/12/15 23:12:23
+    * End   : 2014/12/15 23:12:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5304526f80349483098685a9 私人空间
+
+    * Begin : 2014/12/15 23:12:23
+    * End   : 2014/12/15 23:12:23
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5304526f80349483098685a9 私人空间
+
+    * Begin : 2014/12/15 23:12:21
+    * End   : 2014/12/15 23:12:23
+    * Result: http://www.weipai.cn/video/5476a420a5640b32098b45a1=>[weipai.cn] 5304526f80349483098685a9 (私人空间) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476a0e2a5640bc00c8b4570
 
     * Begin : 2014/12/15 23:12:11
