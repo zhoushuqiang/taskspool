@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489bfdba5640b656b8b456e
+
+    * Begin : 2014/12/16 00:55:57
+    * End   : 2014/12/16 00:56:03
+    * Result: => 空虚哥/weipai.cn/51e055c980349491190dff60
+
 * [urlrule] sites weipai.cn UPDATE 空虚哥
 
     * Begin : 2014/12/16 00:42:12
