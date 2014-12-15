@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE ANGELG
+
+    * Begin : 2014/12/16 06:58:53
+    * End   : 2014/12/16 07:00:02
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53f04a46a7640b96038b4573 ANGELG
 
     * Begin : 2014/12/16 06:58:43
