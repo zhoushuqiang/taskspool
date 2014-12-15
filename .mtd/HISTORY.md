@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 5300e799504a131b7c8b45c6 吴红珊
+
+    * Begin : 2014/12/16 05:23:40
+    * End   : 2014/12/16 05:23:40
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 5300e799504a131b7c8b45c6 吴红珊
+
+    * Begin : 2014/12/16 05:23:38
+    * End   : 2014/12/16 05:23:40
+    * Result: http://www.weipai.cn/video/548a9f53a5640bf52c8b459d=>[weipai.cn] 5300e799504a131b7c8b45c6 (吴红珊) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a9ef3a5640bea1a8b45ba
 
     * Begin : 2014/12/16 05:23:24
