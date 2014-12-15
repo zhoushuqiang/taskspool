@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 53f72d6ea8640bc8108b4599 最美的太阳20140822
+
+    * Begin : 2014/12/16 05:17:55
+    * End   : 2014/12/16 05:17:56
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 53f72d6ea8640bc8108b4599 最美的太阳20140822
+
+    * Begin : 2014/12/16 05:17:54
+    * End   : 2014/12/16 05:17:55
+    * Result: http://www.weipai.cn/video/548a9b4da5640be91a8b459a=>[weipai.cn] 53f72d6ea8640bc8108b4599 (最美的太阳20140822) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a9b4ba5640b272a8b457a
 
     * Begin : 2014/12/16 05:17:40
