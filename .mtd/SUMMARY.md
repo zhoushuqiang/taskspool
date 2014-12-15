@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 542c3b63a8640be4318b4582 无名指的等待20141002
+
+    * Begin : 2014/12/16 05:50:10
+    * End   : 2014/12/16 05:50:10
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aa08fa5640b8e1a8b45c0
 
     * Begin : 2014/12/16 05:49:53
