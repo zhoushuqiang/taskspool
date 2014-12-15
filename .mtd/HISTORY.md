@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 54423ad1a6640ba86f8b459c -心霓儿
+
+    * Begin : 2014/12/16 07:27:41
+    * End   : 2014/12/16 07:27:41
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 54423ad1a6640ba86f8b459c -心霓儿
+
+    * Begin : 2014/12/16 07:27:39
+    * End   : 2014/12/16 07:27:41
+    * Result: http://www.weipai.cn/video/548adb20a5640b153b8b45cf=>[weipai.cn] 54423ad1a6640ba86f8b459c (-心霓儿) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548ada61a5640b3c698b4571
 
     * Begin : 2014/12/16 07:27:26
