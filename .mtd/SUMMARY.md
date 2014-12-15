@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475b55ba5640b2a778b4580
+
+    * Begin : 2014/12/15 14:43:28
+    * End   : 2014/12/15 14:44:48
+    * Result: => 梅姿baby/weipai.cn/508e3aa38134941b2400001a
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475b4d2a5640b29778b4581
 
     * Begin : 2014/12/15 14:41:39
