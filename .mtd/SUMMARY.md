@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 空虚哥
+
+    * Begin : 2014/12/16 00:42:12
+    * End   : 2014/12/16 00:54:51
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 51e055c980349491190dff60 空虚哥
 
     * Begin : 2014/12/16 00:42:04
