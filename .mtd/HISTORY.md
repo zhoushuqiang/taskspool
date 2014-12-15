@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547675d7a5640b8b728b4569
+
+    * Begin : 2014/12/15 18:40:14
+    * End   : 2014/12/15 18:40:16
+    * Result: => 小猫有毒/weipai.cn/546984cda5640b7b3b8b4590
+
+* [urlrule] sites weipai.cn UPDATE 小猫有毒
+
+    * Begin : 2014/12/15 18:40:14
+    * End   : 2014/12/15 18:40:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 546984cda5640b7b3b8b4590 小猫有毒
+
+    * Begin : 2014/12/15 18:40:13
+    * End   : 2014/12/15 18:40:14
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 546984cda5640b7b3b8b4590 小猫有毒
+
+    * Begin : 2014/12/15 18:40:12
+    * End   : 2014/12/15 18:40:13
+    * Result: http://www.weipai.cn/video/547675d7a5640b8b728b4569=>[weipai.cn] 546984cda5640b7b3b8b4590 (小猫有毒) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476756ea5640b9d728b456b
 
     * Begin : 2014/12/15 18:40:03
