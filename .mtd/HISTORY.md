@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE V信qxs95002
+
+    * Begin : 2014/12/16 03:56:46
+    * End   : 2014/12/16 03:59:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 548a84a6a6640b6b4c8b458f V信qxs95002
 
     * Begin : 2014/12/16 03:56:32
