@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 528f8aaa504a13e93c8b4591 小小小小米
+
+    * Begin : 2014/12/16 05:57:57
+    * End   : 2014/12/16 05:57:57
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aa347a5640b20558b4587
 
     * Begin : 2014/12/16 05:57:06
