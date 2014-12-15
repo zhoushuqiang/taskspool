@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 近色怡人
+
+    * Begin : 2014/12/16 00:34:37
+    * End   : 2014/12/16 00:37:45
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 52cb2fa1803494a06912d82d 近色怡人
 
     * Begin : 2014/12/16 00:34:28
