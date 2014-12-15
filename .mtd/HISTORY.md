@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 53e00850a5640b77078b458c 花小西
+
+    * Begin : 2014/12/16 07:05:12
+    * End   : 2014/12/16 07:05:12
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 53e00850a5640b77078b458c 花小西
+
+    * Begin : 2014/12/16 07:05:11
+    * End   : 2014/12/16 07:05:12
+    * Result: http://www.weipai.cn/video/548acb45a5640b8a768b45a9=>[weipai.cn] 53e00850a5640b77078b458c (花小西) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548acb0fa5640b41668b45c1
 
     * Begin : 2014/12/16 07:04:46
