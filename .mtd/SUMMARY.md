@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a64eca5640bbf6a8b45b1
+
+    * Begin : 2014/12/16 03:10:58
+    * End   : 2014/12/16 03:11:00
+    * Result: => 黑三小幺/weipai.cn/548a63fda5640bea718b45a6
+
 * [urlrule] sites weipai.cn UPDATE 黑三小幺
 
     * Begin : 2014/12/16 03:10:37
