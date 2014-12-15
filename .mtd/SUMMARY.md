@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 黑金色会飞的鱼
+
+    * Begin : 2014/12/16 05:25:13
+    * End   : 2014/12/16 05:48:57
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 51ecd06b7f34942c21000092 黑金色会飞的鱼
 
     * Begin : 2014/12/16 05:25:03
