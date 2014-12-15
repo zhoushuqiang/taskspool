@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a7992a5640b48038b4587
+
+    * Begin : 2014/12/16 03:51:19
+    * End   : 2014/12/16 03:51:21
+    * Result: => 薰衣草20131022/weipai.cn/526582b7803494e538be8d24
+
 * [urlrule] sites weipai.cn UPDATE 薰衣草20131022
 
     * Begin : 2014/12/16 03:49:53
