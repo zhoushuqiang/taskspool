@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 51e055c980349491190dff60 空虚哥
+
+    * Begin : 2014/12/16 00:42:04
+    * End   : 2014/12/16 00:42:04
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489bed6a5640b1e6a8b456b
 
     * Begin : 2014/12/16 00:41:51
