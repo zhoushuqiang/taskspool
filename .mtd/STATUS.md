@@ -2,7 +2,7 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/5489c324a5640b627f8b4568
+    *[urlrule] sites weipai.cn UPDATE 5392b8f5ebeddbc7798b4587 1142058078
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489c324a5640b627f8b4568
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/5489c450a5640b7f7d8b457e
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489c450a5640b7f7d8b457e
@@ -289,6 +289,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 00:56:17] [urlrule] sites weipai.cn follow 5392b8f5ebeddbc7798b4587 1142058078
     * [2014/12/16 00:56:03] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489bfdba5640b656b8b456e
     * [2014/12/16 00:54:51] [urlrule] sites weipai.cn UPDATE 空虚哥
     * [2014/12/16 00:42:04] [urlrule] sites weipai.cn follow 51e055c980349491190dff60 空虚哥
@@ -471,6 +472,7 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/16 00:56:16] [urlrule] sites weipai.cn add 5392b8f5ebeddbc7798b4587 1142058078
     * [2014/12/16 00:42:04] [urlrule] sites weipai.cn add 51e055c980349491190dff60 空虚哥
     * [2014/12/16 00:40:43] [urlrule] sites weipai.cn add 516d10cf7d3494216c000087 美腿热舞福利分享
     * [2014/12/16 00:39:43] [urlrule] sites weipai.cn UPDATE 湯大师
