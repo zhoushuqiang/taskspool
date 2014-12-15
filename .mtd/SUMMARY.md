@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547590c6a5640b33638b4588
+
+    * Begin : 2014/12/15 14:31:42
+    * End   : 2014/12/15 14:31:53
+    * Result: => BABY-張/weipai.cn/52516dc85e7feb94348b45ca
+
 * [urlrule] sites weipai.cn UPDATE BABY-張
 
     * Begin : 2014/12/15 14:30:52
