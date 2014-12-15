@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 小美女云云
+
+    * Begin : 2014/12/16 00:32:18
+    * End   : 2014/12/16 00:34:05
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5470cfc1a5640bfc0d8b458b 小美女云云
 
     * Begin : 2014/12/16 00:32:09
