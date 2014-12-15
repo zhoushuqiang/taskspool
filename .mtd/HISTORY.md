@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 532c85805e7feb6d158b4600 呗呗兔
+
+    * Begin : 2014/12/16 07:00:38
+    * End   : 2014/12/16 07:00:39
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 532c85805e7feb6d158b4600 呗呗兔
+
+    * Begin : 2014/12/16 07:00:37
+    * End   : 2014/12/16 07:00:38
+    * Result: http://www.weipai.cn/video/548aac3ba5640bb4578b45b3=>[weipai.cn] 532c85805e7feb6d158b4600 (呗呗兔) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aabf8a5640bf7538b45ad
 
     * Begin : 2014/12/16 07:00:12
