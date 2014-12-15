@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476a0e2a5640bc00c8b4570
+
+    * Begin : 2014/12/15 23:12:11
+    * End   : 2014/12/15 23:12:13
+    * Result: => 安妮makeup/weipai.cn/52fd8d849d67d9711c8b4569
+
+* [urlrule] sites weipai.cn UPDATE 安妮makeup
+
+    * Begin : 2014/12/15 23:12:10
+    * End   : 2014/12/15 23:12:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52fd8d849d67d9711c8b4569 安妮makeup
+
+    * Begin : 2014/12/15 23:12:10
+    * End   : 2014/12/15 23:12:10
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52fd8d849d67d9711c8b4569 安妮makeup
+
+    * Begin : 2014/12/15 23:12:09
+    * End   : 2014/12/15 23:12:10
+    * Result: http://www.weipai.cn/video/5476a0e2a5640bc00c8b4570=>[weipai.cn] 52fd8d849d67d9711c8b4569 (安妮makeup) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476a0cfa5640beb0c8b456a
 
     * Begin : 2014/12/15 23:11:58
