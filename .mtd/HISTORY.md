@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 52185f6e813494f9724e4160 forgetlethe
+
+    * Begin : 2014/12/16 03:27:28
+    * End   : 2014/12/16 03:27:28
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 52185f6e813494f9724e4160 forgetlethe
+
+    * Begin : 2014/12/16 03:27:26
+    * End   : 2014/12/16 03:27:28
+    * Result: http://www.weipai.cn/video/548a7758a5640b31708b458f=>[weipai.cn] 52185f6e813494f9724e4160 (forgetlethe) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a7687a5640b07738b457b
 
     * Begin : 2014/12/16 03:27:12
