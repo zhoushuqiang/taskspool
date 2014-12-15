@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 米小西
+
+    * Begin : 2014/12/16 07:36:21
+    * End   : 2014/12/16 07:52:54
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53450096ebeddb94028b4607 米小西
 
     * Begin : 2014/12/16 07:36:11
