@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489ebd8a5640b253e8b4570
+
+    * Begin : 2014/12/16 02:55:29
+    * End   : 2014/12/16 02:55:35
+    * Result: => 小情绪纷纷扰扰/weipai.cn/537c543cebeddbd64a8b45a3
+
 * [urlrule] sites weipai.cn UPDATE 小情绪纷纷扰扰
 
     * Begin : 2014/12/16 02:24:12
