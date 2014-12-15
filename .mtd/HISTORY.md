@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 5487cceda7640bc0308b459f 做个man的小女人
+
+    * Begin : 2014/12/16 05:17:00
+    * End   : 2014/12/16 05:17:01
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 5487cceda7640bc0308b459f 做个man的小女人
+
+    * Begin : 2014/12/16 05:16:59
+    * End   : 2014/12/16 05:17:00
+    * Result: http://www.weipai.cn/video/548a9b4ba5640b272a8b457a=>[weipai.cn] 5487cceda7640bc0308b459f (做个man的小女人) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a933ba5640bb05e8b45d4
 
     * Begin : 2014/12/16 05:16:45
