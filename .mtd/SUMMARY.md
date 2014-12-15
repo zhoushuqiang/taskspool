@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 赵有根
+
+    * Begin : 2014/12/16 03:55:53
+    * End   : 2014/12/16 03:56:06
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5489b4a2a5640b80248b4599 赵有根
 
     * Begin : 2014/12/16 03:55:43
