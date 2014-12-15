@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aaaf4a5640b08558b45e4
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548aabf8a5640bf7538b45ad
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aabf8a5640bf7538b45ad
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548aac3ba5640bb4578b45b3
@@ -194,6 +193,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 06:58:31] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aaaf4a5640b08558b45e4
     * [2014/12/16 06:58:16] [urlrule] sites weipai.cn UPDATE 高尚kiko
     * [2014/12/16 06:57:16] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aa40da5640b85578b4575
     * [2014/12/16 06:57:02] [urlrule] sites weipai.cn UPDATE ba女i
