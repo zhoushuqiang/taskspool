@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54767ac6a5640ba4728b457d
+
+    * Begin : 2014/12/15 19:13:54
+    * End   : 2014/12/15 19:13:57
+    * Result: => 安妮makeup/weipai.cn/52fd8d849d67d9711c8b4569
+
 * [urlrule] sites weipai.cn UPDATE 安妮makeup
 
     * Begin : 2014/12/15 18:49:03
