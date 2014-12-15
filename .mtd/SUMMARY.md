@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE suki_jiang
+
+    * Begin : 2014/12/16 04:00:26
+    * End   : 2014/12/16 04:00:36
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 507e1549813494f73100003d suki_jiang
 
     * Begin : 2014/12/16 04:00:15
