@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 于小慧
+
+    * Begin : 2014/12/15 14:32:35
+    * End   : 2014/12/15 14:35:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5107c64d8134944e50000012 于小慧
 
     * Begin : 2014/12/15 14:32:27
