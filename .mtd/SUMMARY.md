@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476c2f7a5640be4248b4571
+
+    * Begin : 2014/12/15 23:28:20
+    * End   : 2014/12/15 23:28:24
+    * Result: => 晴海洋/weipai.cn/53434e8a9d67d9b73a8b45a3
+
 * [urlrule] sites weipai.cn UPDATE 晴海洋
 
     * Begin : 2014/12/15 23:25:13
