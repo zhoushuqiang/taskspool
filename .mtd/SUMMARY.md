@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 50684229813494312400002c 大国GEE
+
+    * Begin : 2014/12/16 07:26:27
+    * End   : 2014/12/16 07:26:28
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548ada55a5640b82698b4571
 
     * Begin : 2014/12/16 07:26:13
