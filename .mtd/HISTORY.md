@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 547734f3a7640ba0638b45bc 小瓢20141127
+
+    * Begin : 2014/12/15 23:37:29
+    * End   : 2014/12/15 23:37:29
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 547734f3a7640ba0638b45bc 小瓢20141127
+
+    * Begin : 2014/12/15 23:37:27
+    * End   : 2014/12/15 23:37:29
+    * Result: http://www.weipai.cn/video/5477369ca5640b0d5f8b45cd=>[weipai.cn] 547734f3a7640ba0638b45bc (小瓢20141127) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476f3bca5640b4a398b45cc
 
     * Begin : 2014/12/15 23:36:25
