@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 51ac5faf5a8e87197a00004a mayuko
+
+    * Begin : 2014/12/15 14:44:59
+    * End   : 2014/12/15 14:44:59
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475b55ba5640b2a778b4580
 
     * Begin : 2014/12/15 14:43:28
