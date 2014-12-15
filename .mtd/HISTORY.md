@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a9b4ba5640b272a8b457a
+
+    * Begin : 2014/12/16 05:17:40
+    * End   : 2014/12/16 05:17:43
+    * Result: => 做个man的小女人/weipai.cn/5487cceda7640bc0308b459f
+
 * [urlrule] sites weipai.cn UPDATE 做个man的小女人
 
     * Begin : 2014/12/16 05:17:11
