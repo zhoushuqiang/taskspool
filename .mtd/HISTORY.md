@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 53733130504a13b0508b45a3 橙子妹妹
+
+    * Begin : 2014/12/15 12:55:43
+    * End   : 2014/12/15 12:55:44
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 53733130504a13b0508b45a3 橙子妹妹
+
+    * Begin : 2014/12/15 12:55:42
+    * End   : 2014/12/15 12:55:43
+    * Result: http://www.weipai.cn/video/547532d2a5640bab2b8b45aa=>[weipai.cn] 53733130504a13b0508b45a3 (橙子妹妹) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54753198a5640b722b8b45a7
 
     * Begin : 2014/12/15 12:55:03
