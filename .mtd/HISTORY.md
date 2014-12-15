@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 544cb435a7640be62c8b4577 神神神神神姐
+
+    * Begin : 2014/12/15 12:59:04
+    * End   : 2014/12/15 12:59:04
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 544cb435a7640be62c8b4577 神神神神神姐
+
+    * Begin : 2014/12/15 12:59:02
+    * End   : 2014/12/15 12:59:04
+    * Result: http://www.weipai.cn/video/547537f6a5640b2e338b4576=>[weipai.cn] 544cb435a7640be62c8b4577 (神神神神神姐) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547537dea5640b10338b4579
 
     * Begin : 2014/12/15 12:58:53
