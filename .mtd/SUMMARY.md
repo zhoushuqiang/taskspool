@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a90d9a5640b3d5e8b45a3
+
+    * Begin : 2014/12/16 05:12:03
+    * End   : 2014/12/16 05:12:07
+    * Result: => 大芹/weipai.cn/51a60a865c8e87bb1b000054
+
 * [urlrule] sites weipai.cn UPDATE 大芹
 
     * Begin : 2014/12/16 04:52:32
