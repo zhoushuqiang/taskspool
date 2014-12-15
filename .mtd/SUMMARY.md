@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547532e6a5640b5a318b4572
+
+    * Begin : 2014/12/15 12:58:03
+    * End   : 2014/12/15 12:58:06
+    * Result: => 丝绸裹着性感/weipai.cn/526258e2c58a878d061e30cf
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547532d2a5640bab2b8b45aa
 
     * Begin : 2014/12/15 12:57:27
