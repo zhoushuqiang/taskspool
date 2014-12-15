@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476a57da5640bfa0c8b4591
+
+    * Begin : 2014/12/15 23:12:53
+    * End   : 2014/12/15 23:12:56
+    * Result: => 私人空间/weipai.cn/5304526f80349483098685a9
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476a420a5640b32098b45a1
 
     * Begin : 2014/12/15 23:12:24
