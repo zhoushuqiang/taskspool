@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE miki夫人
+
+    * Begin : 2014/12/16 07:30:18
+    * End   : 2014/12/16 07:35:46
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 545b4851a7640b2f658b45a7 miki夫人
 
     * Begin : 2014/12/16 07:30:08

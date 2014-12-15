@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 545b4851a7640b2f658b45a7 miki夫人
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548ae94fa5640bc4208b45a2
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548ae956a5640b341c8b4595
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548ae956a5640b341c8b4595
@@ -175,6 +174,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 07:35:46] [urlrule] sites weipai.cn UPDATE miki夫人
     * [2014/12/16 07:30:09] [urlrule] sites weipai.cn follow 545b4851a7640b2f658b45a7 miki夫人
     * [2014/12/16 07:29:57] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548adb20a5640b153b8b45cf
     * [2014/12/16 07:29:44] [urlrule] sites weipai.cn UPDATE -心霓儿
