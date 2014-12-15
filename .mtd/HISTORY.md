@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 52f1601ee34167155d8b456c 乱搞砖家
+
+    * Begin : 2014/12/15 19:14:06
+    * End   : 2014/12/15 19:14:06
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 52f1601ee34167155d8b456c 乱搞砖家
+
+    * Begin : 2014/12/15 19:14:05
+    * End   : 2014/12/15 19:14:06
+    * Result: http://www.weipai.cn/video/54767e20a5640b87728b45a3=>[weipai.cn] 52f1601ee34167155d8b456c (乱搞砖家) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54767ac6a5640ba4728b457d
 
     * Begin : 2014/12/15 19:13:54
