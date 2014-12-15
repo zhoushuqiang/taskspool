@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 53fa1f57a7640bb41c8b4569 lady小夜猫
+
+    * Begin : 2014/12/16 05:22:35
+    * End   : 2014/12/16 05:22:36
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 53fa1f57a7640bb41c8b4569 lady小夜猫
+
+    * Begin : 2014/12/16 05:22:34
+    * End   : 2014/12/16 05:22:35
+    * Result: http://www.weipai.cn/video/548a9ef3a5640bea1a8b45ba=>[weipai.cn] 53fa1f57a7640bb41c8b4569 (lady小夜猫) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a9ea4a5640b761c8b45c2
 
     * Begin : 2014/12/16 05:22:20
