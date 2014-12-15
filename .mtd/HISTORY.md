@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 52cee475e34167d3198b460d 20140110366
+
+    * Begin : 2014/12/16 00:19:32
+    * End   : 2014/12/16 00:19:33
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 52cee475e34167d3198b460d 20140110366
+
+    * Begin : 2014/12/16 00:19:31
+    * End   : 2014/12/16 00:19:32
+    * Result: http://www.weipai.cn/video/5489724ca5640be9528b458a=>[weipai.cn] 52cee475e34167d3198b460d (20140110366) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54773a65a5640b98618b45b5
 
     * Begin : 2014/12/16 00:19:05
