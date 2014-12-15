@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548ae966a5640bdb1b8b459b
+
+    * Begin : 2014/12/16 07:56:08
+    * End   : 2014/12/16 07:56:11
+    * Result: => 年轻没有什么不可以/weipai.cn/50fd32698134949c760000d1
+
 * [urlrule] sites weipai.cn UPDATE 年轻没有什么不可以
 
     * Begin : 2014/12/16 07:54:15
