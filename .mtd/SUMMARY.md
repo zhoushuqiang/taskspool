@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 逐光流云20140912
+
+    * Begin : 2014/12/15 23:14:26
+    * End   : 2014/12/15 23:24:48
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5412f4a0a6640b7a088b4568 逐光流云20140912
 
     * Begin : 2014/12/15 23:14:19
