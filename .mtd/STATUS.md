@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 51d4a4d47f34947078000015 小艾艾
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54767f59a5640b9e728b45a3
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/54768034a5640b9b758b4587
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54768034a5640b9b758b4587
@@ -351,6 +350,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/15 20:28:31] [urlrule] sites weipai.cn UPDATE 小艾艾
     * [2014/12/15 19:24:42] [urlrule] sites weipai.cn follow 51d4a4d47f34947078000015 小艾艾
     * [2014/12/15 19:24:33] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54767e20a5640b87728b45a3
     * [2014/12/15 19:24:23] [urlrule] sites weipai.cn UPDATE 乱搞砖家
