@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 小小小小米
+
+    * Begin : 2014/12/16 05:58:07
+    * End   : 2014/12/16 06:54:31
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 528f8aaa504a13e93c8b4591 小小小小米
 
     * Begin : 2014/12/16 05:57:57
