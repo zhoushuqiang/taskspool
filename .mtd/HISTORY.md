@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 51d455cb7d3494d8400000f4 不是大姐好多年
+
+    * Begin : 2014/12/15 18:32:26
+    * End   : 2014/12/15 18:32:26
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 51d455cb7d3494d8400000f4 不是大姐好多年
+
+    * Begin : 2014/12/15 18:32:25
+    * End   : 2014/12/15 18:32:26
+    * Result: http://www.weipai.cn/video/54765c60a5640bc55b8b458e=>[weipai.cn] 51d455cb7d3494d8400000f4 (不是大姐好多年) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54765953a5640b1f568b459a
 
     * Begin : 2014/12/15 18:31:53
