@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 薰衣草20131022
+
+    * Begin : 2014/12/16 03:49:53
+    * End   : 2014/12/16 03:51:08
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 526582b7803494e538be8d24 薰衣草20131022
 
     * Begin : 2014/12/16 03:49:43
