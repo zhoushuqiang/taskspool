@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 51a60a865c8e87bb1b000054 大芹
+
+    * Begin : 2014/12/16 04:52:21
+    * End   : 2014/12/16 04:52:22
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 51a60a865c8e87bb1b000054 大芹
+
+    * Begin : 2014/12/16 04:52:20
+    * End   : 2014/12/16 04:52:21
+    * Result: http://www.weipai.cn/video/548a90d9a5640b3d5e8b45a3=>[weipai.cn] 51a60a865c8e87bb1b000054 (大芹) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a90cfa5640b6d598b45aa
 
     * Begin : 2014/12/16 04:52:04
