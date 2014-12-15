@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a7d9da5640b1e718b45b3
+
+    * Begin : 2014/12/16 03:52:44
+    * End   : 2014/12/16 03:52:52
+    * Result: => 近色怡人/weipai.cn/52cb2fa1803494a06912d82d
+
+* [urlrule] sites weipai.cn UPDATE 近色怡人
+
+    * Begin : 2014/12/16 03:52:42
+    * End   : 2014/12/16 03:52:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52cb2fa1803494a06912d82d 近色怡人
+
+    * Begin : 2014/12/16 03:52:42
+    * End   : 2014/12/16 03:52:42
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52cb2fa1803494a06912d82d 近色怡人
+
+    * Begin : 2014/12/16 03:52:40
+    * End   : 2014/12/16 03:52:42
+    * Result: http://www.weipai.cn/video/548a7d9da5640b1e718b45b3=>[weipai.cn] 52cb2fa1803494a06912d82d (近色怡人) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a7d82a5640bd9708b45c7
 
     * Begin : 2014/12/16 03:51:34

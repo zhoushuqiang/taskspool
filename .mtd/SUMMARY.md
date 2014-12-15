@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a7d9da5640b1e718b45b3
+
+    * Begin : 2014/12/16 03:52:44
+    * End   : 2014/12/16 03:52:52
+    * Result: => 近色怡人/weipai.cn/52cb2fa1803494a06912d82d
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a7d82a5640bd9708b45c7
 
     * Begin : 2014/12/16 03:51:34
