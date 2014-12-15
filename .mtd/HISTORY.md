@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 548673e1a6640b89498b459b 抗忙昂北鼻够够够
+
+    * Begin : 2014/12/16 07:03:36
+    * End   : 2014/12/16 07:03:37
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 548673e1a6640b89498b459b 抗忙昂北鼻够够够
+
+    * Begin : 2014/12/16 07:03:35
+    * End   : 2014/12/16 07:03:36
+    * Result: http://www.weipai.cn/video/548acb0fa5640b41668b45c1=>[weipai.cn] 548673e1a6640b89498b459b (抗忙昂北鼻够够够) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aac3ba5640bb4578b45b3
 
     * Begin : 2014/12/16 07:03:21
