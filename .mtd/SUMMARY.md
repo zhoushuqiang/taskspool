@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a4224a5640b0c458b45a8
+
+    * Begin : 2014/12/16 03:08:52
+    * End   : 2014/12/16 03:08:54
+    * Result: => ZeroDis/weipai.cn/5488688ea5640bc9498b4567
+
 * [urlrule] sites weipai.cn UPDATE ZeroDis
 
     * Begin : 2014/12/16 03:07:38
