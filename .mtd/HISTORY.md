@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548ada61a5640b3c698b4571
+
+    * Begin : 2014/12/16 07:27:26
+    * End   : 2014/12/16 07:27:29
+    * Result: => 大国GEE/weipai.cn/50684229813494312400002c
+
 * [urlrule] sites weipai.cn UPDATE 大国GEE
 
     * Begin : 2014/12/16 07:26:37
