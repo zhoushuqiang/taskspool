@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 52adc5f55e7feb19548b45b1 王王王王-蕊
+
+    * Begin : 2014/12/15 23:28:57
+    * End   : 2014/12/15 23:28:57
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 52adc5f55e7feb19548b45b1 王王王王-蕊
+
+    * Begin : 2014/12/15 23:28:55
+    * End   : 2014/12/15 23:28:57
+    * Result: http://www.weipai.cn/video/5476f3bca5640b4a398b45cc=>[weipai.cn] 52adc5f55e7feb19548b45b1 (王王王王-蕊) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476f3aca5640b46398b45d4
 
     * Begin : 2014/12/15 23:28:45
