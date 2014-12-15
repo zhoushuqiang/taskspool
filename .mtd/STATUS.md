@@ -2,7 +2,7 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548a90cfa5640b6d598b45aa
+    *[urlrule] sites weipai.cn UPDATE 53156b029d67d9aa5b8b456a 姗-姗
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a90cfa5640b6d598b45aa
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548a90d9a5640b3d5e8b45a3
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a90d9a5640b3d5e8b45a3
@@ -225,6 +225,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 04:11:06] [urlrule] sites weipai.cn follow 53156b029d67d9aa5b8b456a 姗-姗
     * [2014/12/16 04:10:53] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a8fc5a5640b705d8b4594
     * [2014/12/16 04:10:05] [urlrule] sites weipai.cn UPDATE 小雅雅雅雅雅
     * [2014/12/16 04:03:47] [urlrule] sites weipai.cn follow 5481f3a2a5640b39778b4596 小雅雅雅雅雅
@@ -483,6 +484,7 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/16 04:11:06] [urlrule] sites weipai.cn add 53156b029d67d9aa5b8b456a 姗-姗
     * [2014/12/16 04:03:46] [urlrule] sites weipai.cn add 5481f3a2a5640b39778b4596 小雅雅雅雅雅
     * [2014/12/16 04:03:22] [urlrule] sites weipai.cn UPDATE 新浪微博未知黑色曼陀罗
     * [2014/12/16 04:03:21] [urlrule] sites weipai.cn follow 53835f1febeddbc1168b456f 新浪微博未知黑色曼陀罗
