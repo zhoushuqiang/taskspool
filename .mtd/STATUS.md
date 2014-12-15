@@ -2,7 +2,7 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/5489bed6a5640b1e6a8b456b
+    *[urlrule] sites weipai.cn UPDATE 516d10cf7d3494216c000087 美腿热舞福利分享
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489bed6a5640b1e6a8b456b
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/5489bfdba5640b656b8b456e
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489bfdba5640b656b8b456e
@@ -293,6 +293,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 00:40:43] [urlrule] sites weipai.cn follow 516d10cf7d3494216c000087 美腿热舞福利分享
     * [2014/12/16 00:40:31] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489bac9a5640b57498b458e
     * [2014/12/16 00:39:30] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54899258a5640b726e8b4594
     * [2014/12/16 00:37:45] [urlrule] sites weipai.cn UPDATE 近色怡人
@@ -469,6 +470,7 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/16 00:40:43] [urlrule] sites weipai.cn add 516d10cf7d3494216c000087 美腿热舞福利分享
     * [2014/12/16 00:39:43] [urlrule] sites weipai.cn UPDATE 湯大师
     * [2014/12/16 00:39:42] [urlrule] sites weipai.cn follow 514559307d3494db5500005d 湯大师
     * [2014/12/16 00:39:42] [urlrule] sites weipai.cn add 514559307d3494db5500005d 湯大师
