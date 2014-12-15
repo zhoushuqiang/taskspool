@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE Baby华姿凯歌er
+
+    * Begin : 2014/12/15 20:30:59
+    * End   : 2014/12/15 22:59:47
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5468b9f5a7640b12458b4580 Baby华姿凯歌er
 
     * Begin : 2014/12/15 20:30:51
