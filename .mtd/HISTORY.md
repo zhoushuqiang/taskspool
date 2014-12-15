@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 53434e8a9d67d9b73a8b45a3 晴海洋
+
+    * Begin : 2014/12/15 23:25:06
+    * End   : 2014/12/15 23:25:06
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 53434e8a9d67d9b73a8b45a3 晴海洋
+
+    * Begin : 2014/12/15 23:25:05
+    * End   : 2014/12/15 23:25:06
+    * Result: http://www.weipai.cn/video/5476c2f7a5640be4248b4571=>[weipai.cn] 53434e8a9d67d9b73a8b45a3 (晴海洋) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476af4fa5640b94138b45c8
 
     * Begin : 2014/12/15 23:24:55
