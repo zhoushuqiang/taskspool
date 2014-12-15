@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a870da5640bdb278b45a7
+
+    * Begin : 2014/12/16 04:00:48
+    * End   : 2014/12/16 04:00:51
+    * Result: => suki_jiang/weipai.cn/507e1549813494f73100003d
+
 * [urlrule] sites weipai.cn UPDATE suki_jiang
 
     * Begin : 2014/12/16 04:00:26
