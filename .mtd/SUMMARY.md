@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a9b4da5640be91a8b459a
+
+    * Begin : 2014/12/16 05:19:10
+    * End   : 2014/12/16 05:19:13
+    * Result: => 最美的太阳20140822/weipai.cn/53f72d6ea8640bc8108b4599
+
 * [urlrule] sites weipai.cn UPDATE 最美的太阳20140822
 
     * Begin : 2014/12/16 05:18:05
