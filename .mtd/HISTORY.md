@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 52fd8d849d67d9711c8b4569 安妮makeup
+
+    * Begin : 2014/12/15 18:48:56
+    * End   : 2014/12/15 18:48:56
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 52fd8d849d67d9711c8b4569 安妮makeup
+
+    * Begin : 2014/12/15 18:48:55
+    * End   : 2014/12/15 18:48:56
+    * Result: http://www.weipai.cn/video/54767ac6a5640ba4728b457d=>[weipai.cn] 52fd8d849d67d9711c8b4569 (安妮makeup) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547676d0a5640b506f8b4589
 
     * Begin : 2014/12/15 18:48:44
