@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 548a63fda5640bea718b45a6 黑三小幺
+
+    * Begin : 2014/12/16 03:10:27
+    * End   : 2014/12/16 03:10:28
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 548a63fda5640bea718b45a6 黑三小幺
+
+    * Begin : 2014/12/16 03:10:26
+    * End   : 2014/12/16 03:10:27
+    * Result: http://www.weipai.cn/video/548a64eca5640bbf6a8b45b1=>[weipai.cn] 548a63fda5640bea718b45a6 (黑三小幺) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a4a25a5640ba47d8b45a5
 
     * Begin : 2014/12/16 03:10:13
