@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476ab75a5640b94138b457e
+
+    * Begin : 2014/12/15 23:13:06
+    * End   : 2014/12/15 23:13:24
+    * Result: => AngelaLee1118/weipai.cn/5452fd25a8640ba0798b4598
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476a57da5640bfa0c8b4591
 
     * Begin : 2014/12/15 23:12:53
