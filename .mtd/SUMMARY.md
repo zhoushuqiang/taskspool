@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 雅沁
+
+    * Begin : 2014/12/16 05:20:56
+    * End   : 2014/12/16 05:22:10
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5448727ea6640b402e8b45c3 雅沁
 
     * Begin : 2014/12/16 05:20:47
