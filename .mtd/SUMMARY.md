@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a7758a5640b31708b458f
+
+    * Begin : 2014/12/16 03:49:24
+    * End   : 2014/12/16 03:49:30
+    * Result: => forgetlethe/weipai.cn/52185f6e813494f9724e4160
+
 * [urlrule] sites weipai.cn UPDATE forgetlethe
 
     * Begin : 2014/12/16 03:27:37
