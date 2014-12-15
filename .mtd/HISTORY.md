@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 537c543cebeddbd64a8b45a3 小情绪纷纷扰扰
+
+    * Begin : 2014/12/16 02:24:02
+    * End   : 2014/12/16 02:24:03
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 537c543cebeddbd64a8b45a3 小情绪纷纷扰扰
+
+    * Begin : 2014/12/16 02:24:01
+    * End   : 2014/12/16 02:24:02
+    * Result: http://www.weipai.cn/video/5489ebd8a5640b253e8b4570=>[weipai.cn] 537c543cebeddbd64a8b45a3 (小情绪纷纷扰扰) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489df9da5640b3f048b4575
 
     * Begin : 2014/12/16 02:23:15
