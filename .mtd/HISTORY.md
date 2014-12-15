@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 神神神神神姐
+
+    * Begin : 2014/12/15 12:59:11
+    * End   : 2014/12/15 14:02:48
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 544cb435a7640be62c8b4577 神神神神神姐
 
     * Begin : 2014/12/15 12:59:04
