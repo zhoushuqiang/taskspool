@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 52f1601ee34167155d8b456c 乱搞砖家
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54767e20a5640b87728b45a3
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/54767f59a5640b9e728b45a3
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54767f59a5640b9e728b45a3
@@ -353,6 +352,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/15 19:24:23] [urlrule] sites weipai.cn UPDATE 乱搞砖家
     * [2014/12/15 19:14:06] [urlrule] sites weipai.cn follow 52f1601ee34167155d8b456c 乱搞砖家
     * [2014/12/15 19:13:57] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54767ac6a5640ba4728b457d
     * [2014/12/15 19:13:46] [urlrule] sites weipai.cn UPDATE 安妮makeup

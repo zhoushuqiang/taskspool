@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 乱搞砖家
+
+    * Begin : 2014/12/15 19:14:13
+    * End   : 2014/12/15 19:24:23
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 52f1601ee34167155d8b456c 乱搞砖家
 
     * Begin : 2014/12/15 19:14:06
