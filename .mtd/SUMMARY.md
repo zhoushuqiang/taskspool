@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 新百伦正品代购20141202
+
+    * Begin : 2014/12/16 03:06:23
+    * End   : 2014/12/16 03:07:04
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 547cfb4ca5640b69338b458e 新百伦正品代购20141202
 
     * Begin : 2014/12/16 03:06:13

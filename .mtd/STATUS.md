@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 547cfb4ca5640b69338b458e 新百伦正品代购20141202
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a3ce3a5640bb4318b45a3
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548a4224a5640b0c458b45a8
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a4224a5640b0c458b45a8
@@ -267,6 +266,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 03:07:04] [urlrule] sites weipai.cn UPDATE 新百伦正品代购20141202
     * [2014/12/16 03:06:14] [urlrule] sites weipai.cn follow 547cfb4ca5640b69338b458e 新百伦正品代购20141202
     * [2014/12/16 03:06:01] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a2be5a5640b6c7e8b4576
     * [2014/12/16 03:05:22] [urlrule] sites weipai.cn UPDATE 把你家户口本拿出来看看
