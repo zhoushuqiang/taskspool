@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 高尚kiko
+
+    * Begin : 2014/12/16 06:57:28
+    * End   : 2014/12/16 06:58:16
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aa40da5640b85578b4575
 
     * Begin : 2014/12/16 06:57:13

@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn UPDATE 高尚kiko
+
+    * Begin : 2014/12/16 06:57:28
+    * End   : 2014/12/16 06:58:16
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 50eda2fe7d34948e2f000036 高尚kiko
+
+    * Begin : 2014/12/16 06:57:28
+    * End   : 2014/12/16 06:57:28
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 50eda2fe7d34948e2f000036 高尚kiko
+
+    * Begin : 2014/12/16 06:57:26
+    * End   : 2014/12/16 06:57:28
+    * Result: http://www.weipai.cn/video/548aaaf4a5640b08558b45e4=>[weipai.cn] 50eda2fe7d34948e2f000036 (高尚kiko) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aa40da5640b85578b4575
 
     * Begin : 2014/12/16 06:57:13
