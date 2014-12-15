@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489bed6a5640b1e6a8b456b
+
+    * Begin : 2014/12/16 00:41:51
+    * End   : 2014/12/16 00:41:54
+    * Result: => 美腿热舞福利分享/weipai.cn/516d10cf7d3494216c000087
+
 * [urlrule] sites weipai.cn UPDATE 美腿热舞福利分享
 
     * Begin : 2014/12/16 00:40:51

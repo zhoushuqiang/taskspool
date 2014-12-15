@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489bed6a5640b1e6a8b456b
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/5489bfdba5640b656b8b456e
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489bfdba5640b656b8b456e
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/5489c324a5640b627f8b4568
@@ -292,6 +291,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 00:41:54] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489bed6a5640b1e6a8b456b
     * [2014/12/16 00:41:42] [urlrule] sites weipai.cn UPDATE 美腿热舞福利分享
     * [2014/12/16 00:40:43] [urlrule] sites weipai.cn follow 516d10cf7d3494216c000087 美腿热舞福利分享
     * [2014/12/16 00:40:31] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489bac9a5640b57498b458e
