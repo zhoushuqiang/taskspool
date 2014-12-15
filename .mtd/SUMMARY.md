@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE mayuko
+
+    * Begin : 2014/12/15 14:45:07
+    * End   : 2014/12/15 14:54:50
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 51ac5faf5a8e87197a00004a mayuko
 
     * Begin : 2014/12/15 14:44:59
