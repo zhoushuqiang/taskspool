@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 最美的太阳20140822
+
+    * Begin : 2014/12/16 05:18:05
+    * End   : 2014/12/16 05:19:00
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53f72d6ea8640bc8108b4599 最美的太阳20140822
 
     * Begin : 2014/12/16 05:17:55
