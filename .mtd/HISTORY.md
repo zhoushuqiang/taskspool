@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 50c42dc97f34942f5b0000c2 熊葵
+
+    * Begin : 2014/12/16 00:23:09
+    * End   : 2014/12/16 00:23:10
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 50c42dc97f34942f5b0000c2 熊葵
+
+    * Begin : 2014/12/16 00:23:08
+    * End   : 2014/12/16 00:23:09
+    * Result: http://www.weipai.cn/video/548973f5a5640bfe6c8b456d=>[weipai.cn] 50c42dc97f34942f5b0000c2 (熊葵) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489724ca5640be9528b458a
 
     * Begin : 2014/12/16 00:22:30
