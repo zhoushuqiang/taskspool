@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 安妮makeup
+
+    * Begin : 2014/12/15 18:49:03
+    * End   : 2014/12/15 19:13:46
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 52fd8d849d67d9711c8b4569 安妮makeup
 
     * Begin : 2014/12/15 18:48:56
