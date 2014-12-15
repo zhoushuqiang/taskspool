@@ -2,8 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/54764e19a5640be44f8b4583
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54764e19a5640be44f8b4583
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/54765953a5640b1f568b459a
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54765953a5640b1f568b459a
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/54765c60a5640bc55b8b458e
@@ -369,6 +367,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/15 18:31:43] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54764e19a5640be44f8b4583
     * [2014/12/15 18:31:05] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54764868a5640b10508b4573
     * [2014/12/15 18:30:54] [urlrule] sites weipai.cn UPDATE 蓝色的港湾20140821
     * [2014/12/15 16:11:13] [urlrule] sites weipai.cn follow 53f586d5a7640b65458b456a 蓝色的港湾20140821
@@ -471,6 +470,9 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/15 18:31:14] [urlrule] sites weipai.cn UPDATE Bella-贝拉
+    * [2014/12/15 18:31:14] [urlrule] sites weipai.cn follow 517098a8813494462e00006e Bella-贝拉
+    * [2014/12/15 18:31:14] [urlrule] sites weipai.cn add 517098a8813494462e00006e Bella-贝拉
     * [2014/12/15 16:11:12] [urlrule] sites weipai.cn add 53f586d5a7640b65458b456a 蓝色的港湾20140821
     * [2014/12/15 16:10:35] [urlrule] sites weipai.cn UPDATE 台灣出產-蜜卡妹子
     * [2014/12/15 16:10:34] [urlrule] sites weipai.cn follow 545fac68a8640bd2438b4574 台灣出產-蜜卡妹子

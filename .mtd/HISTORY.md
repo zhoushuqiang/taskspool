@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54764e19a5640be44f8b4583
+
+    * Begin : 2014/12/15 18:31:15
+    * End   : 2014/12/15 18:31:43
+    * Result: => Bella-贝拉/weipai.cn/517098a8813494462e00006e
+
+* [urlrule] sites weipai.cn UPDATE Bella-贝拉
+
+    * Begin : 2014/12/15 18:31:14
+    * End   : 2014/12/15 18:31:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 517098a8813494462e00006e Bella-贝拉
+
+    * Begin : 2014/12/15 18:31:14
+    * End   : 2014/12/15 18:31:14
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 517098a8813494462e00006e Bella-贝拉
+
+    * Begin : 2014/12/15 18:31:13
+    * End   : 2014/12/15 18:31:14
+    * Result: http://www.weipai.cn/video/54764e19a5640be44f8b4583=>[weipai.cn] 517098a8813494462e00006e (Bella-贝拉) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54764868a5640b10508b4573
 
     * Begin : 2014/12/15 18:31:02
