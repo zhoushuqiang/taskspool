@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 橙子妹妹
+
+    * Begin : 2014/12/15 12:55:52
+    * End   : 2014/12/15 12:57:19
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53733130504a13b0508b45a3 橙子妹妹
 
     * Begin : 2014/12/15 12:55:43
