@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 5487cceda7640bc0308b459f 做个man的小女人
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a9b4ba5640b272a8b457a
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548a9b4da5640be91a8b459a
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a9b4da5640be91a8b459a
@@ -219,6 +218,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 05:17:29] [urlrule] sites weipai.cn UPDATE 做个man的小女人
     * [2014/12/16 05:17:01] [urlrule] sites weipai.cn follow 5487cceda7640bc0308b459f 做个man的小女人
     * [2014/12/16 05:16:48] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a933ba5640bb05e8b45d4
     * [2014/12/16 05:16:34] [urlrule] sites weipai.cn UPDATE 暗黑小萝莉

@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 做个man的小女人
+
+    * Begin : 2014/12/16 05:17:11
+    * End   : 2014/12/16 05:17:29
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5487cceda7640bc0308b459f 做个man的小女人
 
     * Begin : 2014/12/16 05:17:00
