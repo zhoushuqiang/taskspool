@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a9f53a5640bf52c8b459d
+
+    * Begin : 2014/12/16 05:24:25
+    * End   : 2014/12/16 05:24:29
+    * Result: => 吴红珊/weipai.cn/5300e799504a131b7c8b45c6
+
 * [urlrule] sites weipai.cn UPDATE 吴红珊
 
     * Begin : 2014/12/16 05:23:49
