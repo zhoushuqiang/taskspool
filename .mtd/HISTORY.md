@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 熊葵
+
+    * Begin : 2014/12/16 00:23:18
+    * End   : 2014/12/16 00:30:50
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 50c42dc97f34942f5b0000c2 熊葵
 
     * Begin : 2014/12/16 00:23:09
