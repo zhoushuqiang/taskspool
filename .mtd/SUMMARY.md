@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 大芹
+
+    * Begin : 2014/12/16 04:52:32
+    * End   : 2014/12/16 05:11:08
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 51a60a865c8e87bb1b000054 大芹
 
     * Begin : 2014/12/16 04:52:21
