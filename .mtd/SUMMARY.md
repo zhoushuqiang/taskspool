@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 大拿MM
+
+    * Begin : 2014/12/16 02:04:41
+    * End   : 2014/12/16 02:08:16
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 544ba4eea7640bbb7b8b45af 大拿MM
 
     * Begin : 2014/12/16 02:04:30
