@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a8f44a5640b565f8b458e
+
+    * Begin : 2014/12/16 04:03:22
+    * End   : 2014/12/16 04:03:33
+    * Result: => 新浪微博未知黑色曼陀罗/weipai.cn/53835f1febeddbc1168b456f
+
+* [urlrule] sites weipai.cn UPDATE 新浪微博未知黑色曼陀罗
+
+    * Begin : 2014/12/16 04:03:21
+    * End   : 2014/12/16 04:03:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53835f1febeddbc1168b456f 新浪微博未知黑色曼陀罗
+
+    * Begin : 2014/12/16 04:03:21
+    * End   : 2014/12/16 04:03:21
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53835f1febeddbc1168b456f 新浪微博未知黑色曼陀罗
+
+    * Begin : 2014/12/16 04:03:19
+    * End   : 2014/12/16 04:03:21
+    * Result: http://www.weipai.cn/video/548a8f44a5640b565f8b458e=>[weipai.cn] 53835f1febeddbc1168b456f (新浪微博未知黑色曼陀罗) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a8f25a5640b345b8b4593
 
     * Begin : 2014/12/16 04:03:04

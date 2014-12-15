@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a8f44a5640b565f8b458e
+
+    * Begin : 2014/12/16 04:03:22
+    * End   : 2014/12/16 04:03:33
+    * Result: => 新浪微博未知黑色曼陀罗/weipai.cn/53835f1febeddbc1168b456f
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a8f25a5640b345b8b4593
 
     * Begin : 2014/12/16 04:03:04
