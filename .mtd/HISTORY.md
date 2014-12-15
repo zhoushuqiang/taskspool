@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 暗黑小萝莉
+
+    * Begin : 2014/12/16 05:12:30
+    * End   : 2014/12/16 05:16:34
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 545edcf0a8640b5d358b4591 暗黑小萝莉
 
     * Begin : 2014/12/16 05:12:19
