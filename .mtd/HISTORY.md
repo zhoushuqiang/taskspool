@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489f69ea5640b5f058b4567
+
+    * Begin : 2014/12/16 03:03:14
+    * End   : 2014/12/16 03:03:36
+    * Result: => 珠宝定制-GIA国际证书/weipai.cn/53e38146a6640b7c7d8b4581
+
+* [urlrule] sites weipai.cn UPDATE 珠宝定制-GIA国际证书
+
+    * Begin : 2014/12/16 03:03:12
+    * End   : 2014/12/16 03:03:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53e38146a6640b7c7d8b4581 珠宝定制-GIA国际证书
+
+    * Begin : 2014/12/16 03:03:12
+    * End   : 2014/12/16 03:03:12
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53e38146a6640b7c7d8b4581 珠宝定制-GIA国际证书
+
+    * Begin : 2014/12/16 03:03:11
+    * End   : 2014/12/16 03:03:12
+    * Result: http://www.weipai.cn/video/5489f69ea5640b5f058b4567=>[weipai.cn] 53e38146a6640b7c7d8b4581 (珠宝定制-GIA国际证书) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489ef7fa5640bd9308b4583
 
     * Begin : 2014/12/16 03:01:33
