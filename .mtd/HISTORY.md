@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54763305a5640b47468b458d
+
+    * Begin : 2014/12/15 16:10:07
+    * End   : 2014/12/15 16:10:09
+    * Result: => 麦子OR大麦子/weipai.cn/531f42969d67d9df5f8b4568
+
+* [urlrule] sites weipai.cn UPDATE 麦子OR大麦子
+
+    * Begin : 2014/12/15 16:10:05
+    * End   : 2014/12/15 16:10:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 531f42969d67d9df5f8b4568 麦子OR大麦子
+
+    * Begin : 2014/12/15 16:10:05
+    * End   : 2014/12/15 16:10:05
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 531f42969d67d9df5f8b4568 麦子OR大麦子
+
+    * Begin : 2014/12/15 16:10:04
+    * End   : 2014/12/15 16:10:05
+    * Result: http://www.weipai.cn/video/54763305a5640b47468b458d=>[weipai.cn] 531f42969d67d9df5f8b4568 (麦子OR大麦子) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547632daa5640bc93d8b45be
 
     * Begin : 2014/12/15 16:08:24
