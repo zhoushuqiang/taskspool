@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476f3aca5640b46398b45d4
+
+    * Begin : 2014/12/15 23:28:45
+    * End   : 2014/12/15 23:28:47
+    * Result: => 陈美琳Mandy/weipai.cn/51fa57ba7f3494ea70000000
+
+* [urlrule] sites weipai.cn UPDATE 陈美琳Mandy
+
+    * Begin : 2014/12/15 23:28:44
+    * End   : 2014/12/15 23:28:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 51fa57ba7f3494ea70000000 陈美琳Mandy
+
+    * Begin : 2014/12/15 23:28:44
+    * End   : 2014/12/15 23:28:44
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 51fa57ba7f3494ea70000000 陈美琳Mandy
+
+    * Begin : 2014/12/15 23:28:43
+    * End   : 2014/12/15 23:28:44
+    * Result: http://www.weipai.cn/video/5476f3aca5640b46398b45d4=>[weipai.cn] 51fa57ba7f3494ea70000000 (陈美琳Mandy) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476c537a5640b22258b458e
 
     * Begin : 2014/12/15 23:28:33
