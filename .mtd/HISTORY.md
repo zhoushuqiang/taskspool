@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54769e72a5640b79058b45ae
+
+    * Begin : 2014/12/15 23:09:45
+    * End   : 2014/12/15 23:09:47
+    * Result: => 妩媚动人栩儿/weipai.cn/536c89639d67d9bc088b4590
+
 * [urlrule] sites weipai.cn UPDATE 妩媚动人栩儿
 
     * Begin : 2014/12/15 23:01:14
