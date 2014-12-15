@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547537f7a5640b36338b4589
+
+    * Begin : 2014/12/15 14:04:18
+    * End   : 2014/12/15 14:04:21
+    * Result: => 蜜蜜波/weipai.cn/53f3f553a8640bbb198b4584
+
+* [urlrule] sites weipai.cn UPDATE 蜜蜜波
+
+    * Begin : 2014/12/15 14:04:18
+    * End   : 2014/12/15 14:04:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53f3f553a8640bbb198b4584 蜜蜜波
+
+    * Begin : 2014/12/15 14:04:17
+    * End   : 2014/12/15 14:04:18
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53f3f553a8640bbb198b4584 蜜蜜波
+
+    * Begin : 2014/12/15 14:04:16
+    * End   : 2014/12/15 14:04:17
+    * Result: http://www.weipai.cn/video/547537f7a5640b36338b4589=>[weipai.cn] 53f3f553a8640bbb198b4584 (蜜蜜波) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547537f6a5640b2e338b4576
 
     * Begin : 2014/12/15 14:04:01
