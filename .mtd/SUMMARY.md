@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547537dea5640b10338b4579
+
+    * Begin : 2014/12/15 12:58:53
+    * End   : 2014/12/15 12:58:55
+    * Result: => 陈柔轩Michel/weipai.cn/535539889d67d9ea5c8b459b
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54753706a5640b0a338b4579
 
     * Begin : 2014/12/15 12:58:41
