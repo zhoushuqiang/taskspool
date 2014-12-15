@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547644a6a5640b294b8b45c2
+
+    * Begin : 2014/12/15 16:10:35
+    * End   : 2014/12/15 16:11:00
+    * Result: => 台灣出產-蜜卡妹子/weipai.cn/545fac68a8640bd2438b4574
+
+* [urlrule] sites weipai.cn UPDATE 台灣出產-蜜卡妹子
+
+    * Begin : 2014/12/15 16:10:34
+    * End   : 2014/12/15 16:10:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 545fac68a8640bd2438b4574 台灣出產-蜜卡妹子
+
+    * Begin : 2014/12/15 16:10:34
+    * End   : 2014/12/15 16:10:34
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 545fac68a8640bd2438b4574 台灣出產-蜜卡妹子
+
+    * Begin : 2014/12/15 16:10:33
+    * End   : 2014/12/15 16:10:34
+    * Result: http://www.weipai.cn/video/547644a6a5640b294b8b45c2=>[weipai.cn] 545fac68a8640bd2438b4574 (台灣出產-蜜卡妹子) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54763674a5640b47468b45af
 
     * Begin : 2014/12/15 16:10:21
