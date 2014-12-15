@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 溅行溅美
+
+    * Begin : 2014/12/15 14:05:06
+    * End   : 2014/12/15 14:14:28
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5227e8cb7d3494a87723509b 溅行溅美
 
     * Begin : 2014/12/15 14:04:59
