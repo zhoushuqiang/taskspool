@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 53f586d5a7640b65458b456a 蓝色的港湾20140821
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54764868a5640b10508b4573
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/54764e19a5640be44f8b4583
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54764e19a5640be44f8b4583
@@ -371,6 +370,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/15 18:30:54] [urlrule] sites weipai.cn UPDATE 蓝色的港湾20140821
     * [2014/12/15 16:11:13] [urlrule] sites weipai.cn follow 53f586d5a7640b65458b456a 蓝色的港湾20140821
     * [2014/12/15 16:11:00] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547644a6a5640b294b8b45c2
     * [2014/12/15 16:10:23] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54763674a5640b47468b45af

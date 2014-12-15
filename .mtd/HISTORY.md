@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 蓝色的港湾20140821
+
+    * Begin : 2014/12/15 16:11:22
+    * End   : 2014/12/15 18:30:54
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53f586d5a7640b65458b456a 蓝色的港湾20140821
 
     * Begin : 2014/12/15 16:11:12
