@@ -2,7 +2,7 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548aa08fa5640b8e1a8b45c0
+    *[urlrule] sites weipai.cn UPDATE 51ecd06b7f34942c21000092 黑金色会飞的鱼
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aa08fa5640b8e1a8b45c0
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548aa0dca5640b2f1c8b45c5
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aa0dca5640b2f1c8b45c5
@@ -205,6 +205,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 05:25:03] [urlrule] sites weipai.cn follow 51ecd06b7f34942c21000092 黑金色会飞的鱼
     * [2014/12/16 05:24:48] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a9fe3a5640b272a8b459f
     * [2014/12/16 05:24:29] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a9f53a5640bf52c8b459d
     * [2014/12/16 05:24:14] [urlrule] sites weipai.cn UPDATE 吴红珊
@@ -490,6 +491,7 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/16 05:25:03] [urlrule] sites weipai.cn add 51ecd06b7f34942c21000092 黑金色会飞的鱼
     * [2014/12/16 05:24:43] [urlrule] sites weipai.cn UPDATE 苏夏妞妞
     * [2014/12/16 05:24:42] [urlrule] sites weipai.cn follow 505d163d7f34941c2f000070 苏夏妞妞
     * [2014/12/16 05:24:42] [urlrule] sites weipai.cn add 505d163d7f34941c2f000070 苏夏妞妞

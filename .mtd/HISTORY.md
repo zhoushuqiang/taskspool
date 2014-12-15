@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 51ecd06b7f34942c21000092 黑金色会飞的鱼
+
+    * Begin : 2014/12/16 05:25:03
+    * End   : 2014/12/16 05:25:03
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 51ecd06b7f34942c21000092 黑金色会飞的鱼
+
+    * Begin : 2014/12/16 05:25:01
+    * End   : 2014/12/16 05:25:03
+    * Result: http://www.weipai.cn/video/548aa08fa5640b8e1a8b45c0=>[weipai.cn] 51ecd06b7f34942c21000092 (黑金色会飞的鱼) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a9fe3a5640b272a8b459f
 
     * Begin : 2014/12/16 05:24:45
