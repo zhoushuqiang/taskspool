@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54769befa5640bbf058b4591
+
+    * Begin : 2014/12/15 20:30:31
+    * End   : 2014/12/15 20:30:42
+    * Result: => 孤单的84剩女/weipai.cn/5449b474a5640b74528b458d
+
+* [urlrule] sites weipai.cn UPDATE 孤单的84剩女
+
+    * Begin : 2014/12/15 20:30:30
+    * End   : 2014/12/15 20:30:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5449b474a5640b74528b458d 孤单的84剩女
+
+    * Begin : 2014/12/15 20:30:30
+    * End   : 2014/12/15 20:30:30
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5449b474a5640b74528b458d 孤单的84剩女
+
+    * Begin : 2014/12/15 20:30:29
+    * End   : 2014/12/15 20:30:30
+    * Result: http://www.weipai.cn/video/54769befa5640bbf058b4591=>[weipai.cn] 5449b474a5640b74528b458d (孤单的84剩女) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54769ae2a5640b24098b456f
 
     * Begin : 2014/12/15 20:30:11
