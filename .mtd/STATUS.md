@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475395ea5640b8a308b459f
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/54757e0ea5640b0a578b458d
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54757e0ea5640b0a578b458d
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/547590c6a5640b33638b4588
@@ -402,6 +401,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/15 14:14:37] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475395ea5640b8a308b459f
     * [2014/12/15 14:14:28] [urlrule] sites weipai.cn UPDATE 溅行溅美
     * [2014/12/15 14:04:59] [urlrule] sites weipai.cn follow 5227e8cb7d3494a87723509b 溅行溅美
     * [2014/12/15 14:04:49] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547538a4a5640b30338b4581

@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475395ea5640b8a308b459f
+
+    * Begin : 2014/12/15 14:14:35
+    * End   : 2014/12/15 14:14:37
+    * Result: => 溅行溅美/weipai.cn/5227e8cb7d3494a87723509b
+
 * [urlrule] sites weipai.cn UPDATE 溅行溅美
 
     * Begin : 2014/12/15 14:05:06
