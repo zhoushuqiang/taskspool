@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54765c60a5640bc55b8b458e
+
+    * Begin : 2014/12/15 18:32:50
+    * End   : 2014/12/15 18:33:07
+    * Result: => 不是大姐好多年/weipai.cn/51d455cb7d3494d8400000f4
+
 * [urlrule] sites weipai.cn UPDATE 不是大姐好多年
 
     * Begin : 2014/12/15 18:32:33
