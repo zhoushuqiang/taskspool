@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54769ae2a5640b24098b456f
+
+    * Begin : 2014/12/15 20:30:11
+    * End   : 2014/12/15 20:30:20
+    * Result: => 孤独患者/weipai.cn/53401f399d67d9737e8b4567
+
+* [urlrule] sites weipai.cn UPDATE 孤独患者
+
+    * Begin : 2014/12/15 20:30:11
+    * End   : 2014/12/15 20:30:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53401f399d67d9737e8b4567 孤独患者
+
+    * Begin : 2014/12/15 20:30:10
+    * End   : 2014/12/15 20:30:10
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53401f399d67d9737e8b4567 孤独患者
+
+    * Begin : 2014/12/15 20:30:09
+    * End   : 2014/12/15 20:30:10
+    * Result: http://www.weipai.cn/video/54769ae2a5640b24098b456f=>[weipai.cn] 53401f399d67d9737e8b4567 (孤独患者) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54768315a5640b92758b458c
 
     * Begin : 2014/12/15 20:29:59

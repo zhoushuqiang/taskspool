@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54769ae2a5640b24098b456f
+
+    * Begin : 2014/12/15 20:30:11
+    * End   : 2014/12/15 20:30:20
+    * Result: => 孤独患者/weipai.cn/53401f399d67d9737e8b4567
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54768315a5640b92758b458c
 
     * Begin : 2014/12/15 20:29:59
