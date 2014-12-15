@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54764868a5640b10508b4573
+
+    * Begin : 2014/12/15 18:31:02
+    * End   : 2014/12/15 18:31:05
+    * Result: => 蓝色的港湾20140821/weipai.cn/53f586d5a7640b65458b456a
+
 * [urlrule] sites weipai.cn UPDATE 蓝色的港湾20140821
 
     * Begin : 2014/12/15 16:11:22
