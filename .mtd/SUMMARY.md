@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 矢帘
+
+    * Begin : 2014/12/16 04:01:15
+    * End   : 2014/12/16 04:02:23
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 514ce6ec7f349417410000bd 矢帘
 
     * Begin : 2014/12/16 04:01:04
