@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 53f04a46a7640b96038b4573 ANGELG
+
+    * Begin : 2014/12/16 06:58:43
+    * End   : 2014/12/16 06:58:43
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 53f04a46a7640b96038b4573 ANGELG
+
+    * Begin : 2014/12/16 06:58:42
+    * End   : 2014/12/16 06:58:43
+    * Result: http://www.weipai.cn/video/548aabf8a5640bf7538b45ad=>[weipai.cn] 53f04a46a7640b96038b4573 (ANGELG) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548aaaf4a5640b08558b45e4
 
     * Begin : 2014/12/16 06:58:28
