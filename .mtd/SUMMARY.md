@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5489df9da5640b3f048b4575
+
+    * Begin : 2014/12/16 02:23:15
+    * End   : 2014/12/16 02:23:51
+    * Result: => 珠宝定制-GIA国际证书/weipai.cn/53e38146a6640b7c7d8b4581
+
 * [urlrule] sites weipai.cn UPDATE 珠宝定制-GIA国际证书
 
     * Begin : 2014/12/16 02:11:40
