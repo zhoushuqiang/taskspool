@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 507e1549813494f73100003d suki_jiang
+
+    * Begin : 2014/12/16 04:00:15
+    * End   : 2014/12/16 04:00:16
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 507e1549813494f73100003d suki_jiang
+
+    * Begin : 2014/12/16 04:00:14
+    * End   : 2014/12/16 04:00:15
+    * Result: http://www.weipai.cn/video/548a870da5640bdb278b45a7=>[weipai.cn] 507e1549813494f73100003d (suki_jiang) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a863da5640bb3328b4589
 
     * Begin : 2014/12/16 03:59:56
