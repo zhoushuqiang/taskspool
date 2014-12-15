@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475b7f7a5640b31778b45a4
+
+    * Begin : 2014/12/15 14:54:58
+    * End   : 2014/12/15 14:55:01
+    * Result: => mayuko/weipai.cn/51ac5faf5a8e87197a00004a
+
 * [urlrule] sites weipai.cn UPDATE mayuko
 
     * Begin : 2014/12/15 14:45:07
