@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 545b4851a7640b2f658b45a7 miki夫人
+
+    * Begin : 2014/12/16 07:30:08
+    * End   : 2014/12/16 07:30:09
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548adb20a5640b153b8b45cf
 
     * Begin : 2014/12/16 07:29:54
