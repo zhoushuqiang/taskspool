@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 抗忙昂北鼻够够够
+
+    * Begin : 2014/12/16 07:03:46
+    * End   : 2014/12/16 07:04:36
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 548673e1a6640b89498b459b 抗忙昂北鼻够够够
 
     * Begin : 2014/12/16 07:03:36
