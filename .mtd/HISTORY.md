@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 晴海洋
+
+    * Begin : 2014/12/15 23:25:13
+    * End   : 2014/12/15 23:28:13
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53434e8a9d67d9b73a8b45a3 晴海洋
 
     * Begin : 2014/12/15 23:25:06
