@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548ada55a5640b82698b4571
+
+    * Begin : 2014/12/16 07:26:13
+    * End   : 2014/12/16 07:26:16
+    * Result: => 丝绸裹着性感2/weipai.cn/541e8df9a8640b0b568b4578
+
+* [urlrule] sites weipai.cn UPDATE 丝绸裹着性感2
+
+    * Begin : 2014/12/16 07:26:12
+    * End   : 2014/12/16 07:26:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 541e8df9a8640b0b568b4578 丝绸裹着性感2
+
+    * Begin : 2014/12/16 07:26:12
+    * End   : 2014/12/16 07:26:12
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 541e8df9a8640b0b568b4578 丝绸裹着性感2
+
+    * Begin : 2014/12/16 07:26:10
+    * End   : 2014/12/16 07:26:11
+    * Result: http://www.weipai.cn/video/548ada55a5640b82698b4571=>[weipai.cn] 541e8df9a8640b0b568b4578 (丝绸裹着性感2) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548acd8ca5640be4758b45bd
 
     * Begin : 2014/12/16 07:25:48
