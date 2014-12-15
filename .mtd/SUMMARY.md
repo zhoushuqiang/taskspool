@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE ZeroDis
+
+    * Begin : 2014/12/16 03:07:38
+    * End   : 2014/12/16 03:08:42
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5488688ea5640bc9498b4567 ZeroDis
 
     * Begin : 2014/12/16 03:07:28
