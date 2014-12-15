@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/547532d2a5640bab2b8b45aa
+
+    * Begin : 2014/12/15 12:57:27
+    * End   : 2014/12/15 12:57:50
+    * Result: => 橙子妹妹/weipai.cn/53733130504a13b0508b45a3
+
 * [urlrule] sites weipai.cn UPDATE 橙子妹妹
 
     * Begin : 2014/12/15 12:55:52
