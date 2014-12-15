@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 52cb2fa1803494a06912d82d 近色怡人
+
+    * Begin : 2014/12/16 00:34:28
+    * End   : 2014/12/16 00:34:29
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 52cb2fa1803494a06912d82d 近色怡人
+
+    * Begin : 2014/12/16 00:34:27
+    * End   : 2014/12/16 00:34:28
+    * Result: http://www.weipai.cn/video/54899258a5640b726e8b4594=>[weipai.cn] 52cb2fa1803494a06912d82d (近色怡人) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548991fea5640b21698b458f
 
     * Begin : 2014/12/16 00:34:15
