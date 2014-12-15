@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn UPDATE 陈大榕
+
+    * Begin : 2014/12/16 03:54:53
+    * End   : 2014/12/16 03:55:15
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 50aef9e97f34942d0c00000d 陈大榕
+
+    * Begin : 2014/12/16 03:54:52
+    * End   : 2014/12/16 03:54:53
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 50aef9e97f34942d0c00000d 陈大榕
+
+    * Begin : 2014/12/16 03:54:51
+    * End   : 2014/12/16 03:54:52
+    * Result: http://www.weipai.cn/video/548a83aaa5640b05298b458a=>[weipai.cn] 50aef9e97f34942d0c00000d (陈大榕) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a831ba5640b6a338b457a
 
     * Begin : 2014/12/16 03:53:56
