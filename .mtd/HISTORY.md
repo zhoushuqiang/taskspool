@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn UPDATE 陈诗云97
+
+    * Begin : 2014/12/15 14:40:55
+    * End   : 2014/12/15 14:41:31
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 53ed0e57a6640b3d578b456c 陈诗云97
+
+    * Begin : 2014/12/15 14:40:54
+    * End   : 2014/12/15 14:40:55
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53ed0e57a6640b3d578b456c 陈诗云97
+
+    * Begin : 2014/12/15 14:40:53
+    * End   : 2014/12/15 14:40:54
+    * Result: http://www.weipai.cn/video/5475b4d2a5640b29778b4581=>[weipai.cn] 53ed0e57a6640b3d578b456c (陈诗云97) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475b42fa5640b7c738b45a7
 
     * Begin : 2014/12/15 14:40:26
