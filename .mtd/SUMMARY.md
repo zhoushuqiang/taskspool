@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 5468b9f5a7640b12458b4580 Baby华姿凯歌er
+
+    * Begin : 2014/12/15 20:30:51
+    * End   : 2014/12/15 20:30:51
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54769befa5640bbf058b4591
 
     * Begin : 2014/12/15 20:30:31
