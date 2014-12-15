@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 5470cfc1a5640bfc0d8b458b 小美女云云
+
+    * Begin : 2014/12/16 00:32:09
+    * End   : 2014/12/16 00:32:09
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/54899123a5640baa538b45b3
 
     * Begin : 2014/12/16 00:31:55
