@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476ad12a5640b93138b459c
+
+    * Begin : 2014/12/15 23:14:05
+    * End   : 2014/12/15 23:14:08
+    * Result: => Baby华姿凯歌er/weipai.cn/5468b9f5a7640b12458b4580
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5476acf1a5640b70108b45b7
 
     * Begin : 2014/12/15 23:13:33
