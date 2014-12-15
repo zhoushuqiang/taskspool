@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5475b2c4a5640b63768b4577
+
+    * Begin : 2014/12/15 14:39:34
+    * End   : 2014/12/15 14:39:36
+    * Result: => 梁珂/weipai.cn/52f1d84178d3cc58708b45b4
+
 * [urlrule] sites weipai.cn UPDATE 梁珂
 
     * Begin : 2014/12/15 14:36:59
