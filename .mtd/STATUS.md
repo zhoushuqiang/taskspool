@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 53fa1f57a7640bb41c8b4569 lady小夜猫
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a9ef3a5640bea1a8b45ba
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548a9f53a5640bf52c8b459d
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a9f53a5640bf52c8b459d
@@ -211,6 +210,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 05:23:14] [urlrule] sites weipai.cn UPDATE lady小夜猫
     * [2014/12/16 05:22:36] [urlrule] sites weipai.cn follow 53fa1f57a7640bb41c8b4569 lady小夜猫
     * [2014/12/16 05:22:23] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548a9ea4a5640b761c8b45c2
     * [2014/12/16 05:22:10] [urlrule] sites weipai.cn UPDATE 雅沁

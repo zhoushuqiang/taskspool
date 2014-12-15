@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE lady小夜猫
+
+    * Begin : 2014/12/16 05:22:45
+    * End   : 2014/12/16 05:23:14
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53fa1f57a7640bb41c8b4569 lady小夜猫
 
     * Begin : 2014/12/16 05:22:35
