@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548afae1a5640b2e788b45ab
+
+    * Begin : 2014/12/16 08:30:24
+    * End   : 2014/12/16 08:30:28
+    * Result: => 坎蒂斯小姐/weipai.cn/545a14a1a8640bb8378b4580
+
 * [urlrule] sites weipai.cn UPDATE 坎蒂斯小姐
 
     * Begin : 2014/12/16 08:22:48
