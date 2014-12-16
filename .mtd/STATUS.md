@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 05:19:33] [urlrule] sites weipai.cn update C希人
     * [2014/12/17 05:18:53] [urlrule] sites weipai.cn update Crystal欣
     * [2014/12/17 05:16:54] [urlrule] sites weipai.cn update Christine黄可
     * [2014/12/17 05:15:16] [urlrule] sites weipai.cn update CBMXX

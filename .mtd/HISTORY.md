@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update C希人
+
+    * Begin : 2014/12/17 05:19:10
+    * End   : 2014/12/17 05:19:33
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Crystal欣
 
     * Begin : 2014/12/17 05:17:19
