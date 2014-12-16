@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c04b9a5640b18198b457a
+
+    * Begin : 2014/12/16 19:43:38
+    * End   : 2014/12/16 19:43:44
+    * Result: => 阿鑫很浮躁/weipai.cn/525d60ee7f34945a41eb2187
+
 * [urlrule] sites weipai.cn UPDATE 阿鑫很浮躁
 
     * Begin : 2014/12/16 19:31:57
