@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 杨小琦TY
+
+    * Begin : 2014/12/16 14:03:55
+    * End   : 2014/12/16 14:14:50
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53c78521a5640bd97a8b4569 杨小琦TY
 
     * Begin : 2014/12/16 14:03:44
