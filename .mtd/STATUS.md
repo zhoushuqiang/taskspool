@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c1c6da5640b6b188b456b
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c1e84a5640b66188b4577
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c1e84a5640b66188b4577
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c1f5fa5640b52188b4581
@@ -42,6 +41,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 20:09:16] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c1c6da5640b6b188b456b
     * [2014/12/16 20:08:56] [urlrule] sites weipai.cn UPDATE 林夕baby
     * [2014/12/16 20:06:24] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c0967a5640bbe068b45a4
     * [2014/12/16 20:06:05] [urlrule] sites weipai.cn UPDATE Zz贞

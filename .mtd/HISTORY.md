@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c1c6da5640b6b188b456b
+
+    * Begin : 2014/12/16 20:09:12
+    * End   : 2014/12/16 20:09:16
+    * Result: => 林夕baby/weipai.cn/52dd823bebeddbea038b4632
+
 * [urlrule] sites weipai.cn UPDATE 林夕baby
 
     * Begin : 2014/12/16 20:06:41
