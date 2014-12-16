@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update forgetlethe
+
+    * Begin : 2014/12/17 05:55:29
+    * End   : 2014/12/17 05:57:01
+    * Result: OK
+
 * [urlrule] sites weipai.cn update _金妍熙
 
     * Begin : 2014/12/17 05:53:29
