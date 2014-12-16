@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 张姿彦
+
+    * Begin : 2014/12/16 19:27:46
+    * End   : 2014/12/16 19:28:26
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 52a3f6a39f6c00fe1ebeebee 张姿彦
 
     * Begin : 2014/12/16 19:27:30
