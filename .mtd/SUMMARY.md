@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548ae9f5a5640b0d228b45aa
+
+    * Begin : 2014/12/16 08:10:07
+    * End   : 2014/12/16 08:10:11
+    * Result: => 纯儿宝贝/weipai.cn/517409a17f34947950000004
+
 * [urlrule] sites weipai.cn UPDATE 纯儿宝贝
 
     * Begin : 2014/12/16 07:56:32
