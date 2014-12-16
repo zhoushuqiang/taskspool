@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 张大Ber__r7
+
+    * Begin : 2014/12/17 07:07:17
+    * End   : 2014/12/17 07:08:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/17 07:06:41
