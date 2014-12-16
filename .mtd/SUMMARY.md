@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update NZL-妮子梁
+
+    * Begin : 2014/12/17 05:35:07
+    * End   : 2014/12/17 05:38:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Lusibaby000
 
     * Begin : 2014/12/17 05:33:56
