@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 03:55:56] [urlrule] sites weipai.cn update 芒果小懒猫
     * [2014/12/17 03:54:28] [urlrule] sites weipai.cn update 艾舞kathy
     * [2014/12/17 03:53:34] [urlrule] sites weipai.cn update 般若的每一天
     * [2014/12/17 03:42:10] [urlrule] sites weipai.cn update 索菲娅5200
