@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 52f6f5ca78d3cc7f4c8b4567 慕慕的性感迷死你
+
+    * Begin : 2014/12/16 09:08:49
+    * End   : 2014/12/16 09:08:49
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548b9399a5640b97628b458a
 
     * Begin : 2014/12/16 09:08:35
