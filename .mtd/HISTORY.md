@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 5344d2e99d67d94a2f8b459d 宋佳baby
+
+    * Begin : 2014/12/16 10:04:39
+    * End   : 2014/12/16 10:04:39
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 5344d2e99d67d94a2f8b459d 宋佳baby
+
+    * Begin : 2014/12/16 10:04:37
+    * End   : 2014/12/16 10:04:38
+    * Result: http://www.weipai.cn/video/548bd4b4a5640b472a8b458a=>[weipai.cn] 5344d2e99d67d94a2f8b459d (宋佳baby) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd44aa5640b33168b4593
 
     * Begin : 2014/12/16 10:04:23
