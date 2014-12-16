@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 53ca53dba7640b7f5d8b456d 玉baby
+
+    * Begin : 2014/12/16 09:12:04
+    * End   : 2014/12/16 09:12:04
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 53ca53dba7640b7f5d8b456d 玉baby
+
+    * Begin : 2014/12/16 09:12:02
+    * End   : 2014/12/16 09:12:04
+    * Result: http://www.weipai.cn/video/548bad04a5640bf36f8b4574=>[weipai.cn] 53ca53dba7640b7f5d8b456d (玉baby) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548baba1a5640bae6e8b456c
 
     * Begin : 2014/12/16 09:11:49
