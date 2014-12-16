@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 5251044c813494797e101897 2413621327白易
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bad2da5640bda798b4567
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548baf5ca5640bee6e8b457d
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548baf5ca5640bee6e8b457d
@@ -119,6 +118,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 09:25:10] [urlrule] sites weipai.cn UPDATE 2413621327白易
     * [2014/12/16 09:14:51] [urlrule] sites weipai.cn follow 5251044c813494797e101897 2413621327白易
     * [2014/12/16 09:14:39] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bad04a5640bf36f8b4574
     * [2014/12/16 09:14:26] [urlrule] sites weipai.cn UPDATE 玉baby
