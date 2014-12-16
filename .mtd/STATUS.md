@@ -1,6 +1,8 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn update 独爱简单控
 * Finished:
     * [2014/12/16 23:13:23] [urlrule] sites weipai.cn update 洛可馨
     * [2014/12/16 23:04:39] [urlrule] sites weipai.cn update 没有鼻梁的姑娘
@@ -530,6 +532,23 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/16 23:16:03] [urlrule] sites weipai.cn update 狐狸要成精LZ去死
+    * [2014/12/16 23:15:59] [urlrule] sites weipai.cn update 爱爱微拍
+    * [2014/12/16 23:15:56] [urlrule] sites weipai.cn update 燕囡囡
+    * [2014/12/16 23:15:51] [urlrule] sites vlook.cn update 熙悦儿丶
+    * [2014/12/16 23:15:33] [urlrule] sites weipai.cn update 熊葵
+    * [2014/12/16 23:15:30] [urlrule] sites weipai.cn update 然又又
+    * [2014/12/16 23:15:25] [urlrule] sites vlook.cn update 激情一夏
+    * [2014/12/16 23:15:07] [urlrule] sites weipai.cn update 澄小兔
+    * [2014/12/16 23:15:01] [urlrule] sites weipai.cn update 潘潘20140413
+    * [2014/12/16 23:14:56] [urlrule] sites weipai.cn update 潘小云云
+    * [2014/12/16 23:14:51] [urlrule] sites weipai.cn update 满天都是小鑫鑫_
+    * [2014/12/16 23:14:48] [urlrule] sites weipai.cn update 溅行溅美
+    * [2014/12/16 23:14:43] [urlrule] sites weipai.cn update 湯大师
+    * [2014/12/16 23:14:40] [urlrule] sites weipai.cn update 混血演员安娜
+    * [2014/12/16 23:14:37] [urlrule] sites weipai.cn update 涵肉肉
+    * [2014/12/16 23:14:33] [urlrule] sites weipai.cn update 浮生若梦
+    * [2014/12/16 23:14:27] [urlrule] sites weipai.cn update 洛熙爱爱
     * [2014/12/16 23:05:26] [urlrule] sites weipai.cn update 波波小姐
     * [2014/12/16 22:56:39] [urlrule] sites weipai.cn update 沈希JOY
     * [2014/12/16 22:56:36] [urlrule] sites weipai.cn update 江宣
