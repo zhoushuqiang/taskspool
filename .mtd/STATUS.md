@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 06:34:31] [urlrule] sites weipai.cn update 嘉昕
     * [2014/12/17 06:33:34] [urlrule] sites weipai.cn update 吴美昕Yumi
     * [2014/12/17 06:32:42] [urlrule] sites weipai.cn update 叫我超哥
     * [2014/12/17 06:29:31] [urlrule] sites weipai.cn update 古小丽Lily
@@ -117,6 +118,17 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 06:34:19] [urlrule] sites weipai.cn update 唐馨baby
+    * [2014/12/17 06:34:17] [urlrule] sites weipai.cn update 响姐----
+    * [2014/12/17 06:34:14] [urlrule] sites weipai.cn update 哈力牛仔
+    * [2014/12/17 06:34:12] [urlrule] sites vlook.cn update 咪咪宝贝爱爱
+    * [2014/12/17 06:34:07] [urlrule] sites weipai.cn update 咪-Queen
+    * [2014/12/17 06:34:04] [urlrule] sites weipai.cn update 周珊珊shine
+    * [2014/12/17 06:34:02] [urlrule] sites weipai.cn update 周泊霖cutey
+    * [2014/12/17 06:33:59] [urlrule] sites weipai.cn update 周月月
+    * [2014/12/17 06:33:57] [urlrule] sites weipai.cn update 周OK
+    * [2014/12/17 06:33:54] [urlrule] sites weipai.cn update 呗呗兔
+    * [2014/12/17 06:33:50] [urlrule] sites weipai.cn update 吴雨晴
     * [2014/12/17 06:33:21] [urlrule] sites weipai.cn update 吴红珊
     * [2014/12/17 06:33:19] [urlrule] sites weipai.cn update 吴婉婷
     * [2014/12/17 06:33:16] [urlrule] sites weipai.cn update 吕夫人
