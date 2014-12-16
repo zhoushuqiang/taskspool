@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 06:03:57] [urlrule] sites weipai.cn update vamipre小妖
     * [2014/12/17 06:02:39] [urlrule task] update urlrule/task/follows.txt
     * [2014/12/17 06:02:10] [urlrule] sites weipai.cn update sukiyoyo001
     * [2014/12/17 06:00:56] [urlrule] sites weipai.cn update oliviababy
