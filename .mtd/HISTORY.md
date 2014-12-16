@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c2c9aa5640bc44b8b45bb
+
+    * Begin : 2014/12/16 21:15:20
+    * End   : 2014/12/16 21:15:25
+    * Result: => 把你家户口本拿出来看看/weipai.cn/53a0eaf6813494354b27037e
+
+* [urlrule] sites weipai.cn UPDATE 把你家户口本拿出来看看
+
+    * Begin : 2014/12/16 21:15:19
+    * End   : 2014/12/16 21:15:19
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53a0eaf6813494354b27037e 把你家户口本拿出来看看
+
+    * Begin : 2014/12/16 21:15:18
+    * End   : 2014/12/16 21:15:19
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53a0eaf6813494354b27037e 把你家户口本拿出来看看
+
+    * Begin : 2014/12/16 21:15:16
+    * End   : 2014/12/16 21:15:18
+    * Result: http://www.weipai.cn/video/548c2c9aa5640bc44b8b45bb=>[weipai.cn] 53a0eaf6813494354b27037e (把你家户口本拿出来看看) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c2c8ca5640ba44b8b45b7
 
     * Begin : 2014/12/16 21:12:50
