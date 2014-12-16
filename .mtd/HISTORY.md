@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update Aigirl拽丫头
+
+    * Begin : 2014/12/17 05:01:38
+    * End   : 2014/12/17 05:01:47
+    * Result: OK
+
+* [urlrule] sites vlook.cn update Adela_chiang
+
+    * Begin : 2014/12/17 05:01:34
+    * End   : 2014/12/17 05:01:36
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Adela_chiang
 
     * Begin : 2014/12/17 04:57:18

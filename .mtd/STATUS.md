@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 05:01:47] [urlrule] sites weipai.cn update Aigirl拽丫头
     * [2014/12/17 05:01:12] [urlrule] sites weipai.cn update Adela_chiang
     * [2014/12/17 04:56:43] [urlrule] sites weipai.cn update 84剩女姐
     * [2014/12/17 04:54:58] [urlrule] sites weipai.cn update 20131211281
@@ -63,6 +64,7 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 05:01:36] [urlrule] sites vlook.cn update Adela_chiang
     * [2014/12/17 04:57:16] [urlrule] sites weipai.cn update Abbymiki
     * [2014/12/17 04:57:14] [urlrule] sites weipai.cn update Abby_徐惠雪
     * [2014/12/17 04:57:11] [urlrule] sites weipai.cn update ANGELG
