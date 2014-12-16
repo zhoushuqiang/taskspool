@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 诗卉95113
+
+    * Begin : 2014/12/17 04:11:21
+    * End   : 2014/12/17 04:11:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 西瓜姑娘
 
     * Begin : 2014/12/17 04:10:36
