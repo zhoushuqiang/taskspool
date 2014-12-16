@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 06:20:16] [urlrule] sites weipai.cn update 你娜爷
     * [2014/12/17 06:19:06] [urlrule] sites weipai.cn update 他不懂我的xin
     * [2014/12/17 06:16:45] [urlrule] sites weipai.cn update 乐怡
     * [2014/12/17 06:08:24] [urlrule] sites weipai.cn update 丹梦妮ooloo
@@ -106,6 +107,11 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 06:19:32] [urlrule] sites weipai.cn update 何佳琪baby
+    * [2014/12/17 06:19:29] [urlrule] sites weipai.cn update 优优Baby
+    * [2014/12/17 06:19:27] [urlrule] sites weipai.cn update 以我之名祭你风华初成
+    * [2014/12/17 06:19:24] [urlrule] sites weipai.cn update 仙德瑞拉_模特经纪
+    * [2014/12/17 06:19:22] [urlrule] sites weipai.cn update 仙女大人
     * [2014/12/17 06:17:17] [urlrule] sites weipai.cn update 亿艾儿-baby
     * [2014/12/17 06:17:15] [urlrule] sites weipai.cn update 于小慧
     * [2014/12/17 06:17:11] [urlrule] sites weipai.cn update 于安朵

@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 你娜爷
+
+    * Begin : 2014/12/17 06:19:34
+    * End   : 2014/12/17 06:20:16
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 他不懂我的xin
 
     * Begin : 2014/12/17 06:17:19
