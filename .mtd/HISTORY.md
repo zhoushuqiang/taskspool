@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update Crystal欣
+
+    * Begin : 2014/12/17 05:17:19
+    * End   : 2014/12/17 05:18:53
+    * Result: OK
+
+* [urlrule] sites weipai.cn update CoCo_安妮
+
+    * Begin : 2014/12/17 05:17:17
+    * End   : 2014/12/17 05:17:17
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Christine黄可
+
+    * Begin : 2014/12/17 05:17:12
+    * End   : 2014/12/17 05:17:15
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Christine黄可
 
     * Begin : 2014/12/17 05:15:49
