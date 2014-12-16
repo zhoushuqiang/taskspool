@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 曹紫涵
+
+    * Begin : 2014/12/16 22:48:08
+    * End   : 2014/12/16 22:48:41
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 曹欣妮s
+
+    * Begin : 2014/12/16 22:48:03
+    * End   : 2014/12/16 22:48:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曲珈叶
+
+    * Begin : 2014/12/16 22:48:01
+    * End   : 2014/12/16 22:48:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 暗黑小萝莉
+
+    * Begin : 2014/12/16 22:47:58
+    * End   : 2014/12/16 22:47:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 晴海洋
+
+    * Begin : 2014/12/16 22:47:56
+    * End   : 2014/12/16 22:47:57
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 景小姐景小姐
 
     * Begin : 2014/12/16 22:44:54

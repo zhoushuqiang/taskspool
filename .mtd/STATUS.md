@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/16 22:48:41] [urlrule] sites weipai.cn update 曹紫涵
     * [2014/12/16 22:47:40] [urlrule] sites weipai.cn update 景小姐景小姐
     * [2014/12/16 22:44:20] [urlrule] sites weipai.cn update 无名指的等待20141002
     * [2014/12/16 22:39:24] [urlrule] sites weipai.cn update 扯起鸡儿弹蹦蹦
@@ -523,6 +524,10 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/16 22:48:05] [urlrule] sites weipai.cn update 曹欣妮s
+    * [2014/12/16 22:48:02] [urlrule] sites weipai.cn update 曲珈叶
+    * [2014/12/16 22:47:59] [urlrule] sites weipai.cn update 暗黑小萝莉
+    * [2014/12/16 22:47:57] [urlrule] sites weipai.cn update 晴海洋
     * [2014/12/16 22:44:52] [urlrule] sites weipai.cn update 晨yoka
     * [2014/12/16 22:44:48] [urlrule] sites weipai.cn update 晕死的大白兔
     * [2014/12/16 22:44:46] [urlrule] sites weipai.cn update 晓彗大大大
