@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update RAE-瑞儿
+
+    * Begin : 2014/12/17 05:39:09
+    * End   : 2014/12/17 05:39:21
+    * Result: OK
+
 * [urlrule] sites weipai.cn update NZL-妮子梁
 
     * Begin : 2014/12/17 05:35:07

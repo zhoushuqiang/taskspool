@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 05:39:21] [urlrule] sites weipai.cn update RAE-瑞儿
     * [2014/12/17 05:38:39] [urlrule] sites weipai.cn update NZL-妮子梁
     * [2014/12/17 05:34:19] [urlrule] sites weipai.cn update Lusibaby000
     * [2014/12/17 05:33:31] [urlrule] sites weipai.cn update Lolita4ever
@@ -82,6 +83,10 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 05:39:07] [urlrule] sites weipai.cn update Queen-婷婷
+    * [2014/12/17 05:39:05] [urlrule] sites vlook.cn update Q1335467161
+    * [2014/12/17 05:39:00] [urlrule] sites weipai.cn update PAPAGAO-
+    * [2014/12/17 05:38:58] [urlrule] sites weipai.cn update Never沛妮
     * [2014/12/17 05:35:05] [urlrule] sites vlook.cn update Ms琳
     * [2014/12/17 05:35:01] [urlrule] sites weipai.cn update Monika1991
     * [2014/12/17 05:34:58] [urlrule] sites weipai.cn update Miya_妈咪
