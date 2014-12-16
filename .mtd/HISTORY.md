@@ -1,3 +1,153 @@
+* [urlrule] sites weipai.cn update 阿朵拉Adora
+
+    * Begin : 2014/12/17 04:13:05
+    * End   : 2014/12/17 04:14:45
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 长裙飘飘21
+
+    * Begin : 2014/12/17 04:13:01
+    * End   : 2014/12/17 04:13:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 长裙飘飘21
+
+    * Begin : 2014/12/17 04:12:58
+    * End   : 2014/12/17 04:12:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 铁粉1号
+
+    * Begin : 2014/12/17 04:12:55
+    * End   : 2014/12/17 04:12:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 钱小美
+
+    * Begin : 2014/12/17 04:12:52
+    * End   : 2014/12/17 04:12:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 钟紫心
+
+    * Begin : 2014/12/17 04:12:49
+    * End   : 2014/12/17 04:12:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 金金金金小沙
+
+    * Begin : 2014/12/17 04:12:47
+    * End   : 2014/12/17 04:12:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 重头再来20141107
+
+    * Begin : 2014/12/17 04:12:45
+    * End   : 2014/12/17 04:12:45
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 酔熱舆Beer
+
+    * Begin : 2014/12/17 04:12:39
+    * End   : 2014/12/17 04:12:42
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 酒窝妹子
+
+    * Begin : 2014/12/17 04:12:37
+    * End   : 2014/12/17 04:12:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 酒才是最忠诚的男朋友
+
+    * Begin : 2014/12/17 04:12:34
+    * End   : 2014/12/17 04:12:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 郑菲儿
+
+    * Begin : 2014/12/17 04:12:32
+    * End   : 2014/12/17 04:12:33
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 郑瑞熙_
+
+    * Begin : 2014/12/17 04:12:30
+    * End   : 2014/12/17 04:12:31
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 郑安然
+
+    * Begin : 2014/12/17 04:12:27
+    * End   : 2014/12/17 04:12:28
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 邻家猴猴
+
+    * Begin : 2014/12/17 04:12:24
+    * End   : 2014/12/17 04:12:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 逐光流云20140912
+
+    * Begin : 2014/12/17 04:12:22
+    * End   : 2014/12/17 04:12:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 近色怡人
+
+    * Begin : 2014/12/17 04:12:19
+    * End   : 2014/12/17 04:12:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 辣妈ai美丽
+
+    * Begin : 2014/12/17 04:12:17
+    * End   : 2014/12/17 04:12:17
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 软萌妹
+
+    * Begin : 2014/12/17 04:12:12
+    * End   : 2014/12/17 04:12:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 赵有根
+
+    * Begin : 2014/12/17 04:12:10
+    * End   : 2014/12/17 04:12:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 豆妞妞
+
+    * Begin : 2014/12/17 04:12:08
+    * End   : 2014/12/17 04:12:08
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 谭昙
+
+    * Begin : 2014/12/17 04:12:05
+    * End   : 2014/12/17 04:12:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 请叫我二爷_Su
+
+    * Begin : 2014/12/17 04:12:02
+    * End   : 2014/12/17 04:12:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 语儿
+
+    * Begin : 2014/12/17 04:11:59
+    * End   : 2014/12/17 04:12:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 诗梓佳Kitty
+
+    * Begin : 2014/12/17 04:11:56
+    * End   : 2014/12/17 04:11:57
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 诗卉95113
 
     * Begin : 2014/12/17 04:11:21

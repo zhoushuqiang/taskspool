@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 04:14:45] [urlrule] sites weipai.cn update 阿朵拉Adora
     * [2014/12/17 04:11:39] [urlrule] sites weipai.cn update 诗卉95113
     * [2014/12/17 04:10:54] [urlrule] sites weipai.cn update 西瓜姑娘
     * [2014/12/17 04:09:44] [urlrule] sites weipai.cn update 薇妮BABY
@@ -27,6 +28,30 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 04:13:03] [urlrule] sites vlook.cn update 长裙飘飘21
+    * [2014/12/17 04:12:59] [urlrule] sites weipai.cn update 长裙飘飘21
+    * [2014/12/17 04:12:56] [urlrule] sites weipai.cn update 铁粉1号
+    * [2014/12/17 04:12:53] [urlrule] sites weipai.cn update 钱小美
+    * [2014/12/17 04:12:50] [urlrule] sites weipai.cn update 钟紫心
+    * [2014/12/17 04:12:48] [urlrule] sites weipai.cn update 金金金金小沙
+    * [2014/12/17 04:12:45] [urlrule] sites weipai.cn update 重头再来20141107
+    * [2014/12/17 04:12:42] [urlrule] sites vlook.cn update 酔熱舆Beer
+    * [2014/12/17 04:12:38] [urlrule] sites weipai.cn update 酒窝妹子
+    * [2014/12/17 04:12:35] [urlrule] sites weipai.cn update 酒才是最忠诚的男朋友
+    * [2014/12/17 04:12:33] [urlrule] sites weipai.cn update 郑菲儿
+    * [2014/12/17 04:12:31] [urlrule] sites weipai.cn update 郑瑞熙_
+    * [2014/12/17 04:12:28] [urlrule] sites weipai.cn update 郑安然
+    * [2014/12/17 04:12:25] [urlrule] sites weipai.cn update 邻家猴猴
+    * [2014/12/17 04:12:23] [urlrule] sites weipai.cn update 逐光流云20140912
+    * [2014/12/17 04:12:20] [urlrule] sites weipai.cn update 近色怡人
+    * [2014/12/17 04:12:17] [urlrule] sites weipai.cn update 辣妈ai美丽
+    * [2014/12/17 04:12:15] [urlrule] sites vlook.cn update 软萌妹
+    * [2014/12/17 04:12:11] [urlrule] sites weipai.cn update 赵有根
+    * [2014/12/17 04:12:08] [urlrule] sites weipai.cn update 豆妞妞
+    * [2014/12/17 04:12:06] [urlrule] sites weipai.cn update 谭昙
+    * [2014/12/17 04:12:03] [urlrule] sites weipai.cn update 请叫我二爷_Su
+    * [2014/12/17 04:12:00] [urlrule] sites weipai.cn update 语儿
+    * [2014/12/17 04:11:57] [urlrule] sites weipai.cn update 诗梓佳Kitty
     * [2014/12/17 04:11:19] [urlrule] sites weipai.cn update 许小雪S
     * [2014/12/17 04:11:17] [urlrule] sites weipai.cn update 許曼妮
     * [2014/12/17 04:11:15] [urlrule] sites weipai.cn update 角落宝贝

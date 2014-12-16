@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 阿朵拉Adora
+
+    * Begin : 2014/12/17 04:13:05
+    * End   : 2014/12/17 04:14:45
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 诗卉95113
 
     * Begin : 2014/12/17 04:11:21
