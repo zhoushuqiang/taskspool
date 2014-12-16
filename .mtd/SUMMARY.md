@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update DM靜兒
+
+    * Begin : 2014/12/17 05:20:04
+    * End   : 2014/12/17 05:22:00
+    * Result: OK
+
 * [urlrule] sites weipai.cn update C希人
 
     * Begin : 2014/12/17 05:19:10

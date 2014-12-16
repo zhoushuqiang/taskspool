@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 05:22:00] [urlrule] sites weipai.cn update DM靜兒
     * [2014/12/17 05:19:33] [urlrule] sites weipai.cn update C希人
     * [2014/12/17 05:18:53] [urlrule] sites weipai.cn update Crystal欣
     * [2014/12/17 05:16:54] [urlrule] sites weipai.cn update Christine黄可
@@ -72,6 +73,11 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 05:20:02] [urlrule] sites vlook.cn update DJ_Ricey
+    * [2014/12/17 05:20:00] [urlrule] sites weipai.cn update DJ_Ricey
+    * [2014/12/17 05:19:57] [urlrule] sites weipai.cn update DJ-TiMi
+    * [2014/12/17 05:19:55] [urlrule] sites vlook.cn update DJ-CC
+    * [2014/12/17 05:19:51] [urlrule] sites weipai.cn update DJ-CC
     * [2014/12/17 05:17:17] [urlrule] sites weipai.cn update CoCo_安妮
     * [2014/12/17 05:17:15] [urlrule] sites vlook.cn update Christine黄可
     * [2014/12/17 05:15:47] [urlrule] sites weipai.cn update Cello

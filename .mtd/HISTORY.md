@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update DM靜兒
+
+    * Begin : 2014/12/17 05:20:04
+    * End   : 2014/12/17 05:22:00
+    * Result: OK
+
+* [urlrule] sites vlook.cn update DJ_Ricey
+
+    * Begin : 2014/12/17 05:20:01
+    * End   : 2014/12/17 05:20:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update DJ_Ricey
+
+    * Begin : 2014/12/17 05:19:59
+    * End   : 2014/12/17 05:20:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update DJ-TiMi
+
+    * Begin : 2014/12/17 05:19:56
+    * End   : 2014/12/17 05:19:57
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update DJ-CC
+
+    * Begin : 2014/12/17 05:19:55
+    * End   : 2014/12/17 05:19:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update DJ-CC
+
+    * Begin : 2014/12/17 05:19:50
+    * End   : 2014/12/17 05:19:51
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update C希人
 
     * Begin : 2014/12/17 05:19:10
