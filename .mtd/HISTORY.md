@@ -1,3 +1,204 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
+
+    * Begin : 2014/12/17 04:30:11
+    * End   : 2014/12/17 04:36:59
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 淼菟菟-
+
+
+    * Begin : 2014/12/17 04:30:08
+    * End   : 2014/12/17 04:30:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 531f3a3aebeddb5e508b45a4 淼菟菟-
+
+
+    * Begin : 2014/12/17 04:30:07
+    * End   : 2014/12/17 04:30:08
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 531f3a3aebeddb5e508b45a4 淼菟菟-
+
+
+    * Begin : 2014/12/17 04:30:07
+    * End   : 2014/12/17 04:30:07
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 画泪听雨眠
+
+
+    * Begin : 2014/12/17 04:30:04
+    * End   : 2014/12/17 04:30:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 515f6dfb7f34942f6500000a 画泪听雨眠
+
+
+    * Begin : 2014/12/17 04:30:03
+    * End   : 2014/12/17 04:30:04
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 515f6dfb7f34942f6500000a 画泪听雨眠
+
+
+    * Begin : 2014/12/17 04:30:03
+    * End   : 2014/12/17 04:30:03
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 台灣出產-蜜卡妹子
+
+
+    * Begin : 2014/12/17 04:30:01
+    * End   : 2014/12/17 04:30:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 545fac68a8640bd2438b4574 台灣出產-蜜卡妹子
+
+
+    * Begin : 2014/12/17 04:30:00
+    * End   : 2014/12/17 04:30:01
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 545fac68a8640bd2438b4574 台灣出產-蜜卡妹子
+
+
+    * Begin : 2014/12/17 04:30:00
+    * End   : 2014/12/17 04:30:00
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 莹小白
+
+
+    * Begin : 2014/12/17 04:29:58
+    * End   : 2014/12/17 04:29:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5337a885504a13c6408b4571 莹小白
+
+
+    * Begin : 2014/12/17 04:29:57
+    * End   : 2014/12/17 04:29:58
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5337a885504a13c6408b4571 莹小白
+
+
+    * Begin : 2014/12/17 04:29:57
+    * End   : 2014/12/17 04:29:57
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE Jun20141205
+
+
+    * Begin : 2014/12/17 04:29:54
+    * End   : 2014/12/17 04:29:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5481983ba5640b0d2d8b45d9 Jun20141205
+
+
+    * Begin : 2014/12/17 04:29:54
+    * End   : 2014/12/17 04:29:54
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5481983ba5640b0d2d8b45d9 Jun20141205
+
+
+    * Begin : 2014/12/17 04:29:54
+    * End   : 2014/12/17 04:29:54
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE Alla-王愛
+
+
+    * Begin : 2014/12/17 04:29:51
+    * End   : 2014/12/17 04:29:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52e192f179d3cceb238b45a0 Alla-王愛
+
+
+    * Begin : 2014/12/17 04:29:51
+    * End   : 2014/12/17 04:29:51
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52e192f179d3cceb238b45a0 Alla-王愛
+
+
+    * Begin : 2014/12/17 04:29:51
+    * End   : 2014/12/17 04:29:51
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE aling_888
+
+
+    * Begin : 2014/12/17 04:29:48
+    * End   : 2014/12/17 04:29:49
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 519e39d45d8e87f706000007 aling_888
+
+
+    * Begin : 2014/12/17 04:29:48
+    * End   : 2014/12/17 04:29:48
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 519e39d45d8e87f706000007 aling_888
+
+
+    * Begin : 2014/12/17 04:29:47
+    * End   : 2014/12/17 04:29:48
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 菲飞飞
+
+
+    * Begin : 2014/12/17 04:29:45
+    * End   : 2014/12/17 04:29:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53f08ff2a8640b557f8b459f 菲飞飞
+
+
+    * Begin : 2014/12/17 04:29:45
+    * End   : 2014/12/17 04:29:45
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53f08ff2a8640b557f8b459f 菲飞飞
+
+
+    * Begin : 2014/12/17 04:29:45
+    * End   : 2014/12/17 04:29:45
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 心宁儿cecilia
+
+
+    * Begin : 2014/12/17 04:29:43
+    * End   : 2014/12/17 04:29:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 51f91bc881349422360000f3 心宁儿cecilia
+
+
+    * Begin : 2014/12/17 04:29:41
+    * End   : 2014/12/17 04:29:43
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 51f91bc881349422360000f3 心宁儿cecilia
+
+
+    * Begin : 2014/12/17 04:29:41
+    * End   : 2014/12/17 04:29:41
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn update 龙儿20140330
+
+    * Begin : 2014/12/17 04:29:36
+    * End   : 2014/12/17 04:29:37
+    * Result: Nothing to do
+
 * [urlrule] sites vlook.cn update 黒目瞳
 
     * Begin : 2014/12/17 04:28:57

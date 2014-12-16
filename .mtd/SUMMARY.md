@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
+
+    * Begin : 2014/12/17 04:30:11
+    * End   : 2014/12/17 04:36:59
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 黒目瞳
 
     * Begin : 2014/12/17 04:28:57

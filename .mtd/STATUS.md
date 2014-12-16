@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 04:36:59] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
     * [2014/12/17 04:29:17] [urlrule] sites vlook.cn update 黒目瞳
     * [2014/12/17 04:28:27] [urlrule] sites weipai.cn update 黑桃女王
     * [2014/12/17 04:27:22] [urlrule] sites weipai.cn update 黄没没-
@@ -39,6 +40,61 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 04:30:09] [urlrule] sites weipai.cn UPDATE 淼菟菟-
+
+    * [2014/12/17 04:30:08] [urlrule] sites weipai.cn follow 531f3a3aebeddb5e508b45a4 淼菟菟-
+
+    * [2014/12/17 04:30:07] [urlrule] sites weipai.cn add 531f3a3aebeddb5e508b45a4 淼菟菟-
+
+    * [2014/12/17 04:30:05] [urlrule] sites weipai.cn UPDATE 画泪听雨眠
+
+    * [2014/12/17 04:30:04] [urlrule] sites weipai.cn follow 515f6dfb7f34942f6500000a 画泪听雨眠
+
+    * [2014/12/17 04:30:03] [urlrule] sites weipai.cn add 515f6dfb7f34942f6500000a 画泪听雨眠
+
+    * [2014/12/17 04:30:02] [urlrule] sites weipai.cn UPDATE 台灣出產-蜜卡妹子
+
+    * [2014/12/17 04:30:01] [urlrule] sites weipai.cn follow 545fac68a8640bd2438b4574 台灣出產-蜜卡妹子
+
+    * [2014/12/17 04:30:00] [urlrule] sites weipai.cn add 545fac68a8640bd2438b4574 台灣出產-蜜卡妹子
+
+    * [2014/12/17 04:29:59] [urlrule] sites weipai.cn UPDATE 莹小白
+
+    * [2014/12/17 04:29:58] [urlrule] sites weipai.cn follow 5337a885504a13c6408b4571 莹小白
+
+    * [2014/12/17 04:29:57] [urlrule] sites weipai.cn add 5337a885504a13c6408b4571 莹小白
+
+    * [2014/12/17 04:29:55] [urlrule] sites weipai.cn UPDATE Jun20141205
+
+    * [2014/12/17 04:29:54] [urlrule] sites weipai.cn follow 5481983ba5640b0d2d8b45d9 Jun20141205
+
+    * [2014/12/17 04:29:54] [urlrule] sites weipai.cn add 5481983ba5640b0d2d8b45d9 Jun20141205
+
+    * [2014/12/17 04:29:52] [urlrule] sites weipai.cn UPDATE Alla-王愛
+
+    * [2014/12/17 04:29:51] [urlrule] sites weipai.cn follow 52e192f179d3cceb238b45a0 Alla-王愛
+
+    * [2014/12/17 04:29:51] [urlrule] sites weipai.cn add 52e192f179d3cceb238b45a0 Alla-王愛
+
+    * [2014/12/17 04:29:49] [urlrule] sites weipai.cn UPDATE aling_888
+
+    * [2014/12/17 04:29:48] [urlrule] sites weipai.cn follow 519e39d45d8e87f706000007 aling_888
+
+    * [2014/12/17 04:29:48] [urlrule] sites weipai.cn add 519e39d45d8e87f706000007 aling_888
+
+    * [2014/12/17 04:29:46] [urlrule] sites weipai.cn UPDATE 菲飞飞
+
+    * [2014/12/17 04:29:45] [urlrule] sites weipai.cn follow 53f08ff2a8640b557f8b459f 菲飞飞
+
+    * [2014/12/17 04:29:45] [urlrule] sites weipai.cn add 53f08ff2a8640b557f8b459f 菲飞飞
+
+    * [2014/12/17 04:29:43] [urlrule] sites weipai.cn UPDATE 心宁儿cecilia
+
+    * [2014/12/17 04:29:43] [urlrule] sites weipai.cn follow 51f91bc881349422360000f3 心宁儿cecilia
+
+    * [2014/12/17 04:29:41] [urlrule] sites weipai.cn add 51f91bc881349422360000f3 心宁儿cecilia
+
+    * [2014/12/17 04:29:37] [urlrule] sites weipai.cn update 龙儿20140330
     * [2014/12/17 04:28:55] [urlrule] sites weipai.cn update 黒目瞳
     * [2014/12/17 04:28:52] [urlrule] sites weipai.cn update 黑金色会飞的鱼
     * [2014/12/17 04:27:47] [urlrule] sites weipai.cn update 黑三小幺
