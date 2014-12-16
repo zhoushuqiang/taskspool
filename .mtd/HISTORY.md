@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update Hugme20141119
+
+    * Begin : 2014/12/17 05:29:46
+    * End   : 2014/12/17 05:31:10
+    * Result: OK
+
+* [urlrule] sites weipai.cn update HellenBaby_
+
+    * Begin : 2014/12/17 05:29:43
+    * End   : 2014/12/17 05:29:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Godismyfather
+
+    * Begin : 2014/12/17 05:29:41
+    * End   : 2014/12/17 05:29:42
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Gaby_Kim金慧嫄
+
+    * Begin : 2014/12/17 05:29:36
+    * End   : 2014/12/17 05:29:39
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Fox_00
 
     * Begin : 2014/12/17 05:28:36
