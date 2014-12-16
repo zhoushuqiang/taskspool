@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 04:48:08] [urlrule] sites weipai.cn UPDATE 王蜜娅Mia
+
     * [2014/12/17 04:46:06] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
     * [2014/12/17 04:45:48] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/17 04:45:18] [urlrule] sites weipai.cn UPDATE 安妮Annie
@@ -52,6 +54,10 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 04:46:25] [urlrule] sites weipai.cn follow 50274a227f349423710001e2 王蜜娅Mia
+
+    * [2014/12/17 04:46:25] [urlrule] sites weipai.cn add 50274a227f349423710001e2 王蜜娅Mia
+
     * [2014/12/17 04:45:45] [urlrule] sites weipai.cn UPDATE 张馨馨Maggie
 
     * [2014/12/17 04:45:44] [urlrule] sites weipai.cn follow 50051ba37f3494ff4f000245 张馨馨Maggie
