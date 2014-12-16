@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 懒虫baby
+
+    * Begin : 2014/12/16 22:37:26
+    * End   : 2014/12/16 22:38:29
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 慕慕的性感迷死你
+
+    * Begin : 2014/12/16 22:37:24
+    * End   : 2014/12/16 22:37:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 悦儿yummy
+
+    * Begin : 2014/12/16 22:37:22
+    * End   : 2014/12/16 22:37:22
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 恋姗妮
 
     * Begin : 2014/12/16 22:36:59

@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/16 22:38:29] [urlrule] sites weipai.cn update 懒虫baby
     * [2014/12/16 22:37:06] [urlrule] sites weipai.cn update 恋姗妮
     * [2014/12/16 22:36:17] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     * [2014/12/16 22:35:58] [urlrule] sites weipai.cn UPDATE ljylovesjy
@@ -519,6 +520,8 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/16 22:37:25] [urlrule] sites weipai.cn update 慕慕的性感迷死你
+    * [2014/12/16 22:37:22] [urlrule] sites weipai.cn update 悦儿yummy
     * [2014/12/16 22:36:57] [urlrule] sites vlook.cn update 性感女神研研
     * [2014/12/16 22:36:53] [urlrule] sites weipai.cn update 性感像多花
     * [2014/12/16 22:36:50] [urlrule] sites weipai.cn update 忧伤的黄瓜1
