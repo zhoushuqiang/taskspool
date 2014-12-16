@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 甜美人angela
+
+    * Begin : 2014/12/16 21:37:18
+    * End   : 2014/12/16 21:39:06
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 529a8b54504a130e208b4569 甜美人angela
 
     * Begin : 2014/12/16 21:37:05
