@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 麦子orSkala
+
+    * Begin : 2014/12/17 04:22:32
+    * End   : 2014/12/17 04:22:40
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 颖小姐
 
     * Begin : 2014/12/17 04:21:09
