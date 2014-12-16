@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 徐妍馨Mandy
+
+    * Begin : 2014/12/17 07:14:50
+    * End   : 2014/12/17 07:15:28
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 张若兰
 
     * Begin : 2014/12/17 07:13:53
