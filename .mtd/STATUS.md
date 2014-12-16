@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 06:38:24] [urlrule] sites weipai.cn update 女超人
     * [2014/12/17 06:37:57] [urlrule] sites weipai.cn update 女神集团
     * [2014/12/17 06:37:33] [urlrule] sites weipai.cn update 女王女王陛下
     * [2014/12/17 06:36:52] [urlrule] sites weipai.cn update 大芹
