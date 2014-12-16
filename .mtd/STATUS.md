@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 06:02:39] [urlrule task] update urlrule/task/follows.txt
     * [2014/12/17 06:02:10] [urlrule] sites weipai.cn update sukiyoyo001
     * [2014/12/17 06:00:56] [urlrule] sites weipai.cn update oliviababy
     * [2014/12/17 05:59:42] [urlrule] sites weipai.cn update love雯雯
@@ -98,6 +99,8 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 06:02:33] [urlrule] sites weipai.cn update tina晨曦
+    * [2014/12/17 06:02:30] [urlrule] sites weipai.cn update suna2411
     * [2014/12/17 06:01:46] [urlrule] sites weipai.cn update suki_jiang
     * [2014/12/17 06:01:43] [urlrule] sites weipai.cn update soso蕊
     * [2014/12/17 06:01:41] [urlrule] sites vlook.cn update Toughgirl
