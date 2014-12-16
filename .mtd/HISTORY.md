@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 529a8b54504a130e208b4569 甜美人angela
+
+    * Begin : 2014/12/16 21:37:05
+    * End   : 2014/12/16 21:37:06
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 529a8b54504a130e208b4569 甜美人angela
+
+    * Begin : 2014/12/16 21:37:03
+    * End   : 2014/12/16 21:37:05
+    * Result: http://www.weipai.cn/video/548c303da5640baf728b4589=>[weipai.cn] 529a8b54504a130e208b4569 (甜美人angela) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c2f29a5640b3f738b4577
 
     * Begin : 2014/12/16 21:36:37
