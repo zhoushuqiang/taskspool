@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 545a14a1a8640bb8378b4580 坎蒂斯小姐
+
+    * Begin : 2014/12/16 08:22:38
+    * End   : 2014/12/16 08:22:38
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548af95da5640b34798b4590
 
     * Begin : 2014/12/16 08:22:24
