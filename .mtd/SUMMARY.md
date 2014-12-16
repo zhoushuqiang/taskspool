@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update yes丶
+
+    * Begin : 2014/12/17 06:04:22
+    * End   : 2014/12/17 06:04:32
+    * Result: OK
+
 * [urlrule] sites weipai.cn update vamipre小妖
 
     * Begin : 2014/12/17 06:02:57
