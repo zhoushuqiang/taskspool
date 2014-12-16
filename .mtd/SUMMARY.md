@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 黄没没-
+
+    * Begin : 2014/12/16 13:00:53
+    * End   : 2014/12/16 13:46:41
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 52187bb49f6c00925bf97ea6 黄没没-
 
     * Begin : 2014/12/16 13:00:44
