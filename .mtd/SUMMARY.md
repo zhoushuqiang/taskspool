@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 周泊霖cutey
+
+    * Begin : 2014/12/16 09:36:24
+    * End   : 2014/12/16 09:39:09
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 544f5b63a6640b93118b4576 周泊霖cutey
 
     * Begin : 2014/12/16 09:36:14
