@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 06:23:51] [urlrule] sites vlook.cn update 兮颜SSS
     * [2014/12/17 06:23:06] [urlrule] sites weipai.cn update 倩倩baby
     * [2014/12/17 06:20:16] [urlrule] sites weipai.cn update 你娜爷
     * [2014/12/17 06:19:06] [urlrule] sites weipai.cn update 他不懂我的xin
@@ -108,6 +109,8 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 06:23:28] [urlrule] sites weipai.cn update 光头-狠强
+    * [2014/12/17 06:23:25] [urlrule] sites weipai.cn update 做个man的小女人
     * [2014/12/17 06:20:44] [urlrule] sites weipai.cn update 依林20140930
     * [2014/12/17 06:20:42] [urlrule] sites weipai.cn update 佳佳
     * [2014/12/17 06:20:39] [urlrule] sites weipai.cn update 你懂我么小娘
