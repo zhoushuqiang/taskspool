@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 53a5a7948134947a61433bd5 勤妹儿
+
+    * Begin : 2014/12/16 09:26:31
+    * End   : 2014/12/16 09:26:32
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bad2da5640bda798b4567
 
     * Begin : 2014/12/16 09:26:15
