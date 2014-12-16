@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 陈语乔
+
+    * Begin : 2014/12/17 04:16:28
+    * End   : 2014/12/17 04:17:29
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 陈芯儿
+
+    * Begin : 2014/12/17 04:16:25
+    * End   : 2014/12/17 04:16:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈美琳Mandy
+
+    * Begin : 2014/12/17 04:16:23
+    * End   : 2014/12/17 04:16:24
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 陈柔轩Michel
 
     * Begin : 2014/12/17 04:15:46
