@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c1e84a5640b66188b4577
+
+    * Begin : 2014/12/16 20:09:34
+    * End   : 2014/12/16 20:09:42
+    * Result: => 秦勉叫冉冉/weipai.cn/50e62c337d3494a019000067
+
+* [urlrule] sites weipai.cn UPDATE 秦勉叫冉冉
+
+    * Begin : 2014/12/16 20:09:33
+    * End   : 2014/12/16 20:09:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 50e62c337d3494a019000067 秦勉叫冉冉
+
+    * Begin : 2014/12/16 20:09:32
+    * End   : 2014/12/16 20:09:33
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 50e62c337d3494a019000067 秦勉叫冉冉
+
+    * Begin : 2014/12/16 20:09:30
+    * End   : 2014/12/16 20:09:32
+    * Result: http://www.weipai.cn/video/548c1e84a5640b66188b4577=>[weipai.cn] 50e62c337d3494a019000067 (秦勉叫冉冉) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c1c6da5640b6b188b456b
 
     * Begin : 2014/12/16 20:09:12

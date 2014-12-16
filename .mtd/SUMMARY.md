@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c1e84a5640b66188b4577
+
+    * Begin : 2014/12/16 20:09:34
+    * End   : 2014/12/16 20:09:42
+    * Result: => 秦勉叫冉冉/weipai.cn/50e62c337d3494a019000067
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c1c6da5640b6b188b456b
 
     * Begin : 2014/12/16 20:09:12
