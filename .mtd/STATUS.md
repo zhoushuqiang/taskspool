@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 05:59:42] [urlrule] sites weipai.cn update love雯雯
     * [2014/12/17 05:58:31] [urlrule] sites weipai.cn update kitty酱
     * [2014/12/17 05:57:30] [urlrule] sites weipai.cn update kimoon
     * [2014/12/17 05:57:01] [urlrule] sites weipai.cn update forgetlethe
@@ -95,6 +96,9 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 05:58:59] [urlrule] sites weipai.cn update ljylovesjy
+    * [2014/12/17 05:58:56] [urlrule] sites weipai.cn update li莉
+    * [2014/12/17 05:58:54] [urlrule] sites weipai.cn update lady小夜猫
     * [2014/12/17 05:55:27] [urlrule] sites weipai.cn update dj-vivi
     * [2014/12/17 05:55:25] [urlrule] sites weipai.cn update crystal尚
     * [2014/12/17 05:55:22] [urlrule] sites weipai.cn update coco小姐
