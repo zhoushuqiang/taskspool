@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c00e9a5640b7e018b457e
+
+    * Begin : 2014/12/16 19:26:24
+    * End   : 2014/12/16 19:26:34
+    * Result: => 邻家猴猴/weipai.cn/51b9d0c85a8e87396b000002
+
 * [urlrule] sites weipai.cn UPDATE 邻家猴猴
 
     * Begin : 2014/12/16 14:15:28
