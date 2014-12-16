@@ -1,3 +1,75 @@
+* [urlrule] sites weipai.cn update 陈柔轩Michel
+
+    * Begin : 2014/12/17 04:15:46
+    * End   : 2014/12/17 04:16:03
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 陈怡曼coco
+
+    * Begin : 2014/12/17 04:15:41
+    * End   : 2014/12/17 04:15:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈子萱vivi
+
+    * Begin : 2014/12/17 04:15:39
+    * End   : 2014/12/17 04:15:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈子萱vivi
+
+    * Begin : 2014/12/17 04:15:37
+    * End   : 2014/12/17 04:15:37
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 陈大榕
+
+    * Begin : 2014/12/17 04:15:32
+    * End   : 2014/12/17 04:15:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈大榕
+
+    * Begin : 2014/12/17 04:15:29
+    * End   : 2014/12/17 04:15:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈可鑫
+
+    * Begin : 2014/12/17 04:15:26
+    * End   : 2014/12/17 04:15:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈依萌宝贝
+
+    * Begin : 2014/12/17 04:15:24
+    * End   : 2014/12/17 04:15:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈世媄
+
+    * Begin : 2014/12/17 04:15:21
+    * End   : 2014/12/17 04:15:22
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 陆晨依
+
+    * Begin : 2014/12/17 04:15:17
+    * End   : 2014/12/17 04:15:19
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陆晨依
+
+    * Begin : 2014/12/17 04:15:12
+    * End   : 2014/12/17 04:15:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 阿鑫很浮躁
+
+    * Begin : 2014/12/17 04:15:10
+    * End   : 2014/12/17 04:15:11
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 阿朵拉Adora
 
     * Begin : 2014/12/17 04:13:05
