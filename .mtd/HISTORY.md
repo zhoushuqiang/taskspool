@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c2b63a5640ba74b8b45a1
+
+    * Begin : 2014/12/16 21:06:00
+    * End   : 2014/12/16 21:06:04
+    * Result: => 萌娇小妖精/weipai.cn/54879e8fa8640b770c8b4574
+
+* [urlrule] sites weipai.cn UPDATE 萌娇小妖精
+
+    * Begin : 2014/12/16 21:05:58
+    * End   : 2014/12/16 21:05:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 54879e8fa8640b770c8b4574 萌娇小妖精
+
+    * Begin : 2014/12/16 21:05:57
+    * End   : 2014/12/16 21:05:58
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 54879e8fa8640b770c8b4574 萌娇小妖精
+
+    * Begin : 2014/12/16 21:05:55
+    * End   : 2014/12/16 21:05:57
+    * Result: http://www.weipai.cn/video/548c2b63a5640ba74b8b45a1=>[weipai.cn] 54879e8fa8640b770c8b4574 (萌娇小妖精) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c2aeea5640bdd4b8b45ac
 
     * Begin : 2014/12/16 21:05:31
