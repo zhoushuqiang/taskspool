@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn update 萌萌焕
+
+    * Begin : 2014/12/17 04:08:36
+    * End   : 2014/12/17 04:08:56
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 萌小萌不萌
+
+    * Begin : 2014/12/17 04:08:34
+    * End   : 2014/12/17 04:08:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 萌娇小妖精
+
+    * Begin : 2014/12/17 04:08:31
+    * End   : 2014/12/17 04:08:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 萌不可言
+
+    * Begin : 2014/12/17 04:08:29
+    * End   : 2014/12/17 04:08:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 菲飞飞
+
+    * Begin : 2014/12/17 04:08:26
+    * End   : 2014/12/17 04:08:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 菲菲和娜娜
+
+    * Begin : 2014/12/17 04:08:24
+    * End   : 2014/12/17 04:08:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 菲儿
+
+    * Begin : 2014/12/17 04:08:20
+    * End   : 2014/12/17 04:08:21
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 菀児baby
 
     * Begin : 2014/12/17 04:07:48

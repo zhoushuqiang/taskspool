@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 04:08:56] [urlrule] sites weipai.cn update 萌萌焕
     * [2014/12/17 04:08:00] [urlrule] sites weipai.cn update 菀児baby
     * [2014/12/17 04:07:19] [urlrule] sites weipai.cn update 莹姐
     * [2014/12/17 04:06:12] [urlrule] sites weipai.cn update 茜baby
@@ -23,6 +24,12 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 04:08:34] [urlrule] sites weipai.cn update 萌小萌不萌
+    * [2014/12/17 04:08:32] [urlrule] sites weipai.cn update 萌娇小妖精
+    * [2014/12/17 04:08:30] [urlrule] sites weipai.cn update 萌不可言
+    * [2014/12/17 04:08:27] [urlrule] sites weipai.cn update 菲飞飞
+    * [2014/12/17 04:08:24] [urlrule] sites weipai.cn update 菲菲和娜娜
+    * [2014/12/17 04:08:21] [urlrule] sites weipai.cn update 菲儿
     * [2014/12/17 04:07:47] [urlrule] sites weipai.cn update 莹小白
     * [2014/12/17 04:06:39] [urlrule] sites weipai.cn update 莫小尤
     * [2014/12/17 04:06:36] [urlrule] sites weipai.cn update 草莓Rasa
