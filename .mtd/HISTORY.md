@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548afd47a5640bbc788b45c3
+
+    * Begin : 2014/12/16 08:33:09
+    * End   : 2014/12/16 08:33:12
+    * Result: => 瑞莎国际/weipai.cn/5176cc947d3494cf57000024
+
 * [urlrule] sites weipai.cn UPDATE 瑞莎国际
 
     * Begin : 2014/12/16 08:30:49
