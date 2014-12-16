@@ -1,3 +1,69 @@
+* [urlrule] sites weipai.cn update 无名指的等待20141002
+
+    * Begin : 2014/12/16 22:40:08
+    * End   : 2014/12/16 22:44:20
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 施婭婭
+
+    * Begin : 2014/12/16 22:40:06
+    * End   : 2014/12/16 22:40:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 施娅静微拍
+
+    * Begin : 2014/12/16 22:40:03
+    * End   : 2014/12/16 22:40:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 新百伦正品代购20141202
+
+    * Begin : 2014/12/16 22:40:01
+    * End   : 2014/12/16 22:40:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 新用户21460
+
+    * Begin : 2014/12/16 22:39:58
+    * End   : 2014/12/16 22:39:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 新浪微博未知黑色曼陀罗
+
+    * Begin : 2014/12/16 22:39:56
+    * End   : 2014/12/16 22:39:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 新浪微博model-芯妍
+
+    * Begin : 2014/12/16 22:39:53
+    * End   : 2014/12/16 22:39:54
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 文蔓
+
+    * Begin : 2014/12/16 22:39:48
+    * End   : 2014/12/16 22:39:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 撒旦甜心_Ellia
+
+    * Begin : 2014/12/16 22:39:45
+    * End   : 2014/12/16 22:39:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 抗忙昂北鼻够够够
+
+    * Begin : 2014/12/16 22:39:43
+    * End   : 2014/12/16 22:39:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 把你家户口本拿出来看看
+
+    * Begin : 2014/12/16 22:39:40
+    * End   : 2014/12/16 22:39:41
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 扯起鸡儿弹蹦蹦
 
     * Begin : 2014/12/16 22:39:16

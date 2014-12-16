@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/16 22:44:20] [urlrule] sites weipai.cn update 无名指的等待20141002
     * [2014/12/16 22:39:24] [urlrule] sites weipai.cn update 扯起鸡儿弹蹦蹦
     * [2014/12/16 22:38:29] [urlrule] sites weipai.cn update 懒虫baby
     * [2014/12/16 22:37:06] [urlrule] sites weipai.cn update 恋姗妮
@@ -521,6 +522,16 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/16 22:40:07] [urlrule] sites weipai.cn update 施婭婭
+    * [2014/12/16 22:40:04] [urlrule] sites weipai.cn update 施娅静微拍
+    * [2014/12/16 22:40:02] [urlrule] sites weipai.cn update 新百伦正品代购20141202
+    * [2014/12/16 22:39:59] [urlrule] sites weipai.cn update 新用户21460
+    * [2014/12/16 22:39:57] [urlrule] sites weipai.cn update 新浪微博未知黑色曼陀罗
+    * [2014/12/16 22:39:54] [urlrule] sites weipai.cn update 新浪微博model-芯妍
+    * [2014/12/16 22:39:51] [urlrule] sites vlook.cn update 文蔓
+    * [2014/12/16 22:39:46] [urlrule] sites weipai.cn update 撒旦甜心_Ellia
+    * [2014/12/16 22:39:44] [urlrule] sites weipai.cn update 抗忙昂北鼻够够够
+    * [2014/12/16 22:39:41] [urlrule] sites weipai.cn update 把你家户口本拿出来看看
     * [2014/12/16 22:39:14] [urlrule] sites weipai.cn update 戴玉琪
     * [2014/12/16 22:39:11] [urlrule] sites weipai.cn update 我行我素新灵儿
     * [2014/12/16 22:39:09] [urlrule] sites weipai.cn update 我的幸福你赞助

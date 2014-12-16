@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 无名指的等待20141002
+
+    * Begin : 2014/12/16 22:40:08
+    * End   : 2014/12/16 22:44:20
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 扯起鸡儿弹蹦蹦
 
     * Begin : 2014/12/16 22:39:16
