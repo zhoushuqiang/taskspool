@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 18610561108
+
+    * Begin : 2014/12/16 21:40:17
+    * End   : 2014/12/16 21:46:13
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53b6767aebeddb9b0a8b4567 18610561108
 
     * Begin : 2014/12/16 21:40:04
