@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 杨大人
+
+    * Begin : 2014/12/16 21:49:43
+    * End   : 2014/12/16 22:26:16
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 534c385c9d67d9f04e8b457d 杨大人
 
     * Begin : 2014/12/16 21:49:29
