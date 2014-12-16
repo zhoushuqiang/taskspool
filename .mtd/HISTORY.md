@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 53c78521a5640bd97a8b4569 杨小琦TY
+
+    * Begin : 2014/12/16 14:03:44
+    * End   : 2014/12/16 14:03:45
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 53c78521a5640bd97a8b4569 杨小琦TY
+
+    * Begin : 2014/12/16 14:03:43
+    * End   : 2014/12/16 14:03:44
+    * Result: http://www.weipai.cn/video/548bfd83a5640bb3588b45af=>[weipai.cn] 53c78521a5640bd97a8b4569 (杨小琦TY) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bfb75a5640bfc458b45af
 
     * Begin : 2014/12/16 14:03:26
