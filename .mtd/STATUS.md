@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 53521662ebeddb9f6b8b45e7 悦儿yummy
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c2f29a5640b3f738b4577
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c303da5640baf728b4589
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c303da5640baf728b4589
@@ -15,6 +14,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 21:35:06] [urlrule] sites weipai.cn UPDATE 悦儿yummy
     * [2014/12/16 21:20:14] [urlrule] sites weipai.cn follow 53521662ebeddb9f6b8b45e7 悦儿yummy
     * [2014/12/16 21:19:56] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c2cb5a5640bc64b8b45a5
     * [2014/12/16 21:19:36] [urlrule] sites weipai.cn UPDATE 张江南同学
