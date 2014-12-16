@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd4b4a5640b472a8b458a
+
+    * Begin : 2014/12/16 10:50:34
+    * End   : 2014/12/16 10:50:39
+    * Result: => 宋佳baby/weipai.cn/5344d2e99d67d94a2f8b459d
+
 * [urlrule] sites weipai.cn UPDATE 宋佳baby
 
     * Begin : 2014/12/16 10:04:48
