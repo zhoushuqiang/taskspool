@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 07:37:05] [urlrule] sites weipai.cn update 薇妮BABY
     * [2014/12/17 07:35:18] [urlrule] sites weipai.cn update 芭比娃哈
     * [2014/12/17 07:33:00] [urlrule] sites weipai.cn update 瞄小婷
     * [2014/12/17 07:30:48] [urlrule] sites weipai.cn update 白日不湿
@@ -152,6 +153,40 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 07:37:02] [urlrule] sites weipai.cn update 蕃茄你是誰的西紅柿
+    * [2014/12/17 07:37:00] [urlrule] sites weipai.cn update 蓝色的港湾20140821
+    * [2014/12/17 07:36:57] [urlrule] sites vlook.cn update 蒙丽伊
+    * [2014/12/17 07:36:53] [urlrule] sites vlook.cn update 蒂娜
+    * [2014/12/17 07:36:48] [urlrule] sites weipai.cn update 董洁1022
+    * [2014/12/17 07:36:46] [urlrule] sites weipai.cn update 萱萱-H
+    * [2014/12/17 07:36:43] [urlrule] sites weipai.cn update 萨莎
+    * [2014/12/17 07:36:41] [urlrule] sites weipai.cn update 萝卜baby
+    * [2014/12/17 07:36:39] [urlrule] sites weipai.cn update 萌萌焕
+    * [2014/12/17 07:36:37] [urlrule] sites weipai.cn update 萌小萌不萌
+    * [2014/12/17 07:36:34] [urlrule] sites weipai.cn update 萌娇小妖精
+    * [2014/12/17 07:36:32] [urlrule] sites weipai.cn update 萌不可言
+    * [2014/12/17 07:36:30] [urlrule] sites weipai.cn update 菲飞飞
+    * [2014/12/17 07:36:27] [urlrule] sites weipai.cn update 菲菲和娜娜
+    * [2014/12/17 07:36:25] [urlrule] sites weipai.cn update 菲儿
+    * [2014/12/17 07:36:22] [urlrule] sites weipai.cn update 菀児baby
+    * [2014/12/17 07:36:20] [urlrule] sites weipai.cn update 莹小白
+    * [2014/12/17 07:36:17] [urlrule] sites weipai.cn update 莹姐
+    * [2014/12/17 07:36:14] [urlrule] sites weipai.cn update 莫小尤
+    * [2014/12/17 07:36:12] [urlrule] sites weipai.cn update 草莓Rasa
+    * [2014/12/17 07:36:10] [urlrule] sites weipai.cn update 茜baby
+    * [2014/12/17 07:36:08] [urlrule] sites weipai.cn update 茉莉_
+    * [2014/12/17 07:36:06] [urlrule] sites weipai.cn update 范范范小范
+    * [2014/12/17 07:36:03] [urlrule] sites weipai.cn update 范美熙Jennifer
+    * [2014/12/17 07:36:00] [urlrule] sites weipai.cn update 范琪
+    * [2014/12/17 07:35:58] [urlrule] sites vlook.cn update 若含baby
+    * [2014/12/17 07:35:54] [urlrule] sites weipai.cn update 若含_Princess
+    * [2014/12/17 07:35:51] [urlrule] sites weipai.cn update 苏柒杞
+    * [2014/12/17 07:35:48] [urlrule] sites weipai.cn update 苏夏妞妞
+    * [2014/12/17 07:35:45] [urlrule] sites weipai.cn update 花旗是个双面少女
+    * [2014/12/17 07:35:43] [urlrule] sites weipai.cn update 花小西
+    * [2014/12/17 07:35:41] [urlrule] sites vlook.cn update 芮涵Annabelle
+    * [2014/12/17 07:35:36] [urlrule] sites weipai.cn update 芮涵Annabelle
+    * [2014/12/17 07:35:33] [urlrule] sites weipai.cn update 芭芘李迪娅
     * [2014/12/17 07:35:15] [urlrule] sites weipai.cn update 芒果小懒猫
     * [2014/12/17 07:35:12] [urlrule] sites weipai.cn update 艾舞kathy
     * [2014/12/17 07:35:09] [urlrule] sites weipai.cn update 艾小爱
