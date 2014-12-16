@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 刘培雨雨小熊
+
+    * Begin : 2014/12/17 06:26:07
+    * End   : 2014/12/17 06:26:42
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 冷美人1
+
+    * Begin : 2014/12/17 06:26:05
+    * End   : 2014/12/17 06:26:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 冷美人1
+
+    * Begin : 2014/12/17 06:26:02
+    * End   : 2014/12/17 06:26:03
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 冯猫儿的猫
 
     * Begin : 2014/12/17 06:25:25

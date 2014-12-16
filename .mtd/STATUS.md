@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 06:26:42] [urlrule] sites weipai.cn update 刘培雨雨小熊
     * [2014/12/17 06:25:46] [urlrule] sites weipai.cn update 冯猫儿的猫
     * [2014/12/17 06:25:06] [urlrule] sites weipai.cn update 内涵湿姐
     * [2014/12/17 06:24:38] [urlrule] sites weipai.cn update 内涵姐姐
@@ -112,6 +113,8 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 06:26:06] [urlrule] sites weipai.cn update 冷美人1
+    * [2014/12/17 06:26:03] [urlrule] sites weipai.cn update 冷美人1
     * [2014/12/17 06:23:28] [urlrule] sites weipai.cn update 光头-狠强
     * [2014/12/17 06:23:25] [urlrule] sites weipai.cn update 做个man的小女人
     * [2014/12/17 06:20:44] [urlrule] sites weipai.cn update 依林20140930
