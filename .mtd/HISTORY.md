@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bfa96a5640b476b8b4577
+
+    * Begin : 2014/12/16 14:03:08
+    * End   : 2014/12/16 14:03:12
+    * Result: => 瞄小婷/weipai.cn/52bd2988e3416771688b45b0
+
 * [urlrule] sites weipai.cn UPDATE 瞄小婷
 
     * Begin : 2014/12/16 14:01:57
