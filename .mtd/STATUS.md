@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 06:57:40] [urlrule] sites weipai.cn update 小燃燃baby
     * [2014/12/17 06:56:34] [urlrule] sites weipai.cn update 小小小小米
     * [2014/12/17 06:52:03] [urlrule] sites weipai.cn update 小也慧子
     * [2014/12/17 06:50:58] [urlrule] sites weipai.cn update 小qiqi总爱凑美呦
@@ -132,6 +133,11 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 06:57:01] [urlrule] sites weipai.cn update 小柔L
+    * [2014/12/17 06:56:59] [urlrule] sites weipai.cn update 小晴天baby
+    * [2014/12/17 06:56:56] [urlrule] sites weipai.cn update 小惡魔Linsey
+    * [2014/12/17 06:56:53] [urlrule] sites weipai.cn update 小情绪纷纷扰扰
+    * [2014/12/17 06:56:51] [urlrule] sites weipai.cn update 小小美mmmmmm
     * [2014/12/17 06:52:33] [urlrule] sites weipai.cn update 小将士
     * [2014/12/17 06:52:31] [urlrule] sites weipai.cn update 小容嬷嬷
     * [2014/12/17 06:52:28] [urlrule] sites weipai.cn update 小妮仔
