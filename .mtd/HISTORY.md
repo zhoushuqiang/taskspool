@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 5286ec129f6c005f409cf96f 我只愛高跟鞋
+
+    * Begin : 2014/12/16 13:48:59
+    * End   : 2014/12/16 13:48:59
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 5286ec129f6c005f409cf96f 我只愛高跟鞋
+
+    * Begin : 2014/12/16 13:48:57
+    * End   : 2014/12/16 13:48:59
+    * Result: http://www.weipai.cn/video/548bf8c5a5640b386a8b4578=>[weipai.cn] 5286ec129f6c005f409cf96f (我只愛高跟鞋) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bf8aba5640bf3448b4595
 
     * Begin : 2014/12/16 13:48:42
