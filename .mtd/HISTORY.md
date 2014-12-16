@@ -1,3 +1,57 @@
+* [urlrule] sites weipai.cn update 薇妮BABY
+
+    * Begin : 2014/12/17 04:09:42
+    * End   : 2014/12/17 04:09:44
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 蕃茄你是誰的西紅柿
+
+    * Begin : 2014/12/17 04:09:40
+    * End   : 2014/12/17 04:09:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 蓝色的港湾20140821
+
+    * Begin : 2014/12/17 04:09:37
+    * End   : 2014/12/17 04:09:39
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 蒙丽伊
+
+    * Begin : 2014/12/17 04:09:32
+    * End   : 2014/12/17 04:09:35
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 蒂娜
+
+    * Begin : 2014/12/17 04:09:27
+    * End   : 2014/12/17 04:09:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 董洁1022
+
+    * Begin : 2014/12/17 04:09:24
+    * End   : 2014/12/17 04:09:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 萱萱-H
+
+    * Begin : 2014/12/17 04:09:21
+    * End   : 2014/12/17 04:09:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 萨莎
+
+    * Begin : 2014/12/17 04:09:17
+    * End   : 2014/12/17 04:09:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 萝卜baby
+
+    * Begin : 2014/12/17 04:09:15
+    * End   : 2014/12/17 04:09:16
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 萌萌焕
 
     * Begin : 2014/12/17 04:08:36
