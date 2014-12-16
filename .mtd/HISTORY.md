@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update Lusibaby000
+
+    * Begin : 2014/12/17 05:33:56
+    * End   : 2014/12/17 05:34:19
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Lulu罗小鹿
+
+    * Begin : 2014/12/17 05:33:53
+    * End   : 2014/12/17 05:33:54
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Love雞排妹
+
+    * Begin : 2014/12/17 05:33:48
+    * End   : 2014/12/17 05:33:51
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Lolita4ever
 
     * Begin : 2014/12/17 05:32:28
