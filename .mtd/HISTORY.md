@@ -1,3 +1,51 @@
+* [urlrule] sites weipai.cn update __小韩韩
+
+    * Begin : 2014/12/17 05:51:38
+    * End   : 2014/12/17 05:52:08
+    * Result: OK
+
+* [urlrule] sites weipai.cn update __妖涅
+
+    * Begin : 2014/12/17 05:51:36
+    * End   : 2014/12/17 05:51:37
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update ___悦如
+
+    * Begin : 2014/12/17 05:51:34
+    * End   : 2014/12/17 05:51:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update __Coco
+
+    * Begin : 2014/12/17 05:51:31
+    * End   : 2014/12/17 05:51:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update _Miss梦
+
+    * Begin : 2014/12/17 05:51:29
+    * End   : 2014/12/17 05:51:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update _Angelia燕子
+
+    * Begin : 2014/12/17 05:51:26
+    * End   : 2014/12/17 05:51:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Zz贞
+
+    * Begin : 2014/12/17 05:51:24
+    * End   : 2014/12/17 05:51:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update ZeroDis
+
+    * Begin : 2014/12/17 05:51:21
+    * End   : 2014/12/17 05:51:22
+    * Result: Nothing to do
+
 * [urlrule] sites vlook.cn update Yumi小旁友
 
     * Begin : 2014/12/17 05:50:48

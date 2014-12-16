@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update __小韩韩
+
+    * Begin : 2014/12/17 05:51:38
+    * End   : 2014/12/17 05:52:08
+    * Result: OK
+
 * [urlrule] sites vlook.cn update Yumi小旁友
 
     * Begin : 2014/12/17 05:50:48
