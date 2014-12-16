@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548b80b4a5640b98758b45a5
+
+    * Begin : 2014/12/16 09:01:32
+    * End   : 2014/12/16 09:01:34
+    * Result: => 新百伦正品代购20141202/weipai.cn/547cfb4ca5640b69338b458e
+
+* [urlrule] sites weipai.cn UPDATE 新百伦正品代购20141202
+
+    * Begin : 2014/12/16 09:01:31
+    * End   : 2014/12/16 09:01:31
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 547cfb4ca5640b69338b458e 新百伦正品代购20141202
+
+    * Begin : 2014/12/16 09:01:30
+    * End   : 2014/12/16 09:01:31
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 547cfb4ca5640b69338b458e 新百伦正品代购20141202
+
+    * Begin : 2014/12/16 09:01:29
+    * End   : 2014/12/16 09:01:30
+    * Result: http://www.weipai.cn/video/548b80b4a5640b98758b45a5=>[weipai.cn] 547cfb4ca5640b69338b458e (新百伦正品代购20141202) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548b7a37a5640bd4768b4574
 
     * Begin : 2014/12/16 09:01:16
