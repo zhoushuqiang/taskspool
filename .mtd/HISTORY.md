@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 54879e8fa8640b770c8b4574 萌娇小妖精
+
+    * Begin : 2014/12/16 10:50:51
+    * End   : 2014/12/16 10:50:52
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 54879e8fa8640b770c8b4574 萌娇小妖精
+
+    * Begin : 2014/12/16 10:50:50
+    * End   : 2014/12/16 10:50:51
+    * Result: http://www.weipai.cn/video/548bd530a5640b66298b4582=>[weipai.cn] 54879e8fa8640b770c8b4574 (萌娇小妖精) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd4b4a5640b472a8b458a
 
     * Begin : 2014/12/16 10:50:34
