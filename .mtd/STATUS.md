@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 05:26:10] [urlrule] sites weipai.cn update Diva_狄娃
     * [2014/12/17 05:23:18] [urlrule] sites weipai.cn update Despair-假寐
     * [2014/12/17 05:22:00] [urlrule] sites weipai.cn update DM靜兒
     * [2014/12/17 05:19:33] [urlrule] sites weipai.cn update C希人
