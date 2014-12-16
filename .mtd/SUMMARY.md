@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 徐美儿
+
+    * Begin : 2014/12/16 13:00:04
+    * End   : 2014/12/16 13:00:18
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bdab3a5640b324c8b4579
 
     * Begin : 2014/12/16 12:59:50

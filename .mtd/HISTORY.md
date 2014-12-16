@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn UPDATE 徐美儿
+
+    * Begin : 2014/12/16 13:00:04
+    * End   : 2014/12/16 13:00:18
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 52f32c2677d3cc22398b456b 徐美儿
+
+    * Begin : 2014/12/16 13:00:04
+    * End   : 2014/12/16 13:00:04
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52f32c2677d3cc22398b456b 徐美儿
+
+    * Begin : 2014/12/16 13:00:03
+    * End   : 2014/12/16 13:00:04
+    * Result: http://www.weipai.cn/video/548bf609a5640baa5d8b4572=>[weipai.cn] 52f32c2677d3cc22398b456b (徐美儿) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bdab3a5640b324c8b4579
 
     * Begin : 2014/12/16 12:59:50
