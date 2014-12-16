@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 51f2a2338134948f17000060 我的幸福你赞助
+
+    * Begin : 2014/12/16 09:50:44
+    * End   : 2014/12/16 09:50:45
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bcf2aa5640b93188b4572
 
     * Begin : 2014/12/16 09:50:06
