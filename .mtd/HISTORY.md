@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn UPDATE 娜依灵儿
+
+    * Begin : 2014/12/16 12:58:38
+    * End   : 2014/12/16 12:58:56
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 54537787a7640b294b8b4589 娜依灵儿
+
+    * Begin : 2014/12/16 12:58:37
+    * End   : 2014/12/16 12:58:38
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 54537787a7640b294b8b4589 娜依灵儿
+
+    * Begin : 2014/12/16 12:58:36
+    * End   : 2014/12/16 12:58:37
+    * Result: http://www.weipai.cn/video/548bd922a5640b8c4c8b4572=>[weipai.cn] 54537787a7640b294b8b4589 (娜依灵儿) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd80aa5640b8c4c8b456c
 
     * Begin : 2014/12/16 12:58:19

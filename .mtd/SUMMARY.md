@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 娜依灵儿
+
+    * Begin : 2014/12/16 12:58:38
+    * End   : 2014/12/16 12:58:56
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd80aa5640b8c4c8b456c
 
     * Begin : 2014/12/16 12:58:19
