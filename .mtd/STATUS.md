@@ -2,7 +2,7 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548b918ba5640bdf618b4583
+    *[urlrule] sites weipai.cn UPDATE 533a5318813494f416fa1040 J小姐20140401
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548b918ba5640bdf618b4583
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548b9399a5640b97628b458a
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548b9399a5640b97628b458a
@@ -129,6 +129,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 09:04:56] [urlrule] sites weipai.cn follow 533a5318813494f416fa1040 J小姐20140401
     * [2014/12/16 09:04:44] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548b8854a5640bf9438b456b
     * [2014/12/16 09:04:27] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548b880ba5640b24468b4567
     * [2014/12/16 09:04:03] [urlrule] sites weipai.cn UPDATE 20141215100
@@ -503,6 +504,7 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/16 09:04:56] [urlrule] sites weipai.cn add 533a5318813494f416fa1040 J小姐20140401
     * [2014/12/16 09:04:41] [urlrule] sites weipai.cn UPDATE 丹梦妮ooloo
     * [2014/12/16 09:04:40] [urlrule] sites weipai.cn follow 52cd1fce79d3cce6448b458c 丹梦妮ooloo
     * [2014/12/16 09:04:39] [urlrule] sites weipai.cn add 52cd1fce79d3cce6448b458c 丹梦妮ooloo
