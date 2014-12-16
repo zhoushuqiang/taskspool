@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 张江南同学
+
+    * Begin : 2014/12/16 21:15:56
+    * End   : 2014/12/16 21:19:36
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 54871f00a5640bed668b4569 张江南同学
 
     * Begin : 2014/12/16 21:15:42
