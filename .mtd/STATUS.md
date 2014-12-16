@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 06:16:45] [urlrule] sites weipai.cn update 乐怡
     * [2014/12/17 06:08:24] [urlrule] sites weipai.cn update 丹梦妮ooloo
     * [2014/12/17 06:05:43] [urlrule] sites weipai.cn update yoyo12320141105
     * [2014/12/17 06:05:22] [urlrule] sites weipai.cn update yiurdhe520
@@ -104,6 +105,7 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 06:08:43] [urlrule] sites weipai.cn update 丽嫂zyk
     * [2014/12/17 06:06:37] [urlrule] sites weipai.cn update 两只小蜜蜂丫
     * [2014/12/17 06:06:34] [urlrule] sites weipai.cn update 丝绸裹着性感福利号
     * [2014/12/17 06:06:29] [urlrule] sites weipai.cn update 丝绸裹着性感
