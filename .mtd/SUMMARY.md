@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 神仙姐姐__艾溪
+
+    * Begin : 2014/12/16 09:39:34
+    * End   : 2014/12/16 09:40:09
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bb575a5640b78028b459b
 
     * Begin : 2014/12/16 09:39:19

@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn UPDATE 神仙姐姐__艾溪
+
+    * Begin : 2014/12/16 09:39:34
+    * End   : 2014/12/16 09:40:09
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 5277f433813494257c2eb0c6 神仙姐姐__艾溪
+
+    * Begin : 2014/12/16 09:39:33
+    * End   : 2014/12/16 09:39:34
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5277f433813494257c2eb0c6 神仙姐姐__艾溪
+
+    * Begin : 2014/12/16 09:39:32
+    * End   : 2014/12/16 09:39:33
+    * Result: http://www.weipai.cn/video/548bb7f4a5640b4a108b4590=>[weipai.cn] 5277f433813494257c2eb0c6 (神仙姐姐__艾溪) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bb575a5640b78028b459b
 
     * Begin : 2014/12/16 09:39:19
