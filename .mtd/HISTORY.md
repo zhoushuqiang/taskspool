@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 小艾艾
+
+    * Begin : 2014/12/17 07:02:44
+    * End   : 2014/12/17 07:03:57
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 小美宝贝
+
+    * Begin : 2014/12/17 07:02:42
+    * End   : 2014/12/17 07:02:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小美女云云
+
+    * Begin : 2014/12/17 07:02:39
+    * End   : 2014/12/17 07:02:40
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 小白兔玩微拍
 
     * Begin : 2014/12/17 07:01:48
