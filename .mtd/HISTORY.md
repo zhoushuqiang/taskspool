@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn UPDATE 矢帘
+
+    * Begin : 2014/12/16 20:49:54
+    * End   : 2014/12/16 20:53:04
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 514ce6ec7f349417410000bd 矢帘
+
+    * Begin : 2014/12/16 20:49:53
+    * End   : 2014/12/16 20:49:54
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 514ce6ec7f349417410000bd 矢帘
+
+    * Begin : 2014/12/16 20:49:51
+    * End   : 2014/12/16 20:49:53
+    * Result: http://www.weipai.cn/video/548c22cfa5640b61188b45a6=>[weipai.cn] 514ce6ec7f349417410000bd (矢帘) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c21f4a5640b69188b45a0
 
     * Begin : 2014/12/16 20:49:28
