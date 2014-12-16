@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 54759ef2a5640b606d8b456d 林歆蕊Q286312385
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bf944a5640bfc458b459c
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548bfa96a5640b476b8b4577
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bfa96a5640b476b8b4577
@@ -69,6 +68,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 14:01:28] [urlrule] sites weipai.cn UPDATE 林歆蕊Q286312385
     * [2014/12/16 14:00:02] [urlrule] sites weipai.cn follow 54759ef2a5640b606d8b456d 林歆蕊Q286312385
     * [2014/12/16 13:59:48] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bf8c5a5640b386a8b4578
     * [2014/12/16 13:59:21] [urlrule] sites weipai.cn UPDATE 我只愛高跟鞋

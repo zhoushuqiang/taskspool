@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 林歆蕊Q286312385
+
+    * Begin : 2014/12/16 14:00:13
+    * End   : 2014/12/16 14:01:28
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 54759ef2a5640b606d8b456d 林歆蕊Q286312385
 
     * Begin : 2014/12/16 14:00:02
