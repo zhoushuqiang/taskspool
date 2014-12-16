@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 07:30:48] [urlrule] sites weipai.cn update 白日不湿
     * [2014/12/17 07:28:56] [urlrule] sites weipai.cn update 独爱简单控
     * [2014/12/17 07:26:54] [urlrule] sites weipai.cn update 水蜜桃子
     * [2014/12/17 07:25:00] [urlrule] sites weipai.cn update 杨大人
@@ -149,6 +150,41 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 07:30:43] [urlrule] sites weipai.cn update 画泪听雨眠
+    * [2014/12/17 07:30:41] [urlrule] sites weipai.cn update 由咩咩
+    * [2014/12/17 07:30:38] [urlrule] sites weipai.cn update 田晓多tesia
+    * [2014/12/17 07:30:36] [urlrule] sites weipai.cn update 田君er
+    * [2014/12/17 07:30:34] [urlrule] sites weipai.cn update 生如夏花12
+    * [2014/12/17 07:30:32] [urlrule] sites weipai.cn update 甜美人angela
+    * [2014/12/17 07:30:29] [urlrule] sites vlook.cn update 甜心宝
+    * [2014/12/17 07:30:25] [urlrule] sites weipai.cn update 瓶宝宝
+    * [2014/12/17 07:30:23] [urlrule] sites weipai.cn update 璇子_Yvonne
+    * [2014/12/17 07:30:21] [urlrule] sites weipai.cn update 瑶瑶baby
+    * [2014/12/17 07:30:18] [urlrule] sites weipai.cn update 瑞莎国际
+    * [2014/12/17 07:30:16] [urlrule] sites weipai.cn update 瑜伽女神青文
+    * [2014/12/17 07:30:14] [urlrule] sites weipai.cn update 琪胖胖
+    * [2014/12/17 07:30:11] [urlrule] sites weipai.cn update 琦琦loveBaby
+    * [2014/12/17 07:30:09] [urlrule] sites weipai.cn update 珠宝定制-GIA国际证书
+    * [2014/12/17 07:30:06] [urlrule] sites vlook.cn update 玩摄影Rayshen
+    * [2014/12/17 07:30:02] [urlrule] sites vlook.cn update 森玲
+    * [2014/12/17 07:29:58] [urlrule] sites weipai.cn update 王馨瑶
+    * [2014/12/17 07:29:56] [urlrule] sites weipai.cn update 王若楠1228
+    * [2014/12/17 07:29:54] [urlrule] sites weipai.cn update 王籽文
+    * [2014/12/17 07:29:51] [urlrule] sites weipai.cn update 王璐璐-Dasiy
+    * [2014/12/17 07:29:49] [urlrule] sites weipai.cn update 王王王王-蕊
+    * [2014/12/17 07:29:47] [urlrule] sites weipai.cn update 王熙悦
+    * [2014/12/17 07:29:44] [urlrule] sites weipai.cn update 王炤钧
+    * [2014/12/17 07:29:42] [urlrule] sites weipai.cn update 王悠悠
+    * [2014/12/17 07:29:40] [urlrule] sites weipai.cn update 王小珏elva
+    * [2014/12/17 07:29:37] [urlrule] sites weipai.cn update 王大小姐__Miss
+    * [2014/12/17 07:29:35] [urlrule] sites weipai.cn update 王允甜
+    * [2014/12/17 07:29:33] [urlrule] sites weipai.cn update 王依萱
+    * [2014/12/17 07:29:30] [urlrule] sites weipai.cn update 王丹妮baby
+    * [2014/12/17 07:29:28] [urlrule] sites weipai.cn update 玉baby
+    * [2014/12/17 07:29:26] [urlrule] sites vlook.cn update 猫小咪Queen
+    * [2014/12/17 07:29:22] [urlrule] sites weipai.cn update 猫小咪Queen
+    * [2014/12/17 07:29:20] [urlrule] sites weipai.cn update 猫大人是猫大人
+    * [2014/12/17 07:29:17] [urlrule] sites vlook.cn update 猫一样的女人猫 伊莲的小衣橱
     * [2014/12/17 07:28:28] [urlrule] sites weipai.cn update 狐狸要成精LZ去死
     * [2014/12/17 07:28:26] [urlrule] sites weipai.cn update 爱爱微拍
     * [2014/12/17 07:28:24] [urlrule] sites weipai.cn update 燕囡囡
