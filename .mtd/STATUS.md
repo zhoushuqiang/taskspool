@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd922a5640b8c4c8b4572
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548bd998a5640bb54e8b4576
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd998a5640bb54e8b4576
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548bdab3a5640b324c8b4579
@@ -84,6 +83,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 12:59:20] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd922a5640b8c4c8b4572
     * [2014/12/16 12:58:56] [urlrule] sites weipai.cn UPDATE 娜依灵儿
     * [2014/12/16 12:58:26] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd80aa5640b8c4c8b456c
     * [2014/12/16 12:57:00] [urlrule] sites weipai.cn UPDATE 皇家国际-佳欲
