@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548baba1a5640bae6e8b456c
+
+    * Begin : 2014/12/16 09:11:49
+    * End   : 2014/12/16 09:11:52
+    * Result: => PAPAGAO-/weipai.cn/505f19217f349482700001a5
+
 * [urlrule] sites weipai.cn UPDATE PAPAGAO-
 
     * Begin : 2014/12/16 09:11:11
