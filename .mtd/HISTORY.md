@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 505f19217f349482700001a5 PAPAGAO-
+
+    * Begin : 2014/12/16 09:11:01
+    * End   : 2014/12/16 09:11:01
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 505f19217f349482700001a5 PAPAGAO-
+
+    * Begin : 2014/12/16 09:11:00
+    * End   : 2014/12/16 09:11:01
+    * Result: http://www.weipai.cn/video/548baba1a5640bae6e8b456c=>[weipai.cn] 505f19217f349482700001a5 (PAPAGAO-) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548b9422a5640b7f638b4581
 
     * Begin : 2014/12/16 09:10:14
