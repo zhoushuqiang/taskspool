@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 般若的每一天
+
+    * Begin : 2014/12/17 03:43:19
+    * End   : 2014/12/17 03:53:34
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 索菲娅5200
 
     * Begin : 2014/12/17 03:40:04
