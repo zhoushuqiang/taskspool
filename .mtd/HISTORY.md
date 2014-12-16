@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548b7a37a5640bd4768b4574
+
+    * Begin : 2014/12/16 09:01:16
+    * End   : 2014/12/16 09:01:18
+    * Result: => 杨沫沫Aimee/weipai.cn/5421bc64a5640b2c468b4597
+
 * [urlrule] sites weipai.cn UPDATE 杨沫沫Aimee
 
     * Begin : 2014/12/16 08:52:56
