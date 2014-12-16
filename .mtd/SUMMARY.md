@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 静静的微笑
+
+    * Begin : 2014/12/17 04:20:06
+    * End   : 2014/12/17 04:20:09
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 雨辰Raina
 
     * Begin : 2014/12/17 04:19:02
