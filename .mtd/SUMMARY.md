@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bf944a5640bfc458b459c
+
+    * Begin : 2014/12/16 14:01:40
+    * End   : 2014/12/16 14:01:43
+    * Result: => 林歆蕊Q286312385/weipai.cn/54759ef2a5640b606d8b456d
+
 * [urlrule] sites weipai.cn UPDATE 林歆蕊Q286312385
 
     * Begin : 2014/12/16 14:00:13
