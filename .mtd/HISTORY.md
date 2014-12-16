@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE Zz贞
+
+    * Begin : 2014/12/16 09:41:04
+    * End   : 2014/12/16 09:49:28
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53453d92504a13c6068b4588 Zz贞
 
     * Begin : 2014/12/16 09:40:55
