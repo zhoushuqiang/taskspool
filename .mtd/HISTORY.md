@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 54871f00a5640bed668b4569 张江南同学
+
+    * Begin : 2014/12/16 21:15:42
+    * End   : 2014/12/16 21:15:42
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 54871f00a5640bed668b4569 张江南同学
+
+    * Begin : 2014/12/16 21:15:40
+    * End   : 2014/12/16 21:15:42
+    * Result: http://www.weipai.cn/video/548c2cb5a5640bc64b8b45a5=>[weipai.cn] 54871f00a5640bed668b4569 (张江南同学) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c2c9aa5640bc44b8b45bb
 
     * Begin : 2014/12/16 21:15:20
