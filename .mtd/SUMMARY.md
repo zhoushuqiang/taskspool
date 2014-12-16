@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 曹欣妮ss
+
+    * Begin : 2014/12/16 08:16:10
+    * End   : 2014/12/16 08:18:32
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548af026a5640ba1498b4588
 
     * Begin : 2014/12/16 08:15:55

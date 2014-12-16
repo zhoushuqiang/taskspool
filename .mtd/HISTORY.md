@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn UPDATE 曹欣妮ss
+
+    * Begin : 2014/12/16 08:16:10
+    * End   : 2014/12/16 08:18:32
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 53861ab59d67d9b2168b4573 曹欣妮ss
+
+    * Begin : 2014/12/16 08:16:10
+    * End   : 2014/12/16 08:16:10
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53861ab59d67d9b2168b4573 曹欣妮ss
+
+    * Begin : 2014/12/16 08:16:08
+    * End   : 2014/12/16 08:16:10
+    * Result: http://www.weipai.cn/video/548af095a5640b585b8b4569=>[weipai.cn] 53861ab59d67d9b2168b4573 (曹欣妮ss) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548af026a5640ba1498b4588
 
     * Begin : 2014/12/16 08:15:55
