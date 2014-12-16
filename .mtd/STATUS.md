@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/16 23:13:23] [urlrule] sites weipai.cn update 洛可馨
     * [2014/12/16 23:04:39] [urlrule] sites weipai.cn update 没有鼻梁的姑娘
     * [2014/12/16 22:55:12] [urlrule] sites weipai.cn update 水蜜桃子
     * [2014/12/16 22:54:13] [urlrule] sites weipai.cn update 毛大怪
@@ -529,6 +530,7 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/16 23:05:26] [urlrule] sites weipai.cn update 波波小姐
     * [2014/12/16 22:56:39] [urlrule] sites weipai.cn update 沈希JOY
     * [2014/12/16 22:56:36] [urlrule] sites weipai.cn update 江宣
     * [2014/12/16 22:56:32] [urlrule] sites weipai.cn update 汉小仙
