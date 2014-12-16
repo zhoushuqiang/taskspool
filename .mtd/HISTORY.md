@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn update 小小小小米
+
+    * Begin : 2014/12/17 06:52:35
+    * End   : 2014/12/17 06:56:34
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 小将士
+
+    * Begin : 2014/12/17 06:52:32
+    * End   : 2014/12/17 06:52:33
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小容嬷嬷
+
+    * Begin : 2014/12/17 06:52:30
+    * End   : 2014/12/17 06:52:31
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小妮仔
+
+    * Begin : 2014/12/17 06:52:28
+    * End   : 2014/12/17 06:52:28
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小如如
+
+    * Begin : 2014/12/17 06:52:25
+    * End   : 2014/12/17 06:52:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小可爱mmd
+
+    * Begin : 2014/12/17 06:52:23
+    * End   : 2014/12/17 06:52:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小仓老师
+
+    * Begin : 2014/12/17 06:52:21
+    * End   : 2014/12/17 06:52:22
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 小也慧子
 
     * Begin : 2014/12/17 06:51:19
