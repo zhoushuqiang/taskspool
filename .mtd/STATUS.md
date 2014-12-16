@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 05:52:55] [urlrule] sites weipai.cn update _刘爷
     * [2014/12/17 05:52:08] [urlrule] sites weipai.cn update __小韩韩
     * [2014/12/17 05:50:57] [urlrule] sites vlook.cn update Yumi小旁友
     * [2014/12/17 05:50:18] [urlrule] sites vlook.cn update VK_bb
@@ -90,6 +91,7 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 05:52:26] [urlrule] sites weipai.cn update __张公子
     * [2014/12/17 05:51:37] [urlrule] sites weipai.cn update __妖涅
     * [2014/12/17 05:51:34] [urlrule] sites weipai.cn update ___悦如
     * [2014/12/17 05:51:32] [urlrule] sites weipai.cn update __Coco

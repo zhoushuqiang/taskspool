@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update _刘爷
+
+    * Begin : 2014/12/17 05:52:27
+    * End   : 2014/12/17 05:52:55
+    * Result: OK
+
+* [urlrule] sites weipai.cn update __张公子
+
+    * Begin : 2014/12/17 05:52:25
+    * End   : 2014/12/17 05:52:26
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update __小韩韩
 
     * Begin : 2014/12/17 05:51:38
