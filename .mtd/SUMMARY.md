@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 52a3f6a39f6c00fe1ebeebee 张姿彦
+
+    * Begin : 2014/12/16 19:27:30
+    * End   : 2014/12/16 19:27:31
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c00e9a5640b7e018b457e
 
     * Begin : 2014/12/16 19:26:24
