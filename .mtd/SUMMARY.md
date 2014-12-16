@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 颖小姐
+
+    * Begin : 2014/12/17 04:21:09
+    * End   : 2014/12/17 04:21:40
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 静静的微笑
 
     * Begin : 2014/12/17 04:20:06

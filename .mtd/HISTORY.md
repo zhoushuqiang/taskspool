@@ -1,3 +1,87 @@
+* [urlrule] sites weipai.cn update 颖小姐
+
+    * Begin : 2014/12/17 04:21:09
+    * End   : 2014/12/17 04:21:40
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 颕姐good-looking
+
+    * Begin : 2014/12/17 04:21:06
+    * End   : 2014/12/17 04:21:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 顾美丽
+
+    * Begin : 2014/12/17 04:21:04
+    * End   : 2014/12/17 04:21:05
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 顽石化钻恋玉人
+
+    * Begin : 2014/12/17 04:20:59
+    * End   : 2014/12/17 04:21:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 順唭自嘫
+
+    * Begin : 2014/12/17 04:20:56
+    * End   : 2014/12/17 04:20:57
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 韩金丽
+
+    * Begin : 2014/12/17 04:20:51
+    * End   : 2014/12/17 04:20:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩金丽
+
+    * Begin : 2014/12/17 04:20:48
+    * End   : 2014/12/17 04:20:49
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩田稀小号
+
+    * Begin : 2014/12/17 04:20:46
+    * End   : 2014/12/17 04:20:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩田稀
+
+    * Begin : 2014/12/17 04:20:44
+    * End   : 2014/12/17 04:20:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩田稀
+
+    * Begin : 2014/12/17 04:20:40
+    * End   : 2014/12/17 04:20:41
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 韩昕怡Summer
+
+    * Begin : 2014/12/17 04:20:34
+    * End   : 2014/12/17 04:20:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩媚希
+
+    * Begin : 2014/12/17 04:20:32
+    * End   : 2014/12/17 04:20:33
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩士博
+
+    * Begin : 2014/12/17 04:20:29
+    * End   : 2014/12/17 04:20:29
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 静静韩妆护肤
+
+    * Begin : 2014/12/17 04:20:26
+    * End   : 2014/12/17 04:20:27
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 静静的微笑
 
     * Begin : 2014/12/17 04:20:06

@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 04:21:40] [urlrule] sites weipai.cn update 颖小姐
     * [2014/12/17 04:20:09] [urlrule] sites weipai.cn update 静静的微笑
     * [2014/12/17 04:19:43] [urlrule] sites weipai.cn update 雨辰Raina
     * [2014/12/17 04:18:39] [urlrule] sites weipai.cn update 雨020141120
@@ -34,6 +35,19 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 04:21:07] [urlrule] sites weipai.cn update 颕姐good-looking
+    * [2014/12/17 04:21:05] [urlrule] sites weipai.cn update 顾美丽
+    * [2014/12/17 04:21:02] [urlrule] sites vlook.cn update 顽石化钻恋玉人
+    * [2014/12/17 04:20:57] [urlrule] sites weipai.cn update 順唭自嘫
+    * [2014/12/17 04:20:54] [urlrule] sites vlook.cn update 韩金丽
+    * [2014/12/17 04:20:49] [urlrule] sites weipai.cn update 韩金丽
+    * [2014/12/17 04:20:47] [urlrule] sites weipai.cn update 韩田稀小号
+    * [2014/12/17 04:20:45] [urlrule] sites weipai.cn update 韩田稀
+    * [2014/12/17 04:20:41] [urlrule] sites weipai.cn update 韩田稀
+    * [2014/12/17 04:20:38] [urlrule] sites vlook.cn update 韩昕怡Summer
+    * [2014/12/17 04:20:33] [urlrule] sites weipai.cn update 韩媚希
+    * [2014/12/17 04:20:29] [urlrule] sites weipai.cn update 韩士博
+    * [2014/12/17 04:20:27] [urlrule] sites weipai.cn update 静静韩妆护肤
     * [2014/12/17 04:20:05] [urlrule] sites weipai.cn update 露滴
     * [2014/12/17 04:20:01] [urlrule] sites weipai.cn update 雷婷婷Baby
     * [2014/12/17 04:18:35] [urlrule] sites weipai.cn update 雅蒂Atind
