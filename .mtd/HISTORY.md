@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn UPDATE 威信qianfei2012
+
+    * Begin : 2014/12/16 19:29:53
+    * End   : 2014/12/16 19:31:05
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 546ecb52a5640be25c8b456b 威信qianfei2012
+
+    * Begin : 2014/12/16 19:29:52
+    * End   : 2014/12/16 19:29:53
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 546ecb52a5640be25c8b456b 威信qianfei2012
+
+    * Begin : 2014/12/16 19:29:50
+    * End   : 2014/12/16 19:29:52
+    * Result: http://www.weipai.cn/video/548c04b3a5640b39028b4598=>[weipai.cn] 546ecb52a5640be25c8b456b (威信qianfei2012) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c0157a5640b4b058b4581
 
     * Begin : 2014/12/16 19:29:28

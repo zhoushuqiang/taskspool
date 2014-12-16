@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 威信qianfei2012
+
+    * Begin : 2014/12/16 19:29:53
+    * End   : 2014/12/16 19:31:05
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c0157a5640b4b058b4581
 
     * Begin : 2014/12/16 19:29:28
