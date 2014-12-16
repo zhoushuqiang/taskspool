@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 04:19:43] [urlrule] sites weipai.cn update 雨辰Raina
     * [2014/12/17 04:18:39] [urlrule] sites weipai.cn update 雨020141120
     * [2014/12/17 04:18:15] [urlrule] sites weipai.cn update 雅沁
     * [2014/12/17 04:17:29] [urlrule] sites weipai.cn update 陈语乔
