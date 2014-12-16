@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/16 22:54:13] [urlrule] sites weipai.cn update 毛大怪
     * [2014/12/16 22:53:14] [urlrule] sites weipai.cn update 梦婷Baby
     * [2014/12/16 22:51:47] [urlrule] sites weipai.cn update 梅姿baby
     * [2014/12/16 22:48:41] [urlrule] sites weipai.cn update 曹紫涵
@@ -526,6 +527,14 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/16 22:54:01] [urlrule] sites weipai.cn update 欠缺完美
+    * [2014/12/16 22:53:58] [urlrule] sites weipai.cn update 橙子醬
+    * [2014/12/16 22:53:56] [urlrule] sites weipai.cn update 橙子妹妹
+    * [2014/12/16 22:53:53] [urlrule] sites weipai.cn update 橙大爷
+    * [2014/12/16 22:53:50] [urlrule] sites weipai.cn update 模特-杨伊
+    * [2014/12/16 22:53:48] [urlrule] sites weipai.cn update 梦瑶
+    * [2014/12/16 22:53:46] [urlrule] sites weipai.cn update 梦梦20141111
+    * [2014/12/16 22:53:43] [urlrule] sites weipai.cn update 梦幻噢
     * [2014/12/16 22:52:40] [urlrule] sites vlook.cn update 梦之冰城
     * [2014/12/16 22:52:36] [urlrule] sites weipai.cn update 梓茜ZX
     * [2014/12/16 22:52:34] [urlrule] sites weipai.cn update 梅子小姐_01

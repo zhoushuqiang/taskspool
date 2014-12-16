@@ -1,3 +1,57 @@
+* [urlrule] sites weipai.cn update 毛大怪
+
+    * Begin : 2014/12/16 22:54:02
+    * End   : 2014/12/16 22:54:13
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 欠缺完美
+
+    * Begin : 2014/12/16 22:54:00
+    * End   : 2014/12/16 22:54:01
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 橙子醬
+
+    * Begin : 2014/12/16 22:53:57
+    * End   : 2014/12/16 22:53:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 橙子妹妹
+
+    * Begin : 2014/12/16 22:53:55
+    * End   : 2014/12/16 22:53:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 橙大爷
+
+    * Begin : 2014/12/16 22:53:52
+    * End   : 2014/12/16 22:53:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 模特-杨伊
+
+    * Begin : 2014/12/16 22:53:50
+    * End   : 2014/12/16 22:53:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 梦瑶
+
+    * Begin : 2014/12/16 22:53:47
+    * End   : 2014/12/16 22:53:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 梦梦20141111
+
+    * Begin : 2014/12/16 22:53:45
+    * End   : 2014/12/16 22:53:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 梦幻噢
+
+    * Begin : 2014/12/16 22:53:42
+    * End   : 2014/12/16 22:53:43
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 梦婷Baby
 
     * Begin : 2014/12/16 22:52:43
