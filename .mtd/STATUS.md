@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 04:29:17] [urlrule] sites vlook.cn update 黒目瞳
     * [2014/12/17 04:28:27] [urlrule] sites weipai.cn update 黑桃女王
     * [2014/12/17 04:27:22] [urlrule] sites weipai.cn update 黄没没-
     * [2014/12/17 04:22:40] [urlrule] sites weipai.cn update 麦子orSkala
@@ -38,6 +39,8 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 04:28:55] [urlrule] sites weipai.cn update 黒目瞳
+    * [2014/12/17 04:28:52] [urlrule] sites weipai.cn update 黑金色会飞的鱼
     * [2014/12/17 04:27:47] [urlrule] sites weipai.cn update 黑三小幺
     * [2014/12/17 04:27:44] [urlrule] sites weipai.cn update 黎儿
     * [2014/12/17 04:23:05] [urlrule] sites vlook.cn update 麻酥酥
