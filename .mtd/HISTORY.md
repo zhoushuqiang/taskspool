@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 雨020141120
+
+    * Begin : 2014/12/17 04:18:36
+    * End   : 2014/12/17 04:18:39
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 雅蒂Atind
+
+    * Begin : 2014/12/17 04:18:33
+    * End   : 2014/12/17 04:18:35
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 雅沁
 
     * Begin : 2014/12/17 04:17:59
