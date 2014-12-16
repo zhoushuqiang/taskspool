@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 05:32:03] [urlrule] sites weipai.cn update J小姐20140401
     * [2014/12/17 05:31:10] [urlrule] sites weipai.cn update Hugme20141119
     * [2014/12/17 05:29:18] [urlrule] sites weipai.cn update Fox_00
     * [2014/12/17 05:28:01] [urlrule] sites weipai.cn update Dj_kelly
@@ -78,6 +79,10 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 05:31:39] [urlrule] sites vlook.cn update JunBaby
+    * [2014/12/17 05:31:34] [urlrule] sites weipai.cn update Jun20141205
+    * [2014/12/17 05:31:31] [urlrule] sites weipai.cn update Jocelyn_晶
+    * [2014/12/17 05:31:29] [urlrule] sites vlook.cn update Joanbaby倩
     * [2014/12/17 05:29:44] [urlrule] sites weipai.cn update HellenBaby_
     * [2014/12/17 05:29:42] [urlrule] sites weipai.cn update Godismyfather
     * [2014/12/17 05:29:39] [urlrule] sites vlook.cn update Gaby_Kim金慧嫄

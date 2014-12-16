@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update J小姐20140401
+
+    * Begin : 2014/12/17 05:31:40
+    * End   : 2014/12/17 05:32:03
+    * Result: OK
+
+* [urlrule] sites vlook.cn update JunBaby
+
+    * Begin : 2014/12/17 05:31:35
+    * End   : 2014/12/17 05:31:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Jun20141205
+
+    * Begin : 2014/12/17 05:31:33
+    * End   : 2014/12/17 05:31:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Jocelyn_晶
+
+    * Begin : 2014/12/17 05:31:31
+    * End   : 2014/12/17 05:31:31
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Joanbaby倩
+
+    * Begin : 2014/12/17 05:31:26
+    * End   : 2014/12/17 05:31:29
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Hugme20141119
 
     * Begin : 2014/12/17 05:29:46
