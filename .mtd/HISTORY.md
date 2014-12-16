@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd198a5640b472a8b456e
+
+    * Begin : 2014/12/16 09:52:26
+    * End   : 2014/12/16 09:52:29
+    * Result: => CC宠儿凌溪/weipai.cn/519865655d8e87c56800002c
+
+* [urlrule] sites weipai.cn UPDATE CC宠儿凌溪
+
+    * Begin : 2014/12/16 09:52:25
+    * End   : 2014/12/16 09:52:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 519865655d8e87c56800002c CC宠儿凌溪
+
+    * Begin : 2014/12/16 09:52:25
+    * End   : 2014/12/16 09:52:25
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 519865655d8e87c56800002c CC宠儿凌溪
+
+    * Begin : 2014/12/16 09:52:23
+    * End   : 2014/12/16 09:52:25
+    * Result: http://www.weipai.cn/video/548bd198a5640b472a8b456e=>[weipai.cn] 519865655d8e87c56800002c (CC宠儿凌溪) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd173a5640b5d178b4588
 
     * Begin : 2014/12/16 09:52:11
