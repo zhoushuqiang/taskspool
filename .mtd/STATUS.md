@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 07:13:28] [urlrule] sites weipai.cn update 张瑶isa
     * [2014/12/17 07:08:39] [urlrule] sites weipai.cn update 张大Ber__r7
     * [2014/12/17 07:06:43] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/17 07:06:04] [urlrule] sites weipai.cn update 小钕Ren
@@ -141,6 +142,13 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 07:09:18] [urlrule] sites weipai.cn update 张江南同学
+    * [2014/12/17 07:09:15] [urlrule] sites weipai.cn update 张栩菲-ManGo
+    * [2014/12/17 07:09:13] [urlrule] sites weipai.cn update 张春雪v
+    * [2014/12/17 07:09:10] [urlrule] sites vlook.cn update 张心儿Bella
+    * [2014/12/17 07:09:06] [urlrule] sites vlook.cn update 张心儿
+    * [2014/12/17 07:09:01] [urlrule] sites vlook.cn update 张已桂
+    * [2014/12/17 07:08:57] [urlrule] sites weipai.cn update 张姿彦
     * [2014/12/17 07:07:15] [urlrule] sites weipai.cn update 广州莉莉玛莲酒吧小熙
     * [2014/12/17 07:07:12] [urlrule] sites weipai.cn update 年轻没有什么不可以
     * [2014/12/17 07:07:10] [urlrule] sites weipai.cn update 干毛毛

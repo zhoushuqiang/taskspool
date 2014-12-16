@@ -1,3 +1,51 @@
+* [urlrule] sites weipai.cn update 张瑶isa
+
+    * Begin : 2014/12/17 07:09:20
+    * End   : 2014/12/17 07:13:28
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 张江南同学
+
+    * Begin : 2014/12/17 07:09:17
+    * End   : 2014/12/17 07:09:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 张栩菲-ManGo
+
+    * Begin : 2014/12/17 07:09:15
+    * End   : 2014/12/17 07:09:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 张春雪v
+
+    * Begin : 2014/12/17 07:09:12
+    * End   : 2014/12/17 07:09:13
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 张心儿Bella
+
+    * Begin : 2014/12/17 07:09:08
+    * End   : 2014/12/17 07:09:10
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 张心儿
+
+    * Begin : 2014/12/17 07:09:03
+    * End   : 2014/12/17 07:09:06
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 张已桂
+
+    * Begin : 2014/12/17 07:08:59
+    * End   : 2014/12/17 07:09:01
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 张姿彦
+
+    * Begin : 2014/12/17 07:08:56
+    * End   : 2014/12/17 07:08:57
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 张大Ber__r7
 
     * Begin : 2014/12/17 07:07:17
