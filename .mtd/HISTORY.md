@@ -1,3 +1,51 @@
+* [urlrule] sites weipai.cn update 女王女王陛下
+
+    * Begin : 2014/12/17 06:37:29
+    * End   : 2014/12/17 06:37:33
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 女侠桃花鹿
+
+    * Begin : 2014/12/17 06:37:26
+    * End   : 2014/12/17 06:37:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 奈奈萌大奶
+
+    * Begin : 2014/12/17 06:37:24
+    * End   : 2014/12/17 06:37:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 奇美女
+
+    * Begin : 2014/12/17 06:37:22
+    * End   : 2014/12/17 06:37:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 失了他心
+
+    * Begin : 2014/12/17 06:37:19
+    * End   : 2014/12/17 06:37:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 大靓
+
+    * Begin : 2014/12/17 06:37:16
+    * End   : 2014/12/17 06:37:17
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 大雯纸_zyw
+
+    * Begin : 2014/12/17 06:37:12
+    * End   : 2014/12/17 06:37:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 大萨萨
+
+    * Begin : 2014/12/17 06:37:07
+    * End   : 2014/12/17 06:37:08
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 大芹
 
     * Begin : 2014/12/17 06:36:10
