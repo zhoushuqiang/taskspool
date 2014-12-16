@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 04:27:22] [urlrule] sites weipai.cn update 黄没没-
     * [2014/12/17 04:22:40] [urlrule] sites weipai.cn update 麦子orSkala
     * [2014/12/17 04:21:40] [urlrule] sites weipai.cn update 颖小姐
     * [2014/12/17 04:20:09] [urlrule] sites weipai.cn update 静静的微笑
@@ -36,6 +37,8 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 04:23:05] [urlrule] sites vlook.cn update 麻酥酥
+    * [2014/12/17 04:23:00] [urlrule] sites weipai.cn update 麻优酥酥
     * [2014/12/17 04:22:30] [urlrule] sites weipai.cn update 魚你你你你你
     * [2014/12/17 04:22:28] [urlrule] sites vlook.cn update 魔都天后
     * [2014/12/17 04:22:23] [urlrule] sites weipai.cn update 魔法倩

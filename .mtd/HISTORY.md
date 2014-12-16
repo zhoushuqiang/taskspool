@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 黄没没-
+
+    * Begin : 2014/12/17 04:23:06
+    * End   : 2014/12/17 04:27:22
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 麻酥酥
+
+    * Begin : 2014/12/17 04:23:02
+    * End   : 2014/12/17 04:23:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 麻优酥酥
+
+    * Begin : 2014/12/17 04:22:59
+    * End   : 2014/12/17 04:23:00
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 麦子orSkala
 
     * Begin : 2014/12/17 04:22:32
