@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd44aa5640b33168b4593
+
+    * Begin : 2014/12/16 10:04:23
+    * End   : 2014/12/16 10:04:26
+    * Result: => 梅姿baby/weipai.cn/508e3aa38134941b2400001a
+
+* [urlrule] sites weipai.cn UPDATE 梅姿baby
+
+    * Begin : 2014/12/16 10:04:22
+    * End   : 2014/12/16 10:04:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 508e3aa38134941b2400001a 梅姿baby
+
+    * Begin : 2014/12/16 10:04:22
+    * End   : 2014/12/16 10:04:22
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 508e3aa38134941b2400001a 梅姿baby
+
+    * Begin : 2014/12/16 10:04:20
+    * End   : 2014/12/16 10:04:22
+    * Result: http://www.weipai.cn/video/548bd44aa5640b33168b4593=>[weipai.cn] 508e3aa38134941b2400001a (梅姿baby) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd31ca5640b862d8b457c
 
     * Begin : 2014/12/16 10:04:07
