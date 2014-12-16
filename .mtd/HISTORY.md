@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 田君er
+
+    * Begin : 2014/12/17 03:28:38
+    * End   : 2014/12/17 03:28:52
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 生如夏花12
+
+    * Begin : 2014/12/17 03:28:36
+    * End   : 2014/12/17 03:28:36
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 甜美人angela
+
+    * Begin : 2014/12/17 03:28:35
+    * End   : 2014/12/17 03:28:35
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 甜心宝
+
+    * Begin : 2014/12/17 03:28:31
+    * End   : 2014/12/17 03:28:33
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 瓶宝宝
+
+    * Begin : 2014/12/17 03:28:30
+    * End   : 2014/12/17 03:28:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 璇子_Yvonne
+
+    * Begin : 2014/12/17 03:28:28
+    * End   : 2014/12/17 03:28:28
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 瑶瑶baby
 
     * Begin : 2014/12/17 03:28:02

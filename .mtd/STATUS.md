@@ -2,9 +2,15 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 03:28:52] [urlrule] sites weipai.cn update 田君er
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 03:28:36] [urlrule] sites weipai.cn update 生如夏花12
+    * [2014/12/17 03:28:35] [urlrule] sites weipai.cn update 甜美人angela
+    * [2014/12/17 03:28:33] [urlrule] sites vlook.cn update 甜心宝
+    * [2014/12/17 03:28:30] [urlrule] sites weipai.cn update 瓶宝宝
+    * [2014/12/17 03:28:28] [urlrule] sites weipai.cn update 璇子_Yvonne
     * [2014/12/17 03:28:01] [urlrule] sites weipai.cn update 瑞莎国际
     * [2014/12/17 03:27:59] [urlrule] sites weipai.cn update 瑜伽女神青文
     * [2014/12/17 03:27:57] [urlrule] sites weipai.cn update 琪胖胖
