@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn update Bella-小白
+
+    * Begin : 2014/12/17 05:13:34
+    * End   : 2014/12/17 05:14:31
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Barbara张攀
+
+    * Begin : 2014/12/17 05:13:31
+    * End   : 2014/12/17 05:13:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Baby瑶瑶
+
+    * Begin : 2014/12/17 05:13:29
+    * End   : 2014/12/17 05:13:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Baby华姿凯歌er
+
+    * Begin : 2014/12/17 05:13:26
+    * End   : 2014/12/17 05:13:27
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Babykiry
+
+    * Begin : 2014/12/17 05:13:21
+    * End   : 2014/12/17 05:13:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Babykiry
+
+    * Begin : 2014/12/17 05:13:19
+    * End   : 2014/12/17 05:13:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update BabyLinda
+
+    * Begin : 2014/12/17 05:13:16
+    * End   : 2014/12/17 05:13:17
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Baby-perry
 
     * Begin : 2014/12/17 05:12:51

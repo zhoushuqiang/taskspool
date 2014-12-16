@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Bella-小白
+
+    * Begin : 2014/12/17 05:13:34
+    * End   : 2014/12/17 05:14:31
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Baby-perry
 
     * Begin : 2014/12/17 05:12:51
