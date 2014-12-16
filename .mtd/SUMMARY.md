@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 李点点儿
+
+    * Begin : 2014/12/16 08:33:39
+    * End   : 2014/12/16 08:46:35
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548afe09a5640b911d8b4573
 
     * Begin : 2014/12/16 08:33:25
