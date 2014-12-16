@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 萌娇小妖精
+
+    * Begin : 2014/12/16 10:51:01
+    * End   : 2014/12/16 10:52:15
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 54879e8fa8640b770c8b4574 萌娇小妖精
 
     * Begin : 2014/12/16 10:50:51
