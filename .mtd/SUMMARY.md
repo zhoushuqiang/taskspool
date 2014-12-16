@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548b702da5640bf2188b4586
+
+    * Begin : 2014/12/16 08:50:05
+    * End   : 2014/12/16 08:50:08
+    * Result: => 丹梦妮ooloo/weipai.cn/52cd1fce79d3cce6448b458c
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548b6f0ea5640b8b1a8b459a
 
     * Begin : 2014/12/16 08:49:47
