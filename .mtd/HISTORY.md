@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn UPDATE 多多lgh
+
+    * Begin : 2014/12/16 13:48:02
+    * End   : 2014/12/16 13:48:11
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 50d4439d813494c1160000db 多多lgh
+
+    * Begin : 2014/12/16 13:48:01
+    * End   : 2014/12/16 13:48:02
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 50d4439d813494c1160000db 多多lgh
+
+    * Begin : 2014/12/16 13:48:00
+    * End   : 2014/12/16 13:48:01
+    * Result: http://www.weipai.cn/video/548bf691a5640b53448b4593=>[weipai.cn] 50d4439d813494c1160000db (多多lgh) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bf61da5640bf7438b4587
 
     * Begin : 2014/12/16 13:47:43

@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 多多lgh
+
+    * Begin : 2014/12/16 13:48:02
+    * End   : 2014/12/16 13:48:11
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bf61da5640bf7438b4587
 
     * Begin : 2014/12/16 13:47:43
