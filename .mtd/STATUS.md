@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 03:42:10] [urlrule] sites weipai.cn update 索菲娅5200
     * [2014/12/17 03:39:38] [urlrule] sites weipai.cn update 粽子小姐
     * [2014/12/17 03:38:46] [urlrule] sites weipai.cn update 米洁
     * [2014/12/17 03:34:37] [urlrule] sites weipai.cn update 穿着高跟鞋跳芭蕾--
@@ -11,6 +12,8 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 03:40:02] [urlrule] sites weipai.cn update 素兒
+    * [2014/12/17 03:39:59] [urlrule] sites weipai.cn update 糖果果国
     * [2014/12/17 03:39:11] [urlrule] sites weipai.cn update 粽子喜欢秋天
     * [2014/12/17 03:39:08] [urlrule] sites weipai.cn update 粵講粵潮
     * [2014/12/17 03:39:06] [urlrule] sites weipai.cn update 粉小溪CC

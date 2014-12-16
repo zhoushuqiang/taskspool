@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 索菲娅5200
+
+    * Begin : 2014/12/17 03:40:04
+    * End   : 2014/12/17 03:42:10
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 素兒
+
+    * Begin : 2014/12/17 03:40:01
+    * End   : 2014/12/17 03:40:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 糖果果国
+
+    * Begin : 2014/12/17 03:39:59
+    * End   : 2014/12/17 03:39:59
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 粽子小姐
 
     * Begin : 2014/12/17 03:39:13
