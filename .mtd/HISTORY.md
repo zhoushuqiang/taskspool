@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 皇家国际-佳欲
+
+    * Begin : 2014/12/16 10:53:20
+    * End   : 2014/12/16 12:57:00
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 54793eb3a6640b2d5c8b4583 皇家国际-佳欲
 
     * Begin : 2014/12/16 10:53:11
