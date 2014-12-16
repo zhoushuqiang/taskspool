@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 04:40:20] [urlrule] sites weipai.cn UPDATE 梅姿baby
+
     * [2014/12/17 04:39:38] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
     * [2014/12/17 04:39:20] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
     * [2014/12/17 04:36:59] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
@@ -42,6 +44,10 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 04:39:56] [urlrule] sites weipai.cn follow 508e3aa38134941b2400001a 梅姿baby
+
+    * [2014/12/17 04:39:56] [urlrule] sites weipai.cn add 508e3aa38134941b2400001a 梅姿baby
+
     * [2014/12/17 04:30:09] [urlrule] sites weipai.cn UPDATE 淼菟菟-
 
     * [2014/12/17 04:30:08] [urlrule] sites weipai.cn follow 531f3a3aebeddb5e508b45a4 淼菟菟-
