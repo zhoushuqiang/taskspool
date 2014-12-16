@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 06:05:43] [urlrule] sites weipai.cn update yoyo12320141105
     * [2014/12/17 06:05:22] [urlrule] sites weipai.cn update yiurdhe520
     * [2014/12/17 06:04:32] [urlrule] sites weipai.cn update yes丶
     * [2014/12/17 06:03:57] [urlrule] sites weipai.cn update vamipre小妖
