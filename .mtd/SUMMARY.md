@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update kimoon
+
+    * Begin : 2014/12/17 05:57:16
+    * End   : 2014/12/17 05:57:30
+    * Result: OK
+
 * [urlrule] sites weipai.cn update forgetlethe
 
     * Begin : 2014/12/17 05:55:29
