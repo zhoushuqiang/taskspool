@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 544f5b63a6640b93118b4576 周泊霖cutey
+
+    * Begin : 2014/12/16 09:36:14
+    * End   : 2014/12/16 09:36:15
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bb0d8a5640bc16d8b4590
 
     * Begin : 2014/12/16 09:35:36
