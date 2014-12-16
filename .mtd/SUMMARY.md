@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE DJ-CC
+
+    * Begin : 2014/12/16 08:47:48
+    * End   : 2014/12/16 08:49:34
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548afe19a5640b391f8b4568
 
     * Begin : 2014/12/16 08:47:31

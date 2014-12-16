@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn UPDATE DJ-CC
+
+    * Begin : 2014/12/16 08:47:48
+    * End   : 2014/12/16 08:49:34
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 51ad9c4f5e8e875a62000000 DJ-CC
+
+    * Begin : 2014/12/16 08:47:47
+    * End   : 2014/12/16 08:47:48
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 51ad9c4f5e8e875a62000000 DJ-CC
+
+    * Begin : 2014/12/16 08:47:46
+    * End   : 2014/12/16 08:47:47
+    * Result: http://www.weipai.cn/video/548b6f0ea5640b8b1a8b459a=>[weipai.cn] 51ad9c4f5e8e875a62000000 (DJ-CC) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548afe19a5640b391f8b4568
 
     * Begin : 2014/12/16 08:47:31
