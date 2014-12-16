@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 杨大人
+
+    * Begin : 2014/12/17 07:24:32
+    * End   : 2014/12/17 07:25:00
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 来不及疼痛
+
+    * Begin : 2014/12/17 07:24:28
+    * End   : 2014/12/17 07:24:31
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 李颖芝
+
+    * Begin : 2014/12/17 07:24:23
+    * End   : 2014/12/17 07:24:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李豪Joylee
+
+    * Begin : 2014/12/17 07:24:21
+    * End   : 2014/12/17 07:24:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李萌萌护肤美美哒
+
+    * Begin : 2014/12/17 07:24:19
+    * End   : 2014/12/17 07:24:20
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 李点点儿
 
     * Begin : 2014/12/17 07:20:22
