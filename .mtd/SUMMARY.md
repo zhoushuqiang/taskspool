@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 毛大怪
+
+    * Begin : 2014/12/16 09:52:51
+    * End   : 2014/12/16 09:54:08
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 548bcdc0a6640bc63c8b4568 毛大怪
 
     * Begin : 2014/12/16 09:52:41
