@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE ljylovesjy
+
+    * Begin : 2014/12/16 22:29:02
+    * End   : 2014/12/16 22:35:58
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 548683bfa6640b7e3d8b456d ljylovesjy
 
     * Begin : 2014/12/16 22:28:49
