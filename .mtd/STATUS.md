@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 06:36:52] [urlrule] sites weipai.cn update 大芹
     * [2014/12/17 06:35:28] [urlrule] sites weipai.cn update 夕夕Y
     * [2014/12/17 06:34:31] [urlrule] sites weipai.cn update 嘉昕
     * [2014/12/17 06:33:34] [urlrule] sites weipai.cn update 吴美昕Yumi
@@ -119,6 +120,16 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 06:36:08] [urlrule] sites weipai.cn update 大美露
+    * [2014/12/17 06:36:06] [urlrule] sites weipai.cn update 大牙大牙大雅莉
+    * [2014/12/17 06:36:03] [urlrule] sites weipai.cn update 大朴朴
+    * [2014/12/17 06:36:01] [urlrule] sites weipai.cn update 大木木彡
+    * [2014/12/17 06:35:58] [urlrule] sites weipai.cn update 大拿MM
+    * [2014/12/17 06:35:56] [urlrule] sites weipai.cn update 大妞范经纪人满林
+    * [2014/12/17 06:35:54] [urlrule] sites weipai.cn update 大妞范慧子
+    * [2014/12/17 06:35:51] [urlrule] sites weipai.cn update 大妞范
+    * [2014/12/17 06:35:49] [urlrule] sites weipai.cn update 大国GEE
+    * [2014/12/17 06:35:46] [urlrule] sites weipai.cn update 多多lgh
     * [2014/12/17 06:35:16] [urlrule] sites weipai.cn update 夏美熙泽
     * [2014/12/17 06:35:14] [urlrule] sites weipai.cn update 夏婉婉Bonnie
     * [2014/12/17 06:35:11] [urlrule] sites weipai.cn update 夏凉宸Ala

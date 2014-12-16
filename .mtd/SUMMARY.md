@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 大芹
+
+    * Begin : 2014/12/17 06:36:10
+    * End   : 2014/12/17 06:36:52
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 夕夕Y
 
     * Begin : 2014/12/17 06:35:18
