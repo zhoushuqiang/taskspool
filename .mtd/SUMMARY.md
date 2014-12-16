@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 张栩菲-ManGo
+
+
+    * Begin : 2014/12/17 04:40:38
+    * End   : 2014/12/17 04:42:02
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 梅姿baby
 
 

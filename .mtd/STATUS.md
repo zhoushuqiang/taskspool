@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 04:42:02] [urlrule] sites weipai.cn UPDATE 张栩菲-ManGo
+
     * [2014/12/17 04:40:20] [urlrule] sites weipai.cn UPDATE 梅姿baby
 
     * [2014/12/17 04:39:38] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
@@ -44,6 +46,10 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 04:40:38] [urlrule] sites weipai.cn follow 546c58f7a8640be32f8b457d 张栩菲-ManGo
+
+    * [2014/12/17 04:40:37] [urlrule] sites weipai.cn add 546c58f7a8640be32f8b457d 张栩菲-ManGo
+
     * [2014/12/17 04:39:56] [urlrule] sites weipai.cn follow 508e3aa38134941b2400001a 梅姿baby
 
     * [2014/12/17 04:39:56] [urlrule] sites weipai.cn add 508e3aa38134941b2400001a 梅姿baby

@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE 张栩菲-ManGo
+
+
+    * Begin : 2014/12/17 04:40:38
+    * End   : 2014/12/17 04:42:02
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 546c58f7a8640be32f8b457d 张栩菲-ManGo
+
+
+    * Begin : 2014/12/17 04:40:37
+    * End   : 2014/12/17 04:40:38
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 546c58f7a8640be32f8b457d 张栩菲-ManGo
+
+
+    * Begin : 2014/12/17 04:40:37
+    * End   : 2014/12/17 04:40:37
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 梅姿baby
 
 
