@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 黑桃女王
+
+    * Begin : 2014/12/17 04:27:48
+    * End   : 2014/12/17 04:28:27
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 黑三小幺
+
+    * Begin : 2014/12/17 04:27:46
+    * End   : 2014/12/17 04:27:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 黎儿
+
+    * Begin : 2014/12/17 04:27:44
+    * End   : 2014/12/17 04:27:44
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 黄没没-
 
     * Begin : 2014/12/17 04:23:06
