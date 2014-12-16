@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 5421bc64a5640b2c468b4597 杨沫沫Aimee
+
+    * Begin : 2014/12/16 08:52:47
+    * End   : 2014/12/16 08:52:47
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548b72c8a5640b88598b4569
 
     * Begin : 2014/12/16 08:50:46
