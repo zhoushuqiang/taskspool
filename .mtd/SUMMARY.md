@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 他不懂我的xin
+
+    * Begin : 2014/12/17 06:17:19
+    * End   : 2014/12/17 06:19:06
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 乐怡
 
     * Begin : 2014/12/17 06:08:45

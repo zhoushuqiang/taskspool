@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 他不懂我的xin
+
+    * Begin : 2014/12/17 06:17:19
+    * End   : 2014/12/17 06:19:06
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 亿艾儿-baby
+
+    * Begin : 2014/12/17 06:17:17
+    * End   : 2014/12/17 06:17:17
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 于小慧
+
+    * Begin : 2014/12/17 06:17:14
+    * End   : 2014/12/17 06:17:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 于安朵
+
+    * Begin : 2014/12/17 06:17:10
+    * End   : 2014/12/17 06:17:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 乱搞砖家
+
+    * Begin : 2014/12/17 06:17:08
+    * End   : 2014/12/17 06:17:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 乔宝宝i
+
+    * Begin : 2014/12/17 06:17:05
+    * End   : 2014/12/17 06:17:06
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 乐怡
 
     * Begin : 2014/12/17 06:08:45
