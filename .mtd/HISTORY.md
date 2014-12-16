@@ -1,3 +1,57 @@
+* [urlrule] sites weipai.cn update oliviababy
+
+    * Begin : 2014/12/17 06:00:20
+    * End   : 2014/12/17 06:00:56
+    * Result: OK
+
+* [urlrule] sites weipai.cn update monica_1990
+
+    * Begin : 2014/12/17 06:00:17
+    * End   : 2014/12/17 06:00:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update mm小七
+
+    * Begin : 2014/12/17 06:00:14
+    * End   : 2014/12/17 06:00:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update miss大蝴蝶
+
+    * Begin : 2014/12/17 06:00:12
+    * End   : 2014/12/17 06:00:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update miss吴
+
+    * Begin : 2014/12/17 06:00:09
+    * End   : 2014/12/17 06:00:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update mina桑
+
+    * Begin : 2014/12/17 06:00:07
+    * End   : 2014/12/17 06:00:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update miki夫人
+
+    * Begin : 2014/12/17 06:00:04
+    * End   : 2014/12/17 06:00:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update meng-yu520
+
+    * Begin : 2014/12/17 06:00:02
+    * End   : 2014/12/17 06:00:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update mayuko
+
+    * Begin : 2014/12/17 05:59:59
+    * End   : 2014/12/17 06:00:00
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update love雯雯
 
     * Begin : 2014/12/17 05:59:00
