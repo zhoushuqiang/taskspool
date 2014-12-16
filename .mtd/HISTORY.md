@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn UPDATE 杨梓萱baby
+
+    * Begin : 2014/12/16 09:35:05
+    * End   : 2014/12/16 09:35:26
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 53820e34ebeddb3b218b459d 杨梓萱baby
+
+    * Begin : 2014/12/16 09:35:05
+    * End   : 2014/12/16 09:35:05
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53820e34ebeddb3b218b459d 杨梓萱baby
+
+    * Begin : 2014/12/16 09:35:03
+    * End   : 2014/12/16 09:35:05
+    * Result: http://www.weipai.cn/video/548bb0d8a5640bc16d8b4590=>[weipai.cn] 53820e34ebeddb3b218b459d (杨梓萱baby) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548baf5ca5640bee6e8b457d
 
     * Begin : 2014/12/16 09:34:49

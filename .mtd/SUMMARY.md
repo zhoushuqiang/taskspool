@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 杨梓萱baby
+
+    * Begin : 2014/12/16 09:35:05
+    * End   : 2014/12/16 09:35:26
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548baf5ca5640bee6e8b457d
 
     * Begin : 2014/12/16 09:34:49
