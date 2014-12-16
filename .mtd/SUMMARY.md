@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小也慧子
+
+    * Begin : 2014/12/17 06:51:19
+    * End   : 2014/12/17 06:52:03
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 小qiqi总爱凑美呦
 
     * Begin : 2014/12/17 06:50:38
