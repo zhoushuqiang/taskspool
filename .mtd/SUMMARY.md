@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Despair-假寐
+
+    * Begin : 2014/12/17 05:22:27
+    * End   : 2014/12/17 05:23:18
+    * Result: OK
+
 * [urlrule] sites weipai.cn update DM靜兒
 
     * Begin : 2014/12/17 05:20:04
