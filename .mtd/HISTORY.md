@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bf8aba5640bf3448b4595
+
+    * Begin : 2014/12/16 13:48:42
+    * End   : 2014/12/16 13:48:45
+    * Result: => Jocelyn_晶/weipai.cn/52e49273e34167b14c8b45aa
+
+* [urlrule] sites weipai.cn UPDATE Jocelyn_晶
+
+    * Begin : 2014/12/16 13:48:40
+    * End   : 2014/12/16 13:48:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52e49273e34167b14c8b45aa Jocelyn_晶
+
+    * Begin : 2014/12/16 13:48:40
+    * End   : 2014/12/16 13:48:40
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52e49273e34167b14c8b45aa Jocelyn_晶
+
+    * Begin : 2014/12/16 13:48:38
+    * End   : 2014/12/16 13:48:40
+    * Result: http://www.weipai.cn/video/548bf8aba5640bf3448b4595=>[weipai.cn] 52e49273e34167b14c8b45aa (Jocelyn_晶) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bf691a5640b53448b4593
 
     * Begin : 2014/12/16 13:48:23

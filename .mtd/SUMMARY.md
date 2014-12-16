@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bf8aba5640bf3448b4595
+
+    * Begin : 2014/12/16 13:48:42
+    * End   : 2014/12/16 13:48:45
+    * Result: => Jocelyn_晶/weipai.cn/52e49273e34167b14c8b45aa
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bf691a5640b53448b4593
 
     * Begin : 2014/12/16 13:48:23
