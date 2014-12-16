@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update yiurdhe520
+
+    * Begin : 2014/12/17 06:04:51
+    * End   : 2014/12/17 06:05:22
+    * Result: OK
+
 * [urlrule] sites weipai.cn update yes丶
 
     * Begin : 2014/12/17 06:04:22
