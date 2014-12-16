@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/16 22:39:24] [urlrule] sites weipai.cn update 扯起鸡儿弹蹦蹦
     * [2014/12/16 22:38:29] [urlrule] sites weipai.cn update 懒虫baby
     * [2014/12/16 22:37:06] [urlrule] sites weipai.cn update 恋姗妮
     * [2014/12/16 22:36:17] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
@@ -520,6 +521,18 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/16 22:39:14] [urlrule] sites weipai.cn update 戴玉琪
+    * [2014/12/16 22:39:11] [urlrule] sites weipai.cn update 我行我素新灵儿
+    * [2014/12/16 22:39:09] [urlrule] sites weipai.cn update 我的幸福你赞助
+    * [2014/12/16 22:39:06] [urlrule] sites weipai.cn update 我爱奥黛丽赫本
+    * [2014/12/16 22:39:04] [urlrule] sites weipai.cn update 我是郑成功
+    * [2014/12/16 22:39:02] [urlrule] sites weipai.cn update 我是你Lily姐
+    * [2014/12/16 22:38:59] [urlrule] sites weipai.cn update 我是伊一baby
+    * [2014/12/16 22:38:57] [urlrule] sites weipai.cn update 我就是爱瞎胡闹
+    * [2014/12/16 22:38:54] [urlrule] sites weipai.cn update 我就是樱桃小丸子
+    * [2014/12/16 22:38:51] [urlrule] sites weipai.cn update 我只愛高跟鞋
+    * [2014/12/16 22:38:49] [urlrule] sites weipai.cn update 我一直都在雯雯
+    * [2014/12/16 22:38:46] [urlrule] sites weipai.cn update 成都的肉包子
     * [2014/12/16 22:37:25] [urlrule] sites weipai.cn update 慕慕的性感迷死你
     * [2014/12/16 22:37:22] [urlrule] sites weipai.cn update 悦儿yummy
     * [2014/12/16 22:36:57] [urlrule] sites vlook.cn update 性感女神研研

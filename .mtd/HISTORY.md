@@ -1,3 +1,81 @@
+* [urlrule] sites weipai.cn update 扯起鸡儿弹蹦蹦
+
+    * Begin : 2014/12/16 22:39:16
+    * End   : 2014/12/16 22:39:24
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 戴玉琪
+
+    * Begin : 2014/12/16 22:39:13
+    * End   : 2014/12/16 22:39:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我行我素新灵儿
+
+    * Begin : 2014/12/16 22:39:11
+    * End   : 2014/12/16 22:39:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我的幸福你赞助
+
+    * Begin : 2014/12/16 22:39:08
+    * End   : 2014/12/16 22:39:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我爱奥黛丽赫本
+
+    * Begin : 2014/12/16 22:39:06
+    * End   : 2014/12/16 22:39:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我是郑成功
+
+    * Begin : 2014/12/16 22:39:03
+    * End   : 2014/12/16 22:39:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我是你Lily姐
+
+    * Begin : 2014/12/16 22:39:01
+    * End   : 2014/12/16 22:39:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我是伊一baby
+
+    * Begin : 2014/12/16 22:38:58
+    * End   : 2014/12/16 22:38:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我就是爱瞎胡闹
+
+    * Begin : 2014/12/16 22:38:56
+    * End   : 2014/12/16 22:38:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我就是樱桃小丸子
+
+    * Begin : 2014/12/16 22:38:53
+    * End   : 2014/12/16 22:38:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我只愛高跟鞋
+
+    * Begin : 2014/12/16 22:38:51
+    * End   : 2014/12/16 22:38:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我一直都在雯雯
+
+    * Begin : 2014/12/16 22:38:48
+    * End   : 2014/12/16 22:38:49
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 成都的肉包子
+
+    * Begin : 2014/12/16 22:38:45
+    * End   : 2014/12/16 22:38:46
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 懒虫baby
 
     * Begin : 2014/12/16 22:37:26

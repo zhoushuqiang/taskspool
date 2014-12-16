@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 扯起鸡儿弹蹦蹦
+
+    * Begin : 2014/12/16 22:39:16
+    * End   : 2014/12/16 22:39:24
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 懒虫baby
 
     * Begin : 2014/12/16 22:37:26
