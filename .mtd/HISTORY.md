@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 535d24b8ebeddb3a598b4590 小妮仔
+
+    * Begin : 2014/12/16 20:43:26
+    * End   : 2014/12/16 20:43:27
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 535d24b8ebeddb3a598b4590 小妮仔
+
+    * Begin : 2014/12/16 20:43:24
+    * End   : 2014/12/16 20:43:26
+    * Result: http://www.weipai.cn/video/548c21f4a5640b69188b45a0=>[weipai.cn] 535d24b8ebeddb3a598b4590 (小妮仔) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c21d3a5640b56188b45a7
 
     * Begin : 2014/12/16 20:43:02
