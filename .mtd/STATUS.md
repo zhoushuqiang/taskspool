@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 03:54:28] [urlrule] sites weipai.cn update 艾舞kathy
     * [2014/12/17 03:53:34] [urlrule] sites weipai.cn update 般若的每一天
     * [2014/12/17 03:42:10] [urlrule] sites weipai.cn update 索菲娅5200
     * [2014/12/17 03:39:38] [urlrule] sites weipai.cn update 粽子小姐
@@ -13,6 +14,8 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 03:54:00] [urlrule] sites weipai.cn update 艾小爱
+    * [2014/12/17 03:53:57] [urlrule] sites weipai.cn update 艾_笑笑
     * [2014/12/17 03:43:17] [urlrule] sites weipai.cn update 胸奀
     * [2014/12/17 03:43:15] [urlrule] sites vlook.cn update 胡金熙
     * [2014/12/17 03:43:10] [urlrule] sites weipai.cn update 肥尻夫人Linanan
