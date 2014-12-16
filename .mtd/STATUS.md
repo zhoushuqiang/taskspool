@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 05:50:57] [urlrule] sites vlook.cn update Yumi小旁友
     * [2014/12/17 05:50:18] [urlrule] sites vlook.cn update VK_bb
     * [2014/12/17 05:49:42] [urlrule] sites weipai.cn update Sweet-微
     * [2014/12/17 05:46:58] [urlrule] sites weipai.cn update Sooki莹莹孙
@@ -88,6 +89,9 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 05:50:47] [urlrule] sites weipai.cn update V信qxs95002
+    * [2014/12/17 05:50:44] [urlrule] sites weipai.cn update Vicky777777
+    * [2014/12/17 05:50:41] [urlrule] sites weipai.cn update VV朗熙
     * [2014/12/17 05:50:11] [urlrule] sites weipai.cn update Tomyli惋柔
     * [2014/12/17 05:50:08] [urlrule] sites weipai.cn update TinaWong
     * [2014/12/17 05:50:04] [urlrule] sites weipai.cn update Theonlylove

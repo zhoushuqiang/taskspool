@@ -1,3 +1,27 @@
+* [urlrule] sites vlook.cn update Yumi小旁友
+
+    * Begin : 2014/12/17 05:50:48
+    * End   : 2014/12/17 05:50:57
+    * Result: OK
+
+* [urlrule] sites weipai.cn update V信qxs95002
+
+    * Begin : 2014/12/17 05:50:46
+    * End   : 2014/12/17 05:50:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Vicky777777
+
+    * Begin : 2014/12/17 05:50:43
+    * End   : 2014/12/17 05:50:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update VV朗熙
+
+    * Begin : 2014/12/17 05:50:41
+    * End   : 2014/12/17 05:50:41
+    * Result: Nothing to do
+
 * [urlrule] sites vlook.cn update VK_bb
 
     * Begin : 2014/12/17 05:50:12

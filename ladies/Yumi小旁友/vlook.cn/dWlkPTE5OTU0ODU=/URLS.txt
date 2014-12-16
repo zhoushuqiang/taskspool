@@ -12,3 +12,4 @@ http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6aYt&client=pc&imei=ee257
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6avb&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140828225954_晚安_10秒.mp4
 http://download1.vlook.cn/video/high/6XDL.mp4	20141212123834_拍摄花絮_40秒.mp4
 http://download1.vlook.cn/video/high/6XvP.mp4	20141212035343_我最喜欢粉色_9秒.mp4
+http://download1.vlook.cn/video/high/6Zqb.mp4	20141216014126_来看跳舞喽_31秒.mp4

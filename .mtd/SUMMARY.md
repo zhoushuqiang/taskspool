@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update Yumi小旁友
+
+    * Begin : 2014/12/17 05:50:48
+    * End   : 2014/12/17 05:50:57
+    * Result: OK
+
 * [urlrule] sites vlook.cn update VK_bb
 
     * Begin : 2014/12/17 05:50:12
