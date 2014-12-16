@@ -1,3 +1,57 @@
+* [urlrule] sites weipai.cn update 恋姗妮
+
+    * Begin : 2014/12/16 22:36:59
+    * End   : 2014/12/16 22:37:06
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 性感女神研研
+
+    * Begin : 2014/12/16 22:36:54
+    * End   : 2014/12/16 22:36:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 性感像多花
+
+    * Begin : 2014/12/16 22:36:52
+    * End   : 2014/12/16 22:36:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 忧伤的黄瓜1
+
+    * Begin : 2014/12/16 22:36:50
+    * End   : 2014/12/16 22:36:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 忧伤的小麻雀
+
+    * Begin : 2014/12/16 22:36:47
+    * End   : 2014/12/16 22:36:48
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 心蕾Abby
+
+    * Begin : 2014/12/16 22:36:42
+    * End   : 2014/12/16 22:36:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 心宁儿cecilia
+
+    * Begin : 2014/12/16 22:36:40
+    * End   : 2014/12/16 22:36:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 微拍精品福利--
+
+    * Begin : 2014/12/16 22:36:37
+    * End   : 2014/12/16 22:36:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 微拍娱乐圈
+
+    * Begin : 2014/12/16 22:36:34
+    * End   : 2014/12/16 22:36:35
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 
     * Begin : 2014/12/16 22:36:12

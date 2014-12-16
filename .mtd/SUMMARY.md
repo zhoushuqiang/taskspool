@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 恋姗妮
+
+    * Begin : 2014/12/16 22:36:59
+    * End   : 2014/12/16 22:37:06
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 
     * Begin : 2014/12/16 22:36:12

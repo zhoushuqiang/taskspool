@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/16 22:37:06] [urlrule] sites weipai.cn update 恋姗妮
     * [2014/12/16 22:36:17] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     * [2014/12/16 22:35:58] [urlrule] sites weipai.cn UPDATE ljylovesjy
     * [2014/12/16 22:28:50] [urlrule] sites weipai.cn follow 548683bfa6640b7e3d8b456d ljylovesjy
@@ -518,6 +519,14 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/16 22:36:57] [urlrule] sites vlook.cn update 性感女神研研
+    * [2014/12/16 22:36:53] [urlrule] sites weipai.cn update 性感像多花
+    * [2014/12/16 22:36:50] [urlrule] sites weipai.cn update 忧伤的黄瓜1
+    * [2014/12/16 22:36:48] [urlrule] sites weipai.cn update 忧伤的小麻雀
+    * [2014/12/16 22:36:46] [urlrule] sites vlook.cn update 心蕾Abby
+    * [2014/12/16 22:36:41] [urlrule] sites weipai.cn update 心宁儿cecilia
+    * [2014/12/16 22:36:38] [urlrule] sites weipai.cn update 微拍精品福利--
+    * [2014/12/16 22:36:35] [urlrule] sites weipai.cn update 微拍娱乐圈
     * [2014/12/16 22:28:49] [urlrule] sites weipai.cn add 548683bfa6640b7e3d8b456d ljylovesjy
     * [2014/12/16 21:49:29] [urlrule] sites weipai.cn add 534c385c9d67d9f04e8b457d 杨大人
     * [2014/12/16 21:40:04] [urlrule] sites weipai.cn add 53b6767aebeddb9b0a8b4567 18610561108
