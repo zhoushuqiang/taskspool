@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 陈依萌宝贝
+
+    * Begin : 2014/12/16 20:58:53
+    * End   : 2014/12/16 21:05:17
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53ffa4afa5640b19448b456c 陈依萌宝贝
 
     * Begin : 2014/12/16 20:58:40
