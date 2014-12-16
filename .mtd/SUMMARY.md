@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 叶豆豆_baby
+
+
+    * Begin : 2014/12/17 04:42:23
+    * End   : 2014/12/17 04:44:32
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 张栩菲-ManGo
 
 

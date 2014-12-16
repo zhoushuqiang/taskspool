@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn UPDATE 叶豆豆_baby
+
+
+    * Begin : 2014/12/17 04:42:23
+    * End   : 2014/12/17 04:44:32
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 52e25e0e78d3cc17708b458f 叶豆豆_baby
+
+
+    * Begin : 2014/12/17 04:42:22
+    * End   : 2014/12/17 04:42:23
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52e25e0e78d3cc17708b458f 叶豆豆_baby
+
+
+    * Begin : 2014/12/17 04:42:22
+    * End   : 2014/12/17 04:42:22
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 乔宝宝i
+
+
+    * Begin : 2014/12/17 04:42:20
+    * End   : 2014/12/17 04:42:21
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 544c086ba8640bf2048b457b 乔宝宝i
+
+
+    * Begin : 2014/12/17 04:42:19
+    * End   : 2014/12/17 04:42:20
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 544c086ba8640bf2048b457b 乔宝宝i
+
+
+    * Begin : 2014/12/17 04:42:19
+    * End   : 2014/12/17 04:42:19
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 张栩菲-ManGo
 
 

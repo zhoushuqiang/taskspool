@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 04:44:32] [urlrule] sites weipai.cn UPDATE 叶豆豆_baby
+
     * [2014/12/17 04:42:02] [urlrule] sites weipai.cn UPDATE 张栩菲-ManGo
 
     * [2014/12/17 04:40:20] [urlrule] sites weipai.cn UPDATE 梅姿baby
@@ -46,6 +48,16 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 04:42:23] [urlrule] sites weipai.cn follow 52e25e0e78d3cc17708b458f 叶豆豆_baby
+
+    * [2014/12/17 04:42:22] [urlrule] sites weipai.cn add 52e25e0e78d3cc17708b458f 叶豆豆_baby
+
+    * [2014/12/17 04:42:21] [urlrule] sites weipai.cn UPDATE 乔宝宝i
+
+    * [2014/12/17 04:42:20] [urlrule] sites weipai.cn follow 544c086ba8640bf2048b457b 乔宝宝i
+
+    * [2014/12/17 04:42:19] [urlrule] sites weipai.cn add 544c086ba8640bf2048b457b 乔宝宝i
+
     * [2014/12/17 04:40:38] [urlrule] sites weipai.cn follow 546c58f7a8640be32f8b457d 张栩菲-ManGo
 
     * [2014/12/17 04:40:37] [urlrule] sites weipai.cn add 546c58f7a8640be32f8b457d 张栩菲-ManGo
