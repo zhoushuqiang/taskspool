@@ -1,9 +1,8 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 22:36:17] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     * [2014/12/16 22:35:58] [urlrule] sites weipai.cn UPDATE ljylovesjy
     * [2014/12/16 22:28:50] [urlrule] sites weipai.cn follow 548683bfa6640b7e3d8b456d ljylovesjy
     * [2014/12/16 22:28:31] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6b65a5640b64348b456d
