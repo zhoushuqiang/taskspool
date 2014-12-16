@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c303da5640baf728b4589
+
+    * Begin : 2014/12/16 21:39:20
+    * End   : 2014/12/16 21:39:23
+    * Result: => 甜美人angela/weipai.cn/529a8b54504a130e208b4569
+
 * [urlrule] sites weipai.cn UPDATE 甜美人angela
 
     * Begin : 2014/12/16 21:37:18
