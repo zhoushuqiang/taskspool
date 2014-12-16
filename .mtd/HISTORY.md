@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update CBMXX
+
+    * Begin : 2014/12/17 05:14:57
+    * End   : 2014/12/17 05:15:16
+    * Result: OK
+
+* [urlrule] sites weipai.cn update C0C0
+
+    * Begin : 2014/12/17 05:14:54
+    * End   : 2014/12/17 05:14:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Box039
+
+    * Begin : 2014/12/17 05:14:52
+    * End   : 2014/12/17 05:14:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update BoBo小苗
+
+    * Begin : 2014/12/17 05:14:49
+    * End   : 2014/12/17 05:14:50
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Bella-小白
 
     * Begin : 2014/12/17 05:13:34

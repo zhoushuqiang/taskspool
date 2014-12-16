@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update CBMXX
+
+    * Begin : 2014/12/17 05:14:57
+    * End   : 2014/12/17 05:15:16
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Bella-小白
 
     * Begin : 2014/12/17 05:13:34
