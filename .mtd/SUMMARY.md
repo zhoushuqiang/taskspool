@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 瑶瑶baby
+
+    * Begin : 2014/12/17 03:28:02
+    * End   : 2014/12/17 03:28:18
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 猫小咪Queen
 
     * Begin : 2014/12/17 03:24:35
