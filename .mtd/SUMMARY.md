@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 安妮Annie
+
+
+    * Begin : 2014/12/17 04:45:09
+    * End   : 2014/12/17 04:45:18
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 叶豆豆_baby
 
 
