@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 纯儿宝贝
+
+    * Begin : 2014/12/16 07:56:32
+    * End   : 2014/12/16 08:09:28
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 517409a17f34947950000004 纯儿宝贝
 
     * Begin : 2014/12/16 07:56:22
