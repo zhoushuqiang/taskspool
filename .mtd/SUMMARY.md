@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd998a5640bb54e8b4576
+
+    * Begin : 2014/12/16 12:59:34
+    * End   : 2014/12/16 12:59:37
+    * Result: => 刘小莎/weipai.cn/5149bc1c7d34946e5500003e
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd922a5640b8c4c8b4572
 
     * Begin : 2014/12/16 12:59:06

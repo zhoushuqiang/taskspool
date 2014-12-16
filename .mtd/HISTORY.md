@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd998a5640bb54e8b4576
+
+    * Begin : 2014/12/16 12:59:34
+    * End   : 2014/12/16 12:59:37
+    * Result: => 刘小莎/weipai.cn/5149bc1c7d34946e5500003e
+
+* [urlrule] sites weipai.cn UPDATE 刘小莎
+
+    * Begin : 2014/12/16 12:59:33
+    * End   : 2014/12/16 12:59:33
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5149bc1c7d34946e5500003e 刘小莎
+
+    * Begin : 2014/12/16 12:59:32
+    * End   : 2014/12/16 12:59:33
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5149bc1c7d34946e5500003e 刘小莎
+
+    * Begin : 2014/12/16 12:59:30
+    * End   : 2014/12/16 12:59:32
+    * Result: http://www.weipai.cn/video/548bd998a5640bb54e8b4576=>[weipai.cn] 5149bc1c7d34946e5500003e (刘小莎) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd922a5640b8c4c8b4572
 
     * Begin : 2014/12/16 12:59:06
