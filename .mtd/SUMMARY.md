@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bb7f4a5640b4a108b4590
+
+    * Begin : 2014/12/16 09:40:19
+    * End   : 2014/12/16 09:40:22
+    * Result: => 神仙姐姐__艾溪/weipai.cn/5277f433813494257c2eb0c6
+
 * [urlrule] sites weipai.cn UPDATE 神仙姐姐__艾溪
 
     * Begin : 2014/12/16 09:39:34

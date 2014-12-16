@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bb7f4a5640b4a108b4590
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548bcc68a5640bd35d8b45af
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bcc68a5640bd35d8b45af
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548bcf2aa5640b93188b4572
@@ -110,6 +109,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 09:40:22] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bb7f4a5640b4a108b4590
     * [2014/12/16 09:40:09] [urlrule] sites weipai.cn UPDATE 神仙姐姐__艾溪
     * [2014/12/16 09:39:22] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bb575a5640b78028b459b
     * [2014/12/16 09:39:09] [urlrule] sites weipai.cn UPDATE 周泊霖cutey
