@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd530a5640b66298b4582
+
+    * Begin : 2014/12/16 10:52:26
+    * End   : 2014/12/16 10:52:59
+    * Result: => 萌娇小妖精/weipai.cn/54879e8fa8640b770c8b4574
+
 * [urlrule] sites weipai.cn UPDATE 萌娇小妖精
 
     * Begin : 2014/12/16 10:51:01
