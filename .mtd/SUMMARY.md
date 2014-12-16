@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Christine黄可
+
+    * Begin : 2014/12/17 05:15:49
+    * End   : 2014/12/17 05:16:54
+    * Result: OK
+
 * [urlrule] sites weipai.cn update CBMXX
 
     * Begin : 2014/12/17 05:14:57

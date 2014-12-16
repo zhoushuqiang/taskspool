@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn update Christine黄可
+
+    * Begin : 2014/12/17 05:15:49
+    * End   : 2014/12/17 05:16:54
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Cello
+
+    * Begin : 2014/12/17 05:15:47
+    * End   : 2014/12/17 05:15:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Cathy陈茹雪
+
+    * Begin : 2014/12/17 05:15:44
+    * End   : 2014/12/17 05:15:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update CL森系女神
+
+    * Begin : 2014/12/17 05:15:41
+    * End   : 2014/12/17 05:15:42
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update CFTZ
+
+    * Begin : 2014/12/17 05:15:39
+    * End   : 2014/12/17 05:15:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update CC宠儿凌溪
+
+    * Begin : 2014/12/17 05:15:36
+    * End   : 2014/12/17 05:15:37
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update CC-rose
+
+    * Begin : 2014/12/17 05:15:33
+    * End   : 2014/12/17 05:15:34
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update CBMXX
 
     * Begin : 2014/12/17 05:14:57

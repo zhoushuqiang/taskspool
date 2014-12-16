@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 05:16:54] [urlrule] sites weipai.cn update Christine黄可
     * [2014/12/17 05:15:16] [urlrule] sites weipai.cn update CBMXX
     * [2014/12/17 05:14:31] [urlrule] sites weipai.cn update Bella-小白
     * [2014/12/17 05:13:00] [urlrule] sites weipai.cn update Baby-perry
@@ -69,6 +70,12 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 05:15:47] [urlrule] sites weipai.cn update Cello
+    * [2014/12/17 05:15:45] [urlrule] sites weipai.cn update Cathy陈茹雪
+    * [2014/12/17 05:15:42] [urlrule] sites weipai.cn update CL森系女神
+    * [2014/12/17 05:15:40] [urlrule] sites weipai.cn update CFTZ
+    * [2014/12/17 05:15:37] [urlrule] sites weipai.cn update CC宠儿凌溪
+    * [2014/12/17 05:15:34] [urlrule] sites weipai.cn update CC-rose
     * [2014/12/17 05:14:55] [urlrule] sites weipai.cn update C0C0
     * [2014/12/17 05:14:52] [urlrule] sites weipai.cn update Box039
     * [2014/12/17 05:14:50] [urlrule] sites weipai.cn update BoBo小苗
