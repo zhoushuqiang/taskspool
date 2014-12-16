@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd173a5640b5d178b4588
+
+    * Begin : 2014/12/16 09:52:11
+    * End   : 2014/12/16 09:52:13
+    * Result: => 小小小小米/weipai.cn/528f8aaa504a13e93c8b4591
+
+* [urlrule] sites weipai.cn UPDATE 小小小小米
+
+    * Begin : 2014/12/16 09:52:09
+    * End   : 2014/12/16 09:52:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 528f8aaa504a13e93c8b4591 小小小小米
+
+    * Begin : 2014/12/16 09:52:09
+    * End   : 2014/12/16 09:52:09
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 528f8aaa504a13e93c8b4591 小小小小米
+
+    * Begin : 2014/12/16 09:52:07
+    * End   : 2014/12/16 09:52:09
+    * Result: http://www.weipai.cn/video/548bd173a5640b5d178b4588=>[weipai.cn] 528f8aaa504a13e93c8b4591 (小小小小米) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bcfcfa5640b5d178b457c
 
     * Begin : 2014/12/16 09:50:55
