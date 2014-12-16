@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 雅沁
+
+    * Begin : 2014/12/17 04:17:59
+    * End   : 2014/12/17 04:18:15
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 随遇而安20140415
+
+    * Begin : 2014/12/17 04:17:56
+    * End   : 2014/12/17 04:17:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陛下陛下女王王
+
+    * Begin : 2014/12/17 04:17:54
+    * End   : 2014/12/17 04:17:55
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 陈语乔
 
     * Begin : 2014/12/17 04:16:28
