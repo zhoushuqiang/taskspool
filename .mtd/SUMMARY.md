@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 勤妹儿
+
+    * Begin : 2014/12/16 09:26:44
+    * End   : 2014/12/16 09:34:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53a5a7948134947a61433bd5 勤妹儿
 
     * Begin : 2014/12/16 09:26:31
