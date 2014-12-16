@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 04:56:43] [urlrule] sites weipai.cn update 84剩女姐
     * [2014/12/17 04:54:58] [urlrule] sites weipai.cn update 20131211281
     * [2014/12/17 04:51:15] [urlrule] sites weipai.cn update 16姐
     * [2014/12/17 04:50:26] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
@@ -61,6 +62,26 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 04:56:08] [urlrule] sites weipai.cn update 70后米米妈丫
+    * [2014/12/17 04:56:05] [urlrule] sites weipai.cn update 576117778
+    * [2014/12/17 04:56:03] [urlrule] sites weipai.cn update 54423ad1a6640ba86f8b459c
+    * [2014/12/17 04:56:00] [urlrule] sites weipai.cn update 534c63348034940c2ff99e90
+    * [2014/12/17 04:55:58] [urlrule] sites weipai.cn update 450185387
+    * [2014/12/17 04:55:55] [urlrule] sites weipai.cn update 424195082
+    * [2014/12/17 04:55:52] [urlrule] sites weipai.cn update 3334
+    * [2014/12/17 04:55:50] [urlrule] sites weipai.cn update 292310977
+    * [2014/12/17 04:55:47] [urlrule] sites weipai.cn update 2413621327白易
+    * [2014/12/17 04:55:45] [urlrule] sites weipai.cn update 2014121592
+    * [2014/12/17 04:55:43] [urlrule] sites weipai.cn update 20141215100
+    * [2014/12/17 04:55:40] [urlrule] sites weipai.cn update 2014121236
+    * [2014/12/17 04:55:37] [urlrule] sites weipai.cn update 201411308
+    * [2014/12/17 04:55:35] [urlrule] sites weipai.cn update 2014110428
+    * [2014/12/17 04:55:33] [urlrule] sites weipai.cn update 2014080137
+    * [2014/12/17 04:55:30] [urlrule] sites weipai.cn update 2014071139
+    * [2014/12/17 04:55:27] [urlrule] sites weipai.cn update 20140610884
+    * [2014/12/17 04:55:25] [urlrule] sites weipai.cn update 201403085958
+    * [2014/12/17 04:55:23] [urlrule] sites weipai.cn update 20140221429
+    * [2014/12/17 04:55:20] [urlrule] sites weipai.cn update 20140110366
     * [2014/12/17 04:51:48] [urlrule] sites weipai.cn update 18610561108
     * [2014/12/17 04:51:39] [urlrule] sites weipai.cn update 1824329072宅女轩轩
     * [2014/12/17 04:51:35] [urlrule] sites vlook.cn update 1824329072宅女轩轩
