@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 06:35:28] [urlrule] sites weipai.cn update 夕夕Y
     * [2014/12/17 06:34:31] [urlrule] sites weipai.cn update 嘉昕
     * [2014/12/17 06:33:34] [urlrule] sites weipai.cn update 吴美昕Yumi
     * [2014/12/17 06:32:42] [urlrule] sites weipai.cn update 叫我超哥
@@ -118,6 +119,18 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 06:35:16] [urlrule] sites weipai.cn update 夏美熙泽
+    * [2014/12/17 06:35:14] [urlrule] sites weipai.cn update 夏婉婉Bonnie
+    * [2014/12/17 06:35:11] [urlrule] sites weipai.cn update 夏凉宸Ala
+    * [2014/12/17 06:35:09] [urlrule] sites vlook.cn update 夏baby小花
+    * [2014/12/17 06:35:04] [urlrule] sites weipai.cn update 夏baby小花
+    * [2014/12/17 06:35:02] [urlrule] sites weipai.cn update 坎蒂斯小姐
+    * [2014/12/17 06:35:00] [urlrule] sites weipai.cn update 地表最強-高潮製造機
+    * [2014/12/17 06:34:57] [urlrule] sites weipai.cn update 圈圈圈圈圈儿
+    * [2014/12/17 06:34:54] [urlrule] sites weipai.cn update 国际潘
+    * [2014/12/17 06:34:52] [urlrule] sites weipai.cn update 因为爱所以爱20141029
+    * [2014/12/17 06:34:50] [urlrule] sites weipai.cn update 四爷Siri
+    * [2014/12/17 06:34:47] [urlrule] sites weipai.cn update 嘟嘟女士
     * [2014/12/17 06:34:19] [urlrule] sites weipai.cn update 唐馨baby
     * [2014/12/17 06:34:17] [urlrule] sites weipai.cn update 响姐----
     * [2014/12/17 06:34:14] [urlrule] sites weipai.cn update 哈力牛仔

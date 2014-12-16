@@ -1,3 +1,81 @@
+* [urlrule] sites weipai.cn update 夕夕Y
+
+    * Begin : 2014/12/17 06:35:18
+    * End   : 2014/12/17 06:35:28
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 夏美熙泽
+
+    * Begin : 2014/12/17 06:35:15
+    * End   : 2014/12/17 06:35:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 夏婉婉Bonnie
+
+    * Begin : 2014/12/17 06:35:13
+    * End   : 2014/12/17 06:35:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 夏凉宸Ala
+
+    * Begin : 2014/12/17 06:35:11
+    * End   : 2014/12/17 06:35:11
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 夏baby小花
+
+    * Begin : 2014/12/17 06:35:06
+    * End   : 2014/12/17 06:35:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 夏baby小花
+
+    * Begin : 2014/12/17 06:35:04
+    * End   : 2014/12/17 06:35:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 坎蒂斯小姐
+
+    * Begin : 2014/12/17 06:35:01
+    * End   : 2014/12/17 06:35:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 地表最強-高潮製造機
+
+    * Begin : 2014/12/17 06:34:59
+    * End   : 2014/12/17 06:35:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 圈圈圈圈圈儿
+
+    * Begin : 2014/12/17 06:34:57
+    * End   : 2014/12/17 06:34:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 国际潘
+
+    * Begin : 2014/12/17 06:34:54
+    * End   : 2014/12/17 06:34:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 因为爱所以爱20141029
+
+    * Begin : 2014/12/17 06:34:51
+    * End   : 2014/12/17 06:34:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 四爷Siri
+
+    * Begin : 2014/12/17 06:34:49
+    * End   : 2014/12/17 06:34:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 嘟嘟女士
+
+    * Begin : 2014/12/17 06:34:47
+    * End   : 2014/12/17 06:34:47
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 嘉昕
 
     * Begin : 2014/12/17 06:34:21
