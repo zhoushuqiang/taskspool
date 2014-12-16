@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/16 22:53:14] [urlrule] sites weipai.cn update 梦婷Baby
     * [2014/12/16 22:51:47] [urlrule] sites weipai.cn update 梅姿baby
     * [2014/12/16 22:48:41] [urlrule] sites weipai.cn update 曹紫涵
     * [2014/12/16 22:47:40] [urlrule] sites weipai.cn update 景小姐景小姐
@@ -525,6 +526,9 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/16 22:52:40] [urlrule] sites vlook.cn update 梦之冰城
+    * [2014/12/16 22:52:36] [urlrule] sites weipai.cn update 梓茜ZX
+    * [2014/12/16 22:52:34] [urlrule] sites weipai.cn update 梅子小姐_01
     * [2014/12/16 22:51:06] [urlrule] sites weipai.cn update 梁珂
     * [2014/12/16 22:51:03] [urlrule] sites weipai.cn update 梁倩cat
     * [2014/12/16 22:51:01] [urlrule] sites vlook.cn update 桓淼淼baby

@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 梦婷Baby
+
+    * Begin : 2014/12/16 22:52:43
+    * End   : 2014/12/16 22:53:14
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 梦之冰城
+
+    * Begin : 2014/12/16 22:52:38
+    * End   : 2014/12/16 22:52:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 梓茜ZX
+
+    * Begin : 2014/12/16 22:52:35
+    * End   : 2014/12/16 22:52:36
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 梅子小姐_01
+
+    * Begin : 2014/12/16 22:52:32
+    * End   : 2014/12/16 22:52:34
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 梅姿baby
 
     * Begin : 2014/12/16 22:51:08
