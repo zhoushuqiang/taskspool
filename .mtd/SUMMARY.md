@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 瞄小婷
+
+    * Begin : 2014/12/16 14:01:57
+    * End   : 2014/12/16 14:02:54
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bf944a5640bfc458b459c
 
     * Begin : 2014/12/16 14:01:40

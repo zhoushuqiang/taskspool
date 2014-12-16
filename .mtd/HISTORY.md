@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn UPDATE 瞄小婷
+
+    * Begin : 2014/12/16 14:01:57
+    * End   : 2014/12/16 14:02:54
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 52bd2988e3416771688b45b0 瞄小婷
+
+    * Begin : 2014/12/16 14:01:56
+    * End   : 2014/12/16 14:01:57
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52bd2988e3416771688b45b0 瞄小婷
+
+    * Begin : 2014/12/16 14:01:54
+    * End   : 2014/12/16 14:01:56
+    * Result: http://www.weipai.cn/video/548bfa96a5640b476b8b4577=>[weipai.cn] 52bd2988e3416771688b45b0 (瞄小婷) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bf944a5640bfc458b459c
 
     * Begin : 2014/12/16 14:01:40

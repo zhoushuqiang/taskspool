@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548bfa96a5640b476b8b4577
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bfa96a5640b476b8b4577
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548bfb75a5640bfc458b45af
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bfb75a5640bfc458b45af
@@ -67,6 +66,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 14:02:54] [urlrule] sites weipai.cn UPDATE 瞄小婷
     * [2014/12/16 14:01:43] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bf944a5640bfc458b459c
     * [2014/12/16 14:01:28] [urlrule] sites weipai.cn UPDATE 林歆蕊Q286312385
     * [2014/12/16 14:00:02] [urlrule] sites weipai.cn follow 54759ef2a5640b606d8b456d 林歆蕊Q286312385
@@ -510,6 +510,8 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/16 14:01:57] [urlrule] sites weipai.cn follow 52bd2988e3416771688b45b0 瞄小婷
+    * [2014/12/16 14:01:56] [urlrule] sites weipai.cn add 52bd2988e3416771688b45b0 瞄小婷
     * [2014/12/16 14:00:02] [urlrule] sites weipai.cn add 54759ef2a5640b606d8b456d 林歆蕊Q286312385
     * [2014/12/16 13:48:59] [urlrule] sites weipai.cn add 5286ec129f6c005f409cf96f 我只愛高跟鞋
     * [2014/12/16 13:48:41] [urlrule] sites weipai.cn UPDATE Jocelyn_晶
