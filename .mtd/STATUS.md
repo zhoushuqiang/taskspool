@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 07:23:58] [urlrule] sites weipai.cn update 李点点儿
     * [2014/12/17 07:19:21] [urlrule] sites weipai.cn update 曹欣妮s
     * [2014/12/17 07:15:28] [urlrule] sites weipai.cn update 徐妍馨Mandy
     * [2014/12/17 07:14:23] [urlrule] sites weipai.cn update 张若兰
@@ -145,6 +146,21 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 07:20:21] [urlrule] sites weipai.cn update 李朝蛟-Bie
+    * [2014/12/17 07:20:18] [urlrule] sites weipai.cn update 李怡静1118
+    * [2014/12/17 07:20:16] [urlrule] sites vlook.cn update 李思闻
+    * [2014/12/17 07:20:12] [urlrule] sites weipai.cn update 李思闻
+    * [2014/12/17 07:20:08] [urlrule] sites weipai.cn update 李思桐儿
+    * [2014/12/17 07:20:06] [urlrule] sites weipai.cn update 李妍呢
+    * [2014/12/17 07:20:03] [urlrule] sites weipai.cn update 李佳洁妞儿
+    * [2014/12/17 07:20:01] [urlrule] sites weipai.cn update 李云666
+    * [2014/12/17 07:19:58] [urlrule] sites weipai.cn update 李七喜
+    * [2014/12/17 07:19:55] [urlrule] sites weipai.cn update 朵朵猪
+    * [2014/12/17 07:19:53] [urlrule] sites weipai.cn update 朱小璐-nini
+    * [2014/12/17 07:19:50] [urlrule] sites weipai.cn update 最美的太阳20140822
+    * [2014/12/17 07:19:48] [urlrule] sites weipai.cn update 曾贾
+    * [2014/12/17 07:19:46] [urlrule] sites weipai.cn update 曼丽LXL
+    * [2014/12/17 07:19:43] [urlrule] sites weipai.cn update 曹紫涵
     * [2014/12/17 07:18:04] [urlrule] sites weipai.cn update 曲珈叶
     * [2014/12/17 07:18:01] [urlrule] sites weipai.cn update 暗黑小萝莉
     * [2014/12/17 07:17:59] [urlrule] sites weipai.cn update 晴海洋

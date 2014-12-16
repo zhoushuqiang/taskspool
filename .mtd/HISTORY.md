@@ -1,3 +1,99 @@
+* [urlrule] sites weipai.cn update 李点点儿
+
+    * Begin : 2014/12/17 07:20:22
+    * End   : 2014/12/17 07:23:58
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 李朝蛟-Bie
+
+    * Begin : 2014/12/17 07:20:20
+    * End   : 2014/12/17 07:20:21
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李怡静1118
+
+    * Begin : 2014/12/17 07:20:18
+    * End   : 2014/12/17 07:20:18
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 李思闻
+
+    * Begin : 2014/12/17 07:20:13
+    * End   : 2014/12/17 07:20:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李思闻
+
+    * Begin : 2014/12/17 07:20:11
+    * End   : 2014/12/17 07:20:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李思桐儿
+
+    * Begin : 2014/12/17 07:20:07
+    * End   : 2014/12/17 07:20:08
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李妍呢
+
+    * Begin : 2014/12/17 07:20:05
+    * End   : 2014/12/17 07:20:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李佳洁妞儿
+
+    * Begin : 2014/12/17 07:20:02
+    * End   : 2014/12/17 07:20:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李云666
+
+    * Begin : 2014/12/17 07:20:00
+    * End   : 2014/12/17 07:20:01
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李七喜
+
+    * Begin : 2014/12/17 07:19:57
+    * End   : 2014/12/17 07:19:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 朵朵猪
+
+    * Begin : 2014/12/17 07:19:55
+    * End   : 2014/12/17 07:19:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 朱小璐-nini
+
+    * Begin : 2014/12/17 07:19:52
+    * End   : 2014/12/17 07:19:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 最美的太阳20140822
+
+    * Begin : 2014/12/17 07:19:50
+    * End   : 2014/12/17 07:19:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曾贾
+
+    * Begin : 2014/12/17 07:19:47
+    * End   : 2014/12/17 07:19:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曼丽LXL
+
+    * Begin : 2014/12/17 07:19:45
+    * End   : 2014/12/17 07:19:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曹紫涵
+
+    * Begin : 2014/12/17 07:19:42
+    * End   : 2014/12/17 07:19:43
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 曹欣妮s
 
     * Begin : 2014/12/17 07:18:05
