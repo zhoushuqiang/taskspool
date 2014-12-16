@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 白日不湿
+
+    * Begin : 2014/12/17 03:29:21
+    * End   : 2014/12/17 03:29:24
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 画泪听雨眠
+
+    * Begin : 2014/12/17 03:29:14
+    * End   : 2014/12/17 03:29:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 由咩咩
+
+    * Begin : 2014/12/17 03:29:12
+    * End   : 2014/12/17 03:29:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 田晓多tesia
+
+    * Begin : 2014/12/17 03:29:10
+    * End   : 2014/12/17 03:29:11
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 田君er
 
     * Begin : 2014/12/17 03:28:38
