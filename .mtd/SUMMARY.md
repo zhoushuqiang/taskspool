@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update kitty酱
+
+    * Begin : 2014/12/17 05:57:52
+    * End   : 2014/12/17 05:58:31
+    * Result: OK
+
 * [urlrule] sites weipai.cn update kimoon
 
     * Begin : 2014/12/17 05:57:16
