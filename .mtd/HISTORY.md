@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 536721d19d67d97b678b4613 _李好美
+
+    * Begin : 2014/12/16 09:54:32
+    * End   : 2014/12/16 09:54:32
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 536721d19d67d97b678b4613 _李好美
+
+    * Begin : 2014/12/16 09:54:30
+    * End   : 2014/12/16 09:54:32
+    * Result: http://www.weipai.cn/video/548bd2d8a5640b1b168b4592=>[weipai.cn] 536721d19d67d97b678b4613 (_李好美) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd255a5640bdb028b45a2
 
     * Begin : 2014/12/16 09:54:18
