@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 安妮makeup
+
+    * Begin : 2014/12/17 06:45:36
+    * End   : 2014/12/17 06:48:57
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 媚力女人
 
     * Begin : 2014/12/17 06:44:12
