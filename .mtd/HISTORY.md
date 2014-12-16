@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bf8c5a5640b386a8b4578
+
+    * Begin : 2014/12/16 13:59:33
+    * End   : 2014/12/16 13:59:48
+    * Result: => 我只愛高跟鞋/weipai.cn/5286ec129f6c005f409cf96f
+
 * [urlrule] sites weipai.cn UPDATE 我只愛高跟鞋
 
     * Begin : 2014/12/16 13:49:10
