@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 54759ef2a5640b606d8b456d 林歆蕊Q286312385
+
+    * Begin : 2014/12/16 14:00:02
+    * End   : 2014/12/16 14:00:02
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 54759ef2a5640b606d8b456d 林歆蕊Q286312385
+
+    * Begin : 2014/12/16 14:00:00
+    * End   : 2014/12/16 14:00:02
+    * Result: http://www.weipai.cn/video/548bf944a5640bfc458b459c=>[weipai.cn] 54759ef2a5640b606d8b456d (林歆蕊Q286312385) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bf8c5a5640b386a8b4578
 
     * Begin : 2014/12/16 13:59:33
