@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 我只愛高跟鞋
+
+    * Begin : 2014/12/16 13:49:10
+    * End   : 2014/12/16 13:59:21
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5286ec129f6c005f409cf96f 我只愛高跟鞋
 
     * Begin : 2014/12/16 13:48:59
