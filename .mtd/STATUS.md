@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 05:13:00] [urlrule] sites weipai.cn update Baby-perry
     * [2014/12/17 05:11:58] [urlrule] sites weipai.cn update Amanda5275
     * [2014/12/17 05:09:29] [urlrule] sites weipai.cn update Alllili
     * [2014/12/17 05:01:47] [urlrule] sites weipai.cn update Aigirl拽丫头
@@ -66,6 +67,13 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 05:12:50] [urlrule] sites weipai.cn update BABY-張
+    * [2014/12/17 05:12:47] [urlrule] sites vlook.cn update Aoffy_Maxim
+    * [2014/12/17 05:12:39] [urlrule] sites weipai.cn update Anna苏妲己
+    * [2014/12/17 05:12:36] [urlrule] sites weipai.cn update Amanda张琬宜
+    * [2014/12/17 05:12:33] [urlrule] sites weipai.cn update Amanda冰冰
+    * [2014/12/17 05:12:31] [urlrule] sites weipai.cn update Amanda5275
+    * [2014/12/17 05:12:27] [urlrule] sites vlook.cn update Amanda5275
     * [2014/12/17 05:02:17] [urlrule] sites weipai.cn update Alla-王愛
     * [2014/12/17 05:02:14] [urlrule] sites weipai.cn update Alisa晓雯
     * [2014/12/17 05:02:12] [urlrule] sites weipai.cn update Ala莫奈酱
