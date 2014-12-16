@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 米洁
+
+    * Begin : 2014/12/17 03:35:05
+    * End   : 2014/12/17 03:38:46
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 穿着高跟鞋跳芭蕾--
 
     * Begin : 2014/12/17 03:34:13

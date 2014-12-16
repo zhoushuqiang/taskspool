@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 03:38:46] [urlrule] sites weipai.cn update 米洁
     * [2014/12/17 03:34:37] [urlrule] sites weipai.cn update 穿着高跟鞋跳芭蕾--
     * [2014/12/17 03:33:38] [urlrule] sites weipai.cn update 瞄小婷
     * [2014/12/17 03:29:24] [urlrule] sites weipai.cn update 白日不湿
@@ -9,6 +10,12 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 03:35:03] [urlrule] sites weipai.cn update 米拉贝拉Mirabella
+    * [2014/12/17 03:35:01] [urlrule] sites weipai.cn update 米小西
+    * [2014/12/17 03:34:59] [urlrule] sites weipai.cn update 米妮mini_20140821
+    * [2014/12/17 03:34:57] [urlrule] sites weipai.cn update 笑笑dem
+    * [2014/12/17 03:34:55] [urlrule] sites weipai.cn update 笑笑Sophia
+    * [2014/12/17 03:34:53] [urlrule] sites weipai.cn update 笑笑
     * [2014/12/17 03:34:11] [urlrule] sites weipai.cn update 空虚哥
     * [2014/12/17 03:34:08] [urlrule] sites weipai.cn update 秦蕾
     * [2014/12/17 03:34:06] [urlrule] sites weipai.cn update 秦勉叫冉冉
