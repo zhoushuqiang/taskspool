@@ -1,3 +1,30 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
+
+    * Begin : 2014/12/17 04:49:43
+    * End   : 2014/12/17 04:49:45
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 小菲菲yoyo
+
+
+    * Begin : 2014/12/17 04:49:41
+    * End   : 2014/12/17 04:49:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52d2e471e34167df058b459c 小菲菲yoyo
+
+
+    * Begin : 2014/12/17 04:49:40
+    * End   : 2014/12/17 04:49:41
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52d2e471e34167df058b459c 小菲菲yoyo
+
+
+    * Begin : 2014/12/17 04:49:40
+    * End   : 2014/12/17 04:49:40
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE bobobobobo
 
 
