@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 邻家猴猴
+
+    * Begin : 2014/12/16 14:15:28
+    * End   : 2014/12/16 19:24:19
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 51b9d0c85a8e87396b000002 邻家猴猴
 
     * Begin : 2014/12/16 14:15:18
