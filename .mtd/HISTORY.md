@@ -1,3 +1,33 @@
+* [urlrule] sites vlook.cn update VK_bb
+
+    * Begin : 2014/12/17 05:50:12
+    * End   : 2014/12/17 05:50:18
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Tomyli惋柔
+
+    * Begin : 2014/12/17 05:50:10
+    * End   : 2014/12/17 05:50:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update TinaWong
+
+    * Begin : 2014/12/17 05:50:07
+    * End   : 2014/12/17 05:50:08
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Theonlylove
+
+    * Begin : 2014/12/17 05:50:03
+    * End   : 2014/12/17 05:50:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update S小妹
+
+    * Begin : 2014/12/17 05:49:58
+    * End   : 2014/12/17 05:49:59
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Sweet-微
 
     * Begin : 2014/12/17 05:47:31

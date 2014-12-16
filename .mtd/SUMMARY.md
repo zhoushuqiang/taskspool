@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update VK_bb
+
+    * Begin : 2014/12/17 05:50:12
+    * End   : 2014/12/17 05:50:18
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Sweet-微
 
     * Begin : 2014/12/17 05:47:31
