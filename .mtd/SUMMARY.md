@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE Zz贞
+
+    * Begin : 2014/12/16 20:05:24
+    * End   : 2014/12/16 20:06:05
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c0950a5640bdc018b45a3
 
     * Begin : 2014/12/16 20:04:58

@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn UPDATE Zz贞
+
+    * Begin : 2014/12/16 20:05:24
+    * End   : 2014/12/16 20:06:05
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 53453d92504a13c6068b4588 Zz贞
+
+    * Begin : 2014/12/16 20:05:23
+    * End   : 2014/12/16 20:05:24
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53453d92504a13c6068b4588 Zz贞
+
+    * Begin : 2014/12/16 20:05:21
+    * End   : 2014/12/16 20:05:23
+    * Result: http://www.weipai.cn/video/548c0967a5640bbe068b45a4=>[weipai.cn] 53453d92504a13c6068b4588 (Zz贞) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c0950a5640bdc018b45a3
 
     * Begin : 2014/12/16 20:04:58
