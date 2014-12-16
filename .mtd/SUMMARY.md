@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548b9422a5640b7f638b4581
+
+    * Begin : 2014/12/16 09:10:14
+    * End   : 2014/12/16 09:10:50
+    * Result: => 慕慕的性感迷死你/weipai.cn/52f6f5ca78d3cc7f4c8b4567
+
 * [urlrule] sites weipai.cn UPDATE 慕慕的性感迷死你
 
     * Begin : 2014/12/16 09:08:58
