@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 瑞莎国际
+
+    * Begin : 2014/12/16 08:30:49
+    * End   : 2014/12/16 08:32:59
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5176cc947d3494cf57000024 瑞莎国际
 
     * Begin : 2014/12/16 08:30:39
