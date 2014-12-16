@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 05:49:42] [urlrule] sites weipai.cn update Sweet-微
     * [2014/12/17 05:46:58] [urlrule] sites weipai.cn update Sooki莹莹孙
     * [2014/12/17 05:44:54] [urlrule] sites weipai.cn update Sonwy_
     * [2014/12/17 05:39:53] [urlrule] sites weipai.cn update ROSSY
@@ -86,6 +87,8 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 05:47:29] [urlrule] sites weipai.cn update Suki_M
+    * [2014/12/17 05:47:26] [urlrule] sites weipai.cn update SpookyG
     * [2014/12/17 05:40:58] [urlrule] sites vlook.cn update Song修
     * [2014/12/17 05:40:54] [urlrule] sites vlook.cn update SlyVIcky
     * [2014/12/17 05:40:50] [urlrule] sites weipai.cn update Slri青儿
