@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 5252ca417d3494ce79d3fe12 露滴
+
+    * Begin : 2014/12/16 20:09:59
+    * End   : 2014/12/16 20:10:00
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 5252ca417d3494ce79d3fe12 露滴
+
+    * Begin : 2014/12/16 20:09:57
+    * End   : 2014/12/16 20:09:59
+    * Result: http://www.weipai.cn/video/548c1f5fa5640b52188b4581=>[weipai.cn] 5252ca417d3494ce79d3fe12 (露滴) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c1e84a5640b66188b4577
 
     * Begin : 2014/12/16 20:09:34
