@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 20131211281
+
+    * Begin : 2014/12/17 04:51:50
+    * End   : 2014/12/17 04:54:58
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 18610561108
+
+    * Begin : 2014/12/17 04:51:48
+    * End   : 2014/12/17 04:51:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 1824329072宅女轩轩
+
+    * Begin : 2014/12/17 04:51:38
+    * End   : 2014/12/17 04:51:39
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 1824329072宅女轩轩
+
+    * Begin : 2014/12/17 04:51:33
+    * End   : 2014/12/17 04:51:35
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 16姐
 
     * Begin : 2014/12/17 04:50:57
