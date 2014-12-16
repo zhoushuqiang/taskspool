@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update Lolita4ever
+
+    * Begin : 2014/12/17 05:32:28
+    * End   : 2014/12/17 05:33:31
+    * Result: OK
+
+* [urlrule] sites vlook.cn update Katherine陳佳妮
+
+    * Begin : 2014/12/17 05:32:23
+    * End   : 2014/12/17 05:32:26
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update J小姐20140401
 
     * Begin : 2014/12/17 05:31:40
