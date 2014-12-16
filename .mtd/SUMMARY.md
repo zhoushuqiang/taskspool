@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn follow 5176cc947d3494cf57000024 瑞莎国际
+
+    * Begin : 2014/12/16 08:30:39
+    * End   : 2014/12/16 08:30:40
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548afae1a5640b2e788b45ab
 
     * Begin : 2014/12/16 08:30:24
