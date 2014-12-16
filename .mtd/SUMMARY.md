@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Adela_chiang
+
+    * Begin : 2014/12/17 04:57:18
+    * End   : 2014/12/17 05:01:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 84剩女姐
 
     * Begin : 2014/12/17 04:56:10

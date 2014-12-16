@@ -1,3 +1,51 @@
+* [urlrule] sites weipai.cn update Adela_chiang
+
+    * Begin : 2014/12/17 04:57:18
+    * End   : 2014/12/17 05:01:12
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Abbymiki
+
+    * Begin : 2014/12/17 04:57:15
+    * End   : 2014/12/17 04:57:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Abby_徐惠雪
+
+    * Begin : 2014/12/17 04:57:13
+    * End   : 2014/12/17 04:57:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update ANGELG
+
+    * Begin : 2014/12/17 04:57:10
+    * End   : 2014/12/17 04:57:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 9999920140801
+
+    * Begin : 2014/12/17 04:57:07
+    * End   : 2014/12/17 04:57:08
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 924906386
+
+    * Begin : 2014/12/17 04:57:05
+    * End   : 2014/12/17 04:57:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 872705
+
+    * Begin : 2014/12/17 04:57:03
+    * End   : 2014/12/17 04:57:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 852206078
+
+    * Begin : 2014/12/17 04:57:01
+    * End   : 2014/12/17 04:57:01
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 84剩女姐
 
     * Begin : 2014/12/17 04:56:10
