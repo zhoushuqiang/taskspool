@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 05:39:53] [urlrule] sites weipai.cn update ROSSY
     * [2014/12/17 05:39:21] [urlrule] sites weipai.cn update RAE-瑞儿
     * [2014/12/17 05:38:39] [urlrule] sites weipai.cn update NZL-妮子梁
     * [2014/12/17 05:34:19] [urlrule] sites weipai.cn update Lusibaby000
