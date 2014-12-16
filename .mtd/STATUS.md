@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 04:51:15] [urlrule] sites weipai.cn update 16姐
     * [2014/12/17 04:50:26] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2014/12/17 04:49:45] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
     * [2014/12/17 04:49:20] [urlrule] sites weipai.cn UPDATE bobobobobo
@@ -59,6 +60,10 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 04:50:55] [urlrule] sites weipai.cn update 1589753
+    * [2014/12/17 04:50:52] [urlrule] sites weipai.cn update 1142058078
+    * [2014/12/17 04:50:49] [urlrule] sites weipai.cn update 10120
+    * [2014/12/17 04:50:47] [urlrule] sites weipai.cn update 0王妃0
     * [2014/12/17 04:50:21] [urlrule] sites weipai.cn UPDATE 梁倩cat
 
     * [2014/12/17 04:50:20] [urlrule] sites weipai.cn follow 522b84d07d3494740b04faf5 梁倩cat

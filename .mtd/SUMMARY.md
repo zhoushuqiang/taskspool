@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 16姐
+
+    * Begin : 2014/12/17 04:50:57
+    * End   : 2014/12/17 04:51:15
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2014/12/17 04:50:22
