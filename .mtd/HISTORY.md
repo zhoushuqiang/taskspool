@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 阿鑫很浮躁
+
+    * Begin : 2014/12/16 19:31:57
+    * End   : 2014/12/16 19:42:43
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 525d60ee7f34945a41eb2187 阿鑫很浮躁
 
     * Begin : 2014/12/16 19:31:43
