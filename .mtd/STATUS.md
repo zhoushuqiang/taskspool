@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 536721d19d67d97b678b4613 _李好美
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd2d8a5640b1b168b4592
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548bd31ca5640b862d8b457c
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd31ca5640b862d8b457c
@@ -97,6 +96,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 10:02:47] [urlrule] sites weipai.cn UPDATE _李好美
     * [2014/12/16 09:54:32] [urlrule] sites weipai.cn follow 536721d19d67d97b678b4613 _李好美
     * [2014/12/16 09:54:21] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd255a5640bdb028b45a2
     * [2014/12/16 09:54:08] [urlrule] sites weipai.cn UPDATE 毛大怪
