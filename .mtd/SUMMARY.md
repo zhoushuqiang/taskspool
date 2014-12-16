@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE PAPAGAO-
+
+    * Begin : 2014/12/16 09:11:11
+    * End   : 2014/12/16 09:11:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 505f19217f349482700001a5 PAPAGAO-
 
     * Begin : 2014/12/16 09:11:01

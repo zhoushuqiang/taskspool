@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn UPDATE 505f19217f349482700001a5 PAPAGAO-
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548baba1a5640bae6e8b456c
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548bad04a5640bf36f8b4574
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bad04a5640bf36f8b4574
@@ -123,6 +122,7 @@ Tasks Status Report
     *[urlrule] sites weipai.cn AFU http://www.weipai.cn/video/548c6c73a5640bd2338b4567
     *[urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c6c73a5640bd2338b4567
 * Finished:
+    * [2014/12/16 09:11:39] [urlrule] sites weipai.cn UPDATE PAPAGAO-
     * [2014/12/16 09:11:01] [urlrule] sites weipai.cn follow 505f19217f349482700001a5 PAPAGAO-
     * [2014/12/16 09:10:50] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548b9422a5640b7f638b4581
     * [2014/12/16 09:10:04] [urlrule] sites weipai.cn UPDATE 慕慕的性感迷死你
