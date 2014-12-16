@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn UPDATE 林夕baby
+
+    * Begin : 2014/12/16 20:06:41
+    * End   : 2014/12/16 20:08:56
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 52dd823bebeddbea038b4632 林夕baby
+
+    * Begin : 2014/12/16 20:06:40
+    * End   : 2014/12/16 20:06:41
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52dd823bebeddbea038b4632 林夕baby
+
+    * Begin : 2014/12/16 20:06:38
+    * End   : 2014/12/16 20:06:40
+    * Result: http://www.weipai.cn/video/548c1c6da5640b6b188b456b=>[weipai.cn] 52dd823bebeddbea038b4632 (林夕baby) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548c0967a5640bbe068b45a4
 
     * Begin : 2014/12/16 20:06:19
