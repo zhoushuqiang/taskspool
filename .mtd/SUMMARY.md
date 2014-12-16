@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 范范范小范
+
+    * Begin : 2014/12/17 03:59:51
+    * End   : 2014/12/17 04:01:47
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 花旗是个双面少女
 
     * Begin : 2014/12/17 03:58:38
