@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548b72a2a5640b92198b459b
+
+    * Begin : 2014/12/16 08:50:21
+    * End   : 2014/12/16 08:50:24
+    * Result: => 菀児baby/weipai.cn/52c154f578d3cc004d8b4598
+
+* [urlrule] sites weipai.cn UPDATE 菀児baby
+
+    * Begin : 2014/12/16 08:50:20
+    * End   : 2014/12/16 08:50:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52c154f578d3cc004d8b4598 菀児baby
+
+    * Begin : 2014/12/16 08:50:19
+    * End   : 2014/12/16 08:50:20
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52c154f578d3cc004d8b4598 菀児baby
+
+    * Begin : 2014/12/16 08:50:18
+    * End   : 2014/12/16 08:50:19
+    * Result: http://www.weipai.cn/video/548b72a2a5640b92198b459b=>[weipai.cn] 52c154f578d3cc004d8b4598 (菀児baby) FAILED
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548b702da5640bf2188b4586
 
     * Begin : 2014/12/16 08:50:05
