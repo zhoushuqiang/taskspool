@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 51b9d0c85a8e87396b000002 邻家猴猴
+
+    * Begin : 2014/12/16 14:15:18
+    * End   : 2014/12/16 14:15:18
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 51b9d0c85a8e87396b000002 邻家猴猴
+
+    * Begin : 2014/12/16 14:15:16
+    * End   : 2014/12/16 14:15:18
+    * Result: http://www.weipai.cn/video/548c00e9a5640b7e018b457e=>[weipai.cn] 51b9d0c85a8e87396b000002 (邻家猴猴) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bfd83a5640bb3588b45af
 
     * Begin : 2014/12/16 14:15:02
