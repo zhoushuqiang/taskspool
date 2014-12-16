@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 52aae51e504a13802a8b45b7 懒虫baby
+
+    * Begin : 2014/12/16 08:18:57
+    * End   : 2014/12/16 08:18:58
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 52aae51e504a13802a8b45b7 懒虫baby
+
+    * Begin : 2014/12/16 08:18:56
+    * End   : 2014/12/16 08:18:57
+    * Result: http://www.weipai.cn/video/548af0d4a5640b724e8b458c=>[weipai.cn] 52aae51e504a13802a8b45b7 (懒虫baby) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548af095a5640b585b8b4569
 
     * Begin : 2014/12/16 08:18:44
