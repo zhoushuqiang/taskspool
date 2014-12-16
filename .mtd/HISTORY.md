@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 小钕Ren
+
+    * Begin : 2014/12/17 07:05:04
+    * End   : 2014/12/17 07:06:04
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 小金人888
+
+    * Begin : 2014/12/17 07:05:01
+    * End   : 2014/12/17 07:05:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小资y
+
+    * Begin : 2014/12/17 07:04:59
+    * End   : 2014/12/17 07:05:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小菲菲yoyo
+
+    * Begin : 2014/12/17 07:04:56
+    * End   : 2014/12/17 07:04:57
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 小茹子
 
     * Begin : 2014/12/17 07:04:21
