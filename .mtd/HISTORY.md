@@ -1,3 +1,93 @@
+* [urlrule] sites weipai.cn update 丹梦妮ooloo
+
+    * Begin : 2014/12/17 06:06:39
+    * End   : 2014/12/17 06:08:24
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 两只小蜜蜂丫
+
+    * Begin : 2014/12/17 06:06:36
+    * End   : 2014/12/17 06:06:37
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丝绸裹着性感福利号
+
+    * Begin : 2014/12/17 06:06:33
+    * End   : 2014/12/17 06:06:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丝绸裹着性感
+
+    * Begin : 2014/12/17 06:06:28
+    * End   : 2014/12/17 06:06:29
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丝绸裹着性感2
+
+    * Begin : 2014/12/17 06:06:25
+    * End   : 2014/12/17 06:06:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丝月阁
+
+    * Begin : 2014/12/17 06:06:23
+    * End   : 2014/12/17 06:06:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 不羁的风20140212
+
+    * Begin : 2014/12/17 06:06:20
+    * End   : 2014/12/17 06:06:21
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 不是大姐好多年
+
+    * Begin : 2014/12/17 06:06:18
+    * End   : 2014/12/17 06:06:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 上官宁儿大人
+
+    * Begin : 2014/12/17 06:06:15
+    * End   : 2014/12/17 06:06:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丁可和肥松鼠
+
+    * Begin : 2014/12/17 06:06:13
+    * End   : 2014/12/17 06:06:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丁丁丁丁丁小宝
+
+    * Begin : 2014/12/17 06:06:10
+    * End   : 2014/12/17 06:06:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丁丁lris
+
+    * Begin : 2014/12/17 06:06:08
+    * End   : 2014/12/17 06:06:08
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 一生热爱回头太难
+
+    * Begin : 2014/12/17 06:06:05
+    * End   : 2014/12/17 06:06:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update zz蘑菇小象zz
+
+    * Begin : 2014/12/17 06:06:03
+    * End   : 2014/12/17 06:06:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update y依凌小姐
+
+    * Begin : 2014/12/17 06:06:00
+    * End   : 2014/12/17 06:06:01
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update yoyo12320141105
 
     * Begin : 2014/12/17 06:05:41
