@@ -1,3 +1,51 @@
+* [urlrule] sites weipai.cn update 景小姐景小姐
+
+    * Begin : 2014/12/16 22:44:54
+    * End   : 2014/12/16 22:47:40
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 晨yoka
+
+    * Begin : 2014/12/16 22:44:51
+    * End   : 2014/12/16 22:44:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 晕死的大白兔
+
+    * Begin : 2014/12/16 22:44:48
+    * End   : 2014/12/16 22:44:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 晓彗大大大
+
+    * Begin : 2014/12/16 22:44:45
+    * End   : 2014/12/16 22:44:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 晓卉日记
+
+    * Begin : 2014/12/16 22:44:43
+    * End   : 2014/12/16 22:44:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 早晚整死你
+
+    * Begin : 2014/12/16 22:44:40
+    * End   : 2014/12/16 22:44:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 无敌女汉子
+
+    * Begin : 2014/12/16 22:44:38
+    * End   : 2014/12/16 22:44:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 无懈可击阿乐
+
+    * Begin : 2014/12/16 22:44:35
+    * End   : 2014/12/16 22:44:36
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 无名指的等待20141002
 
     * Begin : 2014/12/16 22:40:08

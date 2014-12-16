@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 景小姐景小姐
+
+    * Begin : 2014/12/16 22:44:54
+    * End   : 2014/12/16 22:47:40
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 无名指的等待20141002
 
     * Begin : 2014/12/16 22:40:08

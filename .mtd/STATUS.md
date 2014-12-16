@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/16 22:47:40] [urlrule] sites weipai.cn update 景小姐景小姐
     * [2014/12/16 22:44:20] [urlrule] sites weipai.cn update 无名指的等待20141002
     * [2014/12/16 22:39:24] [urlrule] sites weipai.cn update 扯起鸡儿弹蹦蹦
     * [2014/12/16 22:38:29] [urlrule] sites weipai.cn update 懒虫baby
@@ -522,6 +523,13 @@ Tasks Status Report
     * [2014/12/15 02:00:55] [urlrule] sites weipai.cn follow 545a2869a7640b5b0c8b4580 yoyo12320141105
     * [2014/12/15 01:59:13] [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/5474ba4ea5640bba638b456e
 * Doing Nothing:
+    * [2014/12/16 22:44:52] [urlrule] sites weipai.cn update 晨yoka
+    * [2014/12/16 22:44:48] [urlrule] sites weipai.cn update 晕死的大白兔
+    * [2014/12/16 22:44:46] [urlrule] sites weipai.cn update 晓彗大大大
+    * [2014/12/16 22:44:43] [urlrule] sites weipai.cn update 晓卉日记
+    * [2014/12/16 22:44:41] [urlrule] sites weipai.cn update 早晚整死你
+    * [2014/12/16 22:44:38] [urlrule] sites weipai.cn update 无敌女汉子
+    * [2014/12/16 22:44:36] [urlrule] sites weipai.cn update 无懈可击阿乐
     * [2014/12/16 22:40:07] [urlrule] sites weipai.cn update 施婭婭
     * [2014/12/16 22:40:04] [urlrule] sites weipai.cn update 施娅静微拍
     * [2014/12/16 22:40:02] [urlrule] sites weipai.cn update 新百伦正品代购20141202
