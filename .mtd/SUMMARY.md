@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548af0d4a5640b724e8b458c
+
+    * Begin : 2014/12/16 08:19:09
+    * End   : 2014/12/16 08:19:44
+    * Result: => 懒虫baby/weipai.cn/52aae51e504a13802a8b45b7
+
 * [urlrule] sites weipai.cn follow 52aae51e504a13802a8b45b7 懒虫baby
 
     * Begin : 2014/12/16 08:18:57
