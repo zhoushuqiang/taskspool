@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn follow 54793eb3a6640b2d5c8b4583 皇家国际-佳欲
+
+    * Begin : 2014/12/16 10:53:11
+    * End   : 2014/12/16 10:53:11
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 54793eb3a6640b2d5c8b4583 皇家国际-佳欲
+
+    * Begin : 2014/12/16 10:53:09
+    * End   : 2014/12/16 10:53:11
+    * Result: http://www.weipai.cn/video/548bd80aa5640b8c4c8b456c=>[weipai.cn] 54793eb3a6640b2d5c8b4583 (皇家国际-佳欲) OK
+
 * [urlrule] sites weipai.cn SAVEURL http://www.weipai.cn/video/548bd530a5640b66298b4582
 
     * Begin : 2014/12/16 10:52:26
