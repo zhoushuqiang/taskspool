@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 姐又内涵了
+
+    * Begin : 2014/12/17 10:54:12
+    * End   : 2014/12/17 10:54:30
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 女神集团
 
     * Begin : 2014/12/17 10:53:39
