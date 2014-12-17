@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 肚皮舞皇后
+
+    * Begin : 2014/12/17 15:26:19
+    * End   : 2014/12/17 15:30:51
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 瞄小婷
 
     * Begin : 2014/12/17 15:16:12
