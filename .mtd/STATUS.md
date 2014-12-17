@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 20:35:16] [urlrule] sites weipai.cn update 瑜伽女神青文
     * [2014/12/17 20:34:04] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/17 20:31:44] [urlrule] sites weipai.cn update 潘潘20140413
     * [2014/12/17 20:29:57] [urlrule] sites weipai.cn update 洛可馨
@@ -347,6 +348,12 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 20:34:37] [urlrule] sites weipai.cn update 琪胖胖
+    * [2014/12/17 20:34:34] [urlrule] sites weipai.cn update 琦琦loveBaby
+    * [2014/12/17 20:34:32] [urlrule] sites weipai.cn update 珠宝定制-GIA国际证书
+    * [2014/12/17 20:34:29] [urlrule] sites vlook.cn update 玩摄影Rayshen
+    * [2014/12/17 20:34:24] [urlrule] sites vlook.cn update 森玲
+    * [2014/12/17 20:34:20] [urlrule] sites weipai.cn update 王馨瑶
     * [2014/12/17 20:33:23] [urlrule] sites weipai.cn update 王籽文
     * [2014/12/17 20:33:19] [urlrule] sites weipai.cn update 王璐璐-Dasiy
     * [2014/12/17 20:33:16] [urlrule] sites weipai.cn update 王王王王-蕊
