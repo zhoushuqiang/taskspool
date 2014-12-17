@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 若含_Princess
+
+    * Begin : 2014/12/17 20:48:23
+    * End   : 2014/12/17 20:48:44
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 芭比娃哈
 
     * Begin : 2014/12/17 20:47:41
