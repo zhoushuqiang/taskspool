@@ -1,3 +1,123 @@
+* [urlrule] sites weipai.cn update 白日不湿
+
+    * Begin : 2014/12/17 17:43:11
+    * End   : 2014/12/17 17:43:41
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 画泪听雨眠
+
+    * Begin : 2014/12/17 17:43:09
+    * End   : 2014/12/17 17:43:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 由咩咩
+
+    * Begin : 2014/12/17 17:43:06
+    * End   : 2014/12/17 17:43:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 田晓多tesia
+
+    * Begin : 2014/12/17 17:43:03
+    * End   : 2014/12/17 17:43:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 田君er
+
+    * Begin : 2014/12/17 17:43:01
+    * End   : 2014/12/17 17:43:01
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 生如夏花12
+
+    * Begin : 2014/12/17 17:42:58
+    * End   : 2014/12/17 17:42:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 甜美人angela
+
+    * Begin : 2014/12/17 17:42:55
+    * End   : 2014/12/17 17:42:56
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 甜心宝
+
+    * Begin : 2014/12/17 17:42:51
+    * End   : 2014/12/17 17:42:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 瓶宝宝
+
+    * Begin : 2014/12/17 17:42:48
+    * End   : 2014/12/17 17:42:49
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 璇子_Yvonne
+
+    * Begin : 2014/12/17 17:42:46
+    * End   : 2014/12/17 17:42:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 瑶瑶baby
+
+    * Begin : 2014/12/17 17:42:43
+    * End   : 2014/12/17 17:42:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 瑞莎国际
+
+    * Begin : 2014/12/17 17:42:40
+    * End   : 2014/12/17 17:42:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 瑜伽女神青文
+
+    * Begin : 2014/12/17 17:42:37
+    * End   : 2014/12/17 17:42:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 琪胖胖
+
+    * Begin : 2014/12/17 17:42:34
+    * End   : 2014/12/17 17:42:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 琦琦loveBaby
+
+    * Begin : 2014/12/17 17:42:32
+    * End   : 2014/12/17 17:42:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 珠宝定制-GIA国际证书
+
+    * Begin : 2014/12/17 17:42:29
+    * End   : 2014/12/17 17:42:30
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 玩摄影Rayshen
+
+    * Begin : 2014/12/17 17:42:25
+    * End   : 2014/12/17 17:42:27
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 森玲
+
+    * Begin : 2014/12/17 17:42:20
+    * End   : 2014/12/17 17:42:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 王馨瑶
+
+    * Begin : 2014/12/17 17:42:17
+    * End   : 2014/12/17 17:42:17
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 王若楠1228
+
+    * Begin : 2014/12/17 17:42:14
+    * End   : 2014/12/17 17:42:15
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 王籽文
 
     * Begin : 2014/12/17 17:41:32
