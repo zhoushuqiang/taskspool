@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Diva_狄娃
+
+    * Begin : 2014/12/17 23:20:23
+    * End   : 2014/12/17 23:25:35
+    * Result: OK
+
 * [urlrule] sites vlook.cn update Amanda5275
 
     * Begin : 2014/12/17 23:17:34
