@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 17:45:39] [urlrule] sites weipai.cn update 秦勉叫冉冉
     * [2014/12/17 17:43:41] [urlrule] sites weipai.cn update 白日不湿
     * [2014/12/17 17:41:59] [urlrule] sites weipai.cn update 王籽文
     * [2014/12/17 17:39:39] [urlrule] sites weipai.cn update 洛可馨
@@ -313,6 +314,17 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 17:44:23] [urlrule] sites weipai.cn update 私人空间
+    * [2014/12/17 17:44:21] [urlrule] sites weipai.cn update 神神神神神姐
+    * [2014/12/17 17:44:18] [urlrule] sites weipai.cn update 神仙姐姐__艾溪
+    * [2014/12/17 17:44:15] [urlrule] sites weipai.cn update 硬伦X妹
+    * [2014/12/17 17:44:13] [urlrule] sites weipai.cn update 知了
+    * [2014/12/17 17:44:09] [urlrule] sites weipai.cn update 矢帘
+    * [2014/12/17 17:44:07] [urlrule] sites weipai.cn update 瞥瞥
+    * [2014/12/17 17:44:04] [urlrule] sites weipai.cn update 瞄小婷
+    * [2014/12/17 17:44:02] [urlrule] sites weipai.cn update 真子佳佳
+    * [2014/12/17 17:43:59] [urlrule] sites weipai.cn update 皇家国际-佳欲
+    * [2014/12/17 17:43:56] [urlrule] sites weipai.cn update 白雪团队全球招募创业伙伴
     * [2014/12/17 17:43:10] [urlrule] sites weipai.cn update 画泪听雨眠
     * [2014/12/17 17:43:07] [urlrule] sites weipai.cn update 由咩咩
     * [2014/12/17 17:43:04] [urlrule] sites weipai.cn update 田晓多tesia

@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 秦勉叫冉冉
+
+    * Begin : 2014/12/17 17:44:26
+    * End   : 2014/12/17 17:45:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 白日不湿
 
     * Begin : 2014/12/17 17:43:11
