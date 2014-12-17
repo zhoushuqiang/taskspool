@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 23:32:39] [urlrule] sites weipai.cn update Lolita4ever
     * [2014/12/17 23:25:35] [urlrule] sites weipai.cn update Diva_狄娃
     * [2014/12/17 23:17:57] [urlrule] sites vlook.cn update Amanda5275
     * [2014/12/17 23:17:15] [urlrule] sites weipai.cn update Amanda5275
@@ -370,6 +371,26 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 23:28:25] [urlrule] sites vlook.cn update Katherine陳佳妮
+    * [2014/12/17 23:28:18] [urlrule] sites weipai.cn update J小姐20140401
+    * [2014/12/17 23:28:15] [urlrule] sites vlook.cn update JunBaby
+    * [2014/12/17 23:28:08] [urlrule] sites weipai.cn update Jun20141205
+    * [2014/12/17 23:28:03] [urlrule] sites weipai.cn update Jocelyn_晶
+    * [2014/12/17 23:28:01] [urlrule] sites vlook.cn update Joanbaby倩
+    * [2014/12/17 23:27:55] [urlrule] sites weipai.cn update Hugme20141119
+    * [2014/12/17 23:27:52] [urlrule] sites weipai.cn update HellenBaby_
+    * [2014/12/17 23:27:50] [urlrule] sites weipai.cn update Godismyfather
+    * [2014/12/17 23:27:47] [urlrule] sites vlook.cn update Gaby_Kim金慧嫄
+    * [2014/12/17 23:27:43] [urlrule] sites weipai.cn update Fox_00
+    * [2014/12/17 23:27:39] [urlrule] sites weipai.cn update Fiy
+    * [2014/12/17 23:27:36] [urlrule] sites weipai.cn update EverdayBaby
+    * [2014/12/17 23:27:33] [urlrule] sites weipai.cn update Elise谭晓彤
+    * [2014/12/17 23:27:31] [urlrule] sites vlook.cn update Elise谭晓彤
+    * [2014/12/17 23:27:27] [urlrule] sites weipai.cn update Elise谭晓彤
+    * [2014/12/17 23:27:24] [urlrule] sites weipai.cn update Djkkrmx慧玲
+    * [2014/12/17 23:27:22] [urlrule] sites vlook.cn update Dj_kelly
+    * [2014/12/17 23:27:19] [urlrule] sites weipai.cn update Dj_kelly
+    * [2014/12/17 23:27:17] [urlrule] sites weipai.cn update DjTina
     * [2014/12/17 23:20:20] [urlrule] sites weipai.cn update Despair-假寐
     * [2014/12/17 23:20:17] [urlrule] sites weipai.cn update Dance小宝
     * [2014/12/17 23:20:14] [urlrule] sites weipai.cn update Daisy__兔
