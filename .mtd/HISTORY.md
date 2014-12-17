@@ -1,3 +1,87 @@
+* [urlrule] sites weipai.cn update 然又又
+
+    * Begin : 2014/12/17 15:09:19
+    * End   : 2014/12/17 15:11:11
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 激情一夏
+
+    * Begin : 2014/12/17 15:09:15
+    * End   : 2014/12/17 15:09:17
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 澄小兔
+
+    * Begin : 2014/12/17 15:09:12
+    * End   : 2014/12/17 15:09:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 潘潘20140413
+
+    * Begin : 2014/12/17 15:09:09
+    * End   : 2014/12/17 15:09:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 潘小云云
+
+    * Begin : 2014/12/17 15:09:06
+    * End   : 2014/12/17 15:09:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 满天都是小鑫鑫_
+
+    * Begin : 2014/12/17 15:09:03
+    * End   : 2014/12/17 15:09:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 溅行溅美
+
+    * Begin : 2014/12/17 15:09:01
+    * End   : 2014/12/17 15:09:01
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 湯大师
+
+    * Begin : 2014/12/17 15:08:58
+    * End   : 2014/12/17 15:08:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 混血演员安娜
+
+    * Begin : 2014/12/17 15:08:55
+    * End   : 2014/12/17 15:08:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 涵肉肉
+
+    * Begin : 2014/12/17 15:08:52
+    * End   : 2014/12/17 15:08:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 浮生若梦
+
+    * Begin : 2014/12/17 15:08:50
+    * End   : 2014/12/17 15:08:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 洛熙爱爱
+
+    * Begin : 2014/12/17 15:08:47
+    * End   : 2014/12/17 15:08:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 洛可馨
+
+    * Begin : 2014/12/17 15:08:44
+    * End   : 2014/12/17 15:08:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 波波小姐
+
+    * Begin : 2014/12/17 15:08:42
+    * End   : 2014/12/17 15:08:42
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 没有鼻梁的姑娘
 
     * Begin : 2014/12/17 15:04:02
