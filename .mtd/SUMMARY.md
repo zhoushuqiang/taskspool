@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小也慧子
+
+    * Begin : 2014/12/17 20:08:47
+    * End   : 2014/12/17 20:09:22
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 安妮makeup
 
     * Begin : 2014/12/17 19:56:54
