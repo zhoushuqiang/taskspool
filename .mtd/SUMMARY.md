@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Sooki莹莹孙
+
+    * Begin : 2014/12/17 19:40:26
+    * End   : 2014/12/17 19:41:27
+    * Result: OK
+
 * [urlrule] sites weipai.cn update ANGELG
 
     * Begin : 2014/12/17 19:33:43
