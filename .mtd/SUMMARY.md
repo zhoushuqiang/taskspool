@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 水蜜桃子
+
+    * Begin : 2014/12/17 17:38:20
+    * End   : 2014/12/17 17:38:23
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 微我信av0006789
 
     * Begin : 2014/12/17 17:33:04
