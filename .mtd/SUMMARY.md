@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update soso蕊
+
+    * Begin : 2014/12/17 14:42:18
+    * End   : 2014/12/17 14:43:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn update forgetlethe
 
     * Begin : 2014/12/17 14:39:03
