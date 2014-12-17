@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 02:40:55] [urlrule] sites weipai.cn update 刘苏漫
     * [2014/12/18 02:36:18] [urlrule] sites weipai.cn update 倩倩baby
     * [2014/12/18 02:33:26] [urlrule task] update urlrule/task/follows.txt
     * [2014/12/18 02:31:13] [urlrule] sites weipai.cn update a小狐狸520
@@ -438,6 +439,16 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/18 02:37:12] [urlrule] sites weipai.cn update 刘小莎
+    * [2014/12/18 02:37:08] [urlrule] sites weipai.cn update 刘培雨雨小熊
+    * [2014/12/18 02:37:06] [urlrule] sites weipai.cn update 冷美人1
+    * [2014/12/18 02:37:00] [urlrule] sites weipai.cn update 冷美人1
+    * [2014/12/18 02:36:56] [urlrule] sites weipai.cn update 冯猫儿的猫
+    * [2014/12/18 02:36:53] [urlrule] sites weipai.cn update 内涵湿姐
+    * [2014/12/18 02:36:50] [urlrule] sites weipai.cn update 内涵姐姐
+    * [2014/12/18 02:36:42] [urlrule] sites vlook.cn update 兮颜SSS
+    * [2014/12/18 02:36:37] [urlrule] sites weipai.cn update 光头-狠强
+    * [2014/12/18 02:36:34] [urlrule] sites weipai.cn update 做个man的小女人
     * [2014/12/18 02:35:24] [urlrule] sites weipai.cn update 依林20140930
     * [2014/12/18 02:35:22] [urlrule] sites weipai.cn update 佳佳
     * [2014/12/18 02:35:19] [urlrule] sites weipai.cn update 你懂我么小娘
