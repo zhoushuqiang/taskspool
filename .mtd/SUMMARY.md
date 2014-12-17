@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
+
+    * Begin : 2014/12/18 00:55:52
+    * End   : 2014/12/18 00:55:54
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 晨yoka
 
 

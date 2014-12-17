@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 00:55:54] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/18 00:55:08] [urlrule] sites weipai.cn UPDATE 晨yoka
 
     * [2014/12/18 00:54:00] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
@@ -405,6 +406,42 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/18 00:55:50] [urlrule] sites weipai.cn UPDATE 张馨馨Maggie
+
+    * [2014/12/18 00:55:47] [urlrule] sites weipai.cn follow 50051ba37f3494ff4f000245 张馨馨Maggie
+
+    * [2014/12/18 00:55:47] [urlrule] sites weipai.cn add 50051ba37f3494ff4f000245 张馨馨Maggie
+
+    * [2014/12/18 00:55:43] [urlrule] sites weipai.cn UPDATE 吴婉婷wwt
+
+    * [2014/12/18 00:55:41] [urlrule] sites weipai.cn follow 50f8ff597f3494a702000066 吴婉婷wwt
+
+    * [2014/12/18 00:55:41] [urlrule] sites weipai.cn add 50f8ff597f3494a702000066 吴婉婷wwt
+
+    * [2014/12/18 00:55:38] [urlrule] sites weipai.cn UPDATE 安妮Annie
+
+    * [2014/12/18 00:55:37] [urlrule] sites weipai.cn follow 52ac9c4b504a13650b8b4596 安妮Annie
+
+    * [2014/12/18 00:55:36] [urlrule] sites weipai.cn add 52ac9c4b504a13650b8b4596 安妮Annie
+
+    * [2014/12/18 00:55:33] [urlrule] sites weipai.cn UPDATE 罗小佩
+
+    * [2014/12/18 00:55:32] [urlrule] sites weipai.cn follow 53190e7b9d67d9f0268b4569 罗小佩
+
+    * [2014/12/18 00:55:31] [urlrule] sites weipai.cn add 53190e7b9d67d9f0268b4569 罗小佩
+
+    * [2014/12/18 00:55:29] [urlrule] sites weipai.cn UPDATE 索菲娅5200
+
+    * [2014/12/18 00:55:27] [urlrule] sites weipai.cn follow 53a15b81ebeddbe6738b458b 索菲娅5200
+
+    * [2014/12/18 00:55:27] [urlrule] sites weipai.cn add 53a15b81ebeddbe6738b458b 索菲娅5200
+
+    * [2014/12/18 00:55:24] [urlrule] sites weipai.cn UPDATE 刘小莎
+
+    * [2014/12/18 00:55:23] [urlrule] sites weipai.cn follow 5149bc1c7d34946e5500003e 刘小莎
+
+    * [2014/12/18 00:55:22] [urlrule] sites weipai.cn add 5149bc1c7d34946e5500003e 刘小莎
+
     * [2014/12/18 00:54:43] [urlrule] sites weipai.cn follow 53022c904e4a132d238b4767 晨yoka
 
     * [2014/12/18 00:54:42] [urlrule] sites weipai.cn add 53022c904e4a132d238b4767 晨yoka
