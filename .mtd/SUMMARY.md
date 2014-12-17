@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 范范范小范
+
+    * Begin : 2014/12/17 15:36:37
+    * End   : 2014/12/17 15:44:14
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 芭芘李迪娅
 
     * Begin : 2014/12/17 15:31:51
