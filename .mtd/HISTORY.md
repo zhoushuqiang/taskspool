@@ -1,3 +1,75 @@
+* [urlrule task] update urlrule/task/follows.txt
+
+    * Begin : 2014/12/17 23:47:55
+    * End   : 2014/12/17 23:47:59
+    * Result: OK
+
+* [urlrule] sites weipai.cn update tina晨曦
+
+    * Begin : 2014/12/17 23:47:47
+    * End   : 2014/12/17 23:47:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update suna2411
+
+    * Begin : 2014/12/17 23:47:45
+    * End   : 2014/12/17 23:47:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update sukiyoyo001
+
+    * Begin : 2014/12/17 23:47:42
+    * End   : 2014/12/17 23:47:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update suki_jiang
+
+    * Begin : 2014/12/17 23:47:39
+    * End   : 2014/12/17 23:47:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update soso蕊
+
+    * Begin : 2014/12/17 23:47:35
+    * End   : 2014/12/17 23:47:37
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Toughgirl
+
+    * Begin : 2014/12/17 23:47:30
+    * End   : 2014/12/17 23:47:33
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update shoujigujun1680
+
+    * Begin : 2014/12/17 23:47:25
+    * End   : 2014/12/17 23:47:28
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update sack莎莎
+
+    * Begin : 2014/12/17 23:46:23
+    * End   : 2014/12/17 23:47:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update sachiBabyJ
+
+    * Begin : 2014/12/17 23:46:19
+    * End   : 2014/12/17 23:46:21
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update quanxinyue123
+
+    * Begin : 2014/12/17 23:46:15
+    * End   : 2014/12/17 23:46:17
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update qinqin1995
+
+    * Begin : 2014/12/17 23:46:12
+    * End   : 2014/12/17 23:46:13
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update penny佩佩
 
     * Begin : 2014/12/17 23:45:23
