@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 古小丽Lily
+
+    * Begin : 2014/12/17 23:57:24
+    * End   : 2014/12/17 23:57:49
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 刘培雨雨小熊
 
     * Begin : 2014/12/17 23:54:01

@@ -1,3 +1,93 @@
+* [urlrule] sites weipai.cn update 古小丽Lily
+
+    * Begin : 2014/12/17 23:57:24
+    * End   : 2014/12/17 23:57:49
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 友熙酱
+
+    * Begin : 2014/12/17 23:57:20
+    * End   : 2014/12/17 23:57:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 友熙酱
+
+    * Begin : 2014/12/17 23:57:15
+    * End   : 2014/12/17 23:57:17
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 卢灵儿
+
+    * Begin : 2014/12/17 23:57:10
+    * End   : 2014/12/17 23:57:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 卢思云
+
+    * Begin : 2014/12/17 23:57:06
+    * End   : 2014/12/17 23:57:07
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 北娃大王
+
+    * Begin : 2014/12/17 23:57:03
+    * End   : 2014/12/17 23:57:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 北娃大王
+
+    * Begin : 2014/12/17 23:56:57
+    * End   : 2014/12/17 23:56:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 勤妹儿
+
+    * Begin : 2014/12/17 23:56:51
+    * End   : 2014/12/17 23:56:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 劉點點dotey_
+
+    * Begin : 2014/12/17 23:56:49
+    * End   : 2014/12/17 23:56:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 前任攻略
+
+    * Begin : 2014/12/17 23:56:46
+    * End   : 2014/12/17 23:56:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 初家小雪
+
+    * Begin : 2014/12/17 23:56:39
+    * End   : 2014/12/17 23:56:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 刘雯雯darling
+
+    * Begin : 2014/12/17 23:56:36
+    * End   : 2014/12/17 23:56:37
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 刘诗涵
+
+    * Begin : 2014/12/17 23:56:32
+    * End   : 2014/12/17 23:56:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 刘苏漫
+
+    * Begin : 2014/12/17 23:56:26
+    * End   : 2014/12/17 23:56:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 刘小莎
+
+    * Begin : 2014/12/17 23:56:21
+    * End   : 2014/12/17 23:56:23
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 刘培雨雨小熊
 
     * Begin : 2014/12/17 23:54:01
