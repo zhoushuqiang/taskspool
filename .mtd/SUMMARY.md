@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 王籽文
+
+    * Begin : 2014/12/17 17:41:32
+    * End   : 2014/12/17 17:41:59
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 洛可馨
 
     * Begin : 2014/12/17 17:38:54
