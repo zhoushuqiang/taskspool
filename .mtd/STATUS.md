@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 08:15:59] [urlrule] sites vlook.cn update 文蔓
     * [2014/12/17 08:15:33] [urlrule] sites weipai.cn update 把你家户口本拿出来看看
     * [2014/12/17 08:12:26] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/17 08:08:34] [urlrule] sites weipai.cn update 女神集团
@@ -167,6 +168,8 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 08:15:50] [urlrule] sites weipai.cn update 撒旦甜心_Ellia
+    * [2014/12/17 08:15:48] [urlrule] sites weipai.cn update 抗忙昂北鼻够够够
     * [2014/12/17 08:14:55] [urlrule] sites weipai.cn update 扯起鸡儿弹蹦蹦
     * [2014/12/17 08:14:53] [urlrule] sites weipai.cn update 戴玉琪
     * [2014/12/17 08:14:50] [urlrule] sites weipai.cn update 我行我素新灵儿
