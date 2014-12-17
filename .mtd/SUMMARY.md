@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 白日不湿
+
+    * Begin : 2014/12/17 20:36:16
+    * End   : 2014/12/17 20:36:18
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 瑜伽女神青文
 
     * Begin : 2014/12/17 20:34:39
