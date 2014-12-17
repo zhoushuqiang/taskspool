@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 般若的每一天
+
+    * Begin : 2014/12/17 20:42:50
+    * End   : 2014/12/17 20:47:11
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 秦勉叫冉冉
 
     * Begin : 2014/12/17 20:39:30
