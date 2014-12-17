@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 芭比娃哈
+
+    * Begin : 2014/12/17 20:47:41
+    * End   : 2014/12/17 20:47:42
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 般若的每一天
 
     * Begin : 2014/12/17 20:42:50
