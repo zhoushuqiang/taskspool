@@ -1,3 +1,249 @@
+* [urlrule task] update urlrule/task/follows.txt
+
+    * Begin : 2014/12/18 02:33:23
+    * End   : 2014/12/18 02:33:26
+    * Result: OK
+
+* [urlrule] sites weipai.cn update tina晨曦
+
+    * Begin : 2014/12/18 02:33:20
+    * End   : 2014/12/18 02:33:21
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update suna2411
+
+    * Begin : 2014/12/18 02:33:18
+    * End   : 2014/12/18 02:33:19
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update sukiyoyo001
+
+    * Begin : 2014/12/18 02:33:15
+    * End   : 2014/12/18 02:33:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update suki_jiang
+
+    * Begin : 2014/12/18 02:33:13
+    * End   : 2014/12/18 02:33:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update soso蕊
+
+    * Begin : 2014/12/18 02:33:10
+    * End   : 2014/12/18 02:33:10
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Toughgirl
+
+    * Begin : 2014/12/18 02:33:05
+    * End   : 2014/12/18 02:33:08
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update shoujigujun1680
+
+    * Begin : 2014/12/18 02:33:00
+    * End   : 2014/12/18 02:33:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update sack莎莎
+
+    * Begin : 2014/12/18 02:32:58
+    * End   : 2014/12/18 02:32:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update sachiBabyJ
+
+    * Begin : 2014/12/18 02:32:55
+    * End   : 2014/12/18 02:32:56
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update quanxinyue123
+
+    * Begin : 2014/12/18 02:32:51
+    * End   : 2014/12/18 02:32:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update qinqin1995
+
+    * Begin : 2014/12/18 02:32:48
+    * End   : 2014/12/18 02:32:49
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update penny佩佩
+
+    * Begin : 2014/12/18 02:32:45
+    * End   : 2014/12/18 02:32:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update pengfang
+
+    * Begin : 2014/12/18 02:32:42
+    * End   : 2014/12/18 02:32:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update pandora莉莉
+
+    * Begin : 2014/12/18 02:32:40
+    * End   : 2014/12/18 02:32:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update oliviababy
+
+    * Begin : 2014/12/18 02:32:37
+    * End   : 2014/12/18 02:32:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update monica_1990
+
+    * Begin : 2014/12/18 02:32:34
+    * End   : 2014/12/18 02:32:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update mm小七
+
+    * Begin : 2014/12/18 02:32:32
+    * End   : 2014/12/18 02:32:33
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update miss大蝴蝶
+
+    * Begin : 2014/12/18 02:32:29
+    * End   : 2014/12/18 02:32:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update miss吴
+
+    * Begin : 2014/12/18 02:32:26
+    * End   : 2014/12/18 02:32:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update mina桑
+
+    * Begin : 2014/12/18 02:32:24
+    * End   : 2014/12/18 02:32:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update miki夫人
+
+    * Begin : 2014/12/18 02:32:21
+    * End   : 2014/12/18 02:32:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update meng-yu520
+
+    * Begin : 2014/12/18 02:32:19
+    * End   : 2014/12/18 02:32:19
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update mayuko
+
+    * Begin : 2014/12/18 02:32:16
+    * End   : 2014/12/18 02:32:17
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update love雯雯
+
+    * Begin : 2014/12/18 02:32:13
+    * End   : 2014/12/18 02:32:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update ljylovesjy
+
+    * Begin : 2014/12/18 02:32:10
+    * End   : 2014/12/18 02:32:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update li莉
+
+    * Begin : 2014/12/18 02:32:07
+    * End   : 2014/12/18 02:32:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update lady小夜猫
+
+    * Begin : 2014/12/18 02:32:04
+    * End   : 2014/12/18 02:32:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update kitty酱
+
+    * Begin : 2014/12/18 02:32:01
+    * End   : 2014/12/18 02:32:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update kimoon
+
+    * Begin : 2014/12/18 02:31:58
+    * End   : 2014/12/18 02:31:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update forgetlethe
+
+    * Begin : 2014/12/18 02:31:55
+    * End   : 2014/12/18 02:31:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update dj-vivi
+
+    * Begin : 2014/12/18 02:31:53
+    * End   : 2014/12/18 02:31:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update crystal尚
+
+    * Begin : 2014/12/18 02:31:49
+    * End   : 2014/12/18 02:31:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update coco小姐
+
+    * Begin : 2014/12/18 02:31:46
+    * End   : 2014/12/18 02:31:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update bobobobobo
+
+    * Begin : 2014/12/18 02:31:44
+    * End   : 2014/12/18 02:31:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update bobao
+
+    * Begin : 2014/12/18 02:31:41
+    * End   : 2014/12/18 02:31:42
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update beautyrella
+
+    * Begin : 2014/12/18 02:31:38
+    * End   : 2014/12/18 02:31:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update ba女i
+
+    * Begin : 2014/12/18 02:31:36
+    * End   : 2014/12/18 02:31:37
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update baby蜜儿
+
+    * Begin : 2014/12/18 02:31:33
+    * End   : 2014/12/18 02:31:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update baby彩霞
+
+    * Begin : 2014/12/18 02:31:30
+    * End   : 2014/12/18 02:31:31
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update baby小菲
+
+    * Begin : 2014/12/18 02:31:28
+    * End   : 2014/12/18 02:31:29
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update a小狐狸520
 
     * Begin : 2014/12/18 02:29:37
