@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 硬伦X妹
+
+    * Begin : 2014/12/18 00:34:06
+    * End   : 2014/12/18 00:35:23
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 知了
+
+    * Begin : 2014/12/18 00:34:03
+    * End   : 2014/12/18 00:34:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 矢帘
+
+    * Begin : 2014/12/18 00:34:01
+    * End   : 2014/12/18 00:34:01
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 瞥瞥
 
     * Begin : 2014/12/18 00:33:16
