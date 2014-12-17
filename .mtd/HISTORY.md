@@ -1,3 +1,81 @@
+* [urlrule] sites weipai.cn update 芭比娃哈
+
+    * Begin : 2014/12/17 11:12:23
+    * End   : 2014/12/17 11:12:25
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 芒果小懒猫
+
+    * Begin : 2014/12/17 11:12:20
+    * End   : 2014/12/17 11:12:21
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 艾舞kathy
+
+    * Begin : 2014/12/17 11:12:17
+    * End   : 2014/12/17 11:12:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 艾小爱
+
+    * Begin : 2014/12/17 11:12:15
+    * End   : 2014/12/17 11:12:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 艾_笑笑
+
+    * Begin : 2014/12/17 11:12:12
+    * End   : 2014/12/17 11:12:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 般若的每一天
+
+    * Begin : 2014/12/17 11:12:09
+    * End   : 2014/12/17 11:12:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 胸奀
+
+    * Begin : 2014/12/17 11:12:06
+    * End   : 2014/12/17 11:12:07
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 胡金熙
+
+    * Begin : 2014/12/17 11:12:02
+    * End   : 2014/12/17 11:12:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 肥尻夫人Linanan
+
+    * Begin : 2014/12/17 11:12:00
+    * End   : 2014/12/17 11:12:01
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 肚皮舞皇后
+
+    * Begin : 2014/12/17 11:11:57
+    * End   : 2014/12/17 11:11:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 肖蕾微博
+
+    * Begin : 2014/12/17 11:11:55
+    * End   : 2014/12/17 11:11:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 翡翠妹妹
+
+    * Begin : 2014/12/17 11:11:52
+    * End   : 2014/12/17 11:11:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 美色驿站
+
+    * Begin : 2014/12/17 11:11:49
+    * End   : 2014/12/17 11:11:51
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 美腿热舞福利分享
 
     * Begin : 2014/12/17 11:10:29
