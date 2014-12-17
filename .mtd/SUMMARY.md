@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 刘培雨雨小熊
+
+    * Begin : 2014/12/17 23:54:01
+    * End   : 2014/12/17 23:56:06
+    * Result: OK
+
 * [urlrule task] update urlrule/task/follows.txt
 
     * Begin : 2014/12/17 23:47:55
