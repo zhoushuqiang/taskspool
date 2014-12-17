@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 00:26:25] [urlrule] sites weipai.cn update 水蜜桃子
     * [2014/12/18 00:26:08] [urlrule] sites weipai.cn update 毛大怪
     * [2014/12/18 00:21:06] [urlrule] sites weipai.cn update 成都的肉包子
     * [2014/12/18 00:19:36] [urlrule] sites weipai.cn update 徐美儿
