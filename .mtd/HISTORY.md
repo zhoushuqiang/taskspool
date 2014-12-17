@@ -1,3 +1,51 @@
+* [urlrule] sites weipai.cn update 长裙飘飘21
+
+    * Begin : 2014/12/17 16:53:46
+    * End   : 2014/12/17 16:53:54
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 铁粉1号
+
+    * Begin : 2014/12/17 16:53:43
+    * End   : 2014/12/17 16:53:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 钱小美
+
+    * Begin : 2014/12/17 16:53:41
+    * End   : 2014/12/17 16:53:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 钟紫心
+
+    * Begin : 2014/12/17 16:53:38
+    * End   : 2014/12/17 16:53:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 金金金金小沙
+
+    * Begin : 2014/12/17 16:53:35
+    * End   : 2014/12/17 16:53:36
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 重头再来20141107
+
+    * Begin : 2014/12/17 16:53:33
+    * End   : 2014/12/17 16:53:34
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 酔熱舆Beer
+
+    * Begin : 2014/12/17 16:53:29
+    * End   : 2014/12/17 16:53:31
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 酒窝妹子
+
+    * Begin : 2014/12/17 16:53:26
+    * End   : 2014/12/17 16:53:27
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 酒才是最忠诚的男朋友
 
     * Begin : 2014/12/17 16:52:52

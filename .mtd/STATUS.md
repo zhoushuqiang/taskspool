@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 16:53:54] [urlrule] sites weipai.cn update 长裙飘飘21
     * [2014/12/17 16:53:08] [urlrule] sites weipai.cn update 酒才是最忠诚的男朋友
     * [2014/12/17 16:52:03] [urlrule] sites weipai.cn update 请叫我二爷_Su
     * [2014/12/17 16:50:49] [urlrule] sites weipai.cn update 薇妮BABY
@@ -294,6 +295,13 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 16:53:44] [urlrule] sites weipai.cn update 铁粉1号
+    * [2014/12/17 16:53:41] [urlrule] sites weipai.cn update 钱小美
+    * [2014/12/17 16:53:39] [urlrule] sites weipai.cn update 钟紫心
+    * [2014/12/17 16:53:36] [urlrule] sites weipai.cn update 金金金金小沙
+    * [2014/12/17 16:53:34] [urlrule] sites weipai.cn update 重头再来20141107
+    * [2014/12/17 16:53:31] [urlrule] sites vlook.cn update 酔熱舆Beer
+    * [2014/12/17 16:53:27] [urlrule] sites weipai.cn update 酒窝妹子
     * [2014/12/17 16:52:50] [urlrule] sites weipai.cn update 郑菲儿
     * [2014/12/17 16:52:48] [urlrule] sites weipai.cn update 郑瑞熙_
     * [2014/12/17 16:52:45] [urlrule] sites weipai.cn update 郑安然

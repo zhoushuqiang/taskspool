@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 长裙飘飘21
+
+    * Begin : 2014/12/17 16:53:46
+    * End   : 2014/12/17 16:53:54
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 酒才是最忠诚的男朋友
 
     * Begin : 2014/12/17 16:52:52
