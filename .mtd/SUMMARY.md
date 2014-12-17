@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
+
+    * Begin : 2014/12/18 03:24:58
+    * End   : 2014/12/18 03:29:59
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
 
     * Begin : 2014/12/18 03:15:12
