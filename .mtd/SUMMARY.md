@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Lulu罗小鹿
+
+    * Begin : 2014/12/18 01:08:04
+    * End   : 2014/12/18 01:08:25
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Baby华姿凯歌er
 
     * Begin : 2014/12/18 01:03:12
