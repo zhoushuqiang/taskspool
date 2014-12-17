@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 杨大人
+
+    * Begin : 2014/12/17 20:20:36
+    * End   : 2014/12/17 20:22:52
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/17 20:14:08
