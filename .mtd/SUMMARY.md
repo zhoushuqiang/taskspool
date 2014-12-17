@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 微我信av0006789
+
+    * Begin : 2014/12/17 17:33:04
+    * End   : 2014/12/17 17:33:16
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/17 17:31:29
