@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update Amanda5275
+
+    * Begin : 2014/12/17 23:17:34
+    * End   : 2014/12/17 23:17:57
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Amanda5275
 
     * Begin : 2014/12/17 23:15:16
