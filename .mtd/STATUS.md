@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 20:34:04] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/17 20:31:44] [urlrule] sites weipai.cn update 潘潘20140413
     * [2014/12/17 20:29:57] [urlrule] sites weipai.cn update 洛可馨
     * [2014/12/17 20:27:22] [urlrule] sites weipai.cn update 汉小仙
@@ -346,6 +347,31 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 20:33:23] [urlrule] sites weipai.cn update 王籽文
+    * [2014/12/17 20:33:19] [urlrule] sites weipai.cn update 王璐璐-Dasiy
+    * [2014/12/17 20:33:16] [urlrule] sites weipai.cn update 王王王王-蕊
+    * [2014/12/17 20:33:14] [urlrule] sites weipai.cn update 王熙悦
+    * [2014/12/17 20:33:11] [urlrule] sites weipai.cn update 王炤钧
+    * [2014/12/17 20:33:08] [urlrule] sites weipai.cn update 王悠悠
+    * [2014/12/17 20:33:05] [urlrule] sites weipai.cn update 王小珏elva
+    * [2014/12/17 20:33:01] [urlrule] sites weipai.cn update 王大小姐__Miss
+    * [2014/12/17 20:32:58] [urlrule] sites weipai.cn update 王允甜
+    * [2014/12/17 20:32:56] [urlrule] sites weipai.cn update 王依萱
+    * [2014/12/17 20:32:53] [urlrule] sites weipai.cn update 王丹妮baby
+    * [2014/12/17 20:32:49] [urlrule] sites weipai.cn update 玉baby
+    * [2014/12/17 20:32:47] [urlrule] sites vlook.cn update 猫小咪Queen
+    * [2014/12/17 20:32:41] [urlrule] sites weipai.cn update 猫小咪Queen
+    * [2014/12/17 20:32:38] [urlrule] sites weipai.cn update 猫大人是猫大人
+    * [2014/12/17 20:32:35] [urlrule] sites vlook.cn update 猫一样的女人猫 伊莲的小衣橱
+    * [2014/12/17 20:32:29] [urlrule] sites weipai.cn update 独爱简单控
+    * [2014/12/17 20:32:26] [urlrule] sites weipai.cn update 狐狸要成精LZ去死
+    * [2014/12/17 20:32:23] [urlrule] sites weipai.cn update 爱爱微拍
+    * [2014/12/17 20:32:21] [urlrule] sites weipai.cn update 燕囡囡
+    * [2014/12/17 20:32:18] [urlrule] sites vlook.cn update 熙悦儿丶
+    * [2014/12/17 20:32:12] [urlrule] sites weipai.cn update 熊葵
+    * [2014/12/17 20:32:09] [urlrule] sites weipai.cn update 然又又
+    * [2014/12/17 20:32:06] [urlrule] sites vlook.cn update 激情一夏
+    * [2014/12/17 20:32:01] [urlrule] sites weipai.cn update 澄小兔
     * [2014/12/17 20:30:35] [urlrule] sites weipai.cn update 潘小云云
     * [2014/12/17 20:30:32] [urlrule] sites weipai.cn update 满天都是小鑫鑫_
     * [2014/12/17 20:30:29] [urlrule] sites weipai.cn update 溅行溅美
