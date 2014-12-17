@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 女王女王陛下
+
+    * Begin : 2014/12/17 16:28:46
+    * End   : 2014/12/17 16:28:48
+    * Result: OK
+
 * [urlrule task] update urlrule/task/follows.txt
 
     * Begin : 2014/12/17 16:22:53
