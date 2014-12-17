@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 19:21:30] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
     * [2014/12/17 19:13:17] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
     * [2014/12/17 18:59:50] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
     * [2014/12/17 18:55:02] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
@@ -325,6 +326,24 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 19:13:47] [urlrule] sites weipai.cn UPDATE 小菲菲yoyo
+
+    * [2014/12/17 19:13:45] [urlrule] sites weipai.cn follow 52d2e471e34167df058b459c 小菲菲yoyo
+
+    * [2014/12/17 19:13:43] [urlrule] sites weipai.cn add 52d2e471e34167df058b459c 小菲菲yoyo
+
+    * [2014/12/17 19:13:41] [urlrule] sites weipai.cn UPDATE bobobobobo
+
+    * [2014/12/17 19:13:38] [urlrule] sites weipai.cn follow 524803bb8134942259dc4a53 bobobobobo
+
+    * [2014/12/17 19:13:37] [urlrule] sites weipai.cn add 524803bb8134942259dc4a53 bobobobobo
+
+    * [2014/12/17 19:13:35] [urlrule] sites weipai.cn UPDATE TinaWong
+
+    * [2014/12/17 19:13:33] [urlrule] sites weipai.cn follow 52a8974debeddb4d1f8b4598 TinaWong
+
+    * [2014/12/17 19:13:33] [urlrule] sites weipai.cn add 52a8974debeddb4d1f8b4598 TinaWong
+
     * [2014/12/17 19:00:39] [urlrule] sites weipai.cn UPDATE 王悠悠
 
     * [2014/12/17 19:00:37] [urlrule] sites weipai.cn follow 50d20ea77d3494ef7a0001e1 王悠悠
