@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Tomyli惋柔
+
+    * Begin : 2014/12/18 02:27:51
+    * End   : 2014/12/18 02:28:08
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Amanda5275
 
     * Begin : 2014/12/18 02:18:41
