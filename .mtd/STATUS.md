@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 00:19:36] [urlrule] sites weipai.cn update 徐美儿
     * [2014/12/18 00:18:55] [urlrule] sites weipai.cn update 徐妍馨Mandy
     * [2014/12/18 00:17:13] [urlrule] sites weipai.cn update 张芊芊
     * [2014/12/18 00:15:43] [urlrule] sites weipai.cn update 屌丝福利小清新
