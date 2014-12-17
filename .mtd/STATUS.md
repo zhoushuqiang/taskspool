@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 14:44:15] [urlrule task] update urlrule/task/follows.txt
     * [2014/12/17 14:43:39] [urlrule] sites weipai.cn update soso蕊
     * [2014/12/17 14:40:44] [urlrule] sites weipai.cn update forgetlethe
     * [2014/12/17 14:29:10] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
@@ -252,6 +253,10 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 14:44:09] [urlrule] sites weipai.cn update tina晨曦
+    * [2014/12/17 14:44:07] [urlrule] sites weipai.cn update suna2411
+    * [2014/12/17 14:44:04] [urlrule] sites weipai.cn update sukiyoyo001
+    * [2014/12/17 14:44:01] [urlrule] sites weipai.cn update suki_jiang
     * [2014/12/17 14:42:16] [urlrule] sites vlook.cn update Toughgirl
     * [2014/12/17 14:42:11] [urlrule] sites vlook.cn update shoujigujun1680
     * [2014/12/17 14:42:06] [urlrule] sites weipai.cn update sack莎莎
