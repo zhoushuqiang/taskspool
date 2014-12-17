@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update J小姐20140401
+
+    * Begin : 2014/12/17 10:40:10
+    * End   : 2014/12/17 10:40:23
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Baby华姿凯歌er
 
     * Begin : 2014/12/17 10:31:24

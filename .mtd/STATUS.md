@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 10:40:23] [urlrule] sites weipai.cn update J小姐20140401
     * [2014/12/17 10:37:53] [urlrule] sites weipai.cn update Baby华姿凯歌er
     * [2014/12/17 10:28:31] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2014/12/17 10:27:49] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
@@ -202,6 +203,52 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 10:40:08] [urlrule] sites vlook.cn update JunBaby
+    * [2014/12/17 10:40:04] [urlrule] sites weipai.cn update Jun20141205
+    * [2014/12/17 10:40:02] [urlrule] sites weipai.cn update Jocelyn_晶
+    * [2014/12/17 10:39:59] [urlrule] sites vlook.cn update Joanbaby倩
+    * [2014/12/17 10:39:56] [urlrule] sites weipai.cn update Hugme20141119
+    * [2014/12/17 10:39:53] [urlrule] sites weipai.cn update HellenBaby_
+    * [2014/12/17 10:39:51] [urlrule] sites weipai.cn update Godismyfather
+    * [2014/12/17 10:39:48] [urlrule] sites vlook.cn update Gaby_Kim金慧嫄
+    * [2014/12/17 10:39:44] [urlrule] sites weipai.cn update Fox_00
+    * [2014/12/17 10:39:42] [urlrule] sites weipai.cn update Fiy
+    * [2014/12/17 10:39:39] [urlrule] sites weipai.cn update EverdayBaby
+    * [2014/12/17 10:39:37] [urlrule] sites weipai.cn update Elise谭晓彤
+    * [2014/12/17 10:39:35] [urlrule] sites vlook.cn update Elise谭晓彤
+    * [2014/12/17 10:39:32] [urlrule] sites weipai.cn update Elise谭晓彤
+    * [2014/12/17 10:39:30] [urlrule] sites weipai.cn update Djkkrmx慧玲
+    * [2014/12/17 10:39:28] [urlrule] sites vlook.cn update Dj_kelly
+    * [2014/12/17 10:39:25] [urlrule] sites weipai.cn update Dj_kelly
+    * [2014/12/17 10:39:23] [urlrule] sites weipai.cn update DjTina
+    * [2014/12/17 10:39:19] [urlrule] sites weipai.cn update Diva_狄娃
+    * [2014/12/17 10:39:16] [urlrule] sites weipai.cn update Despair-假寐
+    * [2014/12/17 10:39:14] [urlrule] sites weipai.cn update Dance小宝
+    * [2014/12/17 10:39:12] [urlrule] sites weipai.cn update Daisy__兔
+    * [2014/12/17 10:39:09] [urlrule] sites weipai.cn update DM靜兒
+    * [2014/12/17 10:39:07] [urlrule] sites vlook.cn update DJ_Ricey
+    * [2014/12/17 10:39:04] [urlrule] sites weipai.cn update DJ_Ricey
+    * [2014/12/17 10:39:02] [urlrule] sites weipai.cn update DJ-TiMi
+    * [2014/12/17 10:39:00] [urlrule] sites vlook.cn update DJ-CC
+    * [2014/12/17 10:38:57] [urlrule] sites weipai.cn update DJ-CC
+    * [2014/12/17 10:38:55] [urlrule] sites weipai.cn update C希人
+    * [2014/12/17 10:38:52] [urlrule] sites weipai.cn update Crystal欣
+    * [2014/12/17 10:38:50] [urlrule] sites weipai.cn update CoCo_安妮
+    * [2014/12/17 10:38:47] [urlrule] sites vlook.cn update Christine黄可
+    * [2014/12/17 10:38:42] [urlrule] sites weipai.cn update Christine黄可
+    * [2014/12/17 10:38:40] [urlrule] sites weipai.cn update Cello
+    * [2014/12/17 10:38:37] [urlrule] sites weipai.cn update Cathy陈茹雪
+    * [2014/12/17 10:38:35] [urlrule] sites weipai.cn update CL森系女神
+    * [2014/12/17 10:38:33] [urlrule] sites weipai.cn update CFTZ
+    * [2014/12/17 10:38:30] [urlrule] sites weipai.cn update CC宠儿凌溪
+    * [2014/12/17 10:38:28] [urlrule] sites weipai.cn update CC-rose
+    * [2014/12/17 10:38:26] [urlrule] sites weipai.cn update CBMXX
+    * [2014/12/17 10:38:23] [urlrule] sites weipai.cn update C0C0
+    * [2014/12/17 10:38:20] [urlrule] sites weipai.cn update Box039
+    * [2014/12/17 10:38:18] [urlrule] sites weipai.cn update BoBo小苗
+    * [2014/12/17 10:38:15] [urlrule] sites weipai.cn update Bella-小白
+    * [2014/12/17 10:38:12] [urlrule] sites weipai.cn update Barbara张攀
+    * [2014/12/17 10:38:10] [urlrule] sites weipai.cn update Baby瑶瑶
     * [2014/12/17 10:31:22] [urlrule] sites vlook.cn update Babykiry
     * [2014/12/17 10:31:18] [urlrule] sites weipai.cn update Babykiry
     * [2014/12/17 10:31:15] [urlrule] sites weipai.cn update BabyLinda
