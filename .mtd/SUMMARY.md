@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 画泪听雨眠
+
+    * Begin : 2014/12/18 00:31:38
+    * End   : 2014/12/18 00:32:33
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 王璐璐-Dasiy
 
     * Begin : 2014/12/18 00:30:04
