@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
+
+    * Begin : 2014/12/17 20:59:47
+    * End   : 2014/12/17 21:16:01
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 陈怡曼coco
 
     * Begin : 2014/12/17 20:55:41
