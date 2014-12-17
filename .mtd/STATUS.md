@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 10:28:31] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2014/12/17 10:27:49] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
     * [2014/12/17 10:27:22] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
     * [2014/12/17 10:26:41] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
@@ -200,6 +201,48 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 10:28:28] [urlrule] sites weipai.cn UPDATE 梁倩cat
+
+    * [2014/12/17 10:28:27] [urlrule] sites weipai.cn follow 522b84d07d3494740b04faf5 梁倩cat
+
+    * [2014/12/17 10:28:26] [urlrule] sites weipai.cn add 522b84d07d3494740b04faf5 梁倩cat
+
+    * [2014/12/17 10:28:25] [urlrule] sites weipai.cn UPDATE Abbymiki
+
+    * [2014/12/17 10:28:23] [urlrule] sites weipai.cn follow 50e7e03d7f34941f32000015 Abbymiki
+
+    * [2014/12/17 10:28:23] [urlrule] sites weipai.cn add 50e7e03d7f34941f32000015 Abbymiki
+
+    * [2014/12/17 10:28:21] [urlrule] sites weipai.cn UPDATE 邻家茜茜
+
+    * [2014/12/17 10:28:20] [urlrule] sites weipai.cn follow 52c10b83a07f0338598b4568 邻家茜茜
+
+    * [2014/12/17 10:28:19] [urlrule] sites weipai.cn add 52c10b83a07f0338598b4568 邻家茜茜
+
+    * [2014/12/17 10:28:17] [urlrule] sites weipai.cn UPDATE 姐妹的范er
+
+    * [2014/12/17 10:28:17] [urlrule] sites weipai.cn follow 53c10bd481349499409c2ce9 姐妹的范er
+
+    * [2014/12/17 10:28:16] [urlrule] sites weipai.cn add 53c10bd481349499409c2ce9 姐妹的范er
+
+    * [2014/12/17 10:28:13] [urlrule] sites weipai.cn UPDATE 范范范小范
+
+    * [2014/12/17 10:28:12] [urlrule] sites weipai.cn follow 52c6b16c803494867c92f58d 范范范小范
+
+    * [2014/12/17 10:28:11] [urlrule] sites weipai.cn add 52c6b16c803494867c92f58d 范范范小范
+
+    * [2014/12/17 10:28:10] [urlrule] sites weipai.cn UPDATE 魏嘉蒂Betty
+
+    * [2014/12/17 10:28:09] [urlrule] sites weipai.cn follow 5062bab7803494d8500000c7 魏嘉蒂Betty
+
+    * [2014/12/17 10:28:08] [urlrule] sites weipai.cn add 5062bab7803494d8500000c7 魏嘉蒂Betty
+
+    * [2014/12/17 10:28:07] [urlrule] sites weipai.cn UPDATE baby小菲
+
+    * [2014/12/17 10:28:05] [urlrule] sites weipai.cn follow 54709ffca8640b7e028b457d baby小菲
+
+    * [2014/12/17 10:28:05] [urlrule] sites weipai.cn add 54709ffca8640b7e028b457d baby小菲
+
     * [2014/12/17 10:27:45] [urlrule] sites weipai.cn UPDATE 小菲菲yoyo
 
     * [2014/12/17 10:27:45] [urlrule] sites weipai.cn follow 52d2e471e34167df058b459c 小菲菲yoyo
