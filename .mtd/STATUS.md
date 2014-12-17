@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 16:09:39] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
     * [2014/12/17 16:09:09] [urlrule] sites weipai.cn UPDATE 晓卉日记
 
     * [2014/12/17 16:08:16] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
@@ -276,6 +277,24 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 16:09:35] [urlrule] sites weipai.cn UPDATE 王悠悠
+
+    * [2014/12/17 16:09:34] [urlrule] sites weipai.cn follow 50d20ea77d3494ef7a0001e1 王悠悠
+
+    * [2014/12/17 16:09:33] [urlrule] sites weipai.cn add 50d20ea77d3494ef7a0001e1 王悠悠
+
+    * [2014/12/17 16:09:31] [urlrule] sites weipai.cn UPDATE 表妹baby
+
+    * [2014/12/17 16:09:30] [urlrule] sites weipai.cn follow 547f01d2a5640bab228b4572 表妹baby
+
+    * [2014/12/17 16:09:29] [urlrule] sites weipai.cn add 547f01d2a5640bab228b4572 表妹baby
+
+    * [2014/12/17 16:09:27] [urlrule] sites weipai.cn UPDATE 20141246849
+
+    * [2014/12/17 16:09:26] [urlrule] sites weipai.cn follow 5472d768a5640b124e8b457f 20141246849
+
+    * [2014/12/17 16:09:25] [urlrule] sites weipai.cn add 5472d768a5640b124e8b457f 20141246849
+
     * [2014/12/17 16:08:44] [urlrule] sites weipai.cn follow 500beda9813494db56000174 晓卉日记
 
     * [2014/12/17 16:08:43] [urlrule] sites weipai.cn add 500beda9813494db56000174 晓卉日记
