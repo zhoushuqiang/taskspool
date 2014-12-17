@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 乱搞砖家
+
+    * Begin : 2014/12/18 01:16:36
+    * End   : 2014/12/18 01:16:52
+    * Result: OK
+
 * [urlrule task] update urlrule/task/follows.txt
 
     * Begin : 2014/12/18 01:14:32
