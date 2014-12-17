@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 20:40:46] [urlrule] sites weipai.cn update 秦勉叫冉冉
     * [2014/12/17 20:39:10] [urlrule] sites weipai.cn update 神神神神神姐
     * [2014/12/17 20:36:18] [urlrule] sites weipai.cn update 白日不湿
     * [2014/12/17 20:35:16] [urlrule] sites weipai.cn update 瑜伽女神青文
@@ -350,6 +351,7 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 20:39:28] [urlrule] sites weipai.cn update 私人空间
     * [2014/12/17 20:36:58] [urlrule] sites weipai.cn update 神仙姐姐__艾溪
     * [2014/12/17 20:36:55] [urlrule] sites weipai.cn update 硬伦X妹
     * [2014/12/17 20:36:52] [urlrule] sites weipai.cn update 知了
