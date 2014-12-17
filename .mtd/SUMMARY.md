@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 把你家户口本拿出来看看
+
+    * Begin : 2014/12/17 08:14:57
+    * End   : 2014/12/17 08:15:33
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/17 08:12:24
