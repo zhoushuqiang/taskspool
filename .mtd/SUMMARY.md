@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 他不懂我的xin
+
+    * Begin : 2014/12/17 10:48:11
+    * End   : 2014/12/17 10:49:05
+    * Result: OK
+
 * [urlrule task] update urlrule/task/follows.txt
 
     * Begin : 2014/12/17 10:46:36
