@@ -1,3 +1,57 @@
+* [urlrule] sites weipai.cn update 屌丝福利小清新
+
+    * Begin : 2014/12/18 00:15:36
+    * End   : 2014/12/18 00:15:43
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 尤物大王
+
+    * Begin : 2014/12/18 00:15:34
+    * End   : 2014/12/18 00:15:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 尢金金
+
+    * Begin : 2014/12/18 00:15:31
+    * End   : 2014/12/18 00:15:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小静qq765998665
+
+    * Begin : 2014/12/18 00:15:29
+    * End   : 2014/12/18 00:15:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小露露仔
+
+    * Begin : 2014/12/18 00:15:27
+    * End   : 2014/12/18 00:15:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小雨姐
+
+    * Begin : 2014/12/18 00:15:24
+    * End   : 2014/12/18 00:15:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小雅雅雅雅雅
+
+    * Begin : 2014/12/18 00:15:21
+    * End   : 2014/12/18 00:15:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小雅果子
+
+    * Begin : 2014/12/18 00:15:19
+    * End   : 2014/12/18 00:15:19
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小镁媄-
+
+    * Begin : 2014/12/18 00:15:16
+    * End   : 2014/12/18 00:15:16
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 小钕Ren
 
     * Begin : 2014/12/18 00:14:42
