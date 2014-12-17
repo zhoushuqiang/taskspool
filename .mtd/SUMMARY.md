@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 成都的肉包子
+
+    * Begin : 2014/12/18 00:20:52
+    * End   : 2014/12/18 00:21:06
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 徐美儿
 
     * Begin : 2014/12/18 00:19:09
