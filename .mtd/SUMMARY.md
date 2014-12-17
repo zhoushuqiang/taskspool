@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 林夕baby123
+
+    * Begin : 2014/12/17 12:43:54
+    * End   : 2014/12/17 12:44:42
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/17 12:38:59
