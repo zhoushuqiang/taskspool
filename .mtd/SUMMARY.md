@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update penny佩佩
+
+    * Begin : 2014/12/17 23:45:23
+    * End   : 2014/12/17 23:45:56
+    * Result: OK
+
 * [urlrule] sites weipai.cn update forgetlethe
 
     * Begin : 2014/12/17 23:42:08
