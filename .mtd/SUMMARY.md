@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 水蜜桃子
+
+    * Begin : 2014/12/17 08:21:18
+    * End   : 2014/12/17 08:21:20
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 李怡静1118
 
     * Begin : 2014/12/17 08:17:39
