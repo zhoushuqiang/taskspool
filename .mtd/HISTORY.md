@@ -1,3 +1,75 @@
+* [urlrule] sites weipai.cn update 溅行溅美
+
+    * Begin : 2014/12/17 16:43:05
+    * End   : 2014/12/17 16:43:32
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 湯大师
+
+    * Begin : 2014/12/17 16:43:02
+    * End   : 2014/12/17 16:43:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 混血演员安娜
+
+    * Begin : 2014/12/17 16:42:59
+    * End   : 2014/12/17 16:43:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 涵肉肉
+
+    * Begin : 2014/12/17 16:42:56
+    * End   : 2014/12/17 16:42:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 浮生若梦
+
+    * Begin : 2014/12/17 16:42:54
+    * End   : 2014/12/17 16:42:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 洛熙爱爱
+
+    * Begin : 2014/12/17 16:42:51
+    * End   : 2014/12/17 16:42:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 洛可馨
+
+    * Begin : 2014/12/17 16:42:48
+    * End   : 2014/12/17 16:42:49
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 波波小姐
+
+    * Begin : 2014/12/17 16:42:45
+    * End   : 2014/12/17 16:42:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 没有鼻梁的姑娘
+
+    * Begin : 2014/12/17 16:42:43
+    * End   : 2014/12/17 16:42:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 沈希JOY
+
+    * Begin : 2014/12/17 16:42:40
+    * End   : 2014/12/17 16:42:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 江宣
+
+    * Begin : 2014/12/17 16:42:37
+    * End   : 2014/12/17 16:42:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 汉小仙
+
+    * Begin : 2014/12/17 16:42:34
+    * End   : 2014/12/17 16:42:35
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 水蜜桃子
 
     * Begin : 2014/12/17 16:42:15

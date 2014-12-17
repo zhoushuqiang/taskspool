@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 16:43:32] [urlrule] sites weipai.cn update 溅行溅美
     * [2014/12/17 16:42:17] [urlrule] sites weipai.cn update 水蜜桃子
     * [2014/12/17 16:36:59] [urlrule] sites weipai.cn update 微子baby
     * [2014/12/17 16:35:07] [urlrule] sites weipai.cn update 屌丝福利小清新
@@ -288,6 +289,17 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 16:43:03] [urlrule] sites weipai.cn update 湯大师
+    * [2014/12/17 16:43:00] [urlrule] sites weipai.cn update 混血演员安娜
+    * [2014/12/17 16:42:57] [urlrule] sites weipai.cn update 涵肉肉
+    * [2014/12/17 16:42:55] [urlrule] sites weipai.cn update 浮生若梦
+    * [2014/12/17 16:42:52] [urlrule] sites weipai.cn update 洛熙爱爱
+    * [2014/12/17 16:42:49] [urlrule] sites weipai.cn update 洛可馨
+    * [2014/12/17 16:42:47] [urlrule] sites weipai.cn update 波波小姐
+    * [2014/12/17 16:42:44] [urlrule] sites weipai.cn update 没有鼻梁的姑娘
+    * [2014/12/17 16:42:41] [urlrule] sites weipai.cn update 沈希JOY
+    * [2014/12/17 16:42:38] [urlrule] sites weipai.cn update 江宣
+    * [2014/12/17 16:42:35] [urlrule] sites weipai.cn update 汉小仙
     * [2014/12/17 16:42:13] [urlrule] sites weipai.cn update 毛大怪
     * [2014/12/17 16:42:10] [urlrule] sites weipai.cn update 欠缺完美
     * [2014/12/17 16:42:07] [urlrule] sites weipai.cn update 橙子醬

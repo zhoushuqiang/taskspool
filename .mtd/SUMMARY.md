@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 溅行溅美
+
+    * Begin : 2014/12/17 16:43:05
+    * End   : 2014/12/17 16:43:32
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 水蜜桃子
 
     * Begin : 2014/12/17 16:42:15
