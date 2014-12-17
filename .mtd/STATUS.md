@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 00:56:54] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
     * [2014/12/18 00:56:08] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
     * [2014/12/18 00:55:54] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/18 00:55:08] [urlrule] sites weipai.cn UPDATE 晨yoka
@@ -407,6 +408,48 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/18 00:56:51] [urlrule] sites weipai.cn UPDATE 王悠悠
+
+    * [2014/12/18 00:56:49] [urlrule] sites weipai.cn follow 50d20ea77d3494ef7a0001e1 王悠悠
+
+    * [2014/12/18 00:56:48] [urlrule] sites weipai.cn add 50d20ea77d3494ef7a0001e1 王悠悠
+
+    * [2014/12/18 00:56:46] [urlrule] sites weipai.cn UPDATE 表妹baby
+
+    * [2014/12/18 00:56:45] [urlrule] sites weipai.cn follow 547f01d2a5640bab228b4572 表妹baby
+
+    * [2014/12/18 00:56:44] [urlrule] sites weipai.cn add 547f01d2a5640bab228b4572 表妹baby
+
+    * [2014/12/18 00:56:42] [urlrule] sites weipai.cn UPDATE 20141246849
+
+    * [2014/12/18 00:56:41] [urlrule] sites weipai.cn follow 5472d768a5640b124e8b457f 20141246849
+
+    * [2014/12/18 00:56:40] [urlrule] sites weipai.cn add 5472d768a5640b124e8b457f 20141246849
+
+    * [2014/12/18 00:56:38] [urlrule] sites weipai.cn UPDATE 晓卉日记
+
+    * [2014/12/18 00:56:35] [urlrule] sites weipai.cn follow 500beda9813494db56000174 晓卉日记
+
+    * [2014/12/18 00:56:35] [urlrule] sites weipai.cn add 500beda9813494db56000174 晓卉日记
+
+    * [2014/12/18 00:56:33] [urlrule] sites weipai.cn UPDATE 佳佳
+
+    * [2014/12/18 00:56:31] [urlrule] sites weipai.cn follow 514333c57d3494483300004f 佳佳
+
+    * [2014/12/18 00:56:30] [urlrule] sites weipai.cn add 514333c57d3494483300004f 佳佳
+
+    * [2014/12/18 00:56:28] [urlrule] sites weipai.cn UPDATE 黒目瞳
+
+    * [2014/12/18 00:56:27] [urlrule] sites weipai.cn follow 545737e5a8640b80428b4583 黒目瞳
+
+    * [2014/12/18 00:56:26] [urlrule] sites weipai.cn add 545737e5a8640b80428b4583 黒目瞳
+
+    * [2014/12/18 00:56:23] [urlrule] sites weipai.cn UPDATE 王蜜娅Mia
+
+    * [2014/12/18 00:56:22] [urlrule] sites weipai.cn follow 50274a227f349423710001e2 王蜜娅Mia
+
+    * [2014/12/18 00:56:21] [urlrule] sites weipai.cn add 50274a227f349423710001e2 王蜜娅Mia
+
     * [2014/12/18 00:55:50] [urlrule] sites weipai.cn UPDATE 张馨馨Maggie
 
     * [2014/12/18 00:55:47] [urlrule] sites weipai.cn follow 50051ba37f3494ff4f000245 张馨馨Maggie
