@@ -1,3 +1,99 @@
+* [urlrule] sites weipai.cn update 澄小兔
+
+    * Begin : 2014/12/17 11:06:00
+    * End   : 2014/12/17 11:06:17
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 潘潘20140413
+
+    * Begin : 2014/12/17 11:05:58
+    * End   : 2014/12/17 11:05:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 潘小云云
+
+    * Begin : 2014/12/17 11:05:55
+    * End   : 2014/12/17 11:05:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 满天都是小鑫鑫_
+
+    * Begin : 2014/12/17 11:05:52
+    * End   : 2014/12/17 11:05:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 溅行溅美
+
+    * Begin : 2014/12/17 11:05:50
+    * End   : 2014/12/17 11:05:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 湯大师
+
+    * Begin : 2014/12/17 11:05:47
+    * End   : 2014/12/17 11:05:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 混血演员安娜
+
+    * Begin : 2014/12/17 11:05:44
+    * End   : 2014/12/17 11:05:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 涵肉肉
+
+    * Begin : 2014/12/17 11:05:42
+    * End   : 2014/12/17 11:05:42
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 浮生若梦
+
+    * Begin : 2014/12/17 11:05:39
+    * End   : 2014/12/17 11:05:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 洛熙爱爱
+
+    * Begin : 2014/12/17 11:05:37
+    * End   : 2014/12/17 11:05:37
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 洛可馨
+
+    * Begin : 2014/12/17 11:05:34
+    * End   : 2014/12/17 11:05:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 波波小姐
+
+    * Begin : 2014/12/17 11:05:31
+    * End   : 2014/12/17 11:05:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 没有鼻梁的姑娘
+
+    * Begin : 2014/12/17 11:05:29
+    * End   : 2014/12/17 11:05:29
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 沈希JOY
+
+    * Begin : 2014/12/17 11:05:26
+    * End   : 2014/12/17 11:05:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 江宣
+
+    * Begin : 2014/12/17 11:05:24
+    * End   : 2014/12/17 11:05:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 汉小仙
+
+    * Begin : 2014/12/17 11:05:21
+    * End   : 2014/12/17 11:05:22
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 水蜜桃子
 
     * Begin : 2014/12/17 11:05:04
