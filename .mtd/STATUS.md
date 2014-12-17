@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 16:09:09] [urlrule] sites weipai.cn UPDATE 晓卉日记
+
     * [2014/12/17 16:08:16] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
     * [2014/12/17 16:07:57] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/17 16:06:16] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
@@ -274,6 +276,28 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 16:08:44] [urlrule] sites weipai.cn follow 500beda9813494db56000174 晓卉日记
+
+    * [2014/12/17 16:08:43] [urlrule] sites weipai.cn add 500beda9813494db56000174 晓卉日记
+
+    * [2014/12/17 16:08:41] [urlrule] sites weipai.cn UPDATE 佳佳
+
+    * [2014/12/17 16:08:40] [urlrule] sites weipai.cn follow 514333c57d3494483300004f 佳佳
+
+    * [2014/12/17 16:08:39] [urlrule] sites weipai.cn add 514333c57d3494483300004f 佳佳
+
+    * [2014/12/17 16:08:37] [urlrule] sites weipai.cn UPDATE 黒目瞳
+
+    * [2014/12/17 16:08:36] [urlrule] sites weipai.cn follow 545737e5a8640b80428b4583 黒目瞳
+
+    * [2014/12/17 16:08:35] [urlrule] sites weipai.cn add 545737e5a8640b80428b4583 黒目瞳
+
+    * [2014/12/17 16:08:33] [urlrule] sites weipai.cn UPDATE 王蜜娅Mia
+
+    * [2014/12/17 16:08:31] [urlrule] sites weipai.cn follow 50274a227f349423710001e2 王蜜娅Mia
+
+    * [2014/12/17 16:08:30] [urlrule] sites weipai.cn add 50274a227f349423710001e2 王蜜娅Mia
+
     * [2014/12/17 16:07:23] [urlrule] sites weipai.cn UPDATE 张馨馨Maggie
 
     * [2014/12/17 16:07:22] [urlrule] sites weipai.cn follow 50051ba37f3494ff4f000245 张馨馨Maggie
