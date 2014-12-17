@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update forgetlethe
+
+    * Begin : 2014/12/17 12:13:12
+    * End   : 2014/12/17 12:17:32
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Baby华姿凯歌er
 
     * Begin : 2014/12/17 11:35:17
