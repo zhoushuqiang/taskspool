@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 卢思云
+
+    * Begin : 2014/12/18 01:18:56
+    * End   : 2014/12/18 01:19:18
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 乱搞砖家
 
     * Begin : 2014/12/18 01:16:36
