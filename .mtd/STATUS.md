@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 15:35:45] [urlrule] sites weipai.cn update 芭芘李迪娅
     * [2014/12/17 15:31:35] [urlrule] sites weipai.cn update 芭比娃哈
     * [2014/12/17 15:30:51] [urlrule] sites weipai.cn update 肚皮舞皇后
     * [2014/12/17 15:24:11] [urlrule] sites weipai.cn update 瞄小婷
