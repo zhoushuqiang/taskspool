@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 16:53:08] [urlrule] sites weipai.cn update 酒才是最忠诚的男朋友
     * [2014/12/17 16:52:03] [urlrule] sites weipai.cn update 请叫我二爷_Su
     * [2014/12/17 16:50:49] [urlrule] sites weipai.cn update 薇妮BABY
     * [2014/12/17 16:48:50] [urlrule] sites weipai.cn update 芭比娃哈
@@ -293,6 +294,17 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 16:52:50] [urlrule] sites weipai.cn update 郑菲儿
+    * [2014/12/17 16:52:48] [urlrule] sites weipai.cn update 郑瑞熙_
+    * [2014/12/17 16:52:45] [urlrule] sites weipai.cn update 郑安然
+    * [2014/12/17 16:52:42] [urlrule] sites weipai.cn update 邻家猴猴
+    * [2014/12/17 16:52:39] [urlrule] sites weipai.cn update 逐光流云20140912
+    * [2014/12/17 16:52:37] [urlrule] sites weipai.cn update 近色怡人
+    * [2014/12/17 16:52:34] [urlrule] sites weipai.cn update 辣妈ai美丽
+    * [2014/12/17 16:52:32] [urlrule] sites vlook.cn update 软萌妹
+    * [2014/12/17 16:52:27] [urlrule] sites weipai.cn update 赵有根
+    * [2014/12/17 16:52:24] [urlrule] sites weipai.cn update 豆妞妞
+    * [2014/12/17 16:52:22] [urlrule] sites weipai.cn update 谭昙
     * [2014/12/17 16:51:50] [urlrule] sites weipai.cn update 语儿
     * [2014/12/17 16:51:47] [urlrule] sites weipai.cn update 诗梓佳Kitty
     * [2014/12/17 16:51:44] [urlrule] sites weipai.cn update 诗卉95113
