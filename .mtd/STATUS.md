@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 20:55:11] [urlrule] sites weipai.cn update 陈大榕
     * [2014/12/17 20:53:39] [urlrule] sites weipai.cn update 钱小美
     * [2014/12/17 20:50:52] [urlrule] sites weipai.cn update 薇妮BABY
     * [2014/12/17 20:49:15] [urlrule] sites vlook.cn update 若含baby
@@ -357,6 +358,16 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 20:54:32] [urlrule] sites weipai.cn update 陈可鑫
+    * [2014/12/17 20:54:28] [urlrule] sites weipai.cn update 陈依萌宝贝
+    * [2014/12/17 20:54:25] [urlrule] sites weipai.cn update 陈世媄
+    * [2014/12/17 20:54:23] [urlrule] sites vlook.cn update 陆晨依
+    * [2014/12/17 20:54:17] [urlrule] sites weipai.cn update 陆晨依
+    * [2014/12/17 20:54:14] [urlrule] sites weipai.cn update 阿鑫很浮躁
+    * [2014/12/17 20:54:11] [urlrule] sites weipai.cn update 阿朵拉Adora
+    * [2014/12/17 20:54:08] [urlrule] sites vlook.cn update 长裙飘飘21
+    * [2014/12/17 20:54:00] [urlrule] sites weipai.cn update 长裙飘飘21
+    * [2014/12/17 20:53:57] [urlrule] sites weipai.cn update 铁粉1号
     * [2014/12/17 20:53:06] [urlrule] sites weipai.cn update 钟紫心
     * [2014/12/17 20:53:02] [urlrule] sites weipai.cn update 金金金金小沙
     * [2014/12/17 20:53:00] [urlrule] sites weipai.cn update 重头再来20141107
