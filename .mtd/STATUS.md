@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 20:49:15] [urlrule] sites vlook.cn update 若含baby
     * [2014/12/17 20:48:44] [urlrule] sites weipai.cn update 若含_Princess
     * [2014/12/17 20:47:42] [urlrule] sites weipai.cn update 芭比娃哈
     * [2014/12/17 20:47:11] [urlrule] sites weipai.cn update 般若的每一天
