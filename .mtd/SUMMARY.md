@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update a小狐狸520
+
+    * Begin : 2014/12/18 02:29:37
+    * End   : 2014/12/18 02:31:13
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Tomyli惋柔
 
     * Begin : 2014/12/18 02:27:51
