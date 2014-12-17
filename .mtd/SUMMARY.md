@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 媚力女人
+
+    * Begin : 2014/12/18 00:10:02
+    * End   : 2014/12/18 00:10:20
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 女神集团
 
     * Begin : 2014/12/18 00:08:41
