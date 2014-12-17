@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 请叫我二爷_Su
+
+    * Begin : 2014/12/17 16:51:52
+    * End   : 2014/12/17 16:52:03
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 薇妮BABY
 
     * Begin : 2014/12/17 16:50:46
