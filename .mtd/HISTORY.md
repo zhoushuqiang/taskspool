@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE 梅姿baby
+
+
+    * Begin : 2014/12/17 18:38:01
+    * End   : 2014/12/17 18:43:47
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 508e3aa38134941b2400001a 梅姿baby
+
+
+    * Begin : 2014/12/17 18:38:00
+    * End   : 2014/12/17 18:38:01
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 508e3aa38134941b2400001a 梅姿baby
+
+
+    * Begin : 2014/12/17 18:37:59
+    * End   : 2014/12/17 18:37:59
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
 
     * Begin : 2014/12/17 18:29:45
