@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 粽子小姐
+
+    * Begin : 2014/12/18 00:36:27
+    * End   : 2014/12/18 00:36:56
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 硬伦X妹
 
     * Begin : 2014/12/18 00:34:06
