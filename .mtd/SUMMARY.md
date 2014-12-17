@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Lolita4ever
+
+    * Begin : 2014/12/17 16:16:19
+    * End   : 2014/12/17 16:17:05
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2014/12/17 16:10:53
