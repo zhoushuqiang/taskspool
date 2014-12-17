@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 15:13:42] [urlrule] sites weipai.cn update 独爱简单控
     * [2014/12/17 15:11:11] [urlrule] sites weipai.cn update 然又又
     * [2014/12/17 15:08:24] [urlrule] sites weipai.cn update 没有鼻梁的姑娘
     * [2014/12/17 15:03:32] [urlrule] sites weipai.cn update 水蜜桃子
@@ -260,6 +261,11 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 15:11:40] [urlrule] sites weipai.cn update 狐狸要成精LZ去死
+    * [2014/12/17 15:11:38] [urlrule] sites weipai.cn update 爱爱微拍
+    * [2014/12/17 15:11:35] [urlrule] sites weipai.cn update 燕囡囡
+    * [2014/12/17 15:11:33] [urlrule] sites vlook.cn update 熙悦儿丶
+    * [2014/12/17 15:11:28] [urlrule] sites weipai.cn update 熊葵
     * [2014/12/17 15:09:17] [urlrule] sites vlook.cn update 激情一夏
     * [2014/12/17 15:09:13] [urlrule] sites weipai.cn update 澄小兔
     * [2014/12/17 15:09:10] [urlrule] sites weipai.cn update 潘潘20140413

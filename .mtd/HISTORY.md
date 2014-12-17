@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 独爱简单控
+
+    * Begin : 2014/12/17 15:11:42
+    * End   : 2014/12/17 15:13:42
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 狐狸要成精LZ去死
+
+    * Begin : 2014/12/17 15:11:40
+    * End   : 2014/12/17 15:11:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 爱爱微拍
+
+    * Begin : 2014/12/17 15:11:37
+    * End   : 2014/12/17 15:11:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 燕囡囡
+
+    * Begin : 2014/12/17 15:11:35
+    * End   : 2014/12/17 15:11:35
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 熙悦儿丶
+
+    * Begin : 2014/12/17 15:11:30
+    * End   : 2014/12/17 15:11:33
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 熊葵
+
+    * Begin : 2014/12/17 15:11:27
+    * End   : 2014/12/17 15:11:28
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 然又又
 
     * Begin : 2014/12/17 15:09:19

@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 独爱简单控
+
+    * Begin : 2014/12/17 15:11:42
+    * End   : 2014/12/17 15:13:42
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 然又又
 
     * Begin : 2014/12/17 15:09:19
