@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Baby华姿凯歌er
+
+    * Begin : 2014/12/18 01:03:12
+    * End   : 2014/12/18 01:05:17
+    * Result: OK
+
 * [urlrule] sites vlook.cn update Amanda5275
 
     * Begin : 2014/12/18 01:01:49

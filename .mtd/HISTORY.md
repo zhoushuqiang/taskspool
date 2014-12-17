@@ -1,3 +1,69 @@
+* [urlrule] sites weipai.cn update Baby华姿凯歌er
+
+    * Begin : 2014/12/18 01:03:12
+    * End   : 2014/12/18 01:05:17
+    * Result: OK
+
+* [urlrule] sites vlook.cn update Babykiry
+
+    * Begin : 2014/12/18 01:03:08
+    * End   : 2014/12/18 01:03:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Babykiry
+
+    * Begin : 2014/12/18 01:03:05
+    * End   : 2014/12/18 01:03:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update BabyLinda
+
+    * Begin : 2014/12/18 01:03:03
+    * End   : 2014/12/18 01:03:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Baby-perry
+
+    * Begin : 2014/12/18 01:03:00
+    * End   : 2014/12/18 01:03:01
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update BABY-張
+
+    * Begin : 2014/12/18 01:02:58
+    * End   : 2014/12/18 01:02:58
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Aoffy_Maxim
+
+    * Begin : 2014/12/18 01:02:53
+    * End   : 2014/12/18 01:02:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Anna苏妲己
+
+    * Begin : 2014/12/18 01:02:49
+    * End   : 2014/12/18 01:02:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Amanda张琬宜
+
+    * Begin : 2014/12/18 01:02:45
+    * End   : 2014/12/18 01:02:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Amanda冰冰
+
+    * Begin : 2014/12/18 01:02:43
+    * End   : 2014/12/18 01:02:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Amanda5275
+
+    * Begin : 2014/12/18 01:02:40
+    * End   : 2014/12/18 01:02:41
+    * Result: Nothing to do
+
 * [urlrule] sites vlook.cn update Amanda5275
 
     * Begin : 2014/12/18 01:01:49
