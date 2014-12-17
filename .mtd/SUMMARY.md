@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 坎蒂斯小姐
+
+    * Begin : 2014/12/17 19:50:40
+    * End   : 2014/12/17 19:51:25
+    * Result: OK
+
 * [urlrule task] update urlrule/task/follows.txt
 
     * Begin : 2014/12/17 19:45:34
