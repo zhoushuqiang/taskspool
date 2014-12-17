@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Amanda5275
+
+    * Begin : 2014/12/17 23:15:16
+    * End   : 2014/12/17 23:17:15
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2014/12/17 23:04:47
