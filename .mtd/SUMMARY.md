@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
+
+    * Begin : 2014/12/17 13:07:14
+    * End   : 2014/12/17 13:48:52
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 陈美琳Mandy
 
     * Begin : 2014/12/17 13:02:41
