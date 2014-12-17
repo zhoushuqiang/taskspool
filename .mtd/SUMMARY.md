@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update Amanda5275
+
+    * Begin : 2014/12/18 01:01:49
+    * End   : 2014/12/18 01:02:18
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2014/12/18 00:58:09
