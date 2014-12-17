@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/17 10:27:22] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
     * [2014/12/17 10:26:41] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
     * [2014/12/17 10:20:36] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/17 10:12:33] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
@@ -198,6 +199,48 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/17 10:27:18] [urlrule] sites weipai.cn UPDATE 王悠悠
+
+    * [2014/12/17 10:27:17] [urlrule] sites weipai.cn follow 50d20ea77d3494ef7a0001e1 王悠悠
+
+    * [2014/12/17 10:27:16] [urlrule] sites weipai.cn add 50d20ea77d3494ef7a0001e1 王悠悠
+
+    * [2014/12/17 10:27:15] [urlrule] sites weipai.cn UPDATE 表妹baby
+
+    * [2014/12/17 10:27:13] [urlrule] sites weipai.cn follow 547f01d2a5640bab228b4572 表妹baby
+
+    * [2014/12/17 10:27:13] [urlrule] sites weipai.cn add 547f01d2a5640bab228b4572 表妹baby
+
+    * [2014/12/17 10:27:11] [urlrule] sites weipai.cn UPDATE 20141246849
+
+    * [2014/12/17 10:27:10] [urlrule] sites weipai.cn follow 5472d768a5640b124e8b457f 20141246849
+
+    * [2014/12/17 10:27:10] [urlrule] sites weipai.cn add 5472d768a5640b124e8b457f 20141246849
+
+    * [2014/12/17 10:27:08] [urlrule] sites weipai.cn UPDATE 晓卉日记
+
+    * [2014/12/17 10:27:07] [urlrule] sites weipai.cn follow 500beda9813494db56000174 晓卉日记
+
+    * [2014/12/17 10:27:07] [urlrule] sites weipai.cn add 500beda9813494db56000174 晓卉日记
+
+    * [2014/12/17 10:27:05] [urlrule] sites weipai.cn UPDATE 佳佳
+
+    * [2014/12/17 10:27:04] [urlrule] sites weipai.cn follow 514333c57d3494483300004f 佳佳
+
+    * [2014/12/17 10:27:03] [urlrule] sites weipai.cn add 514333c57d3494483300004f 佳佳
+
+    * [2014/12/17 10:27:02] [urlrule] sites weipai.cn UPDATE 黒目瞳
+
+    * [2014/12/17 10:27:01] [urlrule] sites weipai.cn follow 545737e5a8640b80428b4583 黒目瞳
+
+    * [2014/12/17 10:27:00] [urlrule] sites weipai.cn add 545737e5a8640b80428b4583 黒目瞳
+
+    * [2014/12/17 10:26:59] [urlrule] sites weipai.cn UPDATE 王蜜娅Mia
+
+    * [2014/12/17 10:26:58] [urlrule] sites weipai.cn follow 50274a227f349423710001e2 王蜜娅Mia
+
+    * [2014/12/17 10:26:57] [urlrule] sites weipai.cn add 50274a227f349423710001e2 王蜜娅Mia
+
     * [2014/12/17 10:13:29] [urlrule] sites weipai.cn UPDATE 张馨馨Maggie
 
     * [2014/12/17 10:13:28] [urlrule] sites weipai.cn follow 50051ba37f3494ff4f000245 张馨馨Maggie
