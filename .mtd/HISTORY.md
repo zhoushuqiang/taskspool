@@ -1,3 +1,72 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
+
+    * Begin : 2014/12/18 00:57:22
+    * End   : 2014/12/18 00:57:24
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 小菲菲yoyo
+
+
+    * Begin : 2014/12/18 00:57:19
+    * End   : 2014/12/18 00:57:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52d2e471e34167df058b459c 小菲菲yoyo
+
+
+    * Begin : 2014/12/18 00:57:19
+    * End   : 2014/12/18 00:57:19
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52d2e471e34167df058b459c 小菲菲yoyo
+
+
+    * Begin : 2014/12/18 00:57:18
+    * End   : 2014/12/18 00:57:18
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE bobobobobo
+
+
+    * Begin : 2014/12/18 00:57:15
+    * End   : 2014/12/18 00:57:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 524803bb8134942259dc4a53 bobobobobo
+
+
+    * Begin : 2014/12/18 00:57:15
+    * End   : 2014/12/18 00:57:15
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 524803bb8134942259dc4a53 bobobobobo
+
+
+    * Begin : 2014/12/18 00:57:14
+    * End   : 2014/12/18 00:57:14
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE TinaWong
+
+
+    * Begin : 2014/12/18 00:57:11
+    * End   : 2014/12/18 00:57:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52a8974debeddb4d1f8b4598 TinaWong
+
+
+    * Begin : 2014/12/18 00:57:10
+    * End   : 2014/12/18 00:57:11
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52a8974debeddb4d1f8b4598 TinaWong
+
+
+    * Begin : 2014/12/18 00:57:10
+    * End   : 2014/12/18 00:57:10
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 
     * Begin : 2014/12/18 00:56:53
