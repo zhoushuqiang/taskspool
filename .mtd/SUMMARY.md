@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 芭比娃哈
+
+    * Begin : 2014/12/17 15:31:33
+    * End   : 2014/12/17 15:31:35
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 肚皮舞皇后
 
     * Begin : 2014/12/17 15:26:19
