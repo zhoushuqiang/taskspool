@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 毛大怪
+
+    * Begin : 2014/12/18 00:25:57
+    * End   : 2014/12/18 00:26:08
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 成都的肉包子
 
     * Begin : 2014/12/18 00:20:52
