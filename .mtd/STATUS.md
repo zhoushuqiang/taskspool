@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 01:22:53] [urlrule] sites weipai.cn update 女神集团
     * [2014/12/18 01:22:33] [urlrule] sites weipai.cn update 女王女王陛下
     * [2014/12/18 01:19:18] [urlrule] sites weipai.cn update 卢思云
     * [2014/12/18 01:16:52] [urlrule] sites weipai.cn update 乱搞砖家
@@ -417,6 +418,7 @@ Tasks Status Report
     * [2014/12/17 03:28:18] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/17 03:25:27] [urlrule] sites weipai.cn update 猫小咪Queen
 * Doing Nothing:
+    * [2014/12/18 01:22:49] [urlrule] sites weipai.cn update 女神情情
     * [2014/12/18 01:22:29] [urlrule] sites weipai.cn update 女侠桃花鹿
     * [2014/12/18 01:22:26] [urlrule] sites weipai.cn update 奈奈萌大奶
     * [2014/12/18 01:22:23] [urlrule] sites weipai.cn update 奇美女
