@@ -1,3 +1,87 @@
+* [urlrule] sites weipai.cn update 白日不湿
+
+    * Begin : 2014/12/17 09:19:53
+    * End   : 2014/12/17 09:19:54
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 画泪听雨眠
+
+    * Begin : 2014/12/17 09:19:49
+    * End   : 2014/12/17 09:19:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 由咩咩
+
+    * Begin : 2014/12/17 09:19:47
+    * End   : 2014/12/17 09:19:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 田晓多tesia
+
+    * Begin : 2014/12/17 09:19:44
+    * End   : 2014/12/17 09:19:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 田君er
+
+    * Begin : 2014/12/17 09:19:42
+    * End   : 2014/12/17 09:19:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 生如夏花12
+
+    * Begin : 2014/12/17 09:19:40
+    * End   : 2014/12/17 09:19:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 甜美人angela
+
+    * Begin : 2014/12/17 09:19:37
+    * End   : 2014/12/17 09:19:38
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 甜心宝
+
+    * Begin : 2014/12/17 09:19:33
+    * End   : 2014/12/17 09:19:36
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 瓶宝宝
+
+    * Begin : 2014/12/17 09:19:30
+    * End   : 2014/12/17 09:19:31
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 璇子_Yvonne
+
+    * Begin : 2014/12/17 09:19:28
+    * End   : 2014/12/17 09:19:29
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 瑶瑶baby
+
+    * Begin : 2014/12/17 09:19:25
+    * End   : 2014/12/17 09:19:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 瑞莎国际
+
+    * Begin : 2014/12/17 09:19:23
+    * End   : 2014/12/17 09:19:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 瑜伽女神青文
+
+    * Begin : 2014/12/17 09:19:21
+    * End   : 2014/12/17 09:19:21
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 琪胖胖
+
+    * Begin : 2014/12/17 09:19:18
+    * End   : 2014/12/17 09:19:19
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 琦琦loveBaby
 
     * Begin : 2014/12/17 09:18:37
