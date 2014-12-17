@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update forgetlethe
+
+    * Begin : 2014/12/17 14:39:03
+    * End   : 2014/12/17 14:40:44
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2014/12/17 14:29:08
