@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update vk_bb
+
+    * Begin : 2014/12/19 07:04:03
+    * End   : 2014/12/19 07:04:13
+    * Result: OK
+
 * [urlrule task] update urlrule/task/follows.txt
 
     * Begin : 2014/12/19 07:03:30
