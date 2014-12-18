@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 531227fb4f4a136a298b45d6 SaSaking
+
 * Finished:
+    * [2014/12/18 14:05:37] [urlrule] sites weipai.cn follow 531227fb4f4a136a298b45d6 SaSaking
+
     * [2014/12/18 14:05:13] [urlrule] sites weipai.cn UPDATE _倩倩
 
     * [2014/12/18 14:04:29] [urlrule] sites weipai.cn UPDATE summer糖糖
@@ -39,6 +44,20 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 14:05:37] [urlrule] sites weipai.cn add 531227fb4f4a136a298b45d6 SaSaking
+
+    * [2014/12/18 14:05:35] [urlrule] sites weipai.cn UPDATE 刘培雨雨小熊
+
+    * [2014/12/18 14:05:34] [urlrule] sites weipai.cn follow 5286bbf5504a13b14f8b45c8 刘培雨雨小熊
+
+    * [2014/12/18 14:05:34] [urlrule] sites weipai.cn add 5286bbf5504a13b14f8b45c8 刘培雨雨小熊
+
+    * [2014/12/18 14:05:32] [urlrule] sites weipai.cn UPDATE 小花妹妹
+
+    * [2014/12/18 14:05:31] [urlrule] sites weipai.cn follow 535f7205ebeddbc9178b45fc 小花妹妹
+
+    * [2014/12/18 14:05:31] [urlrule] sites weipai.cn add 535f7205ebeddbc9178b45fc 小花妹妹
+
     * [2014/12/18 14:04:47] [urlrule] sites weipai.cn follow 532d69324f4a1366588b45f7 _倩倩
 
     * [2014/12/18 14:04:47] [urlrule] sites weipai.cn add 532d69324f4a1366588b45f7 _倩倩

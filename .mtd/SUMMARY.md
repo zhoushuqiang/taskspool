@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn follow 531227fb4f4a136a298b45d6 SaSaking
+
+
+    * Begin : 2014/12/18 14:05:37
+    * End   : 2014/12/18 14:05:37
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE _倩倩
 
 
