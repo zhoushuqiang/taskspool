@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 大美露
+
+    * Begin : 2014/12/18 21:46:20
+    * End   : 2014/12/18 21:47:27
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 做个man的小女人
 
     * Begin : 2014/12/18 21:42:04
