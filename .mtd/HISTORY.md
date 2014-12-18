@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 虞梦-宝贝
+
+    * Begin : 2014/12/19 02:24:49
+    * End   : 2014/12/19 02:24:58
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 薰衣草20131022
+
+    * Begin : 2014/12/19 02:24:46
+    * End   : 2014/12/19 02:24:47
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 薇妮BABY
 
     * Begin : 2014/12/19 02:24:25
