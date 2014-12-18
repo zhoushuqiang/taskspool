@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 黑金色会飞的鱼
+
+    * Begin : 2014/12/18 15:54:48
+    * End   : 2014/12/18 15:56:14
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 蛇蛇姜瑾芝
 
     * Begin : 2014/12/18 15:50:29
