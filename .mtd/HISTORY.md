@@ -1,3 +1,57 @@
+* [urlrule] sites weipai.cn update 林歆蕊Q286312385
+
+    * Begin : 2014/12/19 01:56:13
+    * End   : 2014/12/19 01:56:39
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 林歆蕊
+
+    * Begin : 2014/12/19 01:56:07
+    * End   : 2014/12/19 01:56:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 林夕baby123
+
+    * Begin : 2014/12/19 01:56:01
+    * End   : 2014/12/19 01:56:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 杨沫沫Aimee
+
+    * Begin : 2014/12/19 01:55:57
+    * End   : 2014/12/19 01:55:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 杨梓萱baby
+
+    * Begin : 2014/12/19 01:55:54
+    * End   : 2014/12/19 01:55:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 杨杨ghj
+
+    * Begin : 2014/12/19 01:55:50
+    * End   : 2014/12/19 01:55:51
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 杨慧儿
+
+    * Begin : 2014/12/19 01:55:43
+    * End   : 2014/12/19 01:55:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 杨小琦TY
+
+    * Begin : 2014/12/19 01:55:40
+    * End   : 2014/12/19 01:55:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 杨安妮宝贝
+
+    * Begin : 2014/12/19 01:55:36
+    * End   : 2014/12/19 01:55:38
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 杨大人
 
     * Begin : 2014/12/19 01:52:22
