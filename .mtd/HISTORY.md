@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 薇妮BABY
+
+    * Begin : 2014/12/18 13:43:14
+    * End   : 2014/12/18 13:43:16
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 蕃茄你是誰的西紅柿
+
+    * Begin : 2014/12/18 13:43:12
+    * End   : 2014/12/18 13:43:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 蓝色的港湾20140821
+
+    * Begin : 2014/12/18 13:43:09
+    * End   : 2014/12/18 13:43:10
+    * Result: Nothing to do
+
 * [urlrule] sites vlook.cn update 蒙丽伊
 
     * Begin : 2014/12/18 13:42:42
