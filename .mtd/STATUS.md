@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 21:30:26] [urlrule] sites weipai.cn update baby彩霞
     * [2014/12/18 21:27:45] [urlrule] sites weipai.cn update _李好美
     * [2014/12/18 21:20:52] [urlrule] sites weipai.cn update Diva_狄娃
     * [2014/12/18 21:11:07] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
@@ -169,6 +170,15 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 21:28:49] [urlrule] sites weipai.cn update baby小菲
+    * [2014/12/18 21:28:46] [urlrule] sites weipai.cn update a小狐狸520
+    * [2014/12/18 21:28:44] [urlrule] sites vlook.cn update angela允娜
+    * [2014/12/18 21:28:24] [urlrule] sites weipai.cn update amber小鑫
+    * [2014/12/18 21:28:21] [urlrule] sites weipai.cn update aling_888
+    * [2014/12/18 21:28:18] [urlrule] sites vlook.cn update absppo
+    * [2014/12/18 21:28:10] [urlrule] sites weipai.cn update _金妍熙
+    * [2014/12/18 21:28:07] [urlrule] sites weipai.cn update _郑美人
+    * [2014/12/18 21:28:04] [urlrule] sites weipai.cn update _穆穆
     * [2014/12/18 21:26:43] [urlrule] sites weipai.cn update _張丹丹
     * [2014/12/18 21:26:39] [urlrule] sites weipai.cn update _娜娜
     * [2014/12/18 21:26:37] [urlrule] sites weipai.cn update _刘爷
