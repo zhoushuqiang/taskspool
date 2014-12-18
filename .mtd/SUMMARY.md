@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 乐怡
+
+    * Begin : 2014/12/18 14:56:34
+    * End   : 2014/12/18 14:58:10
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 丝月阁
 
     * Begin : 2014/12/18 14:55:53

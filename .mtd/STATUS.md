@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 14:58:10] [urlrule] sites weipai.cn update 乐怡
     * [2014/12/18 14:56:02] [urlrule] sites weipai.cn update 丝月阁
     * [2014/12/18 14:54:58] [urlrule task] update urlrule/task/follows.txt
     * [2014/12/18 14:53:27] [urlrule] sites weipai.cn update kimoon
@@ -66,6 +67,12 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 14:56:32] [urlrule] sites weipai.cn update 丽嫂zyk
+    * [2014/12/18 14:56:29] [urlrule] sites weipai.cn update 丹梦妮ooloo
+    * [2014/12/18 14:56:27] [urlrule] sites weipai.cn update 两只小蜜蜂丫
+    * [2014/12/18 14:56:24] [urlrule] sites weipai.cn update 丝绸裹着性感福利号
+    * [2014/12/18 14:56:22] [urlrule] sites weipai.cn update 丝绸裹着性感
+    * [2014/12/18 14:56:19] [urlrule] sites weipai.cn update 丝绸裹着性感2
     * [2014/12/18 14:55:51] [urlrule] sites weipai.cn update 不羁的风20140212
     * [2014/12/18 14:55:48] [urlrule] sites weipai.cn update 不是大姐好多年
     * [2014/12/18 14:55:46] [urlrule] sites weipai.cn update 上官宁儿大人

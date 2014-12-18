@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn update 乐怡
+
+    * Begin : 2014/12/18 14:56:34
+    * End   : 2014/12/18 14:58:10
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 丽嫂zyk
+
+    * Begin : 2014/12/18 14:56:32
+    * End   : 2014/12/18 14:56:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丹梦妮ooloo
+
+    * Begin : 2014/12/18 14:56:28
+    * End   : 2014/12/18 14:56:29
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 两只小蜜蜂丫
+
+    * Begin : 2014/12/18 14:56:26
+    * End   : 2014/12/18 14:56:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丝绸裹着性感福利号
+
+    * Begin : 2014/12/18 14:56:24
+    * End   : 2014/12/18 14:56:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丝绸裹着性感
+
+    * Begin : 2014/12/18 14:56:21
+    * End   : 2014/12/18 14:56:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丝绸裹着性感2
+
+    * Begin : 2014/12/18 14:56:18
+    * End   : 2014/12/18 14:56:19
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 丝月阁
 
     * Begin : 2014/12/18 14:55:53
