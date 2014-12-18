@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 14:35:25] [urlrule] sites weipai.cn update Aigirl拽丫头
     * [2014/12/18 14:33:38] [urlrule] sites weipai.cn update 201403085958
     * [2014/12/18 14:30:50] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2014/12/18 14:29:22] [urlrule] sites weipai.cn UPDATE 小小小乖
@@ -55,6 +56,33 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 14:35:13] [urlrule] sites vlook.cn update Adela_chiang
+    * [2014/12/18 14:34:54] [urlrule] sites weipai.cn update Adela_chiang
+    * [2014/12/18 14:34:52] [urlrule] sites weipai.cn update Abbymiki
+    * [2014/12/18 14:34:49] [urlrule] sites weipai.cn update Abby_徐惠雪
+    * [2014/12/18 14:34:47] [urlrule] sites weipai.cn update ANGELG
+    * [2014/12/18 14:34:45] [urlrule] sites weipai.cn update 9999920140801
+    * [2014/12/18 14:34:42] [urlrule] sites weipai.cn update 924906386
+    * [2014/12/18 14:34:40] [urlrule] sites weipai.cn update 872705
+    * [2014/12/18 14:34:38] [urlrule] sites weipai.cn update 852206078
+    * [2014/12/18 14:34:36] [urlrule] sites weipai.cn update 84剩女姐
+    * [2014/12/18 14:34:33] [urlrule] sites weipai.cn update 70后米米妈丫
+    * [2014/12/18 14:34:30] [urlrule] sites weipai.cn update 576117778
+    * [2014/12/18 14:34:28] [urlrule] sites weipai.cn update 54423ad1a6640ba86f8b459c
+    * [2014/12/18 14:34:26] [urlrule] sites weipai.cn update 534c63348034940c2ff99e90
+    * [2014/12/18 14:34:24] [urlrule] sites weipai.cn update 450185387
+    * [2014/12/18 14:34:21] [urlrule] sites weipai.cn update 424195082
+    * [2014/12/18 14:34:18] [urlrule] sites weipai.cn update 3334
+    * [2014/12/18 14:34:16] [urlrule] sites weipai.cn update 292310977
+    * [2014/12/18 14:34:13] [urlrule] sites weipai.cn update 2413621327白易
+    * [2014/12/18 14:34:11] [urlrule] sites weipai.cn update 2014121592
+    * [2014/12/18 14:34:09] [urlrule] sites weipai.cn update 20141215100
+    * [2014/12/18 14:34:06] [urlrule] sites weipai.cn update 2014121236
+    * [2014/12/18 14:34:04] [urlrule] sites weipai.cn update 201411308
+    * [2014/12/18 14:34:02] [urlrule] sites weipai.cn update 2014110428
+    * [2014/12/18 14:33:59] [urlrule] sites weipai.cn update 2014080137
+    * [2014/12/18 14:33:57] [urlrule] sites weipai.cn update 2014071139
+    * [2014/12/18 14:33:55] [urlrule] sites weipai.cn update 20140610884
     * [2014/12/18 14:31:42] [urlrule] sites weipai.cn update 20140221429
     * [2014/12/18 14:31:40] [urlrule] sites weipai.cn update 20140110366
     * [2014/12/18 14:31:38] [urlrule] sites weipai.cn update 20131211281

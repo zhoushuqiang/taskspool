@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Aigirl拽丫头
+
+    * Begin : 2014/12/18 14:35:15
+    * End   : 2014/12/18 14:35:25
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 201403085958
 
     * Begin : 2014/12/18 14:31:44
