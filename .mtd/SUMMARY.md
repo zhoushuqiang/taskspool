@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
+
+    * Begin : 2014/12/18 18:58:14
+    * End   : 2014/12/18 19:06:05
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 陈依萌宝贝
 
     * Begin : 2014/12/18 18:54:28
