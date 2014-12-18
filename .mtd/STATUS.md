@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 52bd05f986f66f49118b4567 小小小乖
+
 * Finished:
+    * [2014/12/18 14:14:05] [urlrule] sites weipai.cn follow 52bd05f986f66f49118b4567 小小小乖
+
     * [2014/12/18 14:13:51] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
     * [2014/12/18 14:13:34] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
     * [2014/12/18 14:13:03] [urlrule] sites weipai.cn UPDATE LLLL-喵喵
@@ -49,6 +54,8 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 14:14:04] [urlrule] sites weipai.cn add 52bd05f986f66f49118b4567 小小小乖
+
     * [2014/12/18 14:13:21] [urlrule] sites weipai.cn UPDATE 王悠悠
 
     * [2014/12/18 14:13:20] [urlrule] sites weipai.cn follow 50d20ea77d3494ef7a0001e1 王悠悠

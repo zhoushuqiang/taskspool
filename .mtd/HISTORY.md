@@ -1,3 +1,17 @@
+* [urlrule] sites weipai.cn follow 52bd05f986f66f49118b4567 小小小乖
+
+
+    * Begin : 2014/12/18 14:14:04
+    * End   : 2014/12/18 14:14:05
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 52bd05f986f66f49118b4567 小小小乖
+
+
+    * Begin : 2014/12/18 14:14:04
+    * End   : 2014/12/18 14:14:04
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
 
     * Begin : 2014/12/18 14:13:49
