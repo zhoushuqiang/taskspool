@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 芭比娃哈
+
+    * Begin : 2014/12/18 18:50:29
+    * End   : 2014/12/18 18:50:31
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 芒果小懒猫
+
+    * Begin : 2014/12/18 18:50:27
+    * End   : 2014/12/18 18:50:28
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 艾舞kathy
+
+    * Begin : 2014/12/18 18:50:24
+    * End   : 2014/12/18 18:50:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 艾小爱
+
+    * Begin : 2014/12/18 18:50:22
+    * End   : 2014/12/18 18:50:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 艾_笑笑
+
+    * Begin : 2014/12/18 18:50:19
+    * End   : 2014/12/18 18:50:20
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 般若的每一天
 
     * Begin : 2014/12/18 18:44:53
