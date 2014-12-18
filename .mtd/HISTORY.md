@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 2014080137
+
+    * Begin : 2014/12/19 00:50:51
+    * End   : 2014/12/19 00:51:40
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 2014071139
+
+    * Begin : 2014/12/19 00:50:48
+    * End   : 2014/12/19 00:50:49
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 20140610884
+
+    * Begin : 2014/12/19 00:50:45
+    * End   : 2014/12/19 00:50:47
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 201403085958
 
     * Begin : 2014/12/19 00:49:49

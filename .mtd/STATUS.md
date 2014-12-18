@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/19 00:51:40] [urlrule] sites weipai.cn update 2014080137
     * [2014/12/19 00:50:27] [urlrule] sites weipai.cn update 201403085958
     * [2014/12/19 00:47:57] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2014/12/19 00:29:22] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
@@ -213,6 +214,8 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/19 00:50:49] [urlrule] sites weipai.cn update 2014071139
+    * [2014/12/19 00:50:47] [urlrule] sites weipai.cn update 20140610884
     * [2014/12/19 00:49:47] [urlrule] sites weipai.cn update 20140221429
     * [2014/12/19 00:49:41] [urlrule] sites weipai.cn update 20140110366
     * [2014/12/19 00:49:12] [urlrule] sites weipai.cn update 20131211281
