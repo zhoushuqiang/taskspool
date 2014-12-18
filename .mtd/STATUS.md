@@ -1,9 +1,12 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn update 玉baby
+* Finished:
+    * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
-    * [2014/12/18 13:27:55] [urlrule] sites vlook.cn update 猫小咪Queen
-    * [2014/12/18 13:27:52] [urlrule] sites weipai.cn update 猫小咪Queen
-    * [2014/12/18 13:27:32] [urlrule] sites weipai.cn update 猫大人是猫大人
+    * [2014/12/18 13:30:12] [urlrule] sites weipai.cn update 王悠悠
+    * [2014/12/18 13:30:10] [urlrule] sites weipai.cn update 王小珏elva
+    * [2014/12/18 13:30:09] [urlrule] sites weipai.cn update 王大小姐__Miss
+    * [2014/12/18 13:30:07] [urlrule] sites weipai.cn update 王允甜
+    * [2014/12/18 13:30:05] [urlrule] sites weipai.cn update 王依萱
+    * [2014/12/18 13:30:04] [urlrule] sites weipai.cn update 王丹妮baby

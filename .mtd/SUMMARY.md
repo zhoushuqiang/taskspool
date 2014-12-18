@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 王炤钧
+
+    * Begin : 2014/12/18 13:30:13
+    * End   : 2014/12/18 13:30:29
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
 
     * Begin : 2014/12/18 03:30:18
