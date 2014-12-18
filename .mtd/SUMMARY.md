@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 王小珏elva
+
+    * Begin : 2014/12/18 18:35:25
+    * End   : 2014/12/18 18:41:31
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 然又又
 
     * Begin : 2014/12/18 18:22:16
