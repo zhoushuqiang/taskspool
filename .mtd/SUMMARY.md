@@ -1,3 +1,9 @@
+* [urlrule task] update urlrule/task/follows.txt
+
+    * Begin : 2014/12/19 07:03:30
+    * End   : 2014/12/19 07:03:34
+    * Result: OK
+
 * [urlrule] sites weipai.cn update DJ-CC
 
     * Begin : 2014/12/19 06:50:49
