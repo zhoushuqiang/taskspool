@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 李萌萌护肤美美哒
+
+    * Begin : 2014/12/18 16:46:14
+    * End   : 2014/12/18 16:46:49
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 张芊芊
 
     * Begin : 2014/12/18 16:43:11
