@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 孤独患者
+
+    * Begin : 2014/12/18 21:50:58
+    * End   : 2014/12/18 21:51:07
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 女神集团
 
     * Begin : 2014/12/18 21:49:00
