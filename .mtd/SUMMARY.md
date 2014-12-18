@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 白日不湿
+
+    * Begin : 2014/12/18 22:42:38
+    * End   : 2014/12/18 22:42:40
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 珠宝定制-GIA国际证书
 
     * Begin : 2014/12/18 22:40:23
