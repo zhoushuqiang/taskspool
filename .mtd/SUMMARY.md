@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
+
+    * Begin : 2014/12/18 14:30:40
+    * End   : 2014/12/18 14:30:50
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 小小小乖
 
 
