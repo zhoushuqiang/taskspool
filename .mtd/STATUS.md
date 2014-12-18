@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/19 00:28:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
     * [2014/12/19 00:10:28] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
     * [2014/12/19 00:04:47] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/18 23:44:36] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
@@ -209,6 +210,66 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/19 00:11:23] [urlrule] sites weipai.cn UPDATE 徐妍馨Mandy
+
+    * [2014/12/19 00:11:22] [urlrule] sites weipai.cn follow 531374499d67d9ee0b8b4567 徐妍馨Mandy
+
+    * [2014/12/19 00:11:21] [urlrule] sites weipai.cn add 531374499d67d9ee0b8b4567 徐妍馨Mandy
+
+    * [2014/12/19 00:11:19] [urlrule] sites weipai.cn UPDATE 王悠悠
+
+    * [2014/12/19 00:11:18] [urlrule] sites weipai.cn follow 50d20ea77d3494ef7a0001e1 王悠悠
+
+    * [2014/12/19 00:11:17] [urlrule] sites weipai.cn add 50d20ea77d3494ef7a0001e1 王悠悠
+
+    * [2014/12/19 00:11:15] [urlrule] sites weipai.cn UPDATE 王小珏elva
+
+    * [2014/12/19 00:11:14] [urlrule] sites weipai.cn follow 50cc9130803494251900000f 王小珏elva
+
+    * [2014/12/19 00:11:13] [urlrule] sites weipai.cn add 50cc9130803494251900000f 王小珏elva
+
+    * [2014/12/19 00:11:11] [urlrule] sites weipai.cn UPDATE LLLL-喵喵
+
+    * [2014/12/19 00:11:10] [urlrule] sites weipai.cn follow 5458457ca5640ba7668b4597 LLLL-喵喵
+
+    * [2014/12/19 00:11:09] [urlrule] sites weipai.cn add 5458457ca5640ba7668b4597 LLLL-喵喵
+
+    * [2014/12/19 00:11:07] [urlrule] sites weipai.cn UPDATE SaSaking
+
+    * [2014/12/19 00:11:06] [urlrule] sites weipai.cn follow 531227fb4f4a136a298b45d6 SaSaking
+
+    * [2014/12/19 00:11:05] [urlrule] sites weipai.cn add 531227fb4f4a136a298b45d6 SaSaking
+
+    * [2014/12/19 00:11:03] [urlrule] sites weipai.cn UPDATE 刘培雨雨小熊
+
+    * [2014/12/19 00:11:02] [urlrule] sites weipai.cn follow 5286bbf5504a13b14f8b45c8 刘培雨雨小熊
+
+    * [2014/12/19 00:11:01] [urlrule] sites weipai.cn add 5286bbf5504a13b14f8b45c8 刘培雨雨小熊
+
+    * [2014/12/19 00:10:58] [urlrule] sites weipai.cn UPDATE 小花妹妹
+
+    * [2014/12/19 00:10:57] [urlrule] sites weipai.cn follow 535f7205ebeddbc9178b45fc 小花妹妹
+
+    * [2014/12/19 00:10:56] [urlrule] sites weipai.cn add 535f7205ebeddbc9178b45fc 小花妹妹
+
+    * [2014/12/19 00:10:53] [urlrule] sites weipai.cn UPDATE _倩倩
+
+    * [2014/12/19 00:10:52] [urlrule] sites weipai.cn follow 532d69324f4a1366588b45f7 _倩倩
+
+    * [2014/12/19 00:10:51] [urlrule] sites weipai.cn add 532d69324f4a1366588b45f7 _倩倩
+
+    * [2014/12/19 00:10:48] [urlrule] sites weipai.cn UPDATE 黒目瞳
+
+    * [2014/12/19 00:10:47] [urlrule] sites weipai.cn follow 545737e5a8640b80428b4583 黒目瞳
+
+    * [2014/12/19 00:10:46] [urlrule] sites weipai.cn add 545737e5a8640b80428b4583 黒目瞳
+
+    * [2014/12/19 00:10:45] [urlrule] sites weipai.cn UPDATE summer糖糖
+
+    * [2014/12/19 00:10:43] [urlrule] sites weipai.cn follow 52e1d4dce3416757558b4581 summer糖糖
+
+    * [2014/12/19 00:10:43] [urlrule] sites weipai.cn add 52e1d4dce3416757558b4581 summer糖糖
+
     * [2014/12/18 23:45:31] [urlrule] sites weipai.cn UPDATE 吴婉婷wwt
 
     * [2014/12/18 23:45:30] [urlrule] sites weipai.cn follow 50f8ff597f3494a702000066 吴婉婷wwt
