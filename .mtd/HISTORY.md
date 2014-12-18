@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 花旗是个双面少女
+
+    * Begin : 2014/12/18 13:39:16
+    * End   : 2014/12/18 13:39:47
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 花小西
+
+    * Begin : 2014/12/18 13:39:14
+    * End   : 2014/12/18 13:39:14
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 芮涵Annabelle
+
+    * Begin : 2014/12/18 13:39:10
+    * End   : 2014/12/18 13:39:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 芮涵Annabelle
+
+    * Begin : 2014/12/18 13:39:07
+    * End   : 2014/12/18 13:39:08
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 芭芘李迪娅
+
+    * Begin : 2014/12/18 13:39:05
+    * End   : 2014/12/18 13:39:06
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 芭比娃哈
 
     * Begin : 2014/12/18 13:38:43

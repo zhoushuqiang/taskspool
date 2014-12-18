@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 13:39:47] [urlrule] sites weipai.cn update 花旗是个双面少女
     * [2014/12/18 13:38:48] [urlrule] sites weipai.cn update 芭比娃哈
     * [2014/12/18 13:38:24] [urlrule] sites weipai.cn update 芒果小懒猫
     * [2014/12/18 13:36:50] [urlrule] sites weipai.cn update 美腿热舞福利分享
@@ -14,6 +15,10 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 13:39:14] [urlrule] sites weipai.cn update 花小西
+    * [2014/12/18 13:39:12] [urlrule] sites vlook.cn update 芮涵Annabelle
+    * [2014/12/18 13:39:08] [urlrule] sites weipai.cn update 芮涵Annabelle
+    * [2014/12/18 13:39:06] [urlrule] sites weipai.cn update 芭芘李迪娅
     * [2014/12/18 13:37:30] [urlrule] sites weipai.cn update 艾舞kathy
     * [2014/12/18 13:37:28] [urlrule] sites weipai.cn update 艾小爱
     * [2014/12/18 13:37:25] [urlrule] sites weipai.cn update 艾_笑笑
