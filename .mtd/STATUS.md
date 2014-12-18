@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/19 06:53:40] [urlrule] sites weipai.cn update DJ-CC
     * [2014/12/19 06:49:23] [urlrule] sites weipai.cn update Bella-小白
     * [2014/12/19 06:44:14] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2014/12/19 06:43:10] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
@@ -314,6 +315,21 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/19 06:50:47] [urlrule] sites weipai.cn update C希人
+    * [2014/12/19 06:50:44] [urlrule] sites weipai.cn update Crystal欣
+    * [2014/12/19 06:50:40] [urlrule] sites weipai.cn update CoCo_安妮
+    * [2014/12/19 06:50:37] [urlrule] sites vlook.cn update Christine黄可
+    * [2014/12/19 06:50:30] [urlrule] sites weipai.cn update Christine黄可
+    * [2014/12/19 06:50:27] [urlrule] sites weipai.cn update Cello
+    * [2014/12/19 06:50:23] [urlrule] sites weipai.cn update Cathy陈茹雪
+    * [2014/12/19 06:50:19] [urlrule] sites weipai.cn update CL森系女神
+    * [2014/12/19 06:50:16] [urlrule] sites weipai.cn update CFTZ
+    * [2014/12/19 06:50:12] [urlrule] sites weipai.cn update CC宠儿凌溪
+    * [2014/12/19 06:50:09] [urlrule] sites weipai.cn update CC-rose
+    * [2014/12/19 06:50:05] [urlrule] sites weipai.cn update CBMXX
+    * [2014/12/19 06:50:01] [urlrule] sites weipai.cn update C0C0
+    * [2014/12/19 06:49:57] [urlrule] sites weipai.cn update Box039
+    * [2014/12/19 06:49:54] [urlrule] sites weipai.cn update BoBo小苗
     * [2014/12/19 06:48:37] [urlrule] sites weipai.cn update Barbara张攀
     * [2014/12/19 06:48:33] [urlrule] sites weipai.cn update Baby瑶瑶
     * [2014/12/19 06:48:30] [urlrule] sites weipai.cn update Baby华姿凯歌er

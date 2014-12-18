@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update DJ-CC
+
+    * Begin : 2014/12/19 06:50:49
+    * End   : 2014/12/19 06:53:40
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Bella-小白
 
     * Begin : 2014/12/19 06:48:39

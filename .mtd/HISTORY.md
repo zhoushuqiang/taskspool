@@ -1,3 +1,99 @@
+* [urlrule] sites weipai.cn update DJ-CC
+
+    * Begin : 2014/12/19 06:50:49
+    * End   : 2014/12/19 06:53:40
+    * Result: OK
+
+* [urlrule] sites weipai.cn update C希人
+
+    * Begin : 2014/12/19 06:50:46
+    * End   : 2014/12/19 06:50:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Crystal欣
+
+    * Begin : 2014/12/19 06:50:43
+    * End   : 2014/12/19 06:50:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update CoCo_安妮
+
+    * Begin : 2014/12/19 06:50:39
+    * End   : 2014/12/19 06:50:40
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Christine黄可
+
+    * Begin : 2014/12/19 06:50:34
+    * End   : 2014/12/19 06:50:37
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Christine黄可
+
+    * Begin : 2014/12/19 06:50:29
+    * End   : 2014/12/19 06:50:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Cello
+
+    * Begin : 2014/12/19 06:50:26
+    * End   : 2014/12/19 06:50:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Cathy陈茹雪
+
+    * Begin : 2014/12/19 06:50:22
+    * End   : 2014/12/19 06:50:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update CL森系女神
+
+    * Begin : 2014/12/19 06:50:18
+    * End   : 2014/12/19 06:50:19
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update CFTZ
+
+    * Begin : 2014/12/19 06:50:14
+    * End   : 2014/12/19 06:50:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update CC宠儿凌溪
+
+    * Begin : 2014/12/19 06:50:11
+    * End   : 2014/12/19 06:50:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update CC-rose
+
+    * Begin : 2014/12/19 06:50:08
+    * End   : 2014/12/19 06:50:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update CBMXX
+
+    * Begin : 2014/12/19 06:50:04
+    * End   : 2014/12/19 06:50:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update C0C0
+
+    * Begin : 2014/12/19 06:50:00
+    * End   : 2014/12/19 06:50:01
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Box039
+
+    * Begin : 2014/12/19 06:49:56
+    * End   : 2014/12/19 06:49:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update BoBo小苗
+
+    * Begin : 2014/12/19 06:49:53
+    * End   : 2014/12/19 06:49:54
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Bella-小白
 
     * Begin : 2014/12/19 06:48:39
