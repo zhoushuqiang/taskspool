@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 然又又
+
+    * Begin : 2014/12/18 22:30:45
+    * End   : 2014/12/18 22:38:37
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 激情一夏
+
+    * Begin : 2014/12/18 22:30:39
+    * End   : 2014/12/18 22:30:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 澄小兔
+
+    * Begin : 2014/12/18 22:30:36
+    * End   : 2014/12/18 22:30:37
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 潘潘20140413
+
+    * Begin : 2014/12/18 22:30:33
+    * End   : 2014/12/18 22:30:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 潘小云云
+
+    * Begin : 2014/12/18 22:30:30
+    * End   : 2014/12/18 22:30:31
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 满天都是小鑫鑫_
 
     * Begin : 2014/12/18 22:25:15
