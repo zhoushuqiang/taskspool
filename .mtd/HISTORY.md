@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 张芊芊
+
+    * Begin : 2014/12/18 17:57:20
+    * End   : 2014/12/18 17:57:21
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 张美荧
+
+    * Begin : 2014/12/18 17:57:18
+    * End   : 2014/12/18 17:57:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 张瑶isa
+
+    * Begin : 2014/12/18 17:57:14
+    * End   : 2014/12/18 17:57:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 张江南同学
+
+    * Begin : 2014/12/18 17:57:12
+    * End   : 2014/12/18 17:57:13
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 张栩菲-ManGo
 
     * Begin : 2014/12/18 17:52:33
