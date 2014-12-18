@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 17:37:09] [urlrule] sites weipai.cn update vamipre小妖
     * [2014/12/18 17:35:53] [urlrule task] update urlrule/task/follows.txt
     * [2014/12/18 17:27:55] [urlrule] sites weipai.cn update ANGELG
     * [2014/12/18 17:26:05] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
