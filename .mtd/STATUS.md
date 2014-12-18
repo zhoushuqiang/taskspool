@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 15:02:12] [urlrule] sites weipai.cn update 友熙酱
     * [2014/12/18 15:00:31] [urlrule] sites weipai.cn update 前任攻略
     * [2014/12/18 14:58:10] [urlrule] sites weipai.cn update 乐怡
     * [2014/12/18 14:56:02] [urlrule] sites weipai.cn update 丝月阁
@@ -68,6 +69,12 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 15:01:01] [urlrule] sites weipai.cn update 卢灵儿
+    * [2014/12/18 15:00:58] [urlrule] sites weipai.cn update 卢思云
+    * [2014/12/18 15:00:56] [urlrule] sites vlook.cn update 北娃大王
+    * [2014/12/18 15:00:53] [urlrule] sites weipai.cn update 北娃大王
+    * [2014/12/18 15:00:51] [urlrule] sites weipai.cn update 勤妹儿
+    * [2014/12/18 15:00:49] [urlrule] sites weipai.cn update 劉點點dotey_
     * [2014/12/18 14:59:41] [urlrule] sites weipai.cn update 初家小雪
     * [2014/12/18 14:59:39] [urlrule] sites weipai.cn update 刘雯雯darling
     * [2014/12/18 14:59:36] [urlrule] sites weipai.cn update 刘诗涵
