@@ -1,3 +1,9 @@
+* [urlrule task] update urlrule/task/follows.txt
+
+    * Begin : 2014/12/19 04:29:00
+    * End   : 2014/12/19 04:29:04
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Despair-假寐
 
     * Begin : 2014/12/19 04:16:53
