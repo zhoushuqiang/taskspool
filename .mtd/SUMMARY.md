@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update sukiyoyo001
+
+    * Begin : 2014/12/18 21:32:33
+    * End   : 2014/12/18 21:34:36
+    * Result: OK
+
 * [urlrule] sites weipai.cn update baby彩霞
 
     * Begin : 2014/12/18 21:28:51
