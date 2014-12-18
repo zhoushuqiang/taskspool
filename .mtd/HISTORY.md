@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 王若楠1228
+
+    * Begin : 2014/12/18 13:30:48
+    * End   : 2014/12/18 13:31:24
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 王籽文
+
+    * Begin : 2014/12/18 13:30:46
+    * End   : 2014/12/18 13:30:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 王璐璐-Dasiy
+
+    * Begin : 2014/12/18 13:30:44
+    * End   : 2014/12/18 13:30:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 王王王王-蕊
+
+    * Begin : 2014/12/18 13:30:43
+    * End   : 2014/12/18 13:30:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 王熙悦
+
+    * Begin : 2014/12/18 13:30:41
+    * End   : 2014/12/18 13:30:41
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 王炤钧
 
     * Begin : 2014/12/18 13:30:13
