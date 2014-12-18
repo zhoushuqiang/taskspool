@@ -1,3 +1,87 @@
+* [urlrule] sites weipai.cn update 索菲娅5200
+
+    * Begin : 2014/12/18 22:47:08
+    * End   : 2014/12/18 22:50:02
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 素兒
+
+    * Begin : 2014/12/18 22:47:05
+    * End   : 2014/12/18 22:47:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 糖果果国
+
+    * Begin : 2014/12/18 22:47:02
+    * End   : 2014/12/18 22:47:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 粽子小姐
+
+    * Begin : 2014/12/18 22:46:57
+    * End   : 2014/12/18 22:46:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 粽子喜欢秋天
+
+    * Begin : 2014/12/18 22:46:54
+    * End   : 2014/12/18 22:46:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 粵講粵潮
+
+    * Begin : 2014/12/18 22:46:51
+    * End   : 2014/12/18 22:46:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 粉小溪CC
+
+    * Begin : 2014/12/18 22:46:48
+    * End   : 2014/12/18 22:46:50
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 米洁
+
+    * Begin : 2014/12/18 22:46:46
+    * End   : 2014/12/18 22:46:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 米洁
+
+    * Begin : 2014/12/18 22:46:43
+    * End   : 2014/12/18 22:46:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 米拉贝拉Mirabella
+
+    * Begin : 2014/12/18 22:46:39
+    * End   : 2014/12/18 22:46:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 米小西
+
+    * Begin : 2014/12/18 22:46:37
+    * End   : 2014/12/18 22:46:37
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 米妮mini_20140821
+
+    * Begin : 2014/12/18 22:46:34
+    * End   : 2014/12/18 22:46:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 笑笑dem
+
+    * Begin : 2014/12/18 22:46:31
+    * End   : 2014/12/18 22:46:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 笑笑Sophia
+
+    * Begin : 2014/12/18 22:46:28
+    * End   : 2014/12/18 22:46:29
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 笑笑
 
     * Begin : 2014/12/18 22:45:45

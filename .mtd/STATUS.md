@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 22:50:02] [urlrule] sites weipai.cn update 索菲娅5200
     * [2014/12/18 22:46:08] [urlrule] sites weipai.cn update 笑笑
     * [2014/12/18 22:44:34] [urlrule] sites weipai.cn update 瞄小婷
     * [2014/12/18 22:42:40] [urlrule] sites weipai.cn update 白日不湿
@@ -199,6 +200,19 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 22:47:06] [urlrule] sites weipai.cn update 素兒
+    * [2014/12/18 22:47:03] [urlrule] sites weipai.cn update 糖果果国
+    * [2014/12/18 22:46:58] [urlrule] sites weipai.cn update 粽子小姐
+    * [2014/12/18 22:46:55] [urlrule] sites weipai.cn update 粽子喜欢秋天
+    * [2014/12/18 22:46:52] [urlrule] sites weipai.cn update 粵講粵潮
+    * [2014/12/18 22:46:50] [urlrule] sites weipai.cn update 粉小溪CC
+    * [2014/12/18 22:46:46] [urlrule] sites vlook.cn update 米洁
+    * [2014/12/18 22:46:44] [urlrule] sites weipai.cn update 米洁
+    * [2014/12/18 22:46:41] [urlrule] sites weipai.cn update 米拉贝拉Mirabella
+    * [2014/12/18 22:46:37] [urlrule] sites weipai.cn update 米小西
+    * [2014/12/18 22:46:35] [urlrule] sites weipai.cn update 米妮mini_20140821
+    * [2014/12/18 22:46:32] [urlrule] sites weipai.cn update 笑笑dem
+    * [2014/12/18 22:46:29] [urlrule] sites weipai.cn update 笑笑Sophia
     * [2014/12/18 22:45:43] [urlrule] sites weipai.cn update 穿着高跟鞋跳芭蕾--
     * [2014/12/18 22:45:40] [urlrule] sites weipai.cn update 空虚哥
     * [2014/12/18 22:45:35] [urlrule] sites weipai.cn update 秦蕾

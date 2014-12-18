@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 索菲娅5200
+
+    * Begin : 2014/12/18 22:47:08
+    * End   : 2014/12/18 22:50:02
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 笑笑
 
     * Begin : 2014/12/18 22:45:45
