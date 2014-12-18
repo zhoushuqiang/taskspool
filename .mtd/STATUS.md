@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 21:41:08] [urlrule] sites weipai.cn update 于安朵
     * [2014/12/18 21:36:10] [urlrule] sites weipai.cn update yiurdhe520
     * [2014/12/18 21:35:07] [urlrule task] update urlrule/task/follows.txt
     * [2014/12/18 21:34:36] [urlrule] sites weipai.cn update sukiyoyo001
@@ -173,6 +174,26 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 21:37:19] [urlrule] sites weipai.cn update 乱搞砖家
+    * [2014/12/18 21:37:16] [urlrule] sites weipai.cn update 乔宝宝i
+    * [2014/12/18 21:37:13] [urlrule] sites weipai.cn update 乐怡
+    * [2014/12/18 21:37:11] [urlrule] sites weipai.cn update 丽嫂zyk
+    * [2014/12/18 21:37:07] [urlrule] sites weipai.cn update 丹梦妮ooloo
+    * [2014/12/18 21:37:04] [urlrule] sites weipai.cn update 两只小蜜蜂丫
+    * [2014/12/18 21:37:02] [urlrule] sites weipai.cn update 丝绸裹着性感福利号
+    * [2014/12/18 21:36:57] [urlrule] sites weipai.cn update 丝绸裹着性感
+    * [2014/12/18 21:36:53] [urlrule] sites weipai.cn update 丝绸裹着性感2
+    * [2014/12/18 21:36:51] [urlrule] sites weipai.cn update 丝月阁
+    * [2014/12/18 21:36:48] [urlrule] sites weipai.cn update 不羁的风20140212
+    * [2014/12/18 21:36:45] [urlrule] sites weipai.cn update 不是大姐好多年
+    * [2014/12/18 21:36:43] [urlrule] sites weipai.cn update 上官宁儿大人
+    * [2014/12/18 21:36:40] [urlrule] sites weipai.cn update 丁可和肥松鼠
+    * [2014/12/18 21:36:38] [urlrule] sites weipai.cn update 丁丁丁丁丁小宝
+    * [2014/12/18 21:36:35] [urlrule] sites weipai.cn update 丁丁lris
+    * [2014/12/18 21:36:33] [urlrule] sites weipai.cn update 一生热爱回头太难
+    * [2014/12/18 21:36:31] [urlrule] sites weipai.cn update zz蘑菇小象zz
+    * [2014/12/18 21:36:28] [urlrule] sites weipai.cn update y依凌小姐
+    * [2014/12/18 21:36:26] [urlrule] sites weipai.cn update yoyo12320141105
     * [2014/12/18 21:35:34] [urlrule] sites weipai.cn update yi_sex_mei
     * [2014/12/18 21:35:31] [urlrule] sites weipai.cn update yes丶
     * [2014/12/18 21:35:28] [urlrule] sites weipai.cn update w女王a
