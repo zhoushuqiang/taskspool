@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 大靓
+
+    * Begin : 2014/12/18 21:48:01
+    * End   : 2014/12/18 21:48:10
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 大雯纸_zyw
+
+    * Begin : 2014/12/18 21:47:55
+    * End   : 2014/12/18 21:47:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 大萨萨
+
+    * Begin : 2014/12/18 21:47:50
+    * End   : 2014/12/18 21:47:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 大芹
+
+    * Begin : 2014/12/18 21:47:48
+    * End   : 2014/12/18 21:47:48
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 大美露
 
     * Begin : 2014/12/18 21:46:20
