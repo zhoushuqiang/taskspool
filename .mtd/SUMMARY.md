@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 杨沫沫Aimee
+
+    * Begin : 2014/12/18 22:18:42
+    * End   : 2014/12/18 22:19:45
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 最美的太阳20140822
 
     * Begin : 2014/12/18 22:12:20

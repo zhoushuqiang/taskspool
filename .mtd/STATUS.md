@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 22:19:45] [urlrule] sites weipai.cn update 杨沫沫Aimee
     * [2014/12/18 22:13:32] [urlrule] sites weipai.cn update 最美的太阳20140822
     * [2014/12/18 22:11:37] [urlrule] sites weipai.cn update 晕死的大白兔
     * [2014/12/18 22:08:43] [urlrule] sites weipai.cn update 悦儿yummy
@@ -189,6 +190,28 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 22:18:40] [urlrule] sites weipai.cn update 杨梓萱baby
+    * [2014/12/18 22:18:37] [urlrule] sites weipai.cn update 杨杨ghj
+    * [2014/12/18 22:18:33] [urlrule] sites vlook.cn update 杨慧儿
+    * [2014/12/18 22:18:24] [urlrule] sites weipai.cn update 杨小琦TY
+    * [2014/12/18 22:18:21] [urlrule] sites weipai.cn update 杨安妮宝贝
+    * [2014/12/18 22:18:18] [urlrule] sites weipai.cn update 杨大人
+    * [2014/12/18 22:18:15] [urlrule] sites vlook.cn update 来不及疼痛
+    * [2014/12/18 22:18:09] [urlrule] sites vlook.cn update 李颖芝
+    * [2014/12/18 22:18:02] [urlrule] sites weipai.cn update 李豪Joylee
+    * [2014/12/18 22:17:58] [urlrule] sites weipai.cn update 李萌萌护肤美美哒
+    * [2014/12/18 22:17:52] [urlrule] sites weipai.cn update 李点点儿
+    * [2014/12/18 22:17:49] [urlrule] sites weipai.cn update 李朝蛟-Bie
+    * [2014/12/18 22:17:46] [urlrule] sites weipai.cn update 李怡静1118
+    * [2014/12/18 22:17:43] [urlrule] sites vlook.cn update 李思闻
+    * [2014/12/18 22:17:33] [urlrule] sites weipai.cn update 李思闻
+    * [2014/12/18 22:17:27] [urlrule] sites weipai.cn update 李思桐儿
+    * [2014/12/18 22:17:24] [urlrule] sites weipai.cn update 李妍呢
+    * [2014/12/18 22:17:21] [urlrule] sites weipai.cn update 李佳洁妞儿
+    * [2014/12/18 22:17:17] [urlrule] sites weipai.cn update 李云666
+    * [2014/12/18 22:17:13] [urlrule] sites weipai.cn update 李七喜
+    * [2014/12/18 22:17:09] [urlrule] sites weipai.cn update 朵朵猪
+    * [2014/12/18 22:17:04] [urlrule] sites weipai.cn update 朱小璐-nini
     * [2014/12/18 22:12:18] [urlrule] sites weipai.cn update 曾贾
     * [2014/12/18 22:12:16] [urlrule] sites weipai.cn update 曼丽LXL
     * [2014/12/18 22:12:13] [urlrule] sites weipai.cn update 曹紫涵
