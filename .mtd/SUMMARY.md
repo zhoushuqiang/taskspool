@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 台灣出產-蜜卡妹子
+
+    * Begin : 2014/12/19 01:19:52
+    * End   : 2014/12/19 01:20:51
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 古小丽Lily
 
     * Begin : 2014/12/19 01:18:11

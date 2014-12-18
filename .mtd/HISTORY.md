@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 台灣出產-蜜卡妹子
+
+    * Begin : 2014/12/19 01:19:52
+    * End   : 2014/12/19 01:20:51
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 可爱娃娃性感辣妈
+
+    * Begin : 2014/12/19 01:19:49
+    * End   : 2014/12/19 01:19:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 可是我叫__Zll
+
+    * Begin : 2014/12/19 01:19:45
+    * End   : 2014/12/19 01:19:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 可儿可儿
+
+    * Begin : 2014/12/19 01:19:42
+    * End   : 2014/12/19 01:19:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 叫我超哥
+
+    * Begin : 2014/12/19 01:19:37
+    * End   : 2014/12/19 01:19:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 叫丽媽咪
+
+    * Begin : 2014/12/19 01:19:34
+    * End   : 2014/12/19 01:19:35
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 古小丽Lily
 
     * Begin : 2014/12/19 01:18:11
