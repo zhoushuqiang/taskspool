@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 22:23:18] [urlrule] sites weipai.cn update 梦婷Baby
     * [2014/12/18 22:19:45] [urlrule] sites weipai.cn update 杨沫沫Aimee
     * [2014/12/18 22:13:32] [urlrule] sites weipai.cn update 最美的太阳20140822
     * [2014/12/18 22:11:37] [urlrule] sites weipai.cn update 晕死的大白兔
@@ -190,6 +191,21 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 22:23:07] [urlrule] sites vlook.cn update 梦之冰城
+    * [2014/12/18 22:23:02] [urlrule] sites weipai.cn update 梓茜ZX
+    * [2014/12/18 22:22:59] [urlrule] sites weipai.cn update 梅子小姐_01
+    * [2014/12/18 22:22:56] [urlrule] sites weipai.cn update 梅姿baby
+    * [2014/12/18 22:22:54] [urlrule] sites weipai.cn update 梁珂
+    * [2014/12/18 22:22:51] [urlrule] sites weipai.cn update 梁倩cat
+    * [2014/12/18 22:22:49] [urlrule] sites vlook.cn update 桓淼淼baby
+    * [2014/12/18 22:22:46] [urlrule] sites weipai.cn update 桓淼淼baby
+    * [2014/12/18 22:22:44] [urlrule] sites vlook.cn update 桓淼淼
+    * [2014/12/18 22:22:42] [urlrule] sites vlook.cn update 栾丽娜123
+    * [2014/12/18 22:22:37] [urlrule] sites vlook.cn update 枫叶4561
+    * [2014/12/18 22:22:32] [urlrule] sites vlook.cn update 林蕊儿
+    * [2014/12/18 22:22:26] [urlrule] sites weipai.cn update 林歆蕊Q286312385
+    * [2014/12/18 22:22:23] [urlrule] sites vlook.cn update 林歆蕊
+    * [2014/12/18 22:22:01] [urlrule] sites weipai.cn update 林夕baby123
     * [2014/12/18 22:18:40] [urlrule] sites weipai.cn update 杨梓萱baby
     * [2014/12/18 22:18:37] [urlrule] sites weipai.cn update 杨杨ghj
     * [2014/12/18 22:18:33] [urlrule] sites vlook.cn update 杨慧儿
