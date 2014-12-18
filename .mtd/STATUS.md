@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 13:36:50] [urlrule] sites weipai.cn update 美腿热舞福利分享
     * [2014/12/18 13:35:47] [urlrule] sites weipai.cn update 米洁
     * [2014/12/18 13:34:30] [urlrule] sites weipai.cn update 矢帘
     * [2014/12/18 13:33:31] [urlrule] sites weipai.cn update 皇家国际-佳欲
@@ -11,6 +12,24 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 13:36:37] [urlrule] sites weipai.cn update 美瑩
+    * [2014/12/18 13:36:35] [urlrule] sites weipai.cn update 美媛媛
+    * [2014/12/18 13:36:33] [urlrule] sites weipai.cn update 美媚腿
+    * [2014/12/18 13:36:30] [urlrule] sites weipai.cn update 罗小佩
+    * [2014/12/18 13:36:28] [urlrule] sites weipai.cn update 罗妍-D
+    * [2014/12/18 13:36:26] [urlrule] sites weipai.cn update 维信qianfei2012
+    * [2014/12/18 13:36:24] [urlrule] sites weipai.cn update 纯儿宝贝
+    * [2014/12/18 13:36:22] [urlrule] sites weipai.cn update 红玫瑰
+    * [2014/12/18 13:36:20] [urlrule] sites weipai.cn update 红心点起来
+    * [2014/12/18 13:36:18] [urlrule] sites weipai.cn update 索菲娅
+    * [2014/12/18 13:36:16] [urlrule] sites weipai.cn update 索菲娅5200
+    * [2014/12/18 13:36:14] [urlrule] sites weipai.cn update 素兒
+    * [2014/12/18 13:36:12] [urlrule] sites weipai.cn update 糖果果国
+    * [2014/12/18 13:36:10] [urlrule] sites weipai.cn update 粽子小姐
+    * [2014/12/18 13:36:08] [urlrule] sites weipai.cn update 粽子喜欢秋天
+    * [2014/12/18 13:36:05] [urlrule] sites weipai.cn update 粵講粵潮
+    * [2014/12/18 13:36:03] [urlrule] sites weipai.cn update 粉小溪CC
+    * [2014/12/18 13:36:02] [urlrule] sites vlook.cn update 米洁
     * [2014/12/18 13:35:18] [urlrule] sites weipai.cn update 米拉贝拉Mirabella
     * [2014/12/18 13:35:16] [urlrule] sites weipai.cn update 米小西
     * [2014/12/18 13:35:13] [urlrule] sites weipai.cn update 米妮mini_20140821
