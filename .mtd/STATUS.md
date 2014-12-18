@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/19 01:13:12] [urlrule] sites weipai.cn update 丝月阁
     * [2014/12/19 01:12:08] [urlrule] sites weipai.cn update 一生热爱回头太难
     * [2014/12/19 01:09:40] [urlrule task] update urlrule/task/follows.txt
     * [2014/12/19 01:08:12] [urlrule] sites weipai.cn update penny佩佩
@@ -218,6 +219,12 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/19 01:12:51] [urlrule] sites weipai.cn update 不羁的风20140212
+    * [2014/12/19 01:12:47] [urlrule] sites weipai.cn update 不是大姐好多年
+    * [2014/12/19 01:12:44] [urlrule] sites weipai.cn update 上官宁儿大人
+    * [2014/12/19 01:12:40] [urlrule] sites weipai.cn update 丁可和肥松鼠
+    * [2014/12/19 01:12:36] [urlrule] sites weipai.cn update 丁丁丁丁丁小宝
+    * [2014/12/19 01:12:32] [urlrule] sites weipai.cn update 丁丁lris
     * [2014/12/19 01:11:46] [urlrule] sites weipai.cn update zz蘑菇小象zz
     * [2014/12/19 01:11:41] [urlrule] sites weipai.cn update y依凌小姐
     * [2014/12/19 01:11:31] [urlrule] sites weipai.cn update yoyo12320141105
