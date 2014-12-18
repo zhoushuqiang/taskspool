@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 张栩菲-ManGo
+
+    * Begin : 2014/12/18 17:52:33
+    * End   : 2014/12/18 17:56:59
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/18 17:51:36
