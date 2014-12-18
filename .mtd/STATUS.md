@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 22:08:43] [urlrule] sites weipai.cn update 悦儿yummy
     * [2014/12/18 22:05:50] [urlrule] sites weipai.cn update 张芊芊
     * [2014/12/18 22:05:24] [urlrule] sites weipai.cn update 张瑶isa
     * [2014/12/18 21:59:14] [urlrule] sites weipai.cn update 张姿彦
@@ -186,6 +187,27 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 22:07:09] [urlrule] sites weipai.cn update 恋姗妮
+    * [2014/12/18 22:07:06] [urlrule] sites vlook.cn update 性感女神研研
+    * [2014/12/18 22:06:59] [urlrule] sites weipai.cn update 性感像多花
+    * [2014/12/18 22:06:57] [urlrule] sites weipai.cn update 忧伤的黄瓜1
+    * [2014/12/18 22:06:54] [urlrule] sites weipai.cn update 忧伤的小麻雀
+    * [2014/12/18 22:06:52] [urlrule] sites vlook.cn update 心蕾Abby
+    * [2014/12/18 22:06:47] [urlrule] sites weipai.cn update 心宁儿cecilia
+    * [2014/12/18 22:06:44] [urlrule] sites weipai.cn update 微拍精品福利--
+    * [2014/12/18 22:06:41] [urlrule] sites weipai.cn update 微拍娱乐圈
+    * [2014/12/18 22:06:39] [urlrule] sites weipai.cn update 微拍三少爷
+    * [2014/12/18 22:06:36] [urlrule] sites weipai.cn update 微我信av0006789
+    * [2014/12/18 22:06:34] [urlrule] sites weipai.cn update 微子baby
+    * [2014/12/18 22:06:31] [urlrule] sites weipai.cn update 微信itangcc
+    * [2014/12/18 22:06:28] [urlrule] sites weipai.cn update 徐茜儿
+    * [2014/12/18 22:06:25] [urlrule] sites weipai.cn update 徐美儿
+    * [2014/12/18 22:06:22] [urlrule] sites weipai.cn update 徐妍馨Mandy
+    * [2014/12/18 22:06:19] [urlrule] sites weipai.cn update 张馨馨Maggie
+    * [2014/12/18 22:06:16] [urlrule] sites weipai.cn update 张露_Betty
+    * [2014/12/18 22:06:14] [urlrule] sites weipai.cn update 张鑫Amy
+    * [2014/12/18 22:06:11] [urlrule] sites weipai.cn update 张若兰
+    * [2014/12/18 22:06:07] [urlrule] sites weipai.cn update 张若兰
     * [2014/12/18 22:05:46] [urlrule] sites weipai.cn update 张美荧
     * [2014/12/18 21:59:52] [urlrule] sites weipai.cn update 张江南同学
     * [2014/12/18 21:59:49] [urlrule] sites weipai.cn update 张栩菲-ManGo
