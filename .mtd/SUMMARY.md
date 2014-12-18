@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 杨梓萱baby
+
+    * Begin : 2014/12/18 16:47:24
+    * End   : 2014/12/18 16:48:21
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 李萌萌护肤美美哒
 
     * Begin : 2014/12/18 16:46:14
