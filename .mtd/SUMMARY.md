@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 满天都是小鑫鑫_
+
+    * Begin : 2014/12/18 22:25:15
+    * End   : 2014/12/18 22:30:11
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 洛可馨
 
     * Begin : 2014/12/18 22:24:37

@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn update 满天都是小鑫鑫_
+
+    * Begin : 2014/12/18 22:25:15
+    * End   : 2014/12/18 22:30:11
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 溅行溅美
+
+    * Begin : 2014/12/18 22:25:12
+    * End   : 2014/12/18 22:25:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 湯大师
+
+    * Begin : 2014/12/18 22:25:07
+    * End   : 2014/12/18 22:25:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 混血演员安娜
+
+    * Begin : 2014/12/18 22:25:05
+    * End   : 2014/12/18 22:25:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 涵肉肉
+
+    * Begin : 2014/12/18 22:25:02
+    * End   : 2014/12/18 22:25:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 浮生若梦
+
+    * Begin : 2014/12/18 22:24:59
+    * End   : 2014/12/18 22:25:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 洛熙爱爱
+
+    * Begin : 2014/12/18 22:24:56
+    * End   : 2014/12/18 22:24:57
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 洛可馨
 
     * Begin : 2014/12/18 22:24:37
