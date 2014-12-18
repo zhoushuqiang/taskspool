@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 17:44:43] [urlrule] sites weipai.cn update 周月月
     * [2014/12/18 17:42:18] [urlrule] sites weipai.cn update 台灣出產-蜜卡妹子
     * [2014/12/18 17:37:09] [urlrule] sites weipai.cn update vamipre小妖
     * [2014/12/18 17:35:53] [urlrule task] update urlrule/task/follows.txt
@@ -136,6 +137,15 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 17:42:50] [urlrule] sites weipai.cn update 周OK
+    * [2014/12/18 17:42:48] [urlrule] sites weipai.cn update 呗呗兔
+    * [2014/12/18 17:42:46] [urlrule] sites weipai.cn update 吴雨晴
+    * [2014/12/18 17:42:44] [urlrule] sites weipai.cn update 吴美昕Yumi
+    * [2014/12/18 17:42:41] [urlrule] sites weipai.cn update 吴红珊
+    * [2014/12/18 17:42:39] [urlrule] sites weipai.cn update 吴婉婷
+    * [2014/12/18 17:42:37] [urlrule] sites weipai.cn update 吕夫人
+    * [2014/12/18 17:42:35] [urlrule] sites weipai.cn update 叶豆豆_baby
+    * [2014/12/18 17:42:33] [urlrule] sites weipai.cn update 叶子-Anna
     * [2014/12/18 17:39:57] [urlrule] sites weipai.cn update 可爱娃娃性感辣妈
     * [2014/12/18 17:39:55] [urlrule] sites weipai.cn update 可是我叫__Zll
     * [2014/12/18 17:39:53] [urlrule] sites weipai.cn update 可儿可儿

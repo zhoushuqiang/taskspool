@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 周月月
+
+    * Begin : 2014/12/18 17:42:52
+    * End   : 2014/12/18 17:44:43
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 台灣出產-蜜卡妹子
 
     * Begin : 2014/12/18 17:39:59

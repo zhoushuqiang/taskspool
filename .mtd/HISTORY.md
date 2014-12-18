@@ -1,3 +1,63 @@
+* [urlrule] sites weipai.cn update 周月月
+
+    * Begin : 2014/12/18 17:42:52
+    * End   : 2014/12/18 17:44:43
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 周OK
+
+    * Begin : 2014/12/18 17:42:50
+    * End   : 2014/12/18 17:42:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 呗呗兔
+
+    * Begin : 2014/12/18 17:42:47
+    * End   : 2014/12/18 17:42:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 吴雨晴
+
+    * Begin : 2014/12/18 17:42:45
+    * End   : 2014/12/18 17:42:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 吴美昕Yumi
+
+    * Begin : 2014/12/18 17:42:43
+    * End   : 2014/12/18 17:42:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 吴红珊
+
+    * Begin : 2014/12/18 17:42:41
+    * End   : 2014/12/18 17:42:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 吴婉婷
+
+    * Begin : 2014/12/18 17:42:39
+    * End   : 2014/12/18 17:42:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 吕夫人
+
+    * Begin : 2014/12/18 17:42:37
+    * End   : 2014/12/18 17:42:37
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 叶豆豆_baby
+
+    * Begin : 2014/12/18 17:42:34
+    * End   : 2014/12/18 17:42:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 叶子-Anna
+
+    * Begin : 2014/12/18 17:42:32
+    * End   : 2014/12/18 17:42:33
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 台灣出產-蜜卡妹子
 
     * Begin : 2014/12/18 17:39:59
