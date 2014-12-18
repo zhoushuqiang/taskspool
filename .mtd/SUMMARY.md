@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 前任攻略
+
+    * Begin : 2014/12/18 14:59:43
+    * End   : 2014/12/18 15:00:31
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 乐怡
 
     * Begin : 2014/12/18 14:56:34
