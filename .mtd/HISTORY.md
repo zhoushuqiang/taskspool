@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 小小小乖
+
+
+    * Begin : 2014/12/18 14:14:18
+    * End   : 2014/12/18 14:29:22
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 52bd05f986f66f49118b4567 小小小乖
 
 

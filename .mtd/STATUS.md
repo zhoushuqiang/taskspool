@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 52bd05f986f66f49118b4567 小小小乖
-
 * Finished:
+    * [2014/12/18 14:29:22] [urlrule] sites weipai.cn UPDATE 小小小乖
+
     * [2014/12/18 14:14:05] [urlrule] sites weipai.cn follow 52bd05f986f66f49118b4567 小小小乖
 
     * [2014/12/18 14:13:51] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
