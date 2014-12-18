@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE Alla-王愛
+
+
+    * Begin : 2014/12/19 05:19:25
+    * End   : 2014/12/19 05:19:37
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 薇妮BABY
 
     * Begin : 2014/12/19 05:11:34
