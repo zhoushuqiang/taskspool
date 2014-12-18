@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 女王女王陛下
+
+    * Begin : 2014/12/18 21:48:39
+    * End   : 2014/12/18 21:48:41
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 大靓
 
     * Begin : 2014/12/18 21:48:01
