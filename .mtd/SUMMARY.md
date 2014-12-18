@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Bella-小白
+
+    * Begin : 2014/12/19 06:48:39
+    * End   : 2014/12/19 06:49:23
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2014/12/19 06:44:12
