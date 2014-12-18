@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 做个man的小女人
+
+    * Begin : 2014/12/18 21:42:04
+    * End   : 2014/12/18 21:42:27
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 于安朵
 
     * Begin : 2014/12/18 21:37:21

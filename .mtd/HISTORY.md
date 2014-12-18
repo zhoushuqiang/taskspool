@@ -1,3 +1,87 @@
+* [urlrule] sites weipai.cn update 做个man的小女人
+
+    * Begin : 2014/12/18 21:42:04
+    * End   : 2014/12/18 21:42:27
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 倩倩baby
+
+    * Begin : 2014/12/18 21:41:59
+    * End   : 2014/12/18 21:42:01
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 依林20140930
+
+    * Begin : 2014/12/18 21:41:57
+    * End   : 2014/12/18 21:41:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 佳佳
+
+    * Begin : 2014/12/18 21:41:54
+    * End   : 2014/12/18 21:41:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 你懂我么小娘
+
+    * Begin : 2014/12/18 21:41:51
+    * End   : 2014/12/18 21:41:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 你娜爷
+
+    * Begin : 2014/12/18 21:41:48
+    * End   : 2014/12/18 21:41:49
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 何佳琪baby
+
+    * Begin : 2014/12/18 21:41:44
+    * End   : 2014/12/18 21:41:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 优优Baby
+
+    * Begin : 2014/12/18 21:41:41
+    * End   : 2014/12/18 21:41:42
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 以我之名祭你风华初成
+
+    * Begin : 2014/12/18 21:41:39
+    * End   : 2014/12/18 21:41:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 仙德瑞拉_模特经纪
+
+    * Begin : 2014/12/18 21:41:36
+    * End   : 2014/12/18 21:41:37
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 仙女大人
+
+    * Begin : 2014/12/18 21:41:34
+    * End   : 2014/12/18 21:41:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 他不懂我的xin
+
+    * Begin : 2014/12/18 21:41:31
+    * End   : 2014/12/18 21:41:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 亿艾儿-baby
+
+    * Begin : 2014/12/18 21:41:29
+    * End   : 2014/12/18 21:41:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 于小慧
+
+    * Begin : 2014/12/18 21:41:26
+    * End   : 2014/12/18 21:41:27
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 于安朵
 
     * Begin : 2014/12/18 21:37:21

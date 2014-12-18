@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 21:42:27] [urlrule] sites weipai.cn update 做个man的小女人
     * [2014/12/18 21:41:08] [urlrule] sites weipai.cn update 于安朵
     * [2014/12/18 21:36:10] [urlrule] sites weipai.cn update yiurdhe520
     * [2014/12/18 21:35:07] [urlrule task] update urlrule/task/follows.txt
@@ -174,6 +175,19 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 21:42:01] [urlrule] sites weipai.cn update 倩倩baby
+    * [2014/12/18 21:41:58] [urlrule] sites weipai.cn update 依林20140930
+    * [2014/12/18 21:41:55] [urlrule] sites weipai.cn update 佳佳
+    * [2014/12/18 21:41:52] [urlrule] sites weipai.cn update 你懂我么小娘
+    * [2014/12/18 21:41:49] [urlrule] sites weipai.cn update 你娜爷
+    * [2014/12/18 21:41:45] [urlrule] sites weipai.cn update 何佳琪baby
+    * [2014/12/18 21:41:42] [urlrule] sites weipai.cn update 优优Baby
+    * [2014/12/18 21:41:40] [urlrule] sites weipai.cn update 以我之名祭你风华初成
+    * [2014/12/18 21:41:37] [urlrule] sites weipai.cn update 仙德瑞拉_模特经纪
+    * [2014/12/18 21:41:35] [urlrule] sites weipai.cn update 仙女大人
+    * [2014/12/18 21:41:32] [urlrule] sites weipai.cn update 他不懂我的xin
+    * [2014/12/18 21:41:30] [urlrule] sites weipai.cn update 亿艾儿-baby
+    * [2014/12/18 21:41:27] [urlrule] sites weipai.cn update 于小慧
     * [2014/12/18 21:37:19] [urlrule] sites weipai.cn update 乱搞砖家
     * [2014/12/18 21:37:16] [urlrule] sites weipai.cn update 乔宝宝i
     * [2014/12/18 21:37:13] [urlrule] sites weipai.cn update 乐怡
