@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 21:55:46] [urlrule] sites weipai.cn update 小小小小米
     * [2014/12/18 21:52:25] [urlrule] sites weipai.cn update 宝宝倩
     * [2014/12/18 21:51:07] [urlrule] sites weipai.cn update 孤独患者
     * [2014/12/18 21:49:02] [urlrule] sites weipai.cn update 女神集团
@@ -181,6 +182,22 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 21:53:23] [urlrule] sites weipai.cn update 小小小乖
+    * [2014/12/18 21:53:20] [urlrule] sites weipai.cn update 小将士
+    * [2014/12/18 21:53:18] [urlrule] sites weipai.cn update 小容嬷嬷
+    * [2014/12/18 21:53:15] [urlrule] sites weipai.cn update 小妮仔
+    * [2014/12/18 21:53:12] [urlrule] sites weipai.cn update 小如如
+    * [2014/12/18 21:53:10] [urlrule] sites weipai.cn update 小可爱mmd
+    * [2014/12/18 21:53:07] [urlrule] sites weipai.cn update 小仓老师
+    * [2014/12/18 21:53:05] [urlrule] sites weipai.cn update 小也慧子
+    * [2014/12/18 21:53:02] [urlrule] sites weipai.cn update 小乔流水
+    * [2014/12/18 21:52:59] [urlrule] sites weipai.cn update 小乔Cheryl
+    * [2014/12/18 21:52:56] [urlrule] sites weipai.cn update 小qiqi总爱凑美呦
+    * [2014/12/18 21:52:53] [urlrule] sites weipai.cn update 对你着了迷
+    * [2014/12/18 21:52:51] [urlrule] sites weipai.cn update 寂寞姐姐
+    * [2014/12/18 21:52:48] [urlrule] sites weipai.cn update 家菱
+    * [2014/12/18 21:52:45] [urlrule] sites weipai.cn update 家妹xxoo
+    * [2014/12/18 21:52:43] [urlrule] sites weipai.cn update 宝小丁
     * [2014/12/18 21:51:58] [urlrule] sites weipai.cn update 宜官官
     * [2014/12/18 21:51:55] [urlrule] sites vlook.cn update 宋小猫cat
     * [2014/12/18 21:51:47] [urlrule] sites weipai.cn update 宋小猫cat
