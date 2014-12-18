@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 16:06:51] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
     * [2014/12/18 15:56:14] [urlrule] sites weipai.cn update 黑金色会飞的鱼
     * [2014/12/18 15:50:42] [urlrule] sites weipai.cn update 蛇蛇姜瑾芝
     * [2014/12/18 15:50:01] [urlrule] sites weipai.cn update 薇妮BABY
@@ -92,6 +93,57 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 15:57:19] [urlrule] sites weipai.cn UPDATE 淼菟菟-
+
+    * [2014/12/18 15:57:18] [urlrule] sites weipai.cn follow 531f3a3aebeddb5e508b45a4 淼菟菟-
+
+    * [2014/12/18 15:57:17] [urlrule] sites weipai.cn add 531f3a3aebeddb5e508b45a4 淼菟菟-
+
+    * [2014/12/18 15:57:16] [urlrule] sites weipai.cn UPDATE 画泪听雨眠
+
+    * [2014/12/18 15:57:15] [urlrule] sites weipai.cn follow 515f6dfb7f34942f6500000a 画泪听雨眠
+
+    * [2014/12/18 15:57:15] [urlrule] sites weipai.cn add 515f6dfb7f34942f6500000a 画泪听雨眠
+
+    * [2014/12/18 15:57:13] [urlrule] sites weipai.cn UPDATE 莹小白
+
+    * [2014/12/18 15:57:12] [urlrule] sites weipai.cn follow 5337a885504a13c6408b4571 莹小白
+
+    * [2014/12/18 15:57:12] [urlrule] sites weipai.cn add 5337a885504a13c6408b4571 莹小白
+
+    * [2014/12/18 15:57:10] [urlrule] sites weipai.cn UPDATE 萌萌焕
+
+    * [2014/12/18 15:57:09] [urlrule] sites weipai.cn follow 52b5c3daebeddbfa358b4567 萌萌焕
+
+    * [2014/12/18 15:57:09] [urlrule] sites weipai.cn add 52b5c3daebeddbfa358b4567 萌萌焕
+
+    * [2014/12/18 15:57:07] [urlrule] sites weipai.cn UPDATE Alla-王愛
+
+    * [2014/12/18 15:57:07] [urlrule] sites weipai.cn follow 52e192f179d3cceb238b45a0 Alla-王愛
+
+    * [2014/12/18 15:57:06] [urlrule] sites weipai.cn add 52e192f179d3cceb238b45a0 Alla-王愛
+
+    * [2014/12/18 15:57:05] [urlrule] sites weipai.cn UPDATE 菲飞飞
+
+    * [2014/12/18 15:57:04] [urlrule] sites weipai.cn follow 53f08ff2a8640b557f8b459f 菲飞飞
+
+    * [2014/12/18 15:57:03] [urlrule] sites weipai.cn add 53f08ff2a8640b557f8b459f 菲飞飞
+
+    * [2014/12/18 15:57:02] [urlrule] sites weipai.cn UPDATE 心宁儿cecilia
+
+    * [2014/12/18 15:57:01] [urlrule] sites weipai.cn follow 51f91bc881349422360000f3 心宁儿cecilia
+
+    * [2014/12/18 15:57:00] [urlrule] sites weipai.cn add 51f91bc881349422360000f3 心宁儿cecilia
+
+    * [2014/12/18 15:56:56] [urlrule] sites weipai.cn update 龙儿20140330
+    * [2014/12/18 15:56:54] [urlrule] sites vlook.cn update 黒目瞳
+    * [2014/12/18 15:56:50] [urlrule] sites weipai.cn update 黒目瞳
+    * [2014/12/18 15:56:48] [urlrule] sites weipai.cn update 黑金色会飞的鱼
+    * [2014/12/18 15:56:46] [urlrule] sites weipai.cn update 黑桃女王
+    * [2014/12/18 15:56:44] [urlrule] sites weipai.cn update 黑三小幺
+    * [2014/12/18 15:56:39] [urlrule] sites weipai.cn update 龙儿20140330
+    * [2014/12/18 15:56:36] [urlrule] sites vlook.cn update 黒目瞳
+    * [2014/12/18 15:56:32] [urlrule] sites weipai.cn update 黒目瞳
     * [2014/12/18 15:54:46] [urlrule] sites weipai.cn update 黑桃女王
     * [2014/12/18 15:54:44] [urlrule] sites weipai.cn update 黑三小幺
     * [2014/12/18 15:54:42] [urlrule] sites weipai.cn update 黎儿

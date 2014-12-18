@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
+
+    * Begin : 2014/12/18 15:57:21
+    * End   : 2014/12/18 16:06:51
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 黑金色会飞的鱼
 
     * Begin : 2014/12/18 15:54:48
