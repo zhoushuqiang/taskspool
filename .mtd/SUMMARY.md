@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 杨大人
+
+    * Begin : 2014/12/18 18:07:33
+    * End   : 2014/12/18 18:19:29
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 最美的太阳20140822
 
     * Begin : 2014/12/18 18:05:43

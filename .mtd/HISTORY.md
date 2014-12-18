@@ -1,3 +1,105 @@
+* [urlrule] sites weipai.cn update 杨大人
+
+    * Begin : 2014/12/18 18:07:33
+    * End   : 2014/12/18 18:19:29
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 来不及疼痛
+
+    * Begin : 2014/12/18 18:07:24
+    * End   : 2014/12/18 18:07:31
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 李颖芝
+
+    * Begin : 2014/12/18 18:07:19
+    * End   : 2014/12/18 18:07:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李豪Joylee
+
+    * Begin : 2014/12/18 18:07:17
+    * End   : 2014/12/18 18:07:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李萌萌护肤美美哒
+
+    * Begin : 2014/12/18 18:07:15
+    * End   : 2014/12/18 18:07:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李点点儿
+
+    * Begin : 2014/12/18 18:07:12
+    * End   : 2014/12/18 18:07:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李朝蛟-Bie
+
+    * Begin : 2014/12/18 18:07:10
+    * End   : 2014/12/18 18:07:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李怡静1118
+
+    * Begin : 2014/12/18 18:07:07
+    * End   : 2014/12/18 18:07:08
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 李思闻
+
+    * Begin : 2014/12/18 18:07:02
+    * End   : 2014/12/18 18:07:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李思闻
+
+    * Begin : 2014/12/18 18:07:00
+    * End   : 2014/12/18 18:07:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李思桐儿
+
+    * Begin : 2014/12/18 18:06:57
+    * End   : 2014/12/18 18:06:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李妍呢
+
+    * Begin : 2014/12/18 18:06:55
+    * End   : 2014/12/18 18:06:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李佳洁妞儿
+
+    * Begin : 2014/12/18 18:06:52
+    * End   : 2014/12/18 18:06:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李云666
+
+    * Begin : 2014/12/18 18:06:50
+    * End   : 2014/12/18 18:06:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李七喜
+
+    * Begin : 2014/12/18 18:06:48
+    * End   : 2014/12/18 18:06:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 朵朵猪
+
+    * Begin : 2014/12/18 18:06:46
+    * End   : 2014/12/18 18:06:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 朱小璐-nini
+
+    * Begin : 2014/12/18 18:06:43
+    * End   : 2014/12/18 18:06:44
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 最美的太阳20140822
 
     * Begin : 2014/12/18 18:05:43
