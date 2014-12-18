@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 芒果小懒猫
+
+    * Begin : 2014/12/18 13:37:31
+    * End   : 2014/12/18 13:38:24
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 美腿热舞福利分享
 
     * Begin : 2014/12/18 13:36:38

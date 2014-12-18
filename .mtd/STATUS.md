@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 13:38:24] [urlrule] sites weipai.cn update 芒果小懒猫
     * [2014/12/18 13:36:50] [urlrule] sites weipai.cn update 美腿热舞福利分享
     * [2014/12/18 13:35:47] [urlrule] sites weipai.cn update 米洁
     * [2014/12/18 13:34:30] [urlrule] sites weipai.cn update 矢帘
@@ -12,6 +13,17 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 13:37:30] [urlrule] sites weipai.cn update 艾舞kathy
+    * [2014/12/18 13:37:28] [urlrule] sites weipai.cn update 艾小爱
+    * [2014/12/18 13:37:25] [urlrule] sites weipai.cn update 艾_笑笑
+    * [2014/12/18 13:37:23] [urlrule] sites weipai.cn update 般若的每一天
+    * [2014/12/18 13:37:21] [urlrule] sites weipai.cn update 胸奀
+    * [2014/12/18 13:37:19] [urlrule] sites vlook.cn update 胡金熙
+    * [2014/12/18 13:37:15] [urlrule] sites weipai.cn update 肥尻夫人Linanan
+    * [2014/12/18 13:37:13] [urlrule] sites weipai.cn update 肚皮舞皇后
+    * [2014/12/18 13:37:11] [urlrule] sites weipai.cn update 肖蕾微博
+    * [2014/12/18 13:37:09] [urlrule] sites weipai.cn update 翡翠妹妹
+    * [2014/12/18 13:37:07] [urlrule] sites weipai.cn update 美色驿站
     * [2014/12/18 13:36:37] [urlrule] sites weipai.cn update 美瑩
     * [2014/12/18 13:36:35] [urlrule] sites weipai.cn update 美媛媛
     * [2014/12/18 13:36:33] [urlrule] sites weipai.cn update 美媚腿
