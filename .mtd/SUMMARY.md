@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Despair-假寐
+
+    * Begin : 2014/12/19 04:16:53
+    * End   : 2014/12/19 04:19:34
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2014/12/19 04:10:58
