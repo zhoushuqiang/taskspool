@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 莫晓颜
+
+
+    * Begin : 2014/12/18 13:53:07
+    * End   : 2014/12/18 13:53:32
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 54197170a6640bb8278b4581 莫晓颜
 
 
