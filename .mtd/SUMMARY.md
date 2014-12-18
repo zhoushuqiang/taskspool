@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 哈力牛仔
+
+    * Begin : 2014/12/19 01:22:24
+    * End   : 2014/12/19 01:22:53
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 台灣出產-蜜卡妹子
 
     * Begin : 2014/12/19 01:19:52

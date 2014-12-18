@@ -1,3 +1,93 @@
+* [urlrule] sites weipai.cn update 哈力牛仔
+
+    * Begin : 2014/12/19 01:22:24
+    * End   : 2014/12/19 01:22:53
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 咪咪宝贝爱爱
+
+    * Begin : 2014/12/19 01:22:18
+    * End   : 2014/12/19 01:22:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 咪-Queen
+
+    * Begin : 2014/12/19 01:22:15
+    * End   : 2014/12/19 01:22:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 周珊珊shine
+
+    * Begin : 2014/12/19 01:22:10
+    * End   : 2014/12/19 01:22:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 周泊霖cutey
+
+    * Begin : 2014/12/19 01:22:07
+    * End   : 2014/12/19 01:22:08
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 周月月
+
+    * Begin : 2014/12/19 01:22:01
+    * End   : 2014/12/19 01:22:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 周OK
+
+    * Begin : 2014/12/19 01:21:57
+    * End   : 2014/12/19 01:21:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 呗呗兔
+
+    * Begin : 2014/12/19 01:21:53
+    * End   : 2014/12/19 01:21:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 吴雨晴
+
+    * Begin : 2014/12/19 01:21:49
+    * End   : 2014/12/19 01:21:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 吴美昕Yumi
+
+    * Begin : 2014/12/19 01:21:36
+    * End   : 2014/12/19 01:21:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 吴红珊
+
+    * Begin : 2014/12/19 01:21:33
+    * End   : 2014/12/19 01:21:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 吴婉婷
+
+    * Begin : 2014/12/19 01:21:27
+    * End   : 2014/12/19 01:21:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 吕夫人
+
+    * Begin : 2014/12/19 01:21:20
+    * End   : 2014/12/19 01:21:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 叶豆豆_baby
+
+    * Begin : 2014/12/19 01:21:17
+    * End   : 2014/12/19 01:21:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 叶子-Anna
+
+    * Begin : 2014/12/19 01:21:12
+    * End   : 2014/12/19 01:21:15
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 台灣出產-蜜卡妹子
 
     * Begin : 2014/12/19 01:19:52
