@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 懒虫baby
+
+    * Begin : 2014/12/19 01:43:54
+    * End   : 2014/12/19 01:44:43
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 张芊芊
 
     * Begin : 2014/12/19 01:41:54
