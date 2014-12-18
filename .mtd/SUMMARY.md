@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 丝月阁
+
+    * Begin : 2014/12/18 14:55:53
+    * End   : 2014/12/18 14:56:02
+    * Result: OK
+
 * [urlrule task] update urlrule/task/follows.txt
 
     * Begin : 2014/12/18 14:54:55

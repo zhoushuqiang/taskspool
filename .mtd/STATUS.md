@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 14:56:02] [urlrule] sites weipai.cn update 丝月阁
     * [2014/12/18 14:54:58] [urlrule task] update urlrule/task/follows.txt
     * [2014/12/18 14:53:27] [urlrule] sites weipai.cn update kimoon
     * [2014/12/18 14:51:59] [urlrule] sites weipai.cn update _李好美
@@ -65,6 +66,22 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 14:55:51] [urlrule] sites weipai.cn update 不羁的风20140212
+    * [2014/12/18 14:55:48] [urlrule] sites weipai.cn update 不是大姐好多年
+    * [2014/12/18 14:55:46] [urlrule] sites weipai.cn update 上官宁儿大人
+    * [2014/12/18 14:55:44] [urlrule] sites weipai.cn update 丁可和肥松鼠
+    * [2014/12/18 14:55:41] [urlrule] sites weipai.cn update 丁丁丁丁丁小宝
+    * [2014/12/18 14:55:39] [urlrule] sites weipai.cn update 丁丁lris
+    * [2014/12/18 14:55:37] [urlrule] sites weipai.cn update 一生热爱回头太难
+    * [2014/12/18 14:55:35] [urlrule] sites weipai.cn update zz蘑菇小象zz
+    * [2014/12/18 14:55:32] [urlrule] sites weipai.cn update y依凌小姐
+    * [2014/12/18 14:55:30] [urlrule] sites weipai.cn update yoyo12320141105
+    * [2014/12/18 14:55:28] [urlrule] sites weipai.cn update yiurdhe520
+    * [2014/12/18 14:55:25] [urlrule] sites weipai.cn update yi_sex_mei
+    * [2014/12/18 14:55:22] [urlrule] sites weipai.cn update yes丶
+    * [2014/12/18 14:55:20] [urlrule] sites weipai.cn update w女王a
+    * [2014/12/18 14:55:18] [urlrule] sites weipai.cn update vk_bb
+    * [2014/12/18 14:55:14] [urlrule] sites weipai.cn update vamipre小妖
     * [2014/12/18 14:54:53] [urlrule] sites weipai.cn update tina晨曦
     * [2014/12/18 14:54:51] [urlrule] sites weipai.cn update suna2411
     * [2014/12/18 14:54:49] [urlrule] sites weipai.cn update sukiyoyo001
