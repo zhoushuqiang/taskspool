@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 台灣出產-蜜卡妹子
+
+    * Begin : 2014/12/18 17:39:59
+    * End   : 2014/12/18 17:42:18
+    * Result: OK
+
 * [urlrule] sites weipai.cn update vamipre小妖
 
     * Begin : 2014/12/18 17:36:06
