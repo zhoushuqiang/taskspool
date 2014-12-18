@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE summer糖糖
+
+
+    * Begin : 2014/12/18 16:20:22
+    * End   : 2014/12/18 16:20:41
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 52e1d4dce3416757558b4581 summer糖糖
+
+
+    * Begin : 2014/12/18 16:20:21
+    * End   : 2014/12/18 16:20:22
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52e1d4dce3416757558b4581 summer糖糖
+
+
+    * Begin : 2014/12/18 16:20:21
+    * End   : 2014/12/18 16:20:21
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
 
     * Begin : 2014/12/18 16:20:07
