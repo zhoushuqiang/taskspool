@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 矢帘
+
+    * Begin : 2014/12/18 13:33:55
+    * End   : 2014/12/18 13:34:30
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 瞥瞥
+
+    * Begin : 2014/12/18 13:33:53
+    * End   : 2014/12/18 13:33:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 瞄小婷
+
+    * Begin : 2014/12/18 13:33:51
+    * End   : 2014/12/18 13:33:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 真子佳佳
+
+    * Begin : 2014/12/18 13:33:49
+    * End   : 2014/12/18 13:33:49
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 皇家国际-佳欲
 
     * Begin : 2014/12/18 13:33:26

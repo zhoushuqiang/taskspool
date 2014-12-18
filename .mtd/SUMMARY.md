@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 矢帘
+
+    * Begin : 2014/12/18 13:33:55
+    * End   : 2014/12/18 13:34:30
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 皇家国际-佳欲
 
     * Begin : 2014/12/18 13:33:26
