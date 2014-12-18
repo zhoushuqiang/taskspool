@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/19 01:09:40] [urlrule task] update urlrule/task/follows.txt
     * [2014/12/19 01:08:12] [urlrule] sites weipai.cn update penny佩佩
     * [2014/12/19 01:00:19] [urlrule] sites weipai.cn update Never沛妮
     * [2014/12/19 00:51:40] [urlrule] sites weipai.cn update 2014080137
@@ -216,6 +217,18 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/19 01:09:29] [urlrule] sites weipai.cn update tina晨曦
+    * [2014/12/19 01:09:26] [urlrule] sites weipai.cn update suna2411
+    * [2014/12/19 01:09:22] [urlrule] sites weipai.cn update summer糖糖
+    * [2014/12/19 01:09:17] [urlrule] sites weipai.cn update sukiyoyo001
+    * [2014/12/19 01:09:13] [urlrule] sites weipai.cn update suki_jiang
+    * [2014/12/19 01:09:10] [urlrule] sites weipai.cn update soso蕊
+    * [2014/12/19 01:09:06] [urlrule] sites vlook.cn update Toughgirl
+    * [2014/12/19 01:08:58] [urlrule] sites vlook.cn update shoujigujun1680
+    * [2014/12/19 01:08:52] [urlrule] sites weipai.cn update sack莎莎
+    * [2014/12/19 01:08:48] [urlrule] sites weipai.cn update sachiBabyJ
+    * [2014/12/19 01:08:44] [urlrule] sites vlook.cn update quanxinyue123
+    * [2014/12/19 01:08:38] [urlrule] sites weipai.cn update qinqin1995
     * [2014/12/19 01:07:50] [urlrule] sites weipai.cn update pengfang
     * [2014/12/19 01:07:47] [urlrule] sites weipai.cn update pandora莉莉
     * [2014/12/19 01:07:44] [urlrule] sites weipai.cn update oliviababy
