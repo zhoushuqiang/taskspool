@@ -1,3 +1,30 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
+
+    * Begin : 2014/12/18 14:13:22
+    * End   : 2014/12/18 14:13:34
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 王悠悠
+
+
+    * Begin : 2014/12/18 14:13:20
+    * End   : 2014/12/18 14:13:21
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 50d20ea77d3494ef7a0001e1 王悠悠
+
+
+    * Begin : 2014/12/18 14:13:20
+    * End   : 2014/12/18 14:13:20
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 50d20ea77d3494ef7a0001e1 王悠悠
+
+
+    * Begin : 2014/12/18 14:13:20
+    * End   : 2014/12/18 14:13:20
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE LLLL-喵喵
 
 
