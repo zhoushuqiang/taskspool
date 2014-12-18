@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE _倩倩
+
+
+    * Begin : 2014/12/18 14:04:47
+    * End   : 2014/12/18 14:05:13
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE summer糖糖
 
 

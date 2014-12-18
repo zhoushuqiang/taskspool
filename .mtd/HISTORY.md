@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn UPDATE _倩倩
+
+
+    * Begin : 2014/12/18 14:04:47
+    * End   : 2014/12/18 14:05:13
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 532d69324f4a1366588b45f7 _倩倩
+
+
+    * Begin : 2014/12/18 14:04:47
+    * End   : 2014/12/18 14:04:47
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 532d69324f4a1366588b45f7 _倩倩
+
+
+    * Begin : 2014/12/18 14:04:46
+    * End   : 2014/12/18 14:04:47
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 黒目瞳
+
+
+    * Begin : 2014/12/18 14:04:44
+    * End   : 2014/12/18 14:04:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 545737e5a8640b80428b4583 黒目瞳
+
+
+    * Begin : 2014/12/18 14:04:44
+    * End   : 2014/12/18 14:04:44
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 545737e5a8640b80428b4583 黒目瞳
+
+
+    * Begin : 2014/12/18 14:04:44
+    * End   : 2014/12/18 14:04:44
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE summer糖糖
 
 
