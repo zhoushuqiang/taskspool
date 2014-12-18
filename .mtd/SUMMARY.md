@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 屌丝福利小清新
+
+    * Begin : 2014/12/19 01:37:53
+    * End   : 2014/12/19 01:38:01
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 娇娇2014
 
     * Begin : 2014/12/19 01:31:42
