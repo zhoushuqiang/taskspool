@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 17:46:56] [urlrule] sites weipai.cn update 女神集团
     * [2014/12/18 17:46:38] [urlrule] sites weipai.cn update 女王女王陛下
     * [2014/12/18 17:44:43] [urlrule] sites weipai.cn update 周月月
     * [2014/12/18 17:42:18] [urlrule] sites weipai.cn update 台灣出產-蜜卡妹子
@@ -138,6 +139,7 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 17:46:53] [urlrule] sites weipai.cn update 女神情情
     * [2014/12/18 17:46:34] [urlrule] sites weipai.cn update 女侠桃花鹿
     * [2014/12/18 17:46:32] [urlrule] sites weipai.cn update 奈奈萌大奶
     * [2014/12/18 17:46:30] [urlrule] sites weipai.cn update 奇美女
