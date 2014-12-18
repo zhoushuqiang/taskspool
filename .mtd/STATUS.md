@@ -2,9 +2,13 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 13:31:58] [urlrule] sites weipai.cn update 珠宝定制-GIA国际证书
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 13:31:43] [urlrule] sites vlook.cn update 玩摄影Rayshen
+    * [2014/12/18 13:31:40] [urlrule] sites vlook.cn update 森玲
+    * [2014/12/18 13:31:36] [urlrule] sites weipai.cn update 王馨瑶
     * [2014/12/18 13:30:46] [urlrule] sites weipai.cn update 王籽文
     * [2014/12/18 13:30:45] [urlrule] sites weipai.cn update 王璐璐-Dasiy
     * [2014/12/18 13:30:43] [urlrule] sites weipai.cn update 王王王王-蕊

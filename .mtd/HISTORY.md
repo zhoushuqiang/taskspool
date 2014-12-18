@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 珠宝定制-GIA国际证书
+
+    * Begin : 2014/12/18 13:31:44
+    * End   : 2014/12/18 13:31:58
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 玩摄影Rayshen
+
+    * Begin : 2014/12/18 13:31:41
+    * End   : 2014/12/18 13:31:43
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 森玲
+
+    * Begin : 2014/12/18 13:31:38
+    * End   : 2014/12/18 13:31:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 王馨瑶
+
+    * Begin : 2014/12/18 13:31:36
+    * End   : 2014/12/18 13:31:36
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 王若楠1228
 
     * Begin : 2014/12/18 13:30:48

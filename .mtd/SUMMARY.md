@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 珠宝定制-GIA国际证书
+
+    * Begin : 2014/12/18 13:31:44
+    * End   : 2014/12/18 13:31:58
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 王若楠1228
 
     * Begin : 2014/12/18 13:30:48
