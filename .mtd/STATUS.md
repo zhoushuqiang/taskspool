@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/19 02:22:40] [urlrule] sites weipai.cn update 茜baby
     * [2014/12/19 02:18:05] [urlrule] sites weipai.cn update 芭比娃哈
     * [2014/12/19 02:16:53] [urlrule] sites weipai.cn update 艾舞kathy
     * [2014/12/19 02:09:19] [urlrule] sites weipai.cn update 瞄小婷
@@ -240,6 +241,19 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/19 02:19:30] [urlrule] sites weipai.cn update 茉莉_
+    * [2014/12/19 02:19:26] [urlrule] sites weipai.cn update 范范范小范
+    * [2014/12/19 02:19:22] [urlrule] sites weipai.cn update 范美熙Jennifer
+    * [2014/12/19 02:19:19] [urlrule] sites weipai.cn update 范琪
+    * [2014/12/19 02:19:15] [urlrule] sites vlook.cn update 若含baby
+    * [2014/12/19 02:19:08] [urlrule] sites weipai.cn update 若含_Princess
+    * [2014/12/19 02:19:05] [urlrule] sites weipai.cn update 苏柒杞
+    * [2014/12/19 02:18:57] [urlrule] sites weipai.cn update 苏夏妞妞
+    * [2014/12/19 02:18:53] [urlrule] sites weipai.cn update 花旗是个双面少女
+    * [2014/12/19 02:18:50] [urlrule] sites weipai.cn update 花小西
+    * [2014/12/19 02:18:47] [urlrule] sites vlook.cn update 芮涵Annabelle
+    * [2014/12/19 02:18:37] [urlrule] sites weipai.cn update 芮涵Annabelle
+    * [2014/12/19 02:18:34] [urlrule] sites weipai.cn update 芭芘李迪娅
     * [2014/12/19 02:18:01] [urlrule] sites weipai.cn update 芒果小懒猫
     * [2014/12/19 02:12:37] [urlrule] sites weipai.cn update 艾小爱
     * [2014/12/19 02:12:33] [urlrule] sites weipai.cn update 艾_笑笑

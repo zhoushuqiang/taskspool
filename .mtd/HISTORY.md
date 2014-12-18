@@ -1,3 +1,87 @@
+* [urlrule] sites weipai.cn update 茜baby
+
+    * Begin : 2014/12/19 02:19:32
+    * End   : 2014/12/19 02:22:40
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 茉莉_
+
+    * Begin : 2014/12/19 02:19:29
+    * End   : 2014/12/19 02:19:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 范范范小范
+
+    * Begin : 2014/12/19 02:19:25
+    * End   : 2014/12/19 02:19:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 范美熙Jennifer
+
+    * Begin : 2014/12/19 02:19:21
+    * End   : 2014/12/19 02:19:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 范琪
+
+    * Begin : 2014/12/19 02:19:18
+    * End   : 2014/12/19 02:19:19
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 若含baby
+
+    * Begin : 2014/12/19 02:19:11
+    * End   : 2014/12/19 02:19:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 若含_Princess
+
+    * Begin : 2014/12/19 02:19:07
+    * End   : 2014/12/19 02:19:08
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 苏柒杞
+
+    * Begin : 2014/12/19 02:19:04
+    * End   : 2014/12/19 02:19:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 苏夏妞妞
+
+    * Begin : 2014/12/19 02:18:55
+    * End   : 2014/12/19 02:18:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 花旗是个双面少女
+
+    * Begin : 2014/12/19 02:18:52
+    * End   : 2014/12/19 02:18:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 花小西
+
+    * Begin : 2014/12/19 02:18:49
+    * End   : 2014/12/19 02:18:50
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 芮涵Annabelle
+
+    * Begin : 2014/12/19 02:18:42
+    * End   : 2014/12/19 02:18:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 芮涵Annabelle
+
+    * Begin : 2014/12/19 02:18:36
+    * End   : 2014/12/19 02:18:37
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 芭芘李迪娅
+
+    * Begin : 2014/12/19 02:18:33
+    * End   : 2014/12/19 02:18:34
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 芭比娃哈
 
     * Begin : 2014/12/19 02:18:03
