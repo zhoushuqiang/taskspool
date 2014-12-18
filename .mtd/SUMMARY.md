@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 张芊芊
+
+    * Begin : 2014/12/19 06:05:52
+    * End   : 2014/12/19 06:05:54
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/19 06:04:15
