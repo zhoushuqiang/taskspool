@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Sweet-微
+
+    * Begin : 2014/12/18 14:47:29
+    * End   : 2014/12/18 14:47:51
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Sonwy_
 
     * Begin : 2014/12/18 14:46:07

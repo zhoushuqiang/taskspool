@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update Sweet-微
+
+    * Begin : 2014/12/18 14:47:29
+    * End   : 2014/12/18 14:47:51
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Suki_M
+
+    * Begin : 2014/12/18 14:47:27
+    * End   : 2014/12/18 14:47:28
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update SpookyG
+
+    * Begin : 2014/12/18 14:47:24
+    * End   : 2014/12/18 14:47:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Sooki莹莹孙
+
+    * Begin : 2014/12/18 14:47:19
+    * End   : 2014/12/18 14:47:20
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Sonwy_
 
     * Begin : 2014/12/18 14:46:07
