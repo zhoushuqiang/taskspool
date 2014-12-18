@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update DM靜兒
+
+    * Begin : 2014/12/18 14:38:08
+    * End   : 2014/12/18 14:39:52
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Baby华姿凯歌er
 
     * Begin : 2014/12/18 14:36:36
