@@ -1,3 +1,117 @@
+* [urlrule] sites weipai.cn update 201403085958
+
+    * Begin : 2014/12/19 00:49:49
+    * End   : 2014/12/19 00:50:27
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 20140221429
+
+    * Begin : 2014/12/19 00:49:43
+    * End   : 2014/12/19 00:49:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 20140110366
+
+    * Begin : 2014/12/19 00:49:14
+    * End   : 2014/12/19 00:49:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 20131211281
+
+    * Begin : 2014/12/19 00:49:11
+    * End   : 2014/12/19 00:49:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 18610561108
+
+    * Begin : 2014/12/19 00:49:07
+    * End   : 2014/12/19 00:49:08
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 1824329072宅女轩轩
+
+    * Begin : 2014/12/19 00:48:54
+    * End   : 2014/12/19 00:48:56
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 1824329072宅女轩轩
+
+    * Begin : 2014/12/19 00:48:48
+    * End   : 2014/12/19 00:48:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 16姐
+
+    * Begin : 2014/12/19 00:48:45
+    * End   : 2014/12/19 00:48:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 1589753
+
+    * Begin : 2014/12/19 00:48:42
+    * End   : 2014/12/19 00:48:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 1142058078
+
+    * Begin : 2014/12/19 00:48:33
+    * End   : 2014/12/19 00:48:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 10120
+
+    * Begin : 2014/12/19 00:48:27
+    * End   : 2014/12/19 00:48:31
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 0王妃0
+
+    * Begin : 2014/12/19 00:48:24
+    * End   : 2014/12/19 00:48:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn UPDATE 郑瑞熙_
+
+
+    * Begin : 2014/12/19 00:48:21
+    * End   : 2014/12/19 00:48:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 546b9e0ca5640b86798b456c 郑瑞熙_
+
+
+    * Begin : 2014/12/19 00:48:20
+    * End   : 2014/12/19 00:48:21
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 546b9e0ca5640b86798b456c 郑瑞熙_
+
+
+    * Begin : 2014/12/19 00:48:20
+    * End   : 2014/12/19 00:48:20
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 李李七七喜喜
+
+
+    * Begin : 2014/12/19 00:48:13
+    * End   : 2014/12/19 00:48:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53258990ebeddbe5798b459f 李李七七喜喜
+
+
+    * Begin : 2014/12/19 00:48:13
+    * End   : 2014/12/19 00:48:13
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53258990ebeddbe5798b459f 李李七七喜喜
+
+
+    * Begin : 2014/12/19 00:48:12
+    * End   : 2014/12/19 00:48:12
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2014/12/19 00:30:51
