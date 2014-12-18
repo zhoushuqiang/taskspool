@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 14:51:59] [urlrule] sites weipai.cn update _李好美
     * [2014/12/18 14:47:51] [urlrule] sites weipai.cn update Sweet-微
     * [2014/12/18 14:47:02] [urlrule] sites weipai.cn update Sonwy_
     * [2014/12/18 14:45:05] [urlrule] sites weipai.cn update ROSSY
@@ -62,6 +63,27 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 14:49:00] [urlrule] sites weipai.cn update _張丹丹
+    * [2014/12/18 14:48:58] [urlrule] sites weipai.cn update _娜娜
+    * [2014/12/18 14:48:56] [urlrule] sites weipai.cn update _刘爷
+    * [2014/12/18 14:48:54] [urlrule] sites weipai.cn update __张公子
+    * [2014/12/18 14:48:50] [urlrule] sites weipai.cn update __小韩韩
+    * [2014/12/18 14:48:48] [urlrule] sites weipai.cn update __妖涅
+    * [2014/12/18 14:48:46] [urlrule] sites weipai.cn update ___悦如
+    * [2014/12/18 14:48:43] [urlrule] sites weipai.cn update __Coco
+    * [2014/12/18 14:48:41] [urlrule] sites weipai.cn update _Miss梦
+    * [2014/12/18 14:48:39] [urlrule] sites weipai.cn update _Angelia燕子
+    * [2014/12/18 14:48:36] [urlrule] sites weipai.cn update Zz贞
+    * [2014/12/18 14:48:34] [urlrule] sites weipai.cn update ZeroDis
+    * [2014/12/18 14:48:32] [urlrule] sites vlook.cn update Yumi小旁友
+    * [2014/12/18 14:48:28] [urlrule] sites weipai.cn update V信qxs95002
+    * [2014/12/18 14:48:25] [urlrule] sites weipai.cn update Vicky777777
+    * [2014/12/18 14:48:23] [urlrule] sites weipai.cn update VV朗熙
+    * [2014/12/18 14:48:21] [urlrule] sites vlook.cn update VK_bb
+    * [2014/12/18 14:48:16] [urlrule] sites weipai.cn update Tomyli惋柔
+    * [2014/12/18 14:48:14] [urlrule] sites weipai.cn update TinaWong
+    * [2014/12/18 14:48:11] [urlrule] sites weipai.cn update Theonlylove
+    * [2014/12/18 14:48:06] [urlrule] sites weipai.cn update S小妹
     * [2014/12/18 14:47:28] [urlrule] sites weipai.cn update Suki_M
     * [2014/12/18 14:47:25] [urlrule] sites weipai.cn update SpookyG
     * [2014/12/18 14:47:20] [urlrule] sites weipai.cn update Sooki莹莹孙
