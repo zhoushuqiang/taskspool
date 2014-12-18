@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 大萨萨
+
+    * Begin : 2014/12/18 15:05:14
+    * End   : 2014/12/18 15:20:41
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 友熙酱
 
     * Begin : 2014/12/18 15:02:28
