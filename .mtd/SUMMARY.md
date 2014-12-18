@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE LLLL-喵喵
+
+
+    * Begin : 2014/12/18 20:02:39
+    * End   : 2014/12/18 20:03:24
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
 
     * Begin : 2014/12/18 19:51:19
