@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 米洁
+
+    * Begin : 2014/12/18 13:35:20
+    * End   : 2014/12/18 13:35:47
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 矢帘
 
     * Begin : 2014/12/18 13:33:55

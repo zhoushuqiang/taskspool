@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 13:35:47] [urlrule] sites weipai.cn update 米洁
     * [2014/12/18 13:34:30] [urlrule] sites weipai.cn update 矢帘
     * [2014/12/18 13:33:31] [urlrule] sites weipai.cn update 皇家国际-佳欲
     * [2014/12/18 13:33:08] [urlrule] sites weipai.cn update 白日不湿
@@ -10,6 +11,21 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 13:35:18] [urlrule] sites weipai.cn update 米拉贝拉Mirabella
+    * [2014/12/18 13:35:16] [urlrule] sites weipai.cn update 米小西
+    * [2014/12/18 13:35:13] [urlrule] sites weipai.cn update 米妮mini_20140821
+    * [2014/12/18 13:35:11] [urlrule] sites weipai.cn update 笑笑dem
+    * [2014/12/18 13:35:09] [urlrule] sites weipai.cn update 笑笑Sophia
+    * [2014/12/18 13:35:06] [urlrule] sites weipai.cn update 笑笑
+    * [2014/12/18 13:35:04] [urlrule] sites weipai.cn update 穿着高跟鞋跳芭蕾--
+    * [2014/12/18 13:35:02] [urlrule] sites weipai.cn update 空虚哥
+    * [2014/12/18 13:35:00] [urlrule] sites weipai.cn update 秦蕾
+    * [2014/12/18 13:34:58] [urlrule] sites weipai.cn update 秦勉叫冉冉
+    * [2014/12/18 13:34:56] [urlrule] sites weipai.cn update 私人空间
+    * [2014/12/18 13:34:54] [urlrule] sites weipai.cn update 神神神神神姐
+    * [2014/12/18 13:34:51] [urlrule] sites weipai.cn update 神仙姐姐__艾溪
+    * [2014/12/18 13:34:49] [urlrule] sites weipai.cn update 硬伦X妹
+    * [2014/12/18 13:34:47] [urlrule] sites weipai.cn update 知了
     * [2014/12/18 13:33:54] [urlrule] sites weipai.cn update 瞥瞥
     * [2014/12/18 13:33:52] [urlrule] sites weipai.cn update 瞄小婷
     * [2014/12/18 13:33:49] [urlrule] sites weipai.cn update 真子佳佳
