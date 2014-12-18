@@ -1,3 +1,87 @@
+* [urlrule] sites weipai.cn update 画泪听雨眠
+
+    * Begin : 2014/12/18 13:32:40
+    * End   : 2014/12/18 13:32:51
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 由咩咩
+
+    * Begin : 2014/12/18 13:32:38
+    * End   : 2014/12/18 13:32:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 田晓多tesia
+
+    * Begin : 2014/12/18 13:32:36
+    * End   : 2014/12/18 13:32:36
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 田君er
+
+    * Begin : 2014/12/18 13:32:34
+    * End   : 2014/12/18 13:32:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 生如夏花12
+
+    * Begin : 2014/12/18 13:32:32
+    * End   : 2014/12/18 13:32:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 甜美人angela
+
+    * Begin : 2014/12/18 13:32:29
+    * End   : 2014/12/18 13:32:30
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 甜心宝
+
+    * Begin : 2014/12/18 13:32:26
+    * End   : 2014/12/18 13:32:28
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 瓶宝宝
+
+    * Begin : 2014/12/18 13:32:23
+    * End   : 2014/12/18 13:32:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 璇子_Yvonne
+
+    * Begin : 2014/12/18 13:32:22
+    * End   : 2014/12/18 13:32:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 瑶瑶baby
+
+    * Begin : 2014/12/18 13:32:19
+    * End   : 2014/12/18 13:32:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 瑞莎国际
+
+    * Begin : 2014/12/18 13:32:17
+    * End   : 2014/12/18 13:32:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 瑜伽女神青文
+
+    * Begin : 2014/12/18 13:32:15
+    * End   : 2014/12/18 13:32:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 琪胖胖
+
+    * Begin : 2014/12/18 13:32:13
+    * End   : 2014/12/18 13:32:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 琦琦loveBaby
+
+    * Begin : 2014/12/18 13:32:11
+    * End   : 2014/12/18 13:32:12
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 珠宝定制-GIA国际证书
 
     * Begin : 2014/12/18 13:31:44
