@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn update 张姿彦
+
+    * Begin : 2014/12/18 21:58:14
+    * End   : 2014/12/18 21:59:14
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 张大Ber__r7
+
+    * Begin : 2014/12/18 21:58:11
+    * End   : 2014/12/18 21:58:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 广州莉莉玛莲酒吧小熙
+
+    * Begin : 2014/12/18 21:58:08
+    * End   : 2014/12/18 21:58:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 年轻没有什么不可以
+
+    * Begin : 2014/12/18 21:58:06
+    * End   : 2014/12/18 21:58:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 干毛毛
+
+    * Begin : 2014/12/18 21:58:03
+    * End   : 2014/12/18 21:58:04
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 帮主-杨筱敏
+
+    * Begin : 2014/12/18 21:57:54
+    * End   : 2014/12/18 21:58:01
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 帮主-杨筱敏
+
+    * Begin : 2014/12/18 21:57:51
+    * End   : 2014/12/18 21:57:52
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/18 21:57:33
