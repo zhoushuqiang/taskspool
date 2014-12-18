@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 15:02:58] [urlrule] sites vlook.cn update 友熙酱
     * [2014/12/18 15:02:12] [urlrule] sites weipai.cn update 友熙酱
     * [2014/12/18 15:00:31] [urlrule] sites weipai.cn update 前任攻略
     * [2014/12/18 14:58:10] [urlrule] sites weipai.cn update 乐怡
