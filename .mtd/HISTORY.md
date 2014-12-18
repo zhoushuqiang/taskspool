@@ -1,3 +1,171 @@
+* [urlrule] sites weipai.cn update 大萨萨
+
+    * Begin : 2014/12/19 01:26:07
+    * End   : 2014/12/19 01:27:49
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 大芹
+
+    * Begin : 2014/12/19 01:26:02
+    * End   : 2014/12/19 01:26:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 大美露
+
+    * Begin : 2014/12/19 01:25:58
+    * End   : 2014/12/19 01:26:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 大牙大牙大雅莉
+
+    * Begin : 2014/12/19 01:25:55
+    * End   : 2014/12/19 01:25:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 大朴朴
+
+    * Begin : 2014/12/19 01:25:51
+    * End   : 2014/12/19 01:25:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 大木木彡
+
+    * Begin : 2014/12/19 01:25:48
+    * End   : 2014/12/19 01:25:49
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 大拿MM
+
+    * Begin : 2014/12/19 01:25:45
+    * End   : 2014/12/19 01:25:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 大妞范经纪人满林
+
+    * Begin : 2014/12/19 01:25:41
+    * End   : 2014/12/19 01:25:42
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 大妞范慧子
+
+    * Begin : 2014/12/19 01:25:38
+    * End   : 2014/12/19 01:25:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 大妞范
+
+    * Begin : 2014/12/19 01:25:34
+    * End   : 2014/12/19 01:25:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 大国GEE
+
+    * Begin : 2014/12/19 01:25:30
+    * End   : 2014/12/19 01:25:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 多多lgh
+
+    * Begin : 2014/12/19 01:25:25
+    * End   : 2014/12/19 01:25:28
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 夕夕Y
+
+    * Begin : 2014/12/19 01:25:19
+    * End   : 2014/12/19 01:25:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 夏美熙泽
+
+    * Begin : 2014/12/19 01:25:15
+    * End   : 2014/12/19 01:25:17
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 夏婉婉Bonnie
+
+    * Begin : 2014/12/19 01:25:11
+    * End   : 2014/12/19 01:25:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 夏凉宸Ala
+
+    * Begin : 2014/12/19 01:25:05
+    * End   : 2014/12/19 01:25:09
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 夏baby小花
+
+    * Begin : 2014/12/19 01:24:59
+    * End   : 2014/12/19 01:25:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 夏baby小花
+
+    * Begin : 2014/12/19 01:24:56
+    * End   : 2014/12/19 01:24:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 坎蒂斯小姐
+
+    * Begin : 2014/12/19 01:24:53
+    * End   : 2014/12/19 01:24:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 地表最強-高潮製造機
+
+    * Begin : 2014/12/19 01:23:50
+    * End   : 2014/12/19 01:24:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 圈圈圈圈圈儿
+
+    * Begin : 2014/12/19 01:23:46
+    * End   : 2014/12/19 01:23:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 国际潘
+
+    * Begin : 2014/12/19 01:23:41
+    * End   : 2014/12/19 01:23:42
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 因为爱所以爱20141029
+
+    * Begin : 2014/12/19 01:23:36
+    * End   : 2014/12/19 01:23:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 四爷Siri
+
+    * Begin : 2014/12/19 01:23:33
+    * End   : 2014/12/19 01:23:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 嘟嘟女士
+
+    * Begin : 2014/12/19 01:23:30
+    * End   : 2014/12/19 01:23:31
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 嘉昕
+
+    * Begin : 2014/12/19 01:23:27
+    * End   : 2014/12/19 01:23:28
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 唐馨baby
+
+    * Begin : 2014/12/19 01:23:22
+    * End   : 2014/12/19 01:23:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 响姐----
+
+    * Begin : 2014/12/19 01:23:18
+    * End   : 2014/12/19 01:23:20
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 哈力牛仔
 
     * Begin : 2014/12/19 01:22:24

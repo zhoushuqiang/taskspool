@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/19 01:27:49] [urlrule] sites weipai.cn update 大萨萨
     * [2014/12/19 01:22:53] [urlrule] sites weipai.cn update 哈力牛仔
     * [2014/12/19 01:20:51] [urlrule] sites weipai.cn update 台灣出產-蜜卡妹子
     * [2014/12/19 01:19:10] [urlrule] sites weipai.cn update 古小丽Lily
@@ -223,6 +224,33 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/19 01:26:05] [urlrule] sites weipai.cn update 大芹
+    * [2014/12/19 01:26:00] [urlrule] sites weipai.cn update 大美露
+    * [2014/12/19 01:25:56] [urlrule] sites weipai.cn update 大牙大牙大雅莉
+    * [2014/12/19 01:25:52] [urlrule] sites weipai.cn update 大朴朴
+    * [2014/12/19 01:25:49] [urlrule] sites weipai.cn update 大木木彡
+    * [2014/12/19 01:25:46] [urlrule] sites weipai.cn update 大拿MM
+    * [2014/12/19 01:25:42] [urlrule] sites weipai.cn update 大妞范经纪人满林
+    * [2014/12/19 01:25:39] [urlrule] sites weipai.cn update 大妞范慧子
+    * [2014/12/19 01:25:35] [urlrule] sites weipai.cn update 大妞范
+    * [2014/12/19 01:25:32] [urlrule] sites weipai.cn update 大国GEE
+    * [2014/12/19 01:25:28] [urlrule] sites weipai.cn update 多多lgh
+    * [2014/12/19 01:25:23] [urlrule] sites weipai.cn update 夕夕Y
+    * [2014/12/19 01:25:17] [urlrule] sites weipai.cn update 夏美熙泽
+    * [2014/12/19 01:25:13] [urlrule] sites weipai.cn update 夏婉婉Bonnie
+    * [2014/12/19 01:25:09] [urlrule] sites weipai.cn update 夏凉宸Ala
+    * [2014/12/19 01:25:03] [urlrule] sites vlook.cn update 夏baby小花
+    * [2014/12/19 01:24:57] [urlrule] sites weipai.cn update 夏baby小花
+    * [2014/12/19 01:24:54] [urlrule] sites weipai.cn update 坎蒂斯小姐
+    * [2014/12/19 01:24:51] [urlrule] sites weipai.cn update 地表最強-高潮製造機
+    * [2014/12/19 01:23:47] [urlrule] sites weipai.cn update 圈圈圈圈圈儿
+    * [2014/12/19 01:23:42] [urlrule] sites weipai.cn update 国际潘
+    * [2014/12/19 01:23:39] [urlrule] sites weipai.cn update 因为爱所以爱20141029
+    * [2014/12/19 01:23:34] [urlrule] sites weipai.cn update 四爷Siri
+    * [2014/12/19 01:23:31] [urlrule] sites weipai.cn update 嘟嘟女士
+    * [2014/12/19 01:23:28] [urlrule] sites weipai.cn update 嘉昕
+    * [2014/12/19 01:23:25] [urlrule] sites weipai.cn update 唐馨baby
+    * [2014/12/19 01:23:20] [urlrule] sites weipai.cn update 响姐----
     * [2014/12/19 01:22:22] [urlrule] sites vlook.cn update 咪咪宝贝爱爱
     * [2014/12/19 01:22:16] [urlrule] sites weipai.cn update 咪-Queen
     * [2014/12/19 01:22:12] [urlrule] sites weipai.cn update 周珊珊shine
