@@ -1,3 +1,17 @@
+* [urlrule] sites weipai.cn follow 54197170a6640bb8278b4581 莫晓颜
+
+
+    * Begin : 2014/12/18 13:52:53
+    * End   : 2014/12/18 13:52:53
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 54197170a6640bb8278b4581 莫晓颜
+
+
+    * Begin : 2014/12/18 13:52:53
+    * End   : 2014/12/18 13:52:53
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
 
     * Begin : 2014/12/18 13:52:37
