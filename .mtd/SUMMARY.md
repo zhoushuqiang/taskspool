@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 暗黑小萝莉
+
+    * Begin : 2014/12/18 17:59:50
+    * End   : 2014/12/18 18:05:17
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 张芊芊
 
     * Begin : 2014/12/18 17:57:20
