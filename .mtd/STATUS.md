@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/19 01:54:01] [urlrule] sites weipai.cn update 杨大人
     * [2014/12/19 01:50:38] [urlrule] sites weipai.cn update 曹欣妮s
     * [2014/12/19 01:44:43] [urlrule] sites weipai.cn update 懒虫baby
     * [2014/12/19 01:42:01] [urlrule] sites weipai.cn update 张芊芊
@@ -232,6 +233,26 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/19 01:52:20] [urlrule] sites vlook.cn update 来不及疼痛
+    * [2014/12/19 01:52:14] [urlrule] sites vlook.cn update 李颖芝
+    * [2014/12/19 01:52:09] [urlrule] sites weipai.cn update 李豪Joylee
+    * [2014/12/19 01:52:05] [urlrule] sites weipai.cn update 李萌萌护肤美美哒
+    * [2014/12/19 01:51:58] [urlrule] sites weipai.cn update 李点点儿
+    * [2014/12/19 01:51:55] [urlrule] sites weipai.cn update 李朝蛟-Bie
+    * [2014/12/19 01:51:52] [urlrule] sites weipai.cn update 李怡静1118
+    * [2014/12/19 01:51:48] [urlrule] sites vlook.cn update 李思闻
+    * [2014/12/19 01:51:42] [urlrule] sites weipai.cn update 李思闻
+    * [2014/12/19 01:51:37] [urlrule] sites weipai.cn update 李思桐儿
+    * [2014/12/19 01:51:33] [urlrule] sites weipai.cn update 李妍呢
+    * [2014/12/19 01:51:27] [urlrule] sites weipai.cn update 李佳洁妞儿
+    * [2014/12/19 01:51:23] [urlrule] sites weipai.cn update 李云666
+    * [2014/12/19 01:51:19] [urlrule] sites weipai.cn update 李七喜
+    * [2014/12/19 01:51:16] [urlrule] sites weipai.cn update 朵朵猪
+    * [2014/12/19 01:51:13] [urlrule] sites weipai.cn update 朱小璐-nini
+    * [2014/12/19 01:51:10] [urlrule] sites weipai.cn update 最美的太阳20140822
+    * [2014/12/19 01:51:06] [urlrule] sites weipai.cn update 曾贾
+    * [2014/12/19 01:51:03] [urlrule] sites weipai.cn update 曼丽LXL
+    * [2014/12/19 01:51:00] [urlrule] sites weipai.cn update 曹紫涵
     * [2014/12/19 01:46:58] [urlrule] sites weipai.cn update 曲珈叶
     * [2014/12/19 01:46:55] [urlrule] sites weipai.cn update 暗黑小萝莉
     * [2014/12/19 01:46:52] [urlrule] sites weipai.cn update 晴海洋
