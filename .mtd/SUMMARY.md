@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update ROSSY
+
+    * Begin : 2014/12/18 14:44:41
+    * End   : 2014/12/18 14:45:05
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Diva_狄娃
 
     * Begin : 2014/12/18 14:40:15

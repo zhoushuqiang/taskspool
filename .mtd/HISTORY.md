@@ -1,3 +1,249 @@
+* [urlrule] sites weipai.cn update ROSSY
+
+    * Begin : 2014/12/18 14:44:41
+    * End   : 2014/12/18 14:45:05
+    * Result: OK
+
+* [urlrule] sites weipai.cn update RAE-瑞儿
+
+    * Begin : 2014/12/18 14:44:39
+    * End   : 2014/12/18 14:44:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Queen-婷婷
+
+    * Begin : 2014/12/18 14:44:36
+    * End   : 2014/12/18 14:44:37
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Q1335467161
+
+    * Begin : 2014/12/18 14:44:25
+    * End   : 2014/12/18 14:44:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update PAPAGAO-
+
+    * Begin : 2014/12/18 14:44:22
+    * End   : 2014/12/18 14:44:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Never沛妮
+
+    * Begin : 2014/12/18 14:44:20
+    * End   : 2014/12/18 14:44:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update NZL-妮子梁
+
+    * Begin : 2014/12/18 14:44:17
+    * End   : 2014/12/18 14:44:17
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Ms琳
+
+    * Begin : 2014/12/18 14:44:13
+    * End   : 2014/12/18 14:44:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Monika1991
+
+    * Begin : 2014/12/18 14:44:11
+    * End   : 2014/12/18 14:44:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Miya_妈咪
+
+    * Begin : 2014/12/18 14:44:08
+    * End   : 2014/12/18 14:44:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Miranda-Kerr
+
+    * Begin : 2014/12/18 14:44:06
+    * End   : 2014/12/18 14:44:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Mia丫丫C
+
+    * Begin : 2014/12/18 14:44:03
+    * End   : 2014/12/18 14:44:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Miao雪
+
+    * Begin : 2014/12/18 14:44:01
+    * End   : 2014/12/18 14:44:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Maggie李嘉麒
+
+    * Begin : 2014/12/18 14:43:59
+    * End   : 2014/12/18 14:43:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update MISS小丝雨
+
+    * Begin : 2014/12/18 14:43:56
+    * End   : 2014/12/18 14:43:57
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update MISS小丝雨
+
+    * Begin : 2014/12/18 14:43:52
+    * End   : 2014/12/18 14:43:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update MISS小丝雨
+
+    * Begin : 2014/12/18 14:43:49
+    * End   : 2014/12/18 14:43:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Lusibaby000
+
+    * Begin : 2014/12/18 14:43:47
+    * End   : 2014/12/18 14:43:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Lulu罗小鹿
+
+    * Begin : 2014/12/18 14:43:44
+    * End   : 2014/12/18 14:43:45
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Love雞排妹
+
+    * Begin : 2014/12/18 14:43:40
+    * End   : 2014/12/18 14:43:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Lolita4ever
+
+    * Begin : 2014/12/18 14:43:37
+    * End   : 2014/12/18 14:43:37
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Katherine陳佳妮
+
+    * Begin : 2014/12/18 14:43:32
+    * End   : 2014/12/18 14:43:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update J小姐20140401
+
+    * Begin : 2014/12/18 14:43:30
+    * End   : 2014/12/18 14:43:30
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update JunBaby
+
+    * Begin : 2014/12/18 14:43:25
+    * End   : 2014/12/18 14:43:28
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Jun20141205
+
+    * Begin : 2014/12/18 14:43:23
+    * End   : 2014/12/18 14:43:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Jocelyn_晶
+
+    * Begin : 2014/12/18 14:43:21
+    * End   : 2014/12/18 14:43:21
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Joanbaby倩
+
+    * Begin : 2014/12/18 14:43:17
+    * End   : 2014/12/18 14:43:19
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Hugme20141119
+
+    * Begin : 2014/12/18 14:43:15
+    * End   : 2014/12/18 14:43:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update HellenBaby_
+
+    * Begin : 2014/12/18 14:43:12
+    * End   : 2014/12/18 14:43:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Godismyfather
+
+    * Begin : 2014/12/18 14:43:10
+    * End   : 2014/12/18 14:43:11
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Gaby_Kim金慧嫄
+
+    * Begin : 2014/12/18 14:43:06
+    * End   : 2014/12/18 14:43:08
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Fox_00
+
+    * Begin : 2014/12/18 14:43:04
+    * End   : 2014/12/18 14:43:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Fiy
+
+    * Begin : 2014/12/18 14:43:02
+    * End   : 2014/12/18 14:43:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update EverdayBaby
+
+    * Begin : 2014/12/18 14:42:59
+    * End   : 2014/12/18 14:43:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Elise谭晓彤
+
+    * Begin : 2014/12/18 14:42:57
+    * End   : 2014/12/18 14:42:57
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Elise谭晓彤
+
+    * Begin : 2014/12/18 14:42:54
+    * End   : 2014/12/18 14:42:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Elise谭晓彤
+
+    * Begin : 2014/12/18 14:42:51
+    * End   : 2014/12/18 14:42:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Djkkrmx慧玲
+
+    * Begin : 2014/12/18 14:42:49
+    * End   : 2014/12/18 14:42:49
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Dj_kelly
+
+    * Begin : 2014/12/18 14:42:48
+    * End   : 2014/12/18 14:42:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Dj_kelly
+
+    * Begin : 2014/12/18 14:42:45
+    * End   : 2014/12/18 14:42:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update DjTina
+
+    * Begin : 2014/12/18 14:42:42
+    * End   : 2014/12/18 14:42:43
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Diva_狄娃
 
     * Begin : 2014/12/18 14:40:15
