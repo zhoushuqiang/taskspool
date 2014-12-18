@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 乱搞砖家
+
+    * Begin : 2014/12/19 01:14:39
+    * End   : 2014/12/19 01:15:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 丝月阁
 
     * Begin : 2014/12/19 01:12:53

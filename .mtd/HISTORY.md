@@ -1,3 +1,57 @@
+* [urlrule] sites weipai.cn update 乱搞砖家
+
+    * Begin : 2014/12/19 01:14:39
+    * End   : 2014/12/19 01:15:12
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 乔宝宝i
+
+    * Begin : 2014/12/19 01:14:35
+    * End   : 2014/12/19 01:14:37
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 乐怡
+
+    * Begin : 2014/12/19 01:14:26
+    * End   : 2014/12/19 01:14:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丽嫂zyk
+
+    * Begin : 2014/12/19 01:14:07
+    * End   : 2014/12/19 01:14:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丹梦妮ooloo
+
+    * Begin : 2014/12/19 01:14:02
+    * End   : 2014/12/19 01:14:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 两只小蜜蜂丫
+
+    * Begin : 2014/12/19 01:13:57
+    * End   : 2014/12/19 01:13:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丝绸裹着性感福利号
+
+    * Begin : 2014/12/19 01:13:47
+    * End   : 2014/12/19 01:13:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丝绸裹着性感
+
+    * Begin : 2014/12/19 01:13:39
+    * End   : 2014/12/19 01:13:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丝绸裹着性感2
+
+    * Begin : 2014/12/19 01:13:34
+    * End   : 2014/12/19 01:13:36
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 丝月阁
 
     * Begin : 2014/12/19 01:12:53
