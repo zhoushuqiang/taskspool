@@ -1,3 +1,63 @@
+* [urlrule] sites weipai.cn update 宝宝倩
+
+    * Begin : 2014/12/18 21:52:00
+    * End   : 2014/12/18 21:52:25
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 宜官官
+
+    * Begin : 2014/12/18 21:51:57
+    * End   : 2014/12/18 21:51:58
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 宋小猫cat
+
+    * Begin : 2014/12/18 21:51:49
+    * End   : 2014/12/18 21:51:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 宋小猫cat
+
+    * Begin : 2014/12/18 21:51:46
+    * End   : 2014/12/18 21:51:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 宋佳baby
+
+    * Begin : 2014/12/18 21:51:43
+    * End   : 2014/12/18 21:51:44
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 安瑞甜
+
+    * Begin : 2014/12/18 21:51:34
+    * End   : 2014/12/18 21:51:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 安瑞甜
+
+    * Begin : 2014/12/18 21:51:32
+    * End   : 2014/12/18 21:51:33
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 安妮makeup
+
+    * Begin : 2014/12/18 21:51:29
+    * End   : 2014/12/18 21:51:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 安妮Annie
+
+    * Begin : 2014/12/18 21:51:26
+    * End   : 2014/12/18 21:51:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 安之拉
+
+    * Begin : 2014/12/18 21:51:23
+    * End   : 2014/12/18 21:51:24
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 孤独患者
 
     * Begin : 2014/12/18 21:50:58

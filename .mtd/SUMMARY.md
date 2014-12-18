@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 宝宝倩
+
+    * Begin : 2014/12/18 21:52:00
+    * End   : 2014/12/18 21:52:25
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 孤独患者
 
     * Begin : 2014/12/18 21:50:58
