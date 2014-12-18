@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 5458457ca5640ba7668b4597 LLLL-喵喵
-
 * Finished:
+    * [2014/12/18 14:13:03] [urlrule] sites weipai.cn UPDATE LLLL-喵喵
+
     * [2014/12/18 14:11:40] [urlrule] sites weipai.cn follow 5458457ca5640ba7668b4597 LLLL-喵喵
 
     * [2014/12/18 14:11:20] [urlrule] sites weipai.cn UPDATE SaSaking

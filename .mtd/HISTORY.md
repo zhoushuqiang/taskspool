@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE LLLL-喵喵
+
+
+    * Begin : 2014/12/18 14:11:54
+    * End   : 2014/12/18 14:13:03
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5458457ca5640ba7668b4597 LLLL-喵喵
 
 
