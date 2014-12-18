@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update ANGELG
+
+    * Begin : 2014/12/18 17:27:45
+    * End   : 2014/12/18 17:27:55
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2014/12/18 17:26:04
