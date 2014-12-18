@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 铁粉1号
+
+    * Begin : 2014/12/19 02:27:43
+    * End   : 2014/12/19 02:28:09
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 虞梦-宝贝
 
     * Begin : 2014/12/19 02:24:49
