@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 5458457ca5640ba7668b4597 LLLL-喵喵
+
 * Finished:
+    * [2014/12/18 14:11:40] [urlrule] sites weipai.cn follow 5458457ca5640ba7668b4597 LLLL-喵喵
+
     * [2014/12/18 14:11:20] [urlrule] sites weipai.cn UPDATE SaSaking
 
     * [2014/12/18 14:05:37] [urlrule] sites weipai.cn follow 531227fb4f4a136a298b45d6 SaSaking
@@ -43,6 +48,14 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 14:11:39] [urlrule] sites weipai.cn add 5458457ca5640ba7668b4597 LLLL-喵喵
+
+    * [2014/12/18 14:11:38] [urlrule] sites weipai.cn UPDATE 20141246849
+
+    * [2014/12/18 14:11:37] [urlrule] sites weipai.cn follow 5472d768a5640b124e8b457f 20141246849
+
+    * [2014/12/18 14:11:36] [urlrule] sites weipai.cn add 5472d768a5640b124e8b457f 20141246849
+
     * [2014/12/18 14:05:37] [urlrule] sites weipai.cn add 531227fb4f4a136a298b45d6 SaSaking
 
     * [2014/12/18 14:05:35] [urlrule] sites weipai.cn UPDATE 刘培雨雨小熊

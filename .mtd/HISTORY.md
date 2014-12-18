@@ -1,3 +1,38 @@
+* [urlrule] sites weipai.cn follow 5458457ca5640ba7668b4597 LLLL-喵喵
+
+
+    * Begin : 2014/12/18 14:11:39
+    * End   : 2014/12/18 14:11:40
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 5458457ca5640ba7668b4597 LLLL-喵喵
+
+
+    * Begin : 2014/12/18 14:11:39
+    * End   : 2014/12/18 14:11:39
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 20141246849
+
+
+    * Begin : 2014/12/18 14:11:37
+    * End   : 2014/12/18 14:11:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5472d768a5640b124e8b457f 20141246849
+
+
+    * Begin : 2014/12/18 14:11:36
+    * End   : 2014/12/18 14:11:37
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5472d768a5640b124e8b457f 20141246849
+
+
+    * Begin : 2014/12/18 14:11:36
+    * End   : 2014/12/18 14:11:36
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE SaSaking
 
 
