@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 小也慧子
+
+    * Begin : 2014/12/18 15:27:33
+    * End   : 2014/12/18 15:28:29
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 小乔流水
+
+    * Begin : 2014/12/18 15:27:31
+    * End   : 2014/12/18 15:27:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小乔Cheryl
+
+    * Begin : 2014/12/18 15:27:29
+    * End   : 2014/12/18 15:27:29
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小qiqi总爱凑美呦
+
+    * Begin : 2014/12/18 15:27:26
+    * End   : 2014/12/18 15:27:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 对你着了迷
+
+    * Begin : 2014/12/18 15:27:24
+    * End   : 2014/12/18 15:27:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 寂寞姐姐
+
+    * Begin : 2014/12/18 15:27:22
+    * End   : 2014/12/18 15:27:22
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 家菱
 
     * Begin : 2014/12/18 15:26:30
