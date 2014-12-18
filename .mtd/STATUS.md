@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 15:27:05] [urlrule] sites weipai.cn update 家菱
     * [2014/12/18 15:25:46] [urlrule] sites weipai.cn update 安妮makeup
     * [2014/12/18 15:23:06] [urlrule] sites vlook.cn update 姚雪
     * [2014/12/18 15:21:44] [urlrule] sites weipai.cn update 女神集团
@@ -75,6 +76,15 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 15:26:29] [urlrule] sites weipai.cn update 家妹xxoo
+    * [2014/12/18 15:26:26] [urlrule] sites weipai.cn update 宝小丁
+    * [2014/12/18 15:26:24] [urlrule] sites weipai.cn update 宝宝倩
+    * [2014/12/18 15:26:22] [urlrule] sites weipai.cn update 宜官官
+    * [2014/12/18 15:26:20] [urlrule] sites vlook.cn update 宋小猫cat
+    * [2014/12/18 15:26:15] [urlrule] sites weipai.cn update 宋小猫cat
+    * [2014/12/18 15:26:12] [urlrule] sites weipai.cn update 宋佳baby
+    * [2014/12/18 15:26:09] [urlrule] sites vlook.cn update 安瑞甜
+    * [2014/12/18 15:26:04] [urlrule] sites weipai.cn update 安瑞甜
     * [2014/12/18 15:24:21] [urlrule] sites weipai.cn update 安妮Annie
     * [2014/12/18 15:24:18] [urlrule] sites weipai.cn update 安之拉
     * [2014/12/18 15:24:16] [urlrule] sites weipai.cn update 孤独患者
