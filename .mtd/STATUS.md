@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 17:01:46] [urlrule] sites weipai.cn update 陈语乔
     * [2014/12/18 16:58:20] [urlrule] sites weipai.cn update 薇妮BABY
     * [2014/12/18 16:56:33] [urlrule] sites weipai.cn update 芭比娃哈
     * [2014/12/18 16:56:03] [urlrule] sites weipai.cn update 芒果小懒猫
@@ -121,6 +122,59 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 17:00:42] [urlrule] sites weipai.cn update 陈芯儿
+    * [2014/12/18 17:00:40] [urlrule] sites weipai.cn update 陈美琳Mandy
+    * [2014/12/18 17:00:37] [urlrule] sites weipai.cn update 陈柔轩Michel
+    * [2014/12/18 17:00:35] [urlrule] sites vlook.cn update 陈怡曼coco
+    * [2014/12/18 17:00:31] [urlrule] sites weipai.cn update 陈子萱vivi
+    * [2014/12/18 17:00:29] [urlrule] sites weipai.cn update 陈子萱vivi
+    * [2014/12/18 17:00:27] [urlrule] sites vlook.cn update 陈大榕
+    * [2014/12/18 17:00:22] [urlrule] sites weipai.cn update 陈大榕
+    * [2014/12/18 17:00:20] [urlrule] sites weipai.cn update 陈可鑫
+    * [2014/12/18 17:00:18] [urlrule] sites weipai.cn update 陈依萌宝贝
+    * [2014/12/18 17:00:16] [urlrule] sites weipai.cn update 陈世媄
+    * [2014/12/18 17:00:14] [urlrule] sites vlook.cn update 陆晨依
+    * [2014/12/18 17:00:09] [urlrule] sites weipai.cn update 陆晨依
+    * [2014/12/18 17:00:07] [urlrule] sites weipai.cn update 阿鑫很浮躁
+    * [2014/12/18 17:00:05] [urlrule] sites weipai.cn update 阿朵拉Adora
+    * [2014/12/18 17:00:03] [urlrule] sites vlook.cn update 长裙飘飘21
+    * [2014/12/18 16:59:59] [urlrule] sites weipai.cn update 长裙飘飘21
+    * [2014/12/18 16:59:57] [urlrule] sites weipai.cn update 铁粉1号
+    * [2014/12/18 16:59:55] [urlrule] sites weipai.cn update 钱小美
+    * [2014/12/18 16:59:52] [urlrule] sites weipai.cn update 钟紫心
+    * [2014/12/18 16:59:50] [urlrule] sites weipai.cn update 金金金金小沙
+    * [2014/12/18 16:59:48] [urlrule] sites weipai.cn update 重头再来20141107
+    * [2014/12/18 16:59:46] [urlrule] sites vlook.cn update 酔熱舆Beer
+    * [2014/12/18 16:59:42] [urlrule] sites weipai.cn update 酒窝妹子
+    * [2014/12/18 16:59:40] [urlrule] sites weipai.cn update 酒才是最忠诚的男朋友
+    * [2014/12/18 16:59:38] [urlrule] sites weipai.cn update 郑菲儿
+    * [2014/12/18 16:59:36] [urlrule] sites weipai.cn update 郑瑞熙_
+    * [2014/12/18 16:59:34] [urlrule] sites weipai.cn update 郑安然
+    * [2014/12/18 16:59:32] [urlrule] sites weipai.cn update 邻家猴猴
+    * [2014/12/18 16:59:30] [urlrule] sites weipai.cn update 逐光流云20140912
+    * [2014/12/18 16:59:28] [urlrule] sites weipai.cn update 近色怡人
+    * [2014/12/18 16:59:26] [urlrule] sites weipai.cn update 辣妈ai美丽
+    * [2014/12/18 16:59:23] [urlrule] sites vlook.cn update 软萌妹
+    * [2014/12/18 16:59:20] [urlrule] sites weipai.cn update 赵有根
+    * [2014/12/18 16:59:18] [urlrule] sites weipai.cn update 豆妞妞
+    * [2014/12/18 16:59:15] [urlrule] sites weipai.cn update 谭昙
+    * [2014/12/18 16:59:13] [urlrule] sites weipai.cn update 请叫我二爷_Su
+    * [2014/12/18 16:59:11] [urlrule] sites weipai.cn update 语儿
+    * [2014/12/18 16:59:09] [urlrule] sites weipai.cn update 诗梓佳Kitty
+    * [2014/12/18 16:59:07] [urlrule] sites weipai.cn update 诗卉95113
+    * [2014/12/18 16:59:05] [urlrule] sites weipai.cn update 许小雪S
+    * [2014/12/18 16:59:03] [urlrule] sites weipai.cn update 許曼妮
+    * [2014/12/18 16:59:00] [urlrule] sites weipai.cn update 角落宝贝
+    * [2014/12/18 16:58:58] [urlrule] sites weipai.cn update 西瓜姑娘
+    * [2014/12/18 16:58:56] [urlrule] sites vlook.cn update 表表表
+    * [2014/12/18 16:58:52] [urlrule] sites weipai.cn update 表妹baby
+    * [2014/12/18 16:58:50] [urlrule] sites weipai.cn update 蜜蜜波
+    * [2014/12/18 16:58:48] [urlrule] sites weipai.cn update 蛇蛇姜瑾芝
+    * [2014/12/18 16:58:45] [urlrule] sites weipai.cn update 蛇精病---
+    * [2014/12/18 16:58:43] [urlrule] sites weipai.cn update 虞梦-宝贝
+    * [2014/12/18 16:58:41] [urlrule] sites vlook.cn update 虞梦-宝贝
+    * [2014/12/18 16:58:37] [urlrule] sites weipai.cn update 虞梦-宝贝
+    * [2014/12/18 16:58:35] [urlrule] sites weipai.cn update 薰衣草20131022
     * [2014/12/18 16:58:17] [urlrule] sites weipai.cn update 蕃茄你是誰的西紅柿
     * [2014/12/18 16:58:15] [urlrule] sites weipai.cn update 蓝色的港湾20140821
     * [2014/12/18 16:58:12] [urlrule] sites vlook.cn update 蒙丽伊
