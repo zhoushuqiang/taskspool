@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 安妮makeup
+
+
+    * Begin : 2014/12/18 17:22:55
+    * End   : 2014/12/18 17:23:30
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
 
     * Begin : 2014/12/18 17:11:41
