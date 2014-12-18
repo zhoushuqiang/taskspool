@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/19 05:26:41] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
     * [2014/12/19 05:19:37] [urlrule] sites weipai.cn UPDATE Alla-王愛
 
     * [2014/12/19 05:11:37] [urlrule] sites weipai.cn update 薇妮BABY
@@ -286,6 +287,24 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/19 05:20:16] [urlrule] sites weipai.cn UPDATE 淼菟菟-
+
+    * [2014/12/19 05:20:14] [urlrule] sites weipai.cn follow 531f3a3aebeddb5e508b45a4 淼菟菟-
+
+    * [2014/12/19 05:20:13] [urlrule] sites weipai.cn add 531f3a3aebeddb5e508b45a4 淼菟菟-
+
+    * [2014/12/19 05:20:10] [urlrule] sites weipai.cn UPDATE 画泪听雨眠
+
+    * [2014/12/19 05:20:09] [urlrule] sites weipai.cn follow 515f6dfb7f34942f6500000a 画泪听雨眠
+
+    * [2014/12/19 05:20:07] [urlrule] sites weipai.cn add 515f6dfb7f34942f6500000a 画泪听雨眠
+
+    * [2014/12/19 05:20:03] [urlrule] sites weipai.cn UPDATE 萌萌焕
+
+    * [2014/12/19 05:20:01] [urlrule] sites weipai.cn follow 52b5c3daebeddbfa358b4567 萌萌焕
+
+    * [2014/12/19 05:20:00] [urlrule] sites weipai.cn add 52b5c3daebeddbfa358b4567 萌萌焕
+
     * [2014/12/19 05:19:24] [urlrule] sites weipai.cn follow 52e192f179d3cceb238b45a0 Alla-王愛
 
     * [2014/12/19 05:19:23] [urlrule] sites weipai.cn add 52e192f179d3cceb238b45a0 Alla-王愛

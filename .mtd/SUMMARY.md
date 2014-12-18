@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
+
+    * Begin : 2014/12/19 05:20:18
+    * End   : 2014/12/19 05:26:41
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE Alla-王愛
 
 

@@ -1,3 +1,72 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
+
+    * Begin : 2014/12/19 05:20:18
+    * End   : 2014/12/19 05:26:41
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 淼菟菟-
+
+
+    * Begin : 2014/12/19 05:20:15
+    * End   : 2014/12/19 05:20:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 531f3a3aebeddb5e508b45a4 淼菟菟-
+
+
+    * Begin : 2014/12/19 05:20:13
+    * End   : 2014/12/19 05:20:14
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 531f3a3aebeddb5e508b45a4 淼菟菟-
+
+
+    * Begin : 2014/12/19 05:20:12
+    * End   : 2014/12/19 05:20:13
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 画泪听雨眠
+
+
+    * Begin : 2014/12/19 05:20:09
+    * End   : 2014/12/19 05:20:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 515f6dfb7f34942f6500000a 画泪听雨眠
+
+
+    * Begin : 2014/12/19 05:20:07
+    * End   : 2014/12/19 05:20:09
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 515f6dfb7f34942f6500000a 画泪听雨眠
+
+
+    * Begin : 2014/12/19 05:20:06
+    * End   : 2014/12/19 05:20:07
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 萌萌焕
+
+
+    * Begin : 2014/12/19 05:20:03
+    * End   : 2014/12/19 05:20:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52b5c3daebeddbfa358b4567 萌萌焕
+
+
+    * Begin : 2014/12/19 05:20:01
+    * End   : 2014/12/19 05:20:01
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52b5c3daebeddbfa358b4567 萌萌焕
+
+
+    * Begin : 2014/12/19 05:20:00
+    * End   : 2014/12/19 05:20:00
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE Alla-王愛
 
 
