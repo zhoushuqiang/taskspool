@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 15:34:37] [urlrule] sites weipai.cn update 悦儿yummy
     * [2014/12/18 15:32:05] [urlrule] sites weipai.cn update 张芊芊
     * [2014/12/18 15:31:06] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/18 15:29:45] [urlrule] sites weipai.cn update 小燃燃baby
@@ -80,6 +81,27 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 15:33:12] [urlrule] sites weipai.cn update 恋姗妮
+    * [2014/12/18 15:33:10] [urlrule] sites vlook.cn update 性感女神研研
+    * [2014/12/18 15:33:06] [urlrule] sites weipai.cn update 性感像多花
+    * [2014/12/18 15:33:04] [urlrule] sites weipai.cn update 忧伤的黄瓜1
+    * [2014/12/18 15:33:02] [urlrule] sites weipai.cn update 忧伤的小麻雀
+    * [2014/12/18 15:33:00] [urlrule] sites vlook.cn update 心蕾Abby
+    * [2014/12/18 15:32:56] [urlrule] sites weipai.cn update 心宁儿cecilia
+    * [2014/12/18 15:32:53] [urlrule] sites weipai.cn update 微拍精品福利--
+    * [2014/12/18 15:32:50] [urlrule] sites weipai.cn update 微拍娱乐圈
+    * [2014/12/18 15:32:48] [urlrule] sites weipai.cn update 微拍三少爷
+    * [2014/12/18 15:32:46] [urlrule] sites weipai.cn update 微我信av0006789
+    * [2014/12/18 15:32:44] [urlrule] sites weipai.cn update 微子baby
+    * [2014/12/18 15:32:41] [urlrule] sites weipai.cn update 微信itangcc
+    * [2014/12/18 15:32:39] [urlrule] sites weipai.cn update 徐茜儿
+    * [2014/12/18 15:32:36] [urlrule] sites weipai.cn update 徐美儿
+    * [2014/12/18 15:32:34] [urlrule] sites weipai.cn update 徐妍馨Mandy
+    * [2014/12/18 15:32:31] [urlrule] sites weipai.cn update 张馨馨Maggie
+    * [2014/12/18 15:32:29] [urlrule] sites weipai.cn update 张露_Betty
+    * [2014/12/18 15:32:26] [urlrule] sites weipai.cn update 张鑫Amy
+    * [2014/12/18 15:32:24] [urlrule] sites weipai.cn update 张若兰
+    * [2014/12/18 15:32:21] [urlrule] sites weipai.cn update 张若兰
     * [2014/12/18 15:32:02] [urlrule] sites weipai.cn update 张美荧
     * [2014/12/18 15:31:58] [urlrule] sites weipai.cn update 张瑶isa
     * [2014/12/18 15:31:56] [urlrule] sites weipai.cn update 张江南同学
