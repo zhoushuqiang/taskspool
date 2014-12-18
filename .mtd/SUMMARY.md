@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update kimoon
+
+    * Begin : 2014/12/18 14:53:03
+    * End   : 2014/12/18 14:53:27
+    * Result: OK
+
 * [urlrule] sites weipai.cn update _李好美
 
     * Begin : 2014/12/18 14:49:02
