@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 洛可馨
+
+    * Begin : 2014/12/18 18:21:29
+    * End   : 2014/12/18 18:21:34
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 波波小姐
+
+    * Begin : 2014/12/18 18:21:27
+    * End   : 2014/12/18 18:21:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 没有鼻梁的姑娘
+
+    * Begin : 2014/12/18 18:21:24
+    * End   : 2014/12/18 18:21:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 沈希JOY
+
+    * Begin : 2014/12/18 18:21:22
+    * End   : 2014/12/18 18:21:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 江宣
+
+    * Begin : 2014/12/18 18:21:20
+    * End   : 2014/12/18 18:21:21
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 汉小仙
+
+    * Begin : 2014/12/18 18:21:18
+    * End   : 2014/12/18 18:21:18
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 水蜜桃子
 
     * Begin : 2014/12/18 18:21:01
