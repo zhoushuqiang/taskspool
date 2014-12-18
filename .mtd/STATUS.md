@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 16:21:35] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
     * [2014/12/18 16:21:20] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
     * [2014/12/18 16:20:41] [urlrule] sites weipai.cn UPDATE summer糖糖
 
