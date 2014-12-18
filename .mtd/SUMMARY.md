@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 王语纯baby
+
+
+    * Begin : 2014/12/18 13:54:03
+    * End   : 2014/12/18 14:00:03
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 546c8daaa5640b577f8b458f 王语纯baby
 
 

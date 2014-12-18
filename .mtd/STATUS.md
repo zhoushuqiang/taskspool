@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 546c8daaa5640b577f8b458f 王语纯baby
-
 * Finished:
+    * [2014/12/18 14:00:03] [urlrule] sites weipai.cn UPDATE 王语纯baby
+
     * [2014/12/18 13:53:49] [urlrule] sites weipai.cn follow 546c8daaa5640b577f8b458f 王语纯baby
 
     * [2014/12/18 13:53:32] [urlrule] sites weipai.cn UPDATE 莫晓颜
