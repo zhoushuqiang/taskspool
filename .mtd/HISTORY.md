@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 最美的太阳20140822
+
+    * Begin : 2014/12/18 18:05:43
+    * End   : 2014/12/18 18:06:28
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 曾贾
+
+    * Begin : 2014/12/18 18:05:40
+    * End   : 2014/12/18 18:05:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曼丽LXL
+
+    * Begin : 2014/12/18 18:05:38
+    * End   : 2014/12/18 18:05:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曹紫涵
+
+    * Begin : 2014/12/18 18:05:36
+    * End   : 2014/12/18 18:05:37
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曹欣妮s
+
+    * Begin : 2014/12/18 18:05:33
+    * End   : 2014/12/18 18:05:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曲珈叶
+
+    * Begin : 2014/12/18 18:05:31
+    * End   : 2014/12/18 18:05:32
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 暗黑小萝莉
 
     * Begin : 2014/12/18 17:59:50
