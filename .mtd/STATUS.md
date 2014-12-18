@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 15:42:41] [urlrule] sites weipai.cn update 玉baby
     * [2014/12/18 15:41:01] [urlrule] sites weipai.cn update 洛可馨
     * [2014/12/18 15:40:29] [urlrule] sites weipai.cn update 水蜜桃子
     * [2014/12/18 15:39:13] [urlrule] sites weipai.cn update 林歆蕊Q286312385
@@ -85,6 +86,28 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 15:42:17] [urlrule] sites vlook.cn update 猫小咪Queen
+    * [2014/12/18 15:42:13] [urlrule] sites weipai.cn update 猫小咪Queen
+    * [2014/12/18 15:42:11] [urlrule] sites weipai.cn update 猫大人是猫大人
+    * [2014/12/18 15:42:08] [urlrule] sites vlook.cn update 猫一样的女人猫 伊莲的小衣橱
+    * [2014/12/18 15:42:04] [urlrule] sites weipai.cn update 独爱简单控
+    * [2014/12/18 15:42:02] [urlrule] sites weipai.cn update 狐狸要成精LZ去死
+    * [2014/12/18 15:42:00] [urlrule] sites weipai.cn update 爱爱微拍
+    * [2014/12/18 15:41:58] [urlrule] sites weipai.cn update 燕囡囡
+    * [2014/12/18 15:41:55] [urlrule] sites vlook.cn update 熙悦儿丶
+    * [2014/12/18 15:41:51] [urlrule] sites weipai.cn update 熊葵
+    * [2014/12/18 15:41:48] [urlrule] sites weipai.cn update 然又又
+    * [2014/12/18 15:41:46] [urlrule] sites vlook.cn update 激情一夏
+    * [2014/12/18 15:41:41] [urlrule] sites weipai.cn update 澄小兔
+    * [2014/12/18 15:41:38] [urlrule] sites weipai.cn update 潘潘20140413
+    * [2014/12/18 15:41:35] [urlrule] sites weipai.cn update 潘小云云
+    * [2014/12/18 15:41:33] [urlrule] sites weipai.cn update 满天都是小鑫鑫_
+    * [2014/12/18 15:41:30] [urlrule] sites weipai.cn update 溅行溅美
+    * [2014/12/18 15:41:26] [urlrule] sites weipai.cn update 湯大师
+    * [2014/12/18 15:41:24] [urlrule] sites weipai.cn update 混血演员安娜
+    * [2014/12/18 15:41:22] [urlrule] sites weipai.cn update 涵肉肉
+    * [2014/12/18 15:41:19] [urlrule] sites weipai.cn update 浮生若梦
+    * [2014/12/18 15:41:17] [urlrule] sites weipai.cn update 洛熙爱爱
     * [2014/12/18 15:40:57] [urlrule] sites weipai.cn update 波波小姐
     * [2014/12/18 15:40:54] [urlrule] sites weipai.cn update 没有鼻梁的姑娘
     * [2014/12/18 15:40:52] [urlrule] sites weipai.cn update 沈希JOY
