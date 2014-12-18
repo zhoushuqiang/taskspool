@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Baby华姿凯歌er
+
+    * Begin : 2014/12/18 14:36:36
+    * End   : 2014/12/18 14:36:53
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Aigirl拽丫头
 
     * Begin : 2014/12/18 14:35:15
