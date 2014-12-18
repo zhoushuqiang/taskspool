@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 22:13:32] [urlrule] sites weipai.cn update 最美的太阳20140822
     * [2014/12/18 22:11:37] [urlrule] sites weipai.cn update 晕死的大白兔
     * [2014/12/18 22:08:43] [urlrule] sites weipai.cn update 悦儿yummy
     * [2014/12/18 22:05:50] [urlrule] sites weipai.cn update 张芊芊
@@ -188,6 +189,15 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 22:12:18] [urlrule] sites weipai.cn update 曾贾
+    * [2014/12/18 22:12:16] [urlrule] sites weipai.cn update 曼丽LXL
+    * [2014/12/18 22:12:13] [urlrule] sites weipai.cn update 曹紫涵
+    * [2014/12/18 22:12:10] [urlrule] sites weipai.cn update 曹欣妮s
+    * [2014/12/18 22:12:07] [urlrule] sites weipai.cn update 曲珈叶
+    * [2014/12/18 22:12:05] [urlrule] sites weipai.cn update 暗黑小萝莉
+    * [2014/12/18 22:12:02] [urlrule] sites weipai.cn update 晴海洋
+    * [2014/12/18 22:12:00] [urlrule] sites weipai.cn update 景小姐景小姐
+    * [2014/12/18 22:11:57] [urlrule] sites weipai.cn update 晨yoka
     * [2014/12/18 22:10:22] [urlrule] sites weipai.cn update 晓彗大大大
     * [2014/12/18 22:10:19] [urlrule] sites weipai.cn update 晓卉日记
     * [2014/12/18 22:10:17] [urlrule] sites weipai.cn update 早晚整死你

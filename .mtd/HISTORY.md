@@ -1,3 +1,63 @@
+* [urlrule] sites weipai.cn update 最美的太阳20140822
+
+    * Begin : 2014/12/18 22:12:20
+    * End   : 2014/12/18 22:13:32
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 曾贾
+
+    * Begin : 2014/12/18 22:12:18
+    * End   : 2014/12/18 22:12:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曼丽LXL
+
+    * Begin : 2014/12/18 22:12:15
+    * End   : 2014/12/18 22:12:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曹紫涵
+
+    * Begin : 2014/12/18 22:12:12
+    * End   : 2014/12/18 22:12:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曹欣妮s
+
+    * Begin : 2014/12/18 22:12:09
+    * End   : 2014/12/18 22:12:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曲珈叶
+
+    * Begin : 2014/12/18 22:12:06
+    * End   : 2014/12/18 22:12:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 暗黑小萝莉
+
+    * Begin : 2014/12/18 22:12:04
+    * End   : 2014/12/18 22:12:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 晴海洋
+
+    * Begin : 2014/12/18 22:12:01
+    * End   : 2014/12/18 22:12:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 景小姐景小姐
+
+    * Begin : 2014/12/18 22:11:59
+    * End   : 2014/12/18 22:12:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 晨yoka
+
+    * Begin : 2014/12/18 22:11:56
+    * End   : 2014/12/18 22:11:57
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 晕死的大白兔
 
     * Begin : 2014/12/18 22:10:24
