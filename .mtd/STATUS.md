@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 16:43:13] [urlrule] sites weipai.cn update 张芊芊
     * [2014/12/18 16:42:19] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/18 16:40:05] [urlrule] sites weipai.cn update 安妮makeup
     * [2014/12/18 16:37:46] [urlrule] sites weipai.cn update 女神集团
@@ -111,6 +112,21 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 16:43:10] [urlrule] sites weipai.cn update 张美荧
+    * [2014/12/18 16:43:07] [urlrule] sites weipai.cn update 张瑶isa
+    * [2014/12/18 16:43:05] [urlrule] sites weipai.cn update 张江南同学
+    * [2014/12/18 16:43:03] [urlrule] sites weipai.cn update 张栩菲-ManGo
+    * [2014/12/18 16:43:01] [urlrule] sites weipai.cn update 张春雪v
+    * [2014/12/18 16:42:59] [urlrule] sites vlook.cn update 张心儿Bella
+    * [2014/12/18 16:42:54] [urlrule] sites vlook.cn update 张心儿
+    * [2014/12/18 16:42:51] [urlrule] sites vlook.cn update 张已桂
+    * [2014/12/18 16:42:47] [urlrule] sites weipai.cn update 张姿彦
+    * [2014/12/18 16:42:45] [urlrule] sites weipai.cn update 张大Ber__r7
+    * [2014/12/18 16:42:43] [urlrule] sites weipai.cn update 广州莉莉玛莲酒吧小熙
+    * [2014/12/18 16:42:41] [urlrule] sites weipai.cn update 年轻没有什么不可以
+    * [2014/12/18 16:42:39] [urlrule] sites weipai.cn update 干毛毛
+    * [2014/12/18 16:42:37] [urlrule] sites vlook.cn update 帮主-杨筱敏
+    * [2014/12/18 16:42:33] [urlrule] sites weipai.cn update 帮主-杨筱敏
     * [2014/12/18 16:42:16] [urlrule] sites weipai.cn update 尤物大王
     * [2014/12/18 16:42:14] [urlrule] sites weipai.cn update 尢金金
     * [2014/12/18 16:42:12] [urlrule] sites weipai.cn update 小静qq765998665
