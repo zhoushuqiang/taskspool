@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE summer糖糖
+
+
+    * Begin : 2014/12/18 14:01:40
+    * End   : 2014/12/18 14:04:29
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 52e1d4dce3416757558b4581 summer糖糖
 
 

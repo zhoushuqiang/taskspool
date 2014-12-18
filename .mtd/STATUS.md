@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 52e1d4dce3416757558b4581 summer糖糖
-
 * Finished:
+    * [2014/12/18 14:04:29] [urlrule] sites weipai.cn UPDATE summer糖糖
+
     * [2014/12/18 14:01:25] [urlrule] sites weipai.cn follow 52e1d4dce3416757558b4581 summer糖糖
 
     * [2014/12/18 14:01:10] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
