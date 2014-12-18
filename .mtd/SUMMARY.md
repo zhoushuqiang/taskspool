@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
+
+    * Begin : 2014/12/18 23:02:02
+    * End   : 2014/12/18 23:15:47
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 魚你你你你你
 
     * Begin : 2014/12/18 22:59:55
