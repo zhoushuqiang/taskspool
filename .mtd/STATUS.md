@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 52e1d4dce3416757558b4581 summer糖糖
+
 * Finished:
+    * [2014/12/18 14:01:25] [urlrule] sites weipai.cn follow 52e1d4dce3416757558b4581 summer糖糖
+
     * [2014/12/18 14:01:10] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
     * [2014/12/18 14:00:53] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/18 14:00:03] [urlrule] sites weipai.cn UPDATE 王语纯baby
@@ -33,6 +38,8 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 14:01:24] [urlrule] sites weipai.cn add 52e1d4dce3416757558b4581 summer糖糖
+
     * [2014/12/18 14:00:47] [urlrule] sites weipai.cn UPDATE 吴婉婷wwt
 
     * [2014/12/18 14:00:47] [urlrule] sites weipai.cn follow 50f8ff597f3494a702000066 吴婉婷wwt
