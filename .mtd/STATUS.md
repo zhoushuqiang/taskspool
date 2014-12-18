@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/18 15:29:45] [urlrule] sites weipai.cn update 小燃燃baby
     * [2014/12/18 15:28:29] [urlrule] sites weipai.cn update 小也慧子
     * [2014/12/18 15:27:05] [urlrule] sites weipai.cn update 家菱
     * [2014/12/18 15:25:46] [urlrule] sites weipai.cn update 安妮makeup
@@ -77,6 +78,18 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/18 15:29:12] [urlrule] sites weipai.cn update 小柔L
+    * [2014/12/18 15:29:10] [urlrule] sites weipai.cn update 小晴天baby
+    * [2014/12/18 15:29:07] [urlrule] sites weipai.cn update 小惡魔Linsey
+    * [2014/12/18 15:29:05] [urlrule] sites weipai.cn update 小情绪纷纷扰扰
+    * [2014/12/18 15:29:02] [urlrule] sites weipai.cn update 小小美mmmmmm
+    * [2014/12/18 15:28:59] [urlrule] sites weipai.cn update 小小小小米
+    * [2014/12/18 15:28:57] [urlrule] sites weipai.cn update 小将士
+    * [2014/12/18 15:28:55] [urlrule] sites weipai.cn update 小容嬷嬷
+    * [2014/12/18 15:28:53] [urlrule] sites weipai.cn update 小妮仔
+    * [2014/12/18 15:28:50] [urlrule] sites weipai.cn update 小如如
+    * [2014/12/18 15:28:48] [urlrule] sites weipai.cn update 小可爱mmd
+    * [2014/12/18 15:28:46] [urlrule] sites weipai.cn update 小仓老师
     * [2014/12/18 15:27:32] [urlrule] sites weipai.cn update 小乔流水
     * [2014/12/18 15:27:29] [urlrule] sites weipai.cn update 小乔Cheryl
     * [2014/12/18 15:27:27] [urlrule] sites weipai.cn update 小qiqi总爱凑美呦

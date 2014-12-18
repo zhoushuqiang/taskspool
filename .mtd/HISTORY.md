@@ -1,3 +1,81 @@
+* [urlrule] sites weipai.cn update 小燃燃baby
+
+    * Begin : 2014/12/18 15:29:14
+    * End   : 2014/12/18 15:29:45
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 小柔L
+
+    * Begin : 2014/12/18 15:29:11
+    * End   : 2014/12/18 15:29:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小晴天baby
+
+    * Begin : 2014/12/18 15:29:09
+    * End   : 2014/12/18 15:29:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小惡魔Linsey
+
+    * Begin : 2014/12/18 15:29:06
+    * End   : 2014/12/18 15:29:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小情绪纷纷扰扰
+
+    * Begin : 2014/12/18 15:29:04
+    * End   : 2014/12/18 15:29:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小小美mmmmmm
+
+    * Begin : 2014/12/18 15:29:01
+    * End   : 2014/12/18 15:29:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小小小小米
+
+    * Begin : 2014/12/18 15:28:59
+    * End   : 2014/12/18 15:28:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小将士
+
+    * Begin : 2014/12/18 15:28:56
+    * End   : 2014/12/18 15:28:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小容嬷嬷
+
+    * Begin : 2014/12/18 15:28:54
+    * End   : 2014/12/18 15:28:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小妮仔
+
+    * Begin : 2014/12/18 15:28:52
+    * End   : 2014/12/18 15:28:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小如如
+
+    * Begin : 2014/12/18 15:28:50
+    * End   : 2014/12/18 15:28:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小可爱mmd
+
+    * Begin : 2014/12/18 15:28:48
+    * End   : 2014/12/18 15:28:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小仓老师
+
+    * Begin : 2014/12/18 15:28:45
+    * End   : 2014/12/18 15:28:46
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 小也慧子
 
     * Begin : 2014/12/18 15:27:33
