@@ -1,3 +1,30 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
+
+    * Begin : 2014/12/19 16:42:01
+    * End   : 2014/12/19 16:46:01
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 高尚kiko
+
+
+    * Begin : 2014/12/19 16:41:57
+    * End   : 2014/12/19 16:41:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 50eda2fe7d34948e2f000036 高尚kiko
+
+
+    * Begin : 2014/12/19 16:41:56
+    * End   : 2014/12/19 16:41:57
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 50eda2fe7d34948e2f000036 高尚kiko
+
+
+    * Begin : 2014/12/19 16:41:56
+    * End   : 2014/12/19 16:41:56
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 
     * Begin : 2014/12/19 16:31:32
