@@ -1,3 +1,33 @@
+* [urlrule task] update urlrule/task/follows.txt
+
+    * Begin : 2014/12/20 00:45:28
+    * End   : 2014/12/20 00:45:34
+    * Result: OK
+
+* [urlrule] sites weipai.cn update tina晨曦
+
+    * Begin : 2014/12/20 00:45:24
+    * End   : 2014/12/20 00:45:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update suna2411
+
+    * Begin : 2014/12/20 00:45:21
+    * End   : 2014/12/20 00:45:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update summer糖糖
+
+    * Begin : 2014/12/20 00:45:17
+    * End   : 2014/12/20 00:45:19
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update sukiyoyo001
+
+    * Begin : 2014/12/20 00:45:14
+    * End   : 2014/12/20 00:45:15
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update suki_jiang
 
     * Begin : 2014/12/20 00:44:39
