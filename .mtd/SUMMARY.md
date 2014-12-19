@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Lolita4ever
+
+    * Begin : 2014/12/20 03:02:59
+    * End   : 2014/12/20 03:03:21
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 1142058078
 
     * Begin : 2014/12/20 02:52:19
