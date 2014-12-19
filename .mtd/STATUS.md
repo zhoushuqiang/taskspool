@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 02:09:36] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/20 02:06:54] [urlrule] sites weipai.cn UPDATE 梦游娃娃
 
     * [2014/12/20 02:05:57] [urlrule] sites weipai.cn follow 526cdc605e7feba10b8b457f 梦游娃娃
