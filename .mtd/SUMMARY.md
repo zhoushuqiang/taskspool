@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 杨大人
+
+    * Begin : 2014/12/19 18:07:53
+    * End   : 2014/12/19 18:20:48
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 悦儿yummy
 
     * Begin : 2014/12/19 18:01:39
