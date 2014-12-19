@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/19 11:25:58] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
     * [2014/12/19 11:25:44] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/19 11:24:48] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
     * [2014/12/19 11:24:34] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
