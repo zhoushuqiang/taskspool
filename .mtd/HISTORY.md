@@ -1,3 +1,93 @@
+* [urlrule] sites weipai.cn update 韩田稀
+
+    * Begin : 2014/12/19 19:17:39
+    * End   : 2014/12/19 19:18:49
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 韩田稀
+
+    * Begin : 2014/12/19 19:17:36
+    * End   : 2014/12/19 19:17:37
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 韩昕怡Summer
+
+    * Begin : 2014/12/19 19:17:26
+    * End   : 2014/12/19 19:17:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩媚希
+
+    * Begin : 2014/12/19 19:17:23
+    * End   : 2014/12/19 19:17:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩士博
+
+    * Begin : 2014/12/19 19:17:20
+    * End   : 2014/12/19 19:17:21
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 静静韩妆护肤
+
+    * Begin : 2014/12/19 19:17:18
+    * End   : 2014/12/19 19:17:19
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 静静的微笑
+
+    * Begin : 2014/12/19 19:17:16
+    * End   : 2014/12/19 19:17:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 露滴
+
+    * Begin : 2014/12/19 19:17:13
+    * End   : 2014/12/19 19:17:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 雷婷婷Baby
+
+    * Begin : 2014/12/19 19:17:10
+    * End   : 2014/12/19 19:17:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 雨辰Raina
+
+    * Begin : 2014/12/19 19:17:08
+    * End   : 2014/12/19 19:17:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 雨020141120
+
+    * Begin : 2014/12/19 19:17:05
+    * End   : 2014/12/19 19:17:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 雅蒂Atind
+
+    * Begin : 2014/12/19 19:17:02
+    * End   : 2014/12/19 19:17:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 雅沁
+
+    * Begin : 2014/12/19 19:17:00
+    * End   : 2014/12/19 19:17:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 随遇而安20140415
+
+    * Begin : 2014/12/19 19:16:57
+    * End   : 2014/12/19 19:16:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陛下陛下女王王
+
+    * Begin : 2014/12/19 19:16:54
+    * End   : 2014/12/19 19:16:55
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 陈语乔
 
     * Begin : 2014/12/19 19:15:04
