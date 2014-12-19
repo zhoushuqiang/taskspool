@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 02:49:35] [urlrule] sites weipai.cn UPDATE 薇妮BABY
+
     * [2014/12/20 02:48:53] [urlrule] sites weipai.cn UPDATE 琳琳baby
 
     * [2014/12/20 02:47:16] [urlrule] sites weipai.cn follow 52dc303979d3cca32f8b4590 琳琳baby
@@ -558,6 +560,22 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 02:49:31] [urlrule] sites weipai.cn follow 5446fec2a6640b10708b4578 薇妮BABY
+
+    * [2014/12/20 02:49:29] [urlrule] sites weipai.cn add 5446fec2a6640b10708b4578 薇妮BABY
+
+    * [2014/12/20 02:49:26] [urlrule] sites weipai.cn UPDATE 邻家茜茜
+
+    * [2014/12/20 02:49:24] [urlrule] sites weipai.cn follow 52c10b83a07f0338598b4568 邻家茜茜
+
+    * [2014/12/20 02:49:19] [urlrule] sites weipai.cn add 52c10b83a07f0338598b4568 邻家茜茜
+
+    * [2014/12/20 02:49:16] [urlrule] sites weipai.cn UPDATE C小宝宝
+
+    * [2014/12/20 02:49:15] [urlrule] sites weipai.cn follow 5433a420a6640ba2588b45a3 C小宝宝
+
+    * [2014/12/20 02:49:13] [urlrule] sites weipai.cn add 5433a420a6640ba2588b45a3 C小宝宝
+
     * [2014/12/20 02:47:14] [urlrule] sites weipai.cn add 52dc303979d3cca32f8b4590 琳琳baby
 
     * [2014/12/20 02:47:07] [urlrule] sites weipai.cn UPDATE 范范范小范

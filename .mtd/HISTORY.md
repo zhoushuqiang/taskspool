@@ -1,3 +1,66 @@
+* [urlrule] sites weipai.cn UPDATE 薇妮BABY
+
+
+    * Begin : 2014/12/20 02:49:33
+    * End   : 2014/12/20 02:49:35
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 5446fec2a6640b10708b4578 薇妮BABY
+
+
+    * Begin : 2014/12/20 02:49:31
+    * End   : 2014/12/20 02:49:31
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5446fec2a6640b10708b4578 薇妮BABY
+
+
+    * Begin : 2014/12/20 02:49:29
+    * End   : 2014/12/20 02:49:29
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 邻家茜茜
+
+
+    * Begin : 2014/12/20 02:49:25
+    * End   : 2014/12/20 02:49:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52c10b83a07f0338598b4568 邻家茜茜
+
+
+    * Begin : 2014/12/20 02:49:23
+    * End   : 2014/12/20 02:49:24
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52c10b83a07f0338598b4568 邻家茜茜
+
+
+    * Begin : 2014/12/20 02:49:19
+    * End   : 2014/12/20 02:49:19
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE C小宝宝
+
+
+    * Begin : 2014/12/20 02:49:15
+    * End   : 2014/12/20 02:49:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5433a420a6640ba2588b45a3 C小宝宝
+
+
+    * Begin : 2014/12/20 02:49:14
+    * End   : 2014/12/20 02:49:15
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5433a420a6640ba2588b45a3 C小宝宝
+
+
+    * Begin : 2014/12/20 02:49:13
+    * End   : 2014/12/20 02:49:13
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 琳琳baby
 
 
