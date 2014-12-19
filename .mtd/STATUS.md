@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 00:55:53] [urlrule] sites weipai.cn update 呗呗兔
     * [2014/12/20 00:53:56] [urlrule] sites weipai.cn update 劉點點dotey_
     * [2014/12/20 00:52:29] [urlrule] sites weipai.cn update 内涵姐姐
     * [2014/12/20 00:50:42] [urlrule] sites weipai.cn update 于安朵
@@ -511,6 +512,27 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 00:55:29] [urlrule] sites weipai.cn update 吴雨晴
+    * [2014/12/20 00:55:25] [urlrule] sites weipai.cn update 吴美昕Yumi
+    * [2014/12/20 00:55:22] [urlrule] sites weipai.cn update 吴红珊
+    * [2014/12/20 00:55:17] [urlrule] sites weipai.cn update 吴婉婷
+    * [2014/12/20 00:55:14] [urlrule] sites weipai.cn update 吕夫人
+    * [2014/12/20 00:55:11] [urlrule] sites weipai.cn update 叶豆豆_baby
+    * [2014/12/20 00:55:07] [urlrule] sites weipai.cn update 叶子-Anna
+    * [2014/12/20 00:55:04] [urlrule] sites weipai.cn update 台灣出產-蜜卡妹子
+    * [2014/12/20 00:55:01] [urlrule] sites weipai.cn update 可爱娃娃性感辣妈
+    * [2014/12/20 00:54:57] [urlrule] sites weipai.cn update 可是我叫__Zll
+    * [2014/12/20 00:54:53] [urlrule] sites weipai.cn update 可儿可儿
+    * [2014/12/20 00:54:50] [urlrule] sites weipai.cn update 叫我超哥
+    * [2014/12/20 00:54:47] [urlrule] sites weipai.cn update 叫丽媽咪
+    * [2014/12/20 00:54:43] [urlrule] sites weipai.cn update 古小丽Lily
+    * [2014/12/20 00:54:40] [urlrule] sites vlook.cn update 友熙酱
+    * [2014/12/20 00:54:33] [urlrule] sites weipai.cn update 友熙酱
+    * [2014/12/20 00:54:30] [urlrule] sites weipai.cn update 卢灵儿
+    * [2014/12/20 00:54:26] [urlrule] sites weipai.cn update 卢思云
+    * [2014/12/20 00:54:23] [urlrule] sites vlook.cn update 北娃大王
+    * [2014/12/20 00:54:19] [urlrule] sites weipai.cn update 北娃大王
+    * [2014/12/20 00:54:16] [urlrule] sites weipai.cn update 勤妹儿
     * [2014/12/20 00:53:22] [urlrule] sites weipai.cn update 前任攻略
     * [2014/12/20 00:53:19] [urlrule] sites weipai.cn update 初家小雪
     * [2014/12/20 00:53:15] [urlrule] sites weipai.cn update 刘雯雯darling
