@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 悦儿yummy
+
+    * Begin : 2014/12/19 18:01:39
+    * End   : 2014/12/19 18:04:30
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 徐美儿
 
     * Begin : 2014/12/19 17:55:16
