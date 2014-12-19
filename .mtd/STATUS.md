@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/19 15:32:29] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/19 15:02:54] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
     * [2014/12/19 14:52:10] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
     * [2014/12/19 13:42:31] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
@@ -428,6 +429,54 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/19 15:03:49] [urlrule] sites weipai.cn UPDATE 吴婉婷wwt
+
+    * [2014/12/19 15:03:47] [urlrule] sites weipai.cn follow 50f8ff597f3494a702000066 吴婉婷wwt
+
+    * [2014/12/19 15:03:46] [urlrule] sites weipai.cn add 50f8ff597f3494a702000066 吴婉婷wwt
+
+    * [2014/12/19 15:03:43] [urlrule] sites weipai.cn UPDATE 张若兰
+
+    * [2014/12/19 15:03:42] [urlrule] sites weipai.cn follow 514eca76803494b723000006 张若兰
+
+    * [2014/12/19 15:03:41] [urlrule] sites weipai.cn add 514eca76803494b723000006 张若兰
+
+    * [2014/12/19 15:03:38] [urlrule] sites weipai.cn UPDATE 罗小佩
+
+    * [2014/12/19 15:03:36] [urlrule] sites weipai.cn follow 53190e7b9d67d9f0268b4569 罗小佩
+
+    * [2014/12/19 15:03:35] [urlrule] sites weipai.cn add 53190e7b9d67d9f0268b4569 罗小佩
+
+    * [2014/12/19 15:03:33] [urlrule] sites weipai.cn UPDATE oliviababy
+
+    * [2014/12/19 15:03:32] [urlrule] sites weipai.cn follow 51568669803494a423000042 oliviababy
+
+    * [2014/12/19 15:03:31] [urlrule] sites weipai.cn add 51568669803494a423000042 oliviababy
+
+    * [2014/12/19 15:03:29] [urlrule] sites weipai.cn UPDATE 乔宝宝i
+
+    * [2014/12/19 15:03:28] [urlrule] sites weipai.cn follow 544c086ba8640bf2048b457b 乔宝宝i
+
+    * [2014/12/19 15:03:27] [urlrule] sites weipai.cn add 544c086ba8640bf2048b457b 乔宝宝i
+
+    * [2014/12/19 15:03:24] [urlrule] sites weipai.cn UPDATE 安妮makeup
+
+    * [2014/12/19 15:03:22] [urlrule] sites weipai.cn follow 52fd8d849d67d9711c8b4569 安妮makeup
+
+    * [2014/12/19 15:03:21] [urlrule] sites weipai.cn add 52fd8d849d67d9711c8b4569 安妮makeup
+
+    * [2014/12/19 15:03:18] [urlrule] sites weipai.cn UPDATE 王语纯baby
+
+    * [2014/12/19 15:03:16] [urlrule] sites weipai.cn follow 546c8daaa5640b577f8b458f 王语纯baby
+
+    * [2014/12/19 15:03:15] [urlrule] sites weipai.cn add 546c8daaa5640b577f8b458f 王语纯baby
+
+    * [2014/12/19 15:03:13] [urlrule] sites weipai.cn UPDATE 莫晓颜
+
+    * [2014/12/19 15:03:12] [urlrule] sites weipai.cn follow 54197170a6640bb8278b4581 莫晓颜
+
+    * [2014/12/19 15:03:10] [urlrule] sites weipai.cn add 54197170a6640bb8278b4581 莫晓颜
+
     * [2014/12/19 13:26:32] [urlrule] sites weipai.cn UPDATE 画泪听雨眠
 
     * [2014/12/19 13:26:31] [urlrule] sites weipai.cn follow 515f6dfb7f34942f6500000a 画泪听雨眠
