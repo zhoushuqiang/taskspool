@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 罗小佩
+
+    * Begin : 2014/12/19 11:08:41
+    * End   : 2014/12/19 11:09:56
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 白日不湿
 
     * Begin : 2014/12/19 11:06:57
