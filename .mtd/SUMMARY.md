@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 亦欢欢
+
+
+    * Begin : 2014/12/19 16:55:23
+    * End   : 2014/12/19 16:56:49
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 545c9754a5640b20538b4593 亦欢欢
 
 
