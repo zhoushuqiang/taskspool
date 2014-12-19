@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 张若兰
+
+    * Begin : 2014/12/20 01:14:56
+    * End   : 2014/12/20 01:16:17
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/20 01:13:27
