@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 以我之名祭你风华初成
+
+    * Begin : 2014/12/19 12:55:23
+    * End   : 2014/12/19 12:55:37
+    * Result: OK
+
 * [urlrule task] update urlrule/task/follows.txt
 
     * Begin : 2014/12/19 12:53:39
