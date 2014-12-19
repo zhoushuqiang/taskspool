@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 05:49:41] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
     * [2014/12/20 05:48:48] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/20 05:47:09] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
     * [2014/12/20 05:46:32] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
@@ -604,6 +605,12 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 05:49:25] [urlrule] sites weipai.cn UPDATE 九尾狐-官晓双
+
+    * [2014/12/20 05:49:22] [urlrule] sites weipai.cn follow 5430af70a8640b873a8b4582 九尾狐-官晓双
+
+    * [2014/12/20 05:49:21] [urlrule] sites weipai.cn add 5430af70a8640b873a8b4582 九尾狐-官晓双
+
     * [2014/12/20 05:48:43] [urlrule] sites weipai.cn UPDATE 梦游娃娃
 
     * [2014/12/20 05:48:41] [urlrule] sites weipai.cn follow 526cdc605e7feba10b8b457f 梦游娃娃
