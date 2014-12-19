@@ -1,3 +1,30 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
+
+    * Begin : 2014/12/20 04:18:28
+    * End   : 2014/12/20 04:18:31
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 九尾狐-官晓双
+
+
+    * Begin : 2014/12/20 04:18:23
+    * End   : 2014/12/20 04:18:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5430af70a8640b873a8b4582 九尾狐-官晓双
+
+
+    * Begin : 2014/12/20 04:18:22
+    * End   : 2014/12/20 04:18:23
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5430af70a8640b873a8b4582 九尾狐-官晓双
+
+
+    * Begin : 2014/12/20 04:18:21
+    * End   : 2014/12/20 04:18:21
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
 
     * Begin : 2014/12/20 04:17:17
