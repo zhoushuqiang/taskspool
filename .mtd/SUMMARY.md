@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 美腿热舞福利分享
+
+    * Begin : 2014/12/20 01:37:06
+    * End   : 2014/12/20 01:37:13
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 笑笑
 
     * Begin : 2014/12/20 01:34:57
