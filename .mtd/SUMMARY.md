@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Christine黄可
+
+    * Begin : 2014/12/20 00:09:38
+    * End   : 2014/12/20 00:09:51
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 84剩女姐
 
     * Begin : 2014/12/20 00:02:00

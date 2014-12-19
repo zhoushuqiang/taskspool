@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 00:09:51] [urlrule] sites weipai.cn update Christine黄可
     * [2014/12/20 00:02:18] [urlrule] sites weipai.cn update 84剩女姐
     * [2014/12/19 23:59:08] [urlrule] sites weipai.cn UPDATE 亦欢欢
 
@@ -496,6 +497,47 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 00:09:37] [urlrule] sites weipai.cn update Cello
+    * [2014/12/20 00:09:34] [urlrule] sites weipai.cn update Cathy陈茹雪
+    * [2014/12/20 00:09:32] [urlrule] sites weipai.cn update CL森系女神
+    * [2014/12/20 00:09:29] [urlrule] sites weipai.cn update CFTZ
+    * [2014/12/20 00:09:27] [urlrule] sites weipai.cn update CC宠儿凌溪
+    * [2014/12/20 00:09:25] [urlrule] sites weipai.cn update CC-rose
+    * [2014/12/20 00:09:23] [urlrule] sites weipai.cn update CBMXX
+    * [2014/12/20 00:09:20] [urlrule] sites weipai.cn update C0C0
+    * [2014/12/20 00:09:17] [urlrule] sites weipai.cn update Box039
+    * [2014/12/20 00:09:15] [urlrule] sites weipai.cn update BoBo小苗
+    * [2014/12/20 00:09:12] [urlrule] sites weipai.cn update Bella-小白
+    * [2014/12/20 00:09:10] [urlrule] sites weipai.cn update Barbara张攀
+    * [2014/12/20 00:09:07] [urlrule] sites weipai.cn update Baby瑶瑶
+    * [2014/12/20 00:09:05] [urlrule] sites weipai.cn update Baby华姿凯歌er
+    * [2014/12/20 00:09:02] [urlrule] sites vlook.cn update Babykiry
+    * [2014/12/20 00:08:59] [urlrule] sites weipai.cn update Babykiry
+    * [2014/12/20 00:08:57] [urlrule] sites weipai.cn update BabyLinda
+    * [2014/12/20 00:08:54] [urlrule] sites weipai.cn update Baby-perry
+    * [2014/12/20 00:08:51] [urlrule] sites weipai.cn update BABY-張
+    * [2014/12/20 00:08:49] [urlrule] sites vlook.cn update Aoffy_Maxim
+    * [2014/12/20 00:06:44] [urlrule] sites weipai.cn update Anna苏妲己
+    * [2014/12/20 00:06:41] [urlrule] sites weipai.cn update Amanda张琬宜
+    * [2014/12/20 00:06:38] [urlrule] sites weipai.cn update Amanda冰冰
+    * [2014/12/20 00:06:35] [urlrule] sites weipai.cn update Amanda5275
+    * [2014/12/20 00:06:33] [urlrule] sites vlook.cn update Amanda5275
+    * [2014/12/20 00:04:13] [urlrule] sites weipai.cn update Amanda5275
+    * [2014/12/20 00:04:07] [urlrule] sites weipai.cn update Alllili
+    * [2014/12/20 00:04:03] [urlrule] sites weipai.cn update Alla-王愛
+    * [2014/12/20 00:03:59] [urlrule] sites weipai.cn update Alisa晓雯
+    * [2014/12/20 00:03:55] [urlrule] sites weipai.cn update Ala莫奈酱
+    * [2014/12/20 00:03:51] [urlrule] sites weipai.cn update Aiyo
+    * [2014/12/20 00:03:47] [urlrule] sites weipai.cn update Aigirl拽丫头
+    * [2014/12/20 00:03:44] [urlrule] sites vlook.cn update Adela_chiang
+    * [2014/12/20 00:03:37] [urlrule] sites weipai.cn update Adela_chiang
+    * [2014/12/20 00:03:32] [urlrule] sites weipai.cn update Abbymiki
+    * [2014/12/20 00:03:29] [urlrule] sites weipai.cn update Abby_徐惠雪
+    * [2014/12/20 00:03:25] [urlrule] sites weipai.cn update ANGELG
+    * [2014/12/20 00:03:21] [urlrule] sites weipai.cn update 9999920140801
+    * [2014/12/20 00:03:17] [urlrule] sites weipai.cn update 924906386
+    * [2014/12/20 00:03:14] [urlrule] sites weipai.cn update 872705
+    * [2014/12/20 00:03:10] [urlrule] sites weipai.cn update 852206078
     * [2014/12/20 00:01:57] [urlrule] sites weipai.cn update 70后米米妈丫
     * [2014/12/20 00:01:53] [urlrule] sites weipai.cn update 576117778
     * [2014/12/20 00:01:48] [urlrule] sites weipai.cn update 54423ad1a6640ba86f8b459c
