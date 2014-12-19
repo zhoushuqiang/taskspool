@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 04:19:55] [urlrule] sites weipai.cn UPDATE _倩倩
+
     * [2014/12/20 04:18:31] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
     * [2014/12/20 04:17:58] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/20 04:15:40] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
@@ -580,6 +582,16 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 04:19:28] [urlrule] sites weipai.cn follow 532d69324f4a1366588b45f7 _倩倩
+
+    * [2014/12/20 04:19:27] [urlrule] sites weipai.cn add 532d69324f4a1366588b45f7 _倩倩
+
+    * [2014/12/20 04:19:23] [urlrule] sites weipai.cn UPDATE summer糖糖
+
+    * [2014/12/20 04:19:21] [urlrule] sites weipai.cn follow 52e1d4dce3416757558b4581 summer糖糖
+
+    * [2014/12/20 04:19:19] [urlrule] sites weipai.cn add 52e1d4dce3416757558b4581 summer糖糖
+
     * [2014/12/20 04:18:25] [urlrule] sites weipai.cn UPDATE 九尾狐-官晓双
 
     * [2014/12/20 04:18:23] [urlrule] sites weipai.cn follow 5430af70a8640b873a8b4582 九尾狐-官晓双

@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn UPDATE _倩倩
+
+
+    * Begin : 2014/12/20 04:19:29
+    * End   : 2014/12/20 04:19:55
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 532d69324f4a1366588b45f7 _倩倩
+
+
+    * Begin : 2014/12/20 04:19:27
+    * End   : 2014/12/20 04:19:28
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 532d69324f4a1366588b45f7 _倩倩
+
+
+    * Begin : 2014/12/20 04:19:27
+    * End   : 2014/12/20 04:19:27
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE summer糖糖
+
+
+    * Begin : 2014/12/20 04:19:21
+    * End   : 2014/12/20 04:19:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52e1d4dce3416757558b4581 summer糖糖
+
+
+    * Begin : 2014/12/20 04:19:20
+    * End   : 2014/12/20 04:19:21
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52e1d4dce3416757558b4581 summer糖糖
+
+
+    * Begin : 2014/12/20 04:19:19
+    * End   : 2014/12/20 04:19:19
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
 
     * Begin : 2014/12/20 04:18:28
