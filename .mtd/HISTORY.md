@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 陈世媄
+
+    * Begin : 2014/12/20 01:45:47
+    * End   : 2014/12/20 01:46:08
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 陆晨依
+
+    * Begin : 2014/12/20 01:45:42
+    * End   : 2014/12/20 01:45:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陆晨依
+
+    * Begin : 2014/12/20 01:45:38
+    * End   : 2014/12/20 01:45:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 阿鑫很浮躁
+
+    * Begin : 2014/12/20 01:45:35
+    * End   : 2014/12/20 01:45:36
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 阿朵拉Adora
 
     * Begin : 2014/12/20 01:44:44
