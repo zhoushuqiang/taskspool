@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 05:00:16] [urlrule] sites weipai.cn update 小燃燃baby
     * [2014/12/20 04:58:12] [urlrule] sites weipai.cn update 宝宝倩
     * [2014/12/20 04:54:14] [urlrule] sites weipai.cn update 女神集团
     * [2014/12/20 04:53:41] [urlrule] sites weipai.cn update 女王女王陛下
@@ -593,6 +594,28 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 05:00:02] [urlrule] sites weipai.cn update 小柔L
+    * [2014/12/20 04:59:58] [urlrule] sites weipai.cn update 小晴天baby
+    * [2014/12/20 04:59:54] [urlrule] sites weipai.cn update 小惡魔Linsey
+    * [2014/12/20 04:59:50] [urlrule] sites weipai.cn update 小情绪纷纷扰扰
+    * [2014/12/20 04:59:46] [urlrule] sites weipai.cn update 小小美mmmmmm
+    * [2014/12/20 04:59:42] [urlrule] sites weipai.cn update 小小小小米
+    * [2014/12/20 04:59:38] [urlrule] sites weipai.cn update 小小小乖
+    * [2014/12/20 04:59:34] [urlrule] sites weipai.cn update 小将士
+    * [2014/12/20 04:59:29] [urlrule] sites weipai.cn update 小容嬷嬷
+    * [2014/12/20 04:59:26] [urlrule] sites weipai.cn update 小妮仔
+    * [2014/12/20 04:59:22] [urlrule] sites weipai.cn update 小如如
+    * [2014/12/20 04:59:18] [urlrule] sites weipai.cn update 小可爱mmd
+    * [2014/12/20 04:59:14] [urlrule] sites weipai.cn update 小仓老师
+    * [2014/12/20 04:59:10] [urlrule] sites weipai.cn update 小也慧子
+    * [2014/12/20 04:59:06] [urlrule] sites weipai.cn update 小乔流水
+    * [2014/12/20 04:59:03] [urlrule] sites weipai.cn update 小乔Cheryl
+    * [2014/12/20 04:58:58] [urlrule] sites weipai.cn update 小qiqi总爱凑美呦
+    * [2014/12/20 04:58:54] [urlrule] sites weipai.cn update 对你着了迷
+    * [2014/12/20 04:58:50] [urlrule] sites weipai.cn update 寂寞姐姐
+    * [2014/12/20 04:58:47] [urlrule] sites weipai.cn update 家菱
+    * [2014/12/20 04:58:43] [urlrule] sites weipai.cn update 家妹xxoo
+    * [2014/12/20 04:58:39] [urlrule] sites weipai.cn update 宝小丁
     * [2014/12/20 04:58:01] [urlrule] sites weipai.cn update 宜官官
     * [2014/12/20 04:57:56] [urlrule] sites vlook.cn update 宋小猫cat
     * [2014/12/20 04:57:49] [urlrule] sites weipai.cn update 宋小猫cat
