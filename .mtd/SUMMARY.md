@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update VK_bb
+
+    * Begin : 2014/12/20 07:32:20
+    * End   : 2014/12/20 07:32:26
+    * Result: OK
+
 * [urlrule] sites weipai.cn update DJ-CC
 
     * Begin : 2014/12/20 07:24:30
