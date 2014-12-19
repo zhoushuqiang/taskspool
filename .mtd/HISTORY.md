@@ -1,3 +1,122 @@
+* [urlrule] sites weipai.cn follow 5433a420a6640ba2588b45a3 C小宝宝
+
+
+    * Begin : 2014/12/19 16:46:49
+    * End   : 2014/12/19 16:46:49
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 5433a420a6640ba2588b45a3 C小宝宝
+
+
+    * Begin : 2014/12/19 16:46:48
+    * End   : 2014/12/19 16:46:48
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 范范范小范
+
+
+    * Begin : 2014/12/19 16:46:45
+    * End   : 2014/12/19 16:46:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52c6b16c803494867c92f58d 范范范小范
+
+
+    * Begin : 2014/12/19 16:46:43
+    * End   : 2014/12/19 16:46:43
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52c6b16c803494867c92f58d 范范范小范
+
+
+    * Begin : 2014/12/19 16:46:42
+    * End   : 2014/12/19 16:46:42
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 魏嘉蒂Betty
+
+
+    * Begin : 2014/12/19 16:46:39
+    * End   : 2014/12/19 16:46:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5062bab7803494d8500000c7 魏嘉蒂Betty
+
+
+    * Begin : 2014/12/19 16:46:39
+    * End   : 2014/12/19 16:46:39
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5062bab7803494d8500000c7 魏嘉蒂Betty
+
+
+    * Begin : 2014/12/19 16:46:38
+    * End   : 2014/12/19 16:46:38
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE baby小菲
+
+
+    * Begin : 2014/12/19 16:46:35
+    * End   : 2014/12/19 16:46:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 54709ffca8640b7e028b457d baby小菲
+
+
+    * Begin : 2014/12/19 16:46:33
+    * End   : 2014/12/19 16:46:34
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 54709ffca8640b7e028b457d baby小菲
+
+
+    * Begin : 2014/12/19 16:46:32
+    * End   : 2014/12/19 16:46:32
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE Gyochaeyeon
+
+
+    * Begin : 2014/12/19 16:46:28
+    * End   : 2014/12/19 16:46:29
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52648e589f6c00cd1a8fde4e Gyochaeyeon
+
+
+    * Begin : 2014/12/19 16:46:27
+    * End   : 2014/12/19 16:46:27
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52648e589f6c00cd1a8fde4e Gyochaeyeon
+
+
+    * Begin : 2014/12/19 16:46:26
+    * End   : 2014/12/19 16:46:26
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 小小小乖
+
+
+    * Begin : 2014/12/19 16:46:23
+    * End   : 2014/12/19 16:46:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52bd05f986f66f49118b4567 小小小乖
+
+
+    * Begin : 2014/12/19 16:46:21
+    * End   : 2014/12/19 16:46:22
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52bd05f986f66f49118b4567 小小小乖
+
+
+    * Begin : 2014/12/19 16:46:21
+    * End   : 2014/12/19 16:46:21
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
 
     * Begin : 2014/12/19 16:42:01
