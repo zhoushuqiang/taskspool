@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小情绪纷纷扰扰
+
+    * Begin : 2014/12/20 01:05:29
+    * End   : 2014/12/20 01:10:50
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 安妮Annie
 
     * Begin : 2014/12/20 01:03:14
