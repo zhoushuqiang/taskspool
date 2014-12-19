@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Miranda-Kerr
+
+    * Begin : 2014/12/20 00:18:04
+    * End   : 2014/12/20 00:18:21
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Hugme20141119
 
     * Begin : 2014/12/20 00:15:45
