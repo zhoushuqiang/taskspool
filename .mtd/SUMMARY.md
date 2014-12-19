@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 内涵姐姐
+
+    * Begin : 2014/12/20 00:52:03
+    * End   : 2014/12/20 00:52:29
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 于安朵
 
     * Begin : 2014/12/20 00:49:12
