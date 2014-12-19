@@ -1,3 +1,9 @@
+* [urlrule task] update urlrule/task/follows.txt
+
+    * Begin : 2014/12/20 06:12:24
+    * End   : 2014/12/20 06:12:28
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Fox_00
 
     * Begin : 2014/12/20 06:02:38
