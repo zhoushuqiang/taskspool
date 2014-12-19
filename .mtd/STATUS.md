@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 02:53:17] [urlrule] sites weipai.cn update 1142058078
     * [2014/12/20 02:51:20] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2014/12/20 02:49:35] [urlrule] sites weipai.cn UPDATE 薇妮BABY
 
@@ -561,6 +562,26 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 02:52:16] [urlrule] sites weipai.cn update 10120
+    * [2014/12/20 02:52:11] [urlrule] sites weipai.cn update 0王妃0
+    * [2014/12/20 02:52:08] [urlrule] sites weipai.cn UPDATE 亦欢欢
+
+    * [2014/12/20 02:52:06] [urlrule] sites weipai.cn follow 545c9754a5640b20538b4593 亦欢欢
+
+    * [2014/12/20 02:52:05] [urlrule] sites weipai.cn add 545c9754a5640b20538b4593 亦欢欢
+
+    * [2014/12/20 02:52:02] [urlrule] sites weipai.cn UPDATE 郑瑞熙_
+
+    * [2014/12/20 02:51:59] [urlrule] sites weipai.cn follow 546b9e0ca5640b86798b456c 郑瑞熙_
+
+    * [2014/12/20 02:51:57] [urlrule] sites weipai.cn add 546b9e0ca5640b86798b456c 郑瑞熙_
+
+    * [2014/12/20 02:51:54] [urlrule] sites weipai.cn UPDATE 李李七七喜喜
+
+    * [2014/12/20 02:51:51] [urlrule] sites weipai.cn follow 53258990ebeddbe5798b459f 李李七七喜喜
+
+    * [2014/12/20 02:51:50] [urlrule] sites weipai.cn add 53258990ebeddbe5798b459f 李李七七喜喜
+
     * [2014/12/20 02:50:00] [urlrule] sites weipai.cn UPDATE 陈美琳Mandy
 
     * [2014/12/20 02:49:58] [urlrule] sites weipai.cn follow 51fa57ba7f3494ea70000000 陈美琳Mandy
