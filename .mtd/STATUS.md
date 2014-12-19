@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/19 17:21:32] [urlrule] sites weipai.cn update 威信qianfei2012
     * [2014/12/19 17:20:05] [urlrule] sites weipai.cn update 女神集团
     * [2014/12/19 17:19:38] [urlrule] sites weipai.cn update 女王女王陛下
     * [2014/12/19 17:18:51] [urlrule] sites weipai.cn update 大萨萨
@@ -452,6 +453,17 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/19 17:20:55] [urlrule] sites vlook.cn update 姚雪
+    * [2014/12/19 17:20:51] [urlrule] sites weipai.cn update 姗-姗
+    * [2014/12/19 17:20:47] [urlrule] sites weipai.cn update 姐妹的范er
+    * [2014/12/19 17:20:45] [urlrule] sites weipai.cn update 姐又内涵了
+    * [2014/12/19 17:20:41] [urlrule] sites weipai.cn update 妮妮儿r
+    * [2014/12/19 17:20:39] [urlrule] sites weipai.cn update 妮妮love
+    * [2014/12/19 17:20:35] [urlrule] sites weipai.cn update 妩媚动人栩儿
+    * [2014/12/19 17:20:33] [urlrule] sites weipai.cn update 妞跪着给哥唱征服
+    * [2014/12/19 17:20:29] [urlrule] sites weipai.cn update 妖精annly
+    * [2014/12/19 17:20:26] [urlrule] sites weipai.cn update 奶棒
+    * [2014/12/19 17:20:24] [urlrule] sites weipai.cn update 女超人
     * [2014/12/19 17:20:00] [urlrule] sites weipai.cn update 女神情情
     * [2014/12/19 17:19:35] [urlrule] sites weipai.cn update 女侠桃花鹿
     * [2014/12/19 17:19:31] [urlrule] sites weipai.cn update 奈奈萌大奶
