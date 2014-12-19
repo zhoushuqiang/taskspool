@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 02:04:37] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
     * [2014/12/20 01:58:30] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
     * [2014/12/20 01:48:54] [urlrule] sites weipai.cn update 韩田稀
     * [2014/12/20 01:46:08] [urlrule] sites weipai.cn update 陈世媄
