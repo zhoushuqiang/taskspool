@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 05:26:18] [urlrule] sites weipai.cn update 西瓜姑娘
     * [2014/12/20 05:24:57] [urlrule] sites weipai.cn update 薇妮BABY
     * [2014/12/20 05:21:40] [urlrule] sites weipai.cn update 芭比娃哈
     * [2014/12/20 05:17:24] [urlrule] sites weipai.cn update 白日不湿
@@ -599,6 +600,15 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 05:26:06] [urlrule] sites vlook.cn update 表表表
+    * [2014/12/20 05:26:00] [urlrule] sites weipai.cn update 表妹baby
+    * [2014/12/20 05:25:56] [urlrule] sites weipai.cn update 蜜蜜波
+    * [2014/12/20 05:25:52] [urlrule] sites weipai.cn update 蛇蛇姜瑾芝
+    * [2014/12/20 05:25:48] [urlrule] sites weipai.cn update 蛇精病---
+    * [2014/12/20 05:25:44] [urlrule] sites weipai.cn update 虞梦-宝贝
+    * [2014/12/20 05:25:41] [urlrule] sites vlook.cn update 虞梦-宝贝
+    * [2014/12/20 05:25:34] [urlrule] sites weipai.cn update 虞梦-宝贝
+    * [2014/12/20 05:25:31] [urlrule] sites weipai.cn update 薰衣草20131022
     * [2014/12/20 05:24:52] [urlrule] sites weipai.cn update 蕃茄你是誰的西紅柿
     * [2014/12/20 05:24:47] [urlrule] sites weipai.cn update 蓝色的港湾20140821
     * [2014/12/20 05:24:41] [urlrule] sites vlook.cn update 蒙丽伊

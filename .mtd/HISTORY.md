@@ -1,3 +1,63 @@
+* [urlrule] sites weipai.cn update 西瓜姑娘
+
+    * Begin : 2014/12/20 05:26:09
+    * End   : 2014/12/20 05:26:18
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 表表表
+
+    * Begin : 2014/12/20 05:26:03
+    * End   : 2014/12/20 05:26:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 表妹baby
+
+    * Begin : 2014/12/20 05:25:59
+    * End   : 2014/12/20 05:26:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 蜜蜜波
+
+    * Begin : 2014/12/20 05:25:55
+    * End   : 2014/12/20 05:25:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 蛇蛇姜瑾芝
+
+    * Begin : 2014/12/20 05:25:51
+    * End   : 2014/12/20 05:25:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 蛇精病---
+
+    * Begin : 2014/12/20 05:25:47
+    * End   : 2014/12/20 05:25:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 虞梦-宝贝
+
+    * Begin : 2014/12/20 05:25:43
+    * End   : 2014/12/20 05:25:44
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 虞梦-宝贝
+
+    * Begin : 2014/12/20 05:25:37
+    * End   : 2014/12/20 05:25:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 虞梦-宝贝
+
+    * Begin : 2014/12/20 05:25:33
+    * End   : 2014/12/20 05:25:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 薰衣草20131022
+
+    * Begin : 2014/12/20 05:25:30
+    * End   : 2014/12/20 05:25:31
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 薇妮BABY
 
     * Begin : 2014/12/20 05:24:55
