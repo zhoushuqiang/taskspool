@@ -1,3 +1,30 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
+
+    * Begin : 2014/12/20 04:27:25
+    * End   : 2014/12/20 04:27:27
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 陈美琳Mandy
+
+
+    * Begin : 2014/12/20 04:27:21
+    * End   : 2014/12/20 04:27:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 51fa57ba7f3494ea70000000 陈美琳Mandy
+
+
+    * Begin : 2014/12/20 04:27:18
+    * End   : 2014/12/20 04:27:19
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 51fa57ba7f3494ea70000000 陈美琳Mandy
+
+
+    * Begin : 2014/12/20 04:27:17
+    * End   : 2014/12/20 04:27:17
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 薇妮BABY
 
 
