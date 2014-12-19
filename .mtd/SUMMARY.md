@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 宝宝倩
+
+    * Begin : 2014/12/20 04:58:03
+    * End   : 2014/12/20 04:58:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 女神集团
 
     * Begin : 2014/12/20 04:54:11
