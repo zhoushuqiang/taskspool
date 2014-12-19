@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 周泊霖cutey
+
+    * Begin : 2014/12/19 09:19:38
+    * End   : 2014/12/19 09:19:50
+    * Result: OK
+
 * [urlrule task] update urlrule/task/follows.txt
 
     * Begin : 2014/12/19 09:15:33
