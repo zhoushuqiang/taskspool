@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 00:44:57] [urlrule] sites weipai.cn update suki_jiang
     * [2014/12/20 00:43:28] [urlrule] sites weipai.cn update oliviababy
     * [2014/12/20 00:40:04] [urlrule] sites weipai.cn update _李好美
     * [2014/12/20 00:35:45] [urlrule] sites weipai.cn update Sooki莹莹孙
@@ -504,6 +505,16 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 00:44:37] [urlrule] sites weipai.cn update soso蕊
+    * [2014/12/20 00:44:34] [urlrule] sites vlook.cn update Toughgirl
+    * [2014/12/20 00:44:29] [urlrule] sites vlook.cn update shoujigujun1680
+    * [2014/12/20 00:44:16] [urlrule] sites weipai.cn update sack莎莎
+    * [2014/12/20 00:44:12] [urlrule] sites weipai.cn update sachiBabyJ
+    * [2014/12/20 00:44:09] [urlrule] sites vlook.cn update quanxinyue123
+    * [2014/12/20 00:43:59] [urlrule] sites weipai.cn update qinqin1995
+    * [2014/12/20 00:43:55] [urlrule] sites weipai.cn update penny佩佩
+    * [2014/12/20 00:43:52] [urlrule] sites weipai.cn update pengfang
+    * [2014/12/20 00:43:49] [urlrule] sites weipai.cn update pandora莉莉
     * [2014/12/20 00:42:41] [urlrule] sites weipai.cn update monica_1990
     * [2014/12/20 00:42:38] [urlrule] sites weipai.cn update mm小七
     * [2014/12/20 00:42:34] [urlrule] sites weipai.cn update miss大蝴蝶
