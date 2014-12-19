@@ -1,3 +1,57 @@
+* [urlrule] sites weipai.cn update 潘潘20140413
+
+    * Begin : 2014/12/19 18:31:15
+    * End   : 2014/12/19 18:31:36
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 潘小云云
+
+    * Begin : 2014/12/19 18:31:12
+    * End   : 2014/12/19 18:31:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 满天都是小鑫鑫_
+
+    * Begin : 2014/12/19 18:31:09
+    * End   : 2014/12/19 18:31:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 溅行溅美
+
+    * Begin : 2014/12/19 18:31:06
+    * End   : 2014/12/19 18:31:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 湯大师
+
+    * Begin : 2014/12/19 18:31:02
+    * End   : 2014/12/19 18:31:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 混血演员安娜
+
+    * Begin : 2014/12/19 18:30:59
+    * End   : 2014/12/19 18:31:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 涵肉肉
+
+    * Begin : 2014/12/19 18:30:56
+    * End   : 2014/12/19 18:30:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 浮生若梦
+
+    * Begin : 2014/12/19 18:30:54
+    * End   : 2014/12/19 18:30:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 洛熙爱爱
+
+    * Begin : 2014/12/19 18:30:51
+    * End   : 2014/12/19 18:30:51
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 洛可馨
 
     * Begin : 2014/12/19 18:27:19

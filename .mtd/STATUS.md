@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/19 18:31:36] [urlrule] sites weipai.cn update 潘潘20140413
     * [2014/12/19 18:30:35] [urlrule] sites weipai.cn update 洛可馨
     * [2014/12/19 18:27:02] [urlrule] sites weipai.cn update 波波小姐
     * [2014/12/19 18:25:40] [urlrule] sites weipai.cn update 水蜜桃子
@@ -466,6 +467,14 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/19 18:31:13] [urlrule] sites weipai.cn update 潘小云云
+    * [2014/12/19 18:31:09] [urlrule] sites weipai.cn update 满天都是小鑫鑫_
+    * [2014/12/19 18:31:07] [urlrule] sites weipai.cn update 溅行溅美
+    * [2014/12/19 18:31:03] [urlrule] sites weipai.cn update 湯大师
+    * [2014/12/19 18:31:00] [urlrule] sites weipai.cn update 混血演员安娜
+    * [2014/12/19 18:30:57] [urlrule] sites weipai.cn update 涵肉肉
+    * [2014/12/19 18:30:54] [urlrule] sites weipai.cn update 浮生若梦
+    * [2014/12/19 18:30:51] [urlrule] sites weipai.cn update 洛熙爱爱
     * [2014/12/19 18:26:07] [urlrule] sites weipai.cn update 没有鼻梁的姑娘
     * [2014/12/19 18:26:05] [urlrule] sites weipai.cn update 沈希JOY
     * [2014/12/19 18:26:01] [urlrule] sites weipai.cn update 江宣
