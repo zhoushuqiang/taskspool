@@ -1,3 +1,51 @@
+* [urlrule] sites weipai.cn update 阿朵拉Adora
+
+    * Begin : 2014/12/20 01:44:44
+    * End   : 2014/12/20 01:45:20
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 长裙飘飘21
+
+    * Begin : 2014/12/20 01:44:36
+    * End   : 2014/12/20 01:44:42
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 长裙飘飘21
+
+    * Begin : 2014/12/20 01:44:32
+    * End   : 2014/12/20 01:44:33
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 铁粉1号
+
+    * Begin : 2014/12/20 01:44:29
+    * End   : 2014/12/20 01:44:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 钱小美
+
+    * Begin : 2014/12/20 01:44:25
+    * End   : 2014/12/20 01:44:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 钟紫心
+
+    * Begin : 2014/12/20 01:44:22
+    * End   : 2014/12/20 01:44:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 金金金金小沙
+
+    * Begin : 2014/12/20 01:44:19
+    * End   : 2014/12/20 01:44:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 重头再来20141107
+
+    * Begin : 2014/12/20 01:44:16
+    * End   : 2014/12/20 01:44:17
+    * Result: Nothing to do
+
 * [urlrule] sites vlook.cn update 酔熱舆Beer
 
     * Begin : 2014/12/20 01:43:43

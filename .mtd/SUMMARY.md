@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 阿朵拉Adora
+
+    * Begin : 2014/12/20 01:44:44
+    * End   : 2014/12/20 01:45:20
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 酔熱舆Beer
 
     * Begin : 2014/12/20 01:43:43
