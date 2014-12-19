@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update oliviababy
+
+    * Begin : 2014/12/20 00:42:43
+    * End   : 2014/12/20 00:43:28
+    * Result: OK
+
 * [urlrule] sites weipai.cn update _李好美
 
     * Begin : 2014/12/20 00:38:20
