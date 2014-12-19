@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 林歆蕊Q286312385
+
+    * Begin : 2014/12/19 18:21:44
+    * End   : 2014/12/19 18:22:31
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 杨大人
 
     * Begin : 2014/12/19 18:07:53
