@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 澄小兔
+
+    * Begin : 2014/12/20 01:29:10
+    * End   : 2014/12/20 01:29:20
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 没有鼻梁的姑娘
 
     * Begin : 2014/12/20 01:27:21
