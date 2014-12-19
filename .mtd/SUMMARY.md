@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 84剩女姐
+
+    * Begin : 2014/12/20 00:02:00
+    * End   : 2014/12/20 00:02:18
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 亦欢欢
 
 
