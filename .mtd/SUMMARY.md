@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
+
+    * Begin : 2014/12/19 16:19:08
+    * End   : 2014/12/19 16:30:13
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 九尾狐-官晓双
 
 

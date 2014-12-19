@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/19 16:30:13] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
     * [2014/12/19 16:18:16] [urlrule] sites weipai.cn UPDATE 九尾狐-官晓双
 
     * [2014/12/19 15:33:28] [urlrule] sites weipai.cn follow 5430af70a8640b873a8b4582 九尾狐-官晓双
