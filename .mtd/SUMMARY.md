@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update ANGELG
+
+    * Begin : 2014/12/19 16:58:48
+    * End   : 2014/12/19 16:59:00
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 亦欢欢
 
 
