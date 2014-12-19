@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 04:24:28] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
     * [2014/12/20 04:22:09] [urlrule] sites weipai.cn UPDATE 卢秋桐
 
     * [2014/12/20 04:19:55] [urlrule] sites weipai.cn UPDATE _倩倩
@@ -584,6 +585,30 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 04:23:26] [urlrule] sites weipai.cn UPDATE 徐妍馨Mandy
+
+    * [2014/12/20 04:23:24] [urlrule] sites weipai.cn follow 531374499d67d9ee0b8b4567 徐妍馨Mandy
+
+    * [2014/12/20 04:23:21] [urlrule] sites weipai.cn add 531374499d67d9ee0b8b4567 徐妍馨Mandy
+
+    * [2014/12/20 04:23:18] [urlrule] sites weipai.cn UPDATE 王悠悠
+
+    * [2014/12/20 04:23:16] [urlrule] sites weipai.cn follow 50d20ea77d3494ef7a0001e1 王悠悠
+
+    * [2014/12/20 04:23:13] [urlrule] sites weipai.cn add 50d20ea77d3494ef7a0001e1 王悠悠
+
+    * [2014/12/20 04:23:10] [urlrule] sites weipai.cn UPDATE 王小珏elva
+
+    * [2014/12/20 04:23:08] [urlrule] sites weipai.cn follow 50cc9130803494251900000f 王小珏elva
+
+    * [2014/12/20 04:23:05] [urlrule] sites weipai.cn add 50cc9130803494251900000f 王小珏elva
+
+    * [2014/12/20 04:23:02] [urlrule] sites weipai.cn UPDATE LLLL-喵喵
+
+    * [2014/12/20 04:23:00] [urlrule] sites weipai.cn follow 5458457ca5640ba7668b4597 LLLL-喵喵
+
+    * [2014/12/20 04:22:58] [urlrule] sites weipai.cn add 5458457ca5640ba7668b4597 LLLL-喵喵
+
     * [2014/12/20 04:21:11] [urlrule] sites weipai.cn follow 515a6e8d7d34946f78000009 卢秋桐
 
     * [2014/12/20 04:21:09] [urlrule] sites weipai.cn add 515a6e8d7d34946f78000009 卢秋桐
