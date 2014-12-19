@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update BABY-張
+
+    * Begin : 2014/12/19 17:00:22
+    * End   : 2014/12/19 17:00:44
+    * Result: OK
+
 * [urlrule] sites weipai.cn update ANGELG
 
     * Begin : 2014/12/19 16:58:48
