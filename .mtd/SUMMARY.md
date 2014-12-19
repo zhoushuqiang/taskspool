@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update 酔熱舆Beer
+
+    * Begin : 2014/12/20 01:43:43
+    * End   : 2014/12/20 01:43:59
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 薇妮BABY
 
     * Begin : 2014/12/20 01:41:35
