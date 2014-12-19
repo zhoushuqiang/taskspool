@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 毛大怪
+
+    * Begin : 2014/12/19 18:23:55
+    * End   : 2014/12/19 18:25:23
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 林歆蕊Q286312385
 
     * Begin : 2014/12/19 18:21:44
