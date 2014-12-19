@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 卢秋桐
+
+
+    * Begin : 2014/12/20 02:13:10
+    * End   : 2014/12/20 02:19:51
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 515a6e8d7d34946f78000009 卢秋桐
 
 

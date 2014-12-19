@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 515a6e8d7d34946f78000009 卢秋桐
-
 * Finished:
+    * [2014/12/20 02:19:51] [urlrule] sites weipai.cn UPDATE 卢秋桐
+
     * [2014/12/20 02:12:49] [urlrule] sites weipai.cn follow 515a6e8d7d34946f78000009 卢秋桐
 
     * [2014/12/20 02:10:31] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
