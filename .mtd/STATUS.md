@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 52dc303979d3cca32f8b4590 琳琳baby
+
 * Finished:
+    * [2014/12/20 02:47:16] [urlrule] sites weipai.cn follow 52dc303979d3cca32f8b4590 琳琳baby
+
     * [2014/12/20 02:45:17] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
     * [2014/12/20 02:31:13] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
     * [2014/12/20 02:19:51] [urlrule] sites weipai.cn UPDATE 卢秋桐
@@ -554,6 +559,38 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 02:47:14] [urlrule] sites weipai.cn add 52dc303979d3cca32f8b4590 琳琳baby
+
+    * [2014/12/20 02:47:07] [urlrule] sites weipai.cn UPDATE 范范范小范
+
+    * [2014/12/20 02:47:00] [urlrule] sites weipai.cn follow 52c6b16c803494867c92f58d 范范范小范
+
+    * [2014/12/20 02:46:55] [urlrule] sites weipai.cn add 52c6b16c803494867c92f58d 范范范小范
+
+    * [2014/12/20 02:46:46] [urlrule] sites weipai.cn UPDATE 魏嘉蒂Betty
+
+    * [2014/12/20 02:46:43] [urlrule] sites weipai.cn follow 5062bab7803494d8500000c7 魏嘉蒂Betty
+
+    * [2014/12/20 02:46:41] [urlrule] sites weipai.cn add 5062bab7803494d8500000c7 魏嘉蒂Betty
+
+    * [2014/12/20 02:46:38] [urlrule] sites weipai.cn UPDATE baby小菲
+
+    * [2014/12/20 02:46:36] [urlrule] sites weipai.cn follow 54709ffca8640b7e028b457d baby小菲
+
+    * [2014/12/20 02:46:34] [urlrule] sites weipai.cn add 54709ffca8640b7e028b457d baby小菲
+
+    * [2014/12/20 02:46:30] [urlrule] sites weipai.cn UPDATE Gyochaeyeon
+
+    * [2014/12/20 02:46:28] [urlrule] sites weipai.cn follow 52648e589f6c00cd1a8fde4e Gyochaeyeon
+
+    * [2014/12/20 02:46:25] [urlrule] sites weipai.cn add 52648e589f6c00cd1a8fde4e Gyochaeyeon
+
+    * [2014/12/20 02:46:22] [urlrule] sites weipai.cn UPDATE 小小小乖
+
+    * [2014/12/20 02:46:19] [urlrule] sites weipai.cn follow 52bd05f986f66f49118b4567 小小小乖
+
+    * [2014/12/20 02:46:16] [urlrule] sites weipai.cn add 52bd05f986f66f49118b4567 小小小乖
+
     * [2014/12/20 02:32:54] [urlrule] sites weipai.cn UPDATE 高尚kiko
 
     * [2014/12/20 02:32:52] [urlrule] sites weipai.cn follow 50eda2fe7d34948e2f000036 高尚kiko
