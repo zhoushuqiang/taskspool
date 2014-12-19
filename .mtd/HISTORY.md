@@ -1,3 +1,93 @@
+* [urlrule] sites weipai.cn update Diva_狄娃
+
+    * Begin : 2014/12/20 00:10:38
+    * End   : 2014/12/20 00:14:36
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Despair-假寐
+
+    * Begin : 2014/12/20 00:10:36
+    * End   : 2014/12/20 00:10:36
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Dance小宝
+
+    * Begin : 2014/12/20 00:10:34
+    * End   : 2014/12/20 00:10:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Daisy__兔
+
+    * Begin : 2014/12/20 00:10:31
+    * End   : 2014/12/20 00:10:31
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update DM靜兒
+
+    * Begin : 2014/12/20 00:10:28
+    * End   : 2014/12/20 00:10:29
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update DJ_Ricey
+
+    * Begin : 2014/12/20 00:10:26
+    * End   : 2014/12/20 00:10:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update DJ_Ricey
+
+    * Begin : 2014/12/20 00:10:24
+    * End   : 2014/12/20 00:10:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update DJ-TiMi
+
+    * Begin : 2014/12/20 00:10:22
+    * End   : 2014/12/20 00:10:22
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update DJ-CC
+
+    * Begin : 2014/12/20 00:10:20
+    * End   : 2014/12/20 00:10:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update DJ-CC
+
+    * Begin : 2014/12/20 00:10:16
+    * End   : 2014/12/20 00:10:17
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update C希人
+
+    * Begin : 2014/12/20 00:10:14
+    * End   : 2014/12/20 00:10:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update C小宝宝
+
+    * Begin : 2014/12/20 00:10:12
+    * End   : 2014/12/20 00:10:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Crystal欣
+
+    * Begin : 2014/12/20 00:10:10
+    * End   : 2014/12/20 00:10:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update CoCo_安妮
+
+    * Begin : 2014/12/20 00:10:08
+    * End   : 2014/12/20 00:10:08
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Christine黄可
+
+    * Begin : 2014/12/20 00:10:04
+    * End   : 2014/12/20 00:10:06
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Christine黄可
 
     * Begin : 2014/12/20 00:09:38

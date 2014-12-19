@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Diva_狄娃
+
+    * Begin : 2014/12/20 00:10:38
+    * End   : 2014/12/20 00:14:36
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Christine黄可
 
     * Begin : 2014/12/20 00:09:38
