@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/19 19:10:38] [urlrule] sites weipai.cn update 蛇蛇姜瑾芝
     * [2014/12/19 19:09:43] [urlrule] sites weipai.cn update 薇妮BABY
     * [2014/12/19 19:08:37] [urlrule] sites weipai.cn update 菀児baby
     * [2014/12/19 19:07:18] [urlrule] sites weipai.cn update 莹姐
@@ -477,6 +478,11 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/19 19:10:17] [urlrule] sites weipai.cn update 蛇精病---
+    * [2014/12/19 19:10:14] [urlrule] sites weipai.cn update 虞梦-宝贝
+    * [2014/12/19 19:10:12] [urlrule] sites vlook.cn update 虞梦-宝贝
+    * [2014/12/19 19:10:08] [urlrule] sites weipai.cn update 虞梦-宝贝
+    * [2014/12/19 19:10:06] [urlrule] sites weipai.cn update 薰衣草20131022
     * [2014/12/19 19:09:40] [urlrule] sites weipai.cn update 蕃茄你是誰的西紅柿
     * [2014/12/19 19:09:38] [urlrule] sites weipai.cn update 蓝色的港湾20140821
     * [2014/12/19 19:09:35] [urlrule] sites vlook.cn update 蒙丽伊

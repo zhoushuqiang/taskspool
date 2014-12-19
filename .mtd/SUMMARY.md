@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 蛇蛇姜瑾芝
+
+    * Begin : 2014/12/19 19:10:19
+    * End   : 2014/12/19 19:10:38
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 薇妮BABY
 
     * Begin : 2014/12/19 19:09:42
