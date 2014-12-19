@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 薇妮BABY
+
+
+    * Begin : 2014/12/20 05:54:16
+    * End   : 2014/12/20 05:54:18
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
 
     * Begin : 2014/12/20 05:52:23
