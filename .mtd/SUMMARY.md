@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Never沛妮
+
+    * Begin : 2014/12/20 00:18:55
+    * End   : 2014/12/20 00:21:03
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Miranda-Kerr
 
     * Begin : 2014/12/20 00:18:04

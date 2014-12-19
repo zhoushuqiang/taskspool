@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 00:21:03] [urlrule] sites weipai.cn update Never沛妮
     * [2014/12/20 00:18:21] [urlrule] sites weipai.cn update Miranda-Kerr
     * [2014/12/20 00:16:33] [urlrule] sites weipai.cn update Hugme20141119
     * [2014/12/20 00:14:36] [urlrule] sites weipai.cn update Diva_狄娃
@@ -500,6 +501,10 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 00:18:51] [urlrule] sites weipai.cn update NZL-妮子梁
+    * [2014/12/20 00:18:47] [urlrule] sites vlook.cn update Ms琳
+    * [2014/12/20 00:18:43] [urlrule] sites weipai.cn update Monika1991
+    * [2014/12/20 00:18:39] [urlrule] sites weipai.cn update Miya_妈咪
     * [2014/12/20 00:18:01] [urlrule] sites weipai.cn update Mia丫丫C
     * [2014/12/20 00:17:57] [urlrule] sites weipai.cn update Miao雪
     * [2014/12/20 00:17:54] [urlrule] sites weipai.cn update Maggie李嘉麒

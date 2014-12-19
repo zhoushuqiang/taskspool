@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update Never沛妮
+
+    * Begin : 2014/12/20 00:18:55
+    * End   : 2014/12/20 00:21:03
+    * Result: OK
+
+* [urlrule] sites weipai.cn update NZL-妮子梁
+
+    * Begin : 2014/12/20 00:18:50
+    * End   : 2014/12/20 00:18:51
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Ms琳
+
+    * Begin : 2014/12/20 00:18:45
+    * End   : 2014/12/20 00:18:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Monika1991
+
+    * Begin : 2014/12/20 00:18:42
+    * End   : 2014/12/20 00:18:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Miya_妈咪
+
+    * Begin : 2014/12/20 00:18:39
+    * End   : 2014/12/20 00:18:39
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Miranda-Kerr
 
     * Begin : 2014/12/20 00:18:04
