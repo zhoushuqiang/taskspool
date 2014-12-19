@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update _李好美
+
+    * Begin : 2014/12/20 00:38:20
+    * End   : 2014/12/20 00:40:04
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Sooki莹莹孙
 
     * Begin : 2014/12/20 00:25:19
