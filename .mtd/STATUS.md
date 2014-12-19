@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 03:46:56] [urlrule] sites weipai.cn update 白日不湿
     * [2014/12/20 03:44:34] [urlrule] sites weipai.cn update 王炤钧
     * [2014/12/20 03:40:59] [urlrule] sites weipai.cn update 水蜜桃子
     * [2014/12/20 03:30:36] [urlrule] sites weipai.cn update 屌丝福利小清新
@@ -570,6 +571,30 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 03:46:48] [urlrule] sites weipai.cn update 画泪听雨眠
+    * [2014/12/20 03:46:44] [urlrule] sites weipai.cn update 由咩咩
+    * [2014/12/20 03:46:40] [urlrule] sites weipai.cn update 田晓多tesia
+    * [2014/12/20 03:46:37] [urlrule] sites weipai.cn update 田君er
+    * [2014/12/20 03:46:33] [urlrule] sites weipai.cn update 生如夏花12
+    * [2014/12/20 03:46:29] [urlrule] sites weipai.cn update 甜美人angela
+    * [2014/12/20 03:46:25] [urlrule] sites vlook.cn update 甜心宝
+    * [2014/12/20 03:46:18] [urlrule] sites weipai.cn update 瓶宝宝
+    * [2014/12/20 03:46:14] [urlrule] sites weipai.cn update 璇子_Yvonne
+    * [2014/12/20 03:46:10] [urlrule] sites weipai.cn update 瑶瑶baby
+    * [2014/12/20 03:46:06] [urlrule] sites weipai.cn update 瑞莎国际
+    * [2014/12/20 03:46:01] [urlrule] sites weipai.cn update 瑜伽女神青文
+    * [2014/12/20 03:45:57] [urlrule] sites weipai.cn update 琪胖胖
+    * [2014/12/20 03:45:53] [urlrule] sites weipai.cn update 琦琦loveBaby
+    * [2014/12/20 03:45:48] [urlrule] sites weipai.cn update 珠宝定制-GIA国际证书
+    * [2014/12/20 03:45:44] [urlrule] sites vlook.cn update 玩摄影Rayshen
+    * [2014/12/20 03:45:37] [urlrule] sites vlook.cn update 森玲
+    * [2014/12/20 03:45:30] [urlrule] sites weipai.cn update 王馨瑶
+    * [2014/12/20 03:45:25] [urlrule] sites weipai.cn update 王语纯baby
+    * [2014/12/20 03:45:20] [urlrule] sites weipai.cn update 王若楠1228
+    * [2014/12/20 03:45:15] [urlrule] sites weipai.cn update 王籽文
+    * [2014/12/20 03:45:11] [urlrule] sites weipai.cn update 王璐璐-Dasiy
+    * [2014/12/20 03:45:05] [urlrule] sites weipai.cn update 王王王王-蕊
+    * [2014/12/20 03:45:01] [urlrule] sites weipai.cn update 王熙悦
     * [2014/12/20 03:44:13] [urlrule] sites weipai.cn update 王悠悠
     * [2014/12/20 03:44:09] [urlrule] sites weipai.cn update 王小珏elva
     * [2014/12/20 03:44:04] [urlrule] sites weipai.cn update 王大小姐__Miss
