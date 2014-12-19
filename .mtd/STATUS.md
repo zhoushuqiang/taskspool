@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 00:53:56] [urlrule] sites weipai.cn update 劉點點dotey_
     * [2014/12/20 00:52:29] [urlrule] sites weipai.cn update 内涵姐姐
     * [2014/12/20 00:50:42] [urlrule] sites weipai.cn update 于安朵
     * [2014/12/20 00:48:36] [urlrule] sites weipai.cn update 丹梦妮ooloo
@@ -510,6 +511,17 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 00:53:22] [urlrule] sites weipai.cn update 前任攻略
+    * [2014/12/20 00:53:19] [urlrule] sites weipai.cn update 初家小雪
+    * [2014/12/20 00:53:15] [urlrule] sites weipai.cn update 刘雯雯darling
+    * [2014/12/20 00:53:12] [urlrule] sites weipai.cn update 刘诗涵
+    * [2014/12/20 00:53:08] [urlrule] sites weipai.cn update 刘苏漫
+    * [2014/12/20 00:53:05] [urlrule] sites weipai.cn update 刘小莎
+    * [2014/12/20 00:53:01] [urlrule] sites weipai.cn update 刘培雨雨小熊
+    * [2014/12/20 00:52:58] [urlrule] sites weipai.cn update 冷美人1
+    * [2014/12/20 00:52:54] [urlrule] sites weipai.cn update 冷美人1
+    * [2014/12/20 00:52:51] [urlrule] sites weipai.cn update 冯猫儿的猫
+    * [2014/12/20 00:52:48] [urlrule] sites weipai.cn update 内涵湿姐
     * [2014/12/20 00:52:00] [urlrule] sites vlook.cn update 兮颜SSS
     * [2014/12/20 00:51:55] [urlrule] sites weipai.cn update 光头-狠强
     * [2014/12/20 00:51:52] [urlrule] sites weipai.cn update 做个man的小女人
