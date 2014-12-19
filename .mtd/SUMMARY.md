@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn follow 526cdc605e7feba10b8b457f 梦游娃娃
+
+
+    * Begin : 2014/12/20 02:05:56
+    * End   : 2014/12/20 02:05:57
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
 
     * Begin : 2014/12/20 02:04:52
