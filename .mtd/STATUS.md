@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 5433a420a6640ba2588b45a3 C小宝宝
-
 * Finished:
+    * [2014/12/19 16:47:16] [urlrule] sites weipai.cn UPDATE C小宝宝
+
     * [2014/12/19 16:46:49] [urlrule] sites weipai.cn follow 5433a420a6640ba2588b45a3 C小宝宝
 
     * [2014/12/19 16:46:01] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
