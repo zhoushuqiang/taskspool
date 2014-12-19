@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 粽子小姐
+
+    * Begin : 2014/12/19 09:39:30
+    * End   : 2014/12/19 09:39:50
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 神神神神神姐
 
     * Begin : 2014/12/19 09:37:39
