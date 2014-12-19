@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 5430af70a8640b873a8b4582 九尾狐-官晓双
+
 * Finished:
+    * [2014/12/19 15:33:28] [urlrule] sites weipai.cn follow 5430af70a8640b873a8b4582 九尾狐-官晓双
+
     * [2014/12/19 15:32:29] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/19 15:02:54] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
     * [2014/12/19 14:52:10] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
@@ -429,6 +434,8 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/19 15:33:26] [urlrule] sites weipai.cn add 5430af70a8640b873a8b4582 九尾狐-官晓双
+
     * [2014/12/19 15:03:49] [urlrule] sites weipai.cn UPDATE 吴婉婷wwt
 
     * [2014/12/19 15:03:47] [urlrule] sites weipai.cn follow 50f8ff597f3494a702000066 吴婉婷wwt

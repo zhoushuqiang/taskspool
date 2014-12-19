@@ -1,3 +1,17 @@
+* [urlrule] sites weipai.cn follow 5430af70a8640b873a8b4582 九尾狐-官晓双
+
+
+    * Begin : 2014/12/19 15:33:27
+    * End   : 2014/12/19 15:33:28
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 5430af70a8640b873a8b4582 九尾狐-官晓双
+
+
+    * Begin : 2014/12/19 15:33:26
+    * End   : 2014/12/19 15:33:26
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
 
     * Begin : 2014/12/19 15:03:51
