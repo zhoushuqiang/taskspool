@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 芭比娃哈
+
+    * Begin : 2014/12/20 01:38:13
+    * End   : 2014/12/20 01:38:15
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 美腿热舞福利分享
 
     * Begin : 2014/12/20 01:37:06
