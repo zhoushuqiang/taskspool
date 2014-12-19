@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 梦游娃娃
+
+
+    * Begin : 2014/12/20 02:06:12
+    * End   : 2014/12/20 02:06:54
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 526cdc605e7feba10b8b457f 梦游娃娃
 
 

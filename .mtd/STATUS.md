@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 526cdc605e7feba10b8b457f 梦游娃娃
-
 * Finished:
+    * [2014/12/20 02:06:54] [urlrule] sites weipai.cn UPDATE 梦游娃娃
+
     * [2014/12/20 02:05:57] [urlrule] sites weipai.cn follow 526cdc605e7feba10b8b457f 梦游娃娃
 
     * [2014/12/20 02:05:06] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
