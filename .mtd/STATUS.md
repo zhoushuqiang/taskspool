@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/19 10:46:26] [urlrule] sites weipai.cn update 一生热爱回头太难
     * [2014/12/19 10:44:53] [urlrule task] update urlrule/task/follows.txt
     * [2014/12/19 10:34:21] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2014/12/19 10:27:53] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
@@ -372,6 +373,15 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/19 10:45:32] [urlrule] sites weipai.cn update zz蘑菇小象zz
+    * [2014/12/19 10:45:29] [urlrule] sites weipai.cn update y依凌小姐
+    * [2014/12/19 10:45:27] [urlrule] sites weipai.cn update yoyo12320141105
+    * [2014/12/19 10:45:25] [urlrule] sites weipai.cn update yiurdhe520
+    * [2014/12/19 10:45:22] [urlrule] sites weipai.cn update yi_sex_mei
+    * [2014/12/19 10:45:19] [urlrule] sites weipai.cn update yes丶
+    * [2014/12/19 10:45:17] [urlrule] sites weipai.cn update w女王a
+    * [2014/12/19 10:45:13] [urlrule] sites weipai.cn update vk_bb
+    * [2014/12/19 10:45:10] [urlrule] sites weipai.cn update vamipre小妖
     * [2014/12/19 10:44:49] [urlrule] sites weipai.cn update tina晨曦
     * [2014/12/19 10:44:46] [urlrule] sites weipai.cn update suna2411
     * [2014/12/19 10:44:44] [urlrule] sites weipai.cn update summer糖糖

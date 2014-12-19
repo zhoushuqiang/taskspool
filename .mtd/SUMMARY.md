@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 一生热爱回头太难
+
+    * Begin : 2014/12/19 10:45:34
+    * End   : 2014/12/19 10:46:26
+    * Result: OK
+
 * [urlrule task] update urlrule/task/follows.txt
 
     * Begin : 2014/12/19 10:44:50
