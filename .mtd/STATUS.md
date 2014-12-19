@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 5430af70a8640b873a8b4582 九尾狐-官晓双
-
 * Finished:
+    * [2014/12/19 16:18:16] [urlrule] sites weipai.cn UPDATE 九尾狐-官晓双
+
     * [2014/12/19 15:33:28] [urlrule] sites weipai.cn follow 5430af70a8640b873a8b4582 九尾狐-官晓双
 
     * [2014/12/19 15:32:29] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
