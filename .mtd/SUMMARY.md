@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 张露_Betty
+
+    * Begin : 2014/12/19 17:54:19
+    * End   : 2014/12/19 17:54:55
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/19 17:52:52
