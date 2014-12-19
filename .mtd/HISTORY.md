@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 琳琳baby
+
+
+    * Begin : 2014/12/20 02:47:34
+    * End   : 2014/12/20 02:48:53
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 52dc303979d3cca32f8b4590 琳琳baby
 
 

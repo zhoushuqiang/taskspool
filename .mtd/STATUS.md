@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 52dc303979d3cca32f8b4590 琳琳baby
-
 * Finished:
+    * [2014/12/20 02:48:53] [urlrule] sites weipai.cn UPDATE 琳琳baby
+
     * [2014/12/20 02:47:16] [urlrule] sites weipai.cn follow 52dc303979d3cca32f8b4590 琳琳baby
 
     * [2014/12/20 02:45:17] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
