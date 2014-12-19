@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 女王女王陛下
+
+    * Begin : 2014/12/19 10:51:27
+    * End   : 2014/12/19 10:51:28
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 一生热爱回头太难
 
     * Begin : 2014/12/19 10:45:34
