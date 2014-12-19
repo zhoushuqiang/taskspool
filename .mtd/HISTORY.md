@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 于安朵
+
+    * Begin : 2014/12/20 00:49:12
+    * End   : 2014/12/20 00:50:42
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 乱搞砖家
+
+    * Begin : 2014/12/20 00:49:09
+    * End   : 2014/12/20 00:49:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 九尾狐-官晓双
+
+    * Begin : 2014/12/20 00:49:04
+    * End   : 2014/12/20 00:49:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 乔宝宝i
+
+    * Begin : 2014/12/20 00:49:01
+    * End   : 2014/12/20 00:49:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 乐怡
+
+    * Begin : 2014/12/20 00:48:57
+    * End   : 2014/12/20 00:48:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丽嫂zyk
+
+    * Begin : 2014/12/20 00:48:54
+    * End   : 2014/12/20 00:48:55
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 丹梦妮ooloo
 
     * Begin : 2014/12/20 00:47:46

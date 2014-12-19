@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 于安朵
+
+    * Begin : 2014/12/20 00:49:12
+    * End   : 2014/12/20 00:50:42
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 丹梦妮ooloo
 
     * Begin : 2014/12/20 00:47:46
