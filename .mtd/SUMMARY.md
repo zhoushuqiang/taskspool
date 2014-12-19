@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 卢秋桐
+
+
+    * Begin : 2014/12/20 04:21:13
+    * End   : 2014/12/20 04:22:09
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE _倩倩
 
 

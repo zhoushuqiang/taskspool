@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 04:22:09] [urlrule] sites weipai.cn UPDATE 卢秋桐
+
     * [2014/12/20 04:19:55] [urlrule] sites weipai.cn UPDATE _倩倩
 
     * [2014/12/20 04:18:31] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
@@ -582,6 +584,46 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 04:21:11] [urlrule] sites weipai.cn follow 515a6e8d7d34946f78000009 卢秋桐
+
+    * [2014/12/20 04:21:09] [urlrule] sites weipai.cn add 515a6e8d7d34946f78000009 卢秋桐
+
+    * [2014/12/20 04:21:06] [urlrule] sites weipai.cn UPDATE 莫斯斯
+
+    * [2014/12/20 04:21:03] [urlrule] sites weipai.cn follow 54197170a6640bb8278b4581 莫斯斯
+
+    * [2014/12/20 04:21:01] [urlrule] sites weipai.cn add 54197170a6640bb8278b4581 莫斯斯
+
+    * [2014/12/20 04:20:58] [urlrule] sites weipai.cn UPDATE SaSaking
+
+    * [2014/12/20 04:20:55] [urlrule] sites weipai.cn follow 531227fb4f4a136a298b45d6 SaSaking
+
+    * [2014/12/20 04:20:53] [urlrule] sites weipai.cn add 531227fb4f4a136a298b45d6 SaSaking
+
+    * [2014/12/20 04:20:50] [urlrule] sites weipai.cn UPDATE 刘培雨雨小熊
+
+    * [2014/12/20 04:20:47] [urlrule] sites weipai.cn follow 5286bbf5504a13b14f8b45c8 刘培雨雨小熊
+
+    * [2014/12/20 04:20:45] [urlrule] sites weipai.cn add 5286bbf5504a13b14f8b45c8 刘培雨雨小熊
+
+    * [2014/12/20 04:20:42] [urlrule] sites weipai.cn UPDATE 小花妹妹
+
+    * [2014/12/20 04:20:40] [urlrule] sites weipai.cn follow 535f7205ebeddbc9178b45fc 小花妹妹
+
+    * [2014/12/20 04:20:37] [urlrule] sites weipai.cn add 535f7205ebeddbc9178b45fc 小花妹妹
+
+    * [2014/12/20 04:20:34] [urlrule] sites weipai.cn UPDATE 李思桐儿
+
+    * [2014/12/20 04:20:32] [urlrule] sites weipai.cn follow 5189f0ab803494c62f00000e 李思桐儿
+
+    * [2014/12/20 04:20:29] [urlrule] sites weipai.cn add 5189f0ab803494c62f00000e 李思桐儿
+
+    * [2014/12/20 04:20:26] [urlrule] sites weipai.cn UPDATE 大美露
+
+    * [2014/12/20 04:20:24] [urlrule] sites weipai.cn follow 52db845d77d3ccbb518b4580 大美露
+
+    * [2014/12/20 04:20:23] [urlrule] sites weipai.cn add 52db845d77d3ccbb518b4580 大美露
+
     * [2014/12/20 04:19:28] [urlrule] sites weipai.cn follow 532d69324f4a1366588b45f7 _倩倩
 
     * [2014/12/20 04:19:27] [urlrule] sites weipai.cn add 532d69324f4a1366588b45f7 _倩倩
