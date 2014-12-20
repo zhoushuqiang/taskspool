@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 波波小姐
+
+    * Begin : 2014/12/20 18:39:04
+    * End   : 2014/12/20 18:40:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 水蜜桃子
 
     * Begin : 2014/12/20 18:38:20
