@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 03:04:37] [urlrule] sites weipai.cn update 画泪听雨眠
     * [2014/12/21 03:02:07] [urlrule] sites weipai.cn update 王籽文
     * [2014/12/21 03:00:19] [urlrule] sites weipai.cn update 王王王王-蕊
     * [2014/12/21 02:57:47] [urlrule] sites weipai.cn update 澄小兔
@@ -18,6 +19,26 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 03:03:38] [urlrule] sites weipai.cn update 由咩咩
+    * [2014/12/21 03:03:35] [urlrule] sites weipai.cn update 田晓多tesia
+    * [2014/12/21 03:03:32] [urlrule] sites weipai.cn update 田君er
+    * [2014/12/21 03:03:30] [urlrule] sites weipai.cn update 生如夏花12
+    * [2014/12/21 03:03:27] [urlrule] sites weipai.cn update 甜美人angela
+    * [2014/12/21 03:03:24] [urlrule] sites vlook.cn update 甜心宝
+    * [2014/12/21 03:03:18] [urlrule] sites weipai.cn update 瓶宝宝
+    * [2014/12/21 03:03:15] [urlrule] sites weipai.cn update 璇子_Yvonne
+    * [2014/12/21 03:03:11] [urlrule] sites weipai.cn update 瑶瑶baby
+    * [2014/12/21 03:03:08] [urlrule] sites weipai.cn update 瑞莎国际
+    * [2014/12/21 03:03:05] [urlrule] sites weipai.cn update 瑜伽女神青文
+    * [2014/12/21 03:03:02] [urlrule] sites weipai.cn update 琳琳baby
+    * [2014/12/21 03:02:59] [urlrule] sites weipai.cn update 琪胖胖
+    * [2014/12/21 03:02:55] [urlrule] sites weipai.cn update 琦琦loveBaby
+    * [2014/12/21 03:02:52] [urlrule] sites weipai.cn update 珠宝定制-GIA国际证书
+    * [2014/12/21 03:02:48] [urlrule] sites vlook.cn update 玩摄影Rayshen
+    * [2014/12/21 03:02:43] [urlrule] sites vlook.cn update 森玲
+    * [2014/12/21 03:02:38] [urlrule] sites weipai.cn update 王馨瑶
+    * [2014/12/21 03:02:36] [urlrule] sites weipai.cn update 王语纯baby
+    * [2014/12/21 03:02:33] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/21 03:01:43] [urlrule] sites weipai.cn update 王璐璐-Dasiy
     * [2014/12/21 02:59:27] [urlrule] sites weipai.cn update 王熙悦
     * [2014/12/21 02:59:24] [urlrule] sites weipai.cn update 王炤钧
