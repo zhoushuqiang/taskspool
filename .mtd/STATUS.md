@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 13:30:45] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
     * [2014/12/20 13:29:21] [urlrule] sites weipai.cn UPDATE 最帅马三舅
 
     * [2014/12/20 13:27:07] [urlrule] sites weipai.cn follow 520bc2988034944e2c95fb4c 最帅马三舅
@@ -694,6 +695,54 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 13:30:40] [urlrule] sites weipai.cn UPDATE 徐妍馨Mandy
+
+    * [2014/12/20 13:30:38] [urlrule] sites weipai.cn follow 531374499d67d9ee0b8b4567 徐妍馨Mandy
+
+    * [2014/12/20 13:30:37] [urlrule] sites weipai.cn add 531374499d67d9ee0b8b4567 徐妍馨Mandy
+
+    * [2014/12/20 13:30:34] [urlrule] sites weipai.cn UPDATE 王悠悠
+
+    * [2014/12/20 13:30:31] [urlrule] sites weipai.cn follow 50d20ea77d3494ef7a0001e1 王悠悠
+
+    * [2014/12/20 13:30:29] [urlrule] sites weipai.cn add 50d20ea77d3494ef7a0001e1 王悠悠
+
+    * [2014/12/20 13:30:26] [urlrule] sites weipai.cn UPDATE 王小珏elva
+
+    * [2014/12/20 13:30:23] [urlrule] sites weipai.cn follow 50cc9130803494251900000f 王小珏elva
+
+    * [2014/12/20 13:30:21] [urlrule] sites weipai.cn add 50cc9130803494251900000f 王小珏elva
+
+    * [2014/12/20 13:30:18] [urlrule] sites weipai.cn UPDATE LLLL-喵喵
+
+    * [2014/12/20 13:30:15] [urlrule] sites weipai.cn follow 5458457ca5640ba7668b4597 LLLL-喵喵
+
+    * [2014/12/20 13:30:13] [urlrule] sites weipai.cn add 5458457ca5640ba7668b4597 LLLL-喵喵
+
+    * [2014/12/20 13:30:10] [urlrule] sites weipai.cn UPDATE 卢秋桐
+
+    * [2014/12/20 13:30:07] [urlrule] sites weipai.cn follow 515a6e8d7d34946f78000009 卢秋桐
+
+    * [2014/12/20 13:30:05] [urlrule] sites weipai.cn add 515a6e8d7d34946f78000009 卢秋桐
+
+    * [2014/12/20 13:30:02] [urlrule] sites weipai.cn UPDATE 莫斯斯
+
+    * [2014/12/20 13:29:59] [urlrule] sites weipai.cn follow 54197170a6640bb8278b4581 莫斯斯
+
+    * [2014/12/20 13:29:57] [urlrule] sites weipai.cn add 54197170a6640bb8278b4581 莫斯斯
+
+    * [2014/12/20 13:29:54] [urlrule] sites weipai.cn UPDATE SaSaking
+
+    * [2014/12/20 13:29:52] [urlrule] sites weipai.cn follow 531227fb4f4a136a298b45d6 SaSaking
+
+    * [2014/12/20 13:29:50] [urlrule] sites weipai.cn add 531227fb4f4a136a298b45d6 SaSaking
+
+    * [2014/12/20 13:29:45] [urlrule] sites weipai.cn UPDATE 小花妹妹
+
+    * [2014/12/20 13:29:43] [urlrule] sites weipai.cn follow 535f7205ebeddbc9178b45fc 小花妹妹
+
+    * [2014/12/20 13:29:41] [urlrule] sites weipai.cn add 535f7205ebeddbc9178b45fc 小花妹妹
+
     * [2014/12/20 13:27:06] [urlrule] sites weipai.cn add 520bc2988034944e2c95fb4c 最帅马三舅
 
     * [2014/12/20 13:27:03] [urlrule] sites weipai.cn UPDATE 李思桐儿
