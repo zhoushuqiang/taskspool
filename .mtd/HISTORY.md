@@ -1,3 +1,59 @@
+* [urlrule] sites weipai.cn follow 53eb7023a5640baa4e8b4574 5沉睡森林
+
+
+    * Begin : 2014/12/21 04:06:22
+    * End   : 2014/12/21 04:06:22
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 53eb7023a5640baa4e8b4574 5沉睡森林
+
+
+    * Begin : 2014/12/21 04:06:22
+    * End   : 2014/12/21 04:06:22
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE C小宝宝
+
+
+    * Begin : 2014/12/21 04:06:20
+    * End   : 2014/12/21 04:06:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5433a420a6640ba2588b45a3 C小宝宝
+
+
+    * Begin : 2014/12/21 04:06:19
+    * End   : 2014/12/21 04:06:20
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5433a420a6640ba2588b45a3 C小宝宝
+
+
+    * Begin : 2014/12/21 04:06:19
+    * End   : 2014/12/21 04:06:19
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 琳琳baby
+
+
+    * Begin : 2014/12/21 04:06:17
+    * End   : 2014/12/21 04:06:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52dc303979d3cca32f8b4590 琳琳baby
+
+
+    * Begin : 2014/12/21 04:06:17
+    * End   : 2014/12/21 04:06:17
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52dc303979d3cca32f8b4590 琳琳baby
+
+
+    * Begin : 2014/12/21 04:06:17
+    * End   : 2014/12/21 04:06:17
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE hhaskydhjjffjk
 
 
