@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn UPDATE 若涵Baby
+
+
+    * Begin : 2014/12/21 03:55:43
+    * End   : 2014/12/21 03:55:44
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 53310bc19d67d942728b466e 若涵Baby
+
+
+    * Begin : 2014/12/21 03:55:42
+    * End   : 2014/12/21 03:55:43
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53310bc19d67d942728b466e 若涵Baby
+
+
+    * Begin : 2014/12/21 03:55:42
+    * End   : 2014/12/21 03:55:42
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 70后米米妈丫
+
+
+    * Begin : 2014/12/21 03:55:39
+    * End   : 2014/12/21 03:55:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5434d972a6640bab078b457e 70后米米妈丫
+
+
+    * Begin : 2014/12/21 03:55:39
+    * End   : 2014/12/21 03:55:39
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5434d972a6640bab078b457e 70后米米妈丫
+
+
+    * Begin : 2014/12/21 03:55:39
+    * End   : 2014/12/21 03:55:39
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
 
     * Begin : 2014/12/21 03:55:25
