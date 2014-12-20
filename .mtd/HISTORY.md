@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 小甜猫
+
+    * Begin : 2014/12/21 04:58:36
+    * End   : 2014/12/21 04:58:58
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 小瓢20141127
+
+    * Begin : 2014/12/21 04:58:34
+    * End   : 2014/12/21 04:58:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小猫有毒
+
+    * Begin : 2014/12/21 04:58:32
+    * End   : 2014/12/21 04:58:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小狐狸精灵
+
+    * Begin : 2014/12/21 04:58:30
+    * End   : 2014/12/21 04:58:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小爱妞妞
+
+    * Begin : 2014/12/21 04:58:27
+    * End   : 2014/12/21 04:58:28
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 小燃燃baby
 
     * Begin : 2014/12/21 04:57:56
