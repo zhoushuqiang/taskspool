@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update DM靜兒
+
+    * Begin : 2014/12/20 19:37:25
+    * End   : 2014/12/20 19:38:57
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2014/12/20 19:29:47
