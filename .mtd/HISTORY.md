@@ -1,3 +1,30 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
+
+    * Begin : 2014/12/21 03:41:33
+    * End   : 2014/12/21 03:48:25
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 丝绸裹着性感2
+
+
+    * Begin : 2014/12/21 03:41:29
+    * End   : 2014/12/21 03:41:31
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 541e8df9a8640b0b568b4578 丝绸裹着性感2
+
+
+    * Begin : 2014/12/21 03:41:29
+    * End   : 2014/12/21 03:41:29
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 541e8df9a8640b0b568b4578 丝绸裹着性感2
+
+
+    * Begin : 2014/12/21 03:41:29
+    * End   : 2014/12/21 03:41:29
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 欣赏为主
 
 
