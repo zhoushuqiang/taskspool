@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 04:16:27] [urlrule] sites weipai.cn update 201403085958
     * [2014/12/21 04:15:54] [urlrule] sites weipai.cn update 20131211281
     * [2014/12/21 04:14:33] [urlrule] sites weipai.cn update 1142058078
     * [2014/12/21 04:12:39] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
@@ -97,6 +98,8 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 04:16:11] [urlrule] sites weipai.cn update 20140221429
+    * [2014/12/21 04:16:09] [urlrule] sites weipai.cn update 20140110366
     * [2014/12/21 04:15:01] [urlrule] sites weipai.cn update 18610561108
     * [2014/12/21 04:14:56] [urlrule] sites weipai.cn update 1824329072宅女轩轩
     * [2014/12/21 04:14:53] [urlrule] sites vlook.cn update 1824329072宅女轩轩
