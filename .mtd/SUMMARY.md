@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Alllili
+
+    * Begin : 2014/12/21 04:17:49
+    * End   : 2014/12/21 04:19:22
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 201403085958
 
     * Begin : 2014/12/21 04:16:13
