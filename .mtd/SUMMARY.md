@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn follow 54336cfda6640bd0448b456b 易阳ELLY
+
+
+    * Begin : 2014/12/21 03:56:50
+    * End   : 2014/12/21 03:56:50
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 不是女神i
 
 
