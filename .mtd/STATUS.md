@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 04:51:07] [urlrule] sites weipai.cn update 姐又内涵了
     * [2014/12/21 04:50:23] [urlrule] sites weipai.cn update 女神集团
     * [2014/12/21 04:50:04] [urlrule] sites weipai.cn update 女王女王陛下
     * [2014/12/21 04:48:15] [urlrule] sites weipai.cn update 周OK
@@ -116,6 +117,13 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 04:50:51] [urlrule] sites weipai.cn update 妮妮儿r
+    * [2014/12/21 04:50:49] [urlrule] sites weipai.cn update 妮妮love
+    * [2014/12/21 04:50:47] [urlrule] sites weipai.cn update 妩媚动人栩儿
+    * [2014/12/21 04:50:45] [urlrule] sites weipai.cn update 妞跪着给哥唱征服
+    * [2014/12/21 04:50:43] [urlrule] sites weipai.cn update 妖精annly
+    * [2014/12/21 04:50:40] [urlrule] sites weipai.cn update 奶棒
+    * [2014/12/21 04:50:38] [urlrule] sites weipai.cn update 女超人
     * [2014/12/21 04:50:20] [urlrule] sites weipai.cn update 女神情情
     * [2014/12/21 04:50:01] [urlrule] sites weipai.cn update 女侠桃花鹿
     * [2014/12/21 04:49:59] [urlrule] sites weipai.cn update 奈奈萌大奶
