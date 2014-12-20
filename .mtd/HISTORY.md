@@ -1,3 +1,69 @@
+* [urlrule] sites weipai.cn update 张江南同学
+
+    * Begin : 2014/12/20 14:27:55
+    * End   : 2014/12/20 14:29:11
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 张栩菲-ManGo
+
+    * Begin : 2014/12/20 14:27:51
+    * End   : 2014/12/20 14:27:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 张春雪v
+
+    * Begin : 2014/12/20 14:27:47
+    * End   : 2014/12/20 14:27:48
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 张心儿Bella
+
+    * Begin : 2014/12/20 14:27:41
+    * End   : 2014/12/20 14:27:44
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 张心儿
+
+    * Begin : 2014/12/20 14:27:35
+    * End   : 2014/12/20 14:27:38
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 张已桂
+
+    * Begin : 2014/12/20 14:27:29
+    * End   : 2014/12/20 14:27:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 张姿彦
+
+    * Begin : 2014/12/20 14:27:25
+    * End   : 2014/12/20 14:27:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 张大Ber__r7
+
+    * Begin : 2014/12/20 14:27:21
+    * End   : 2014/12/20 14:27:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 广州莉莉玛莲酒吧小熙
+
+    * Begin : 2014/12/20 14:27:17
+    * End   : 2014/12/20 14:27:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 年轻没有什么不可以
+
+    * Begin : 2014/12/20 14:27:13
+    * End   : 2014/12/20 14:27:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 干毛毛
+
+    * Begin : 2014/12/20 14:27:07
+    * End   : 2014/12/20 14:27:10
+    * Result: Nothing to do
+
 * [urlrule] sites vlook.cn update 帮主-杨筱敏
 
     * Begin : 2014/12/20 14:26:22

@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 张江南同学
+
+    * Begin : 2014/12/20 14:27:55
+    * End   : 2014/12/20 14:29:11
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 帮主-杨筱敏
 
     * Begin : 2014/12/20 14:26:22
