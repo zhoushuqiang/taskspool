@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 桓淼淼baby
+
+    * Begin : 2014/12/20 18:32:49
+    * End   : 2014/12/20 18:33:56
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/20 18:22:19
