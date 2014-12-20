@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 秦勉叫冉冉
+
+    * Begin : 2014/12/20 18:47:31
+    * End   : 2014/12/20 18:48:18
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 瞄小婷
 
     * Begin : 2014/12/20 18:46:17
