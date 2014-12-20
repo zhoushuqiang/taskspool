@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update NZL-妮子梁
+
+    * Begin : 2014/12/21 04:25:21
+    * End   : 2014/12/21 04:28:20
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Diva_狄娃
 
     * Begin : 2014/12/21 04:21:46
