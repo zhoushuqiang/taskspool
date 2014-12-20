@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn follow 50093c038134944b62000280 Kiki_雅琪
+
+
+    * Begin : 2014/12/21 03:35:07
+    * End   : 2014/12/21 03:35:07
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 雨辰Raina
 
     * Begin : 2014/12/21 03:25:47
