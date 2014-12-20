@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 53eb7023a5640baa4e8b4574 5沉睡森林
-
 * Finished:
+    * [2014/12/21 04:12:06] [urlrule] sites weipai.cn UPDATE 5沉睡森林
+
     * [2014/12/21 04:06:22] [urlrule] sites weipai.cn follow 53eb7023a5640baa4e8b4574 5沉睡森林
 
     * [2014/12/21 04:06:03] [urlrule] sites weipai.cn UPDATE hhaskydhjjffjk

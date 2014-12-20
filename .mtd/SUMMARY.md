@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 5沉睡森林
+
+
+    * Begin : 2014/12/21 04:06:34
+    * End   : 2014/12/21 04:12:06
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53eb7023a5640baa4e8b4574 5沉睡森林
 
 
