@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 薇妮BABY
+
+
+    * Begin : 2014/12/21 04:12:19
+    * End   : 2014/12/21 04:12:25
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 5沉睡森林
 
 

@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE 薇妮BABY
+
+
+    * Begin : 2014/12/21 04:12:19
+    * End   : 2014/12/21 04:12:25
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 5446fec2a6640b10708b4578 薇妮BABY
+
+
+    * Begin : 2014/12/21 04:12:19
+    * End   : 2014/12/21 04:12:19
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5446fec2a6640b10708b4578 薇妮BABY
+
+
+    * Begin : 2014/12/21 04:12:19
+    * End   : 2014/12/21 04:12:19
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 5沉睡森林
 
 

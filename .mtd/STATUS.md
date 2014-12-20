@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 04:12:25] [urlrule] sites weipai.cn UPDATE 薇妮BABY
+
     * [2014/12/21 04:12:06] [urlrule] sites weipai.cn UPDATE 5沉睡森林
 
     * [2014/12/21 04:06:22] [urlrule] sites weipai.cn follow 53eb7023a5640baa4e8b4574 5沉睡森林
@@ -92,6 +94,10 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 04:12:19] [urlrule] sites weipai.cn follow 5446fec2a6640b10708b4578 薇妮BABY
+
+    * [2014/12/21 04:12:19] [urlrule] sites weipai.cn add 5446fec2a6640b10708b4578 薇妮BABY
+
     * [2014/12/21 04:06:22] [urlrule] sites weipai.cn add 53eb7023a5640baa4e8b4574 5沉睡森林
 
     * [2014/12/21 04:06:20] [urlrule] sites weipai.cn UPDATE C小宝宝
