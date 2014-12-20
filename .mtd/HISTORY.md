@@ -1,3 +1,87 @@
+* [urlrule] sites weipai.cn update 张瑶isa
+
+    * Begin : 2014/12/20 10:37:57
+    * End   : 2014/12/20 10:41:40
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 张江南同学
+
+    * Begin : 2014/12/20 10:37:53
+    * End   : 2014/12/20 10:37:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 张栩菲-ManGo
+
+    * Begin : 2014/12/20 10:37:49
+    * End   : 2014/12/20 10:37:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 张春雪v
+
+    * Begin : 2014/12/20 10:37:45
+    * End   : 2014/12/20 10:37:46
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 张心儿Bella
+
+    * Begin : 2014/12/20 10:37:39
+    * End   : 2014/12/20 10:37:42
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 张心儿
+
+    * Begin : 2014/12/20 10:37:32
+    * End   : 2014/12/20 10:37:36
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 张已桂
+
+    * Begin : 2014/12/20 10:37:24
+    * End   : 2014/12/20 10:37:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 张姿彦
+
+    * Begin : 2014/12/20 10:37:15
+    * End   : 2014/12/20 10:37:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 张大Ber__r7
+
+    * Begin : 2014/12/20 10:37:08
+    * End   : 2014/12/20 10:37:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 广州莉莉玛莲酒吧小熙
+
+    * Begin : 2014/12/20 10:37:01
+    * End   : 2014/12/20 10:37:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 年轻没有什么不可以
+
+    * Begin : 2014/12/20 10:36:56
+    * End   : 2014/12/20 10:36:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 干毛毛
+
+    * Begin : 2014/12/20 10:36:52
+    * End   : 2014/12/20 10:36:53
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 帮主-杨筱敏
+
+    * Begin : 2014/12/20 10:36:46
+    * End   : 2014/12/20 10:36:49
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 帮主-杨筱敏
+
+    * Begin : 2014/12/20 10:36:41
+    * End   : 2014/12/20 10:36:42
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/20 10:35:57

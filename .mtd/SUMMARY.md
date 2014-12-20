@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 张瑶isa
+
+    * Begin : 2014/12/20 10:37:57
+    * End   : 2014/12/20 10:41:40
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/20 10:35:57
