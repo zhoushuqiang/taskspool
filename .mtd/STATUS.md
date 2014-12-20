@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 03:00:19] [urlrule] sites weipai.cn update 王王王王-蕊
     * [2014/12/21 02:57:47] [urlrule] sites weipai.cn update 澄小兔
     * [2014/12/21 02:57:09] [urlrule] sites weipai.cn update 潘潘20140413
     * [2014/12/21 02:54:46] [urlrule] sites weipai.cn update 洛可馨
@@ -16,6 +17,27 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 02:59:27] [urlrule] sites weipai.cn update 王熙悦
+    * [2014/12/21 02:59:24] [urlrule] sites weipai.cn update 王炤钧
+    * [2014/12/21 02:59:21] [urlrule] sites weipai.cn update 王悠悠
+    * [2014/12/21 02:59:18] [urlrule] sites weipai.cn update 王小珏elva
+    * [2014/12/21 02:59:14] [urlrule] sites weipai.cn update 王大小姐__Miss
+    * [2014/12/21 02:59:11] [urlrule] sites weipai.cn update 王允甜
+    * [2014/12/21 02:59:08] [urlrule] sites weipai.cn update 王依萱
+    * [2014/12/21 02:59:05] [urlrule] sites weipai.cn update 王丹妮baby
+    * [2014/12/21 02:59:03] [urlrule] sites weipai.cn update 玉baby
+    * [2014/12/21 02:59:00] [urlrule] sites vlook.cn update 猫小咪Queen
+    * [2014/12/21 02:58:54] [urlrule] sites weipai.cn update 猫小咪Queen
+    * [2014/12/21 02:58:51] [urlrule] sites weipai.cn update 猫大人是猫大人
+    * [2014/12/21 02:58:48] [urlrule] sites vlook.cn update 猫一样的女人猫 伊莲的小衣橱
+    * [2014/12/21 02:58:43] [urlrule] sites weipai.cn update 独爱简单控
+    * [2014/12/21 02:58:40] [urlrule] sites weipai.cn update 狐狸要成精LZ去死
+    * [2014/12/21 02:58:37] [urlrule] sites weipai.cn update 爱爱微拍
+    * [2014/12/21 02:58:34] [urlrule] sites weipai.cn update 燕囡囡
+    * [2014/12/21 02:58:32] [urlrule] sites vlook.cn update 熙悦儿丶
+    * [2014/12/21 02:58:25] [urlrule] sites weipai.cn update 熊葵
+    * [2014/12/21 02:58:22] [urlrule] sites weipai.cn update 然又又
+    * [2014/12/21 02:58:19] [urlrule] sites vlook.cn update 激情一夏
     * [2014/12/21 02:55:34] [urlrule] sites weipai.cn update 潘小云云
     * [2014/12/21 02:55:31] [urlrule] sites weipai.cn update 满天都是小鑫鑫_
     * [2014/12/21 02:55:28] [urlrule] sites weipai.cn update 溅行溅美
