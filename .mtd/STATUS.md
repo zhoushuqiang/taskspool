@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 5458f63ca7640bc85b8b4568 穴儿
+
 * Finished:
+    * [2014/12/21 03:53:42] [urlrule] sites weipai.cn follow 5458f63ca7640bc85b8b4568 穴儿
+
     * [2014/12/21 03:53:29] [urlrule] sites weipai.cn UPDATE 男人不坏女人不爱B
 
     * [2014/12/21 03:51:32] [urlrule] sites weipai.cn follow 541a6cc8a6640b1a2c8b457d 男人不坏女人不爱B
@@ -51,6 +56,8 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 03:53:42] [urlrule] sites weipai.cn add 5458f63ca7640bc85b8b4568 穴儿
+
     * [2014/12/21 03:51:32] [urlrule] sites weipai.cn add 541a6cc8a6640b1a2c8b457d 男人不坏女人不爱B
 
     * [2014/12/21 03:51:15] [urlrule] sites weipai.cn UPDATE 梦游娃娃
