@@ -1,3 +1,87 @@
+* [urlrule] sites weipai.cn update 诗卉95113
+
+    * Begin : 2014/12/21 03:22:08
+    * End   : 2014/12/21 03:22:50
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 许小雪S
+
+    * Begin : 2014/12/21 03:22:05
+    * End   : 2014/12/21 03:22:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 許曼妮
+
+    * Begin : 2014/12/21 03:22:03
+    * End   : 2014/12/21 03:22:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 角落宝贝
+
+    * Begin : 2014/12/21 03:22:01
+    * End   : 2014/12/21 03:22:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 西瓜姑娘
+
+    * Begin : 2014/12/21 03:21:59
+    * End   : 2014/12/21 03:22:00
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 表表表
+
+    * Begin : 2014/12/21 03:21:55
+    * End   : 2014/12/21 03:21:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 表妹baby
+
+    * Begin : 2014/12/21 03:21:53
+    * End   : 2014/12/21 03:21:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 蜜蜜波
+
+    * Begin : 2014/12/21 03:21:51
+    * End   : 2014/12/21 03:21:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 蛇蛇姜瑾芝
+
+    * Begin : 2014/12/21 03:21:49
+    * End   : 2014/12/21 03:21:49
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 蛇精病---
+
+    * Begin : 2014/12/21 03:21:46
+    * End   : 2014/12/21 03:21:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 虞梦-宝贝
+
+    * Begin : 2014/12/21 03:21:43
+    * End   : 2014/12/21 03:21:44
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 虞梦-宝贝
+
+    * Begin : 2014/12/21 03:21:39
+    * End   : 2014/12/21 03:21:42
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 虞梦-宝贝
+
+    * Begin : 2014/12/21 03:21:37
+    * End   : 2014/12/21 03:21:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 薰衣草20131022
+
+    * Begin : 2014/12/21 03:21:35
+    * End   : 2014/12/21 03:21:36
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 薇妮BABY
 
     * Begin : 2014/12/21 03:21:14
