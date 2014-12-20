@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 娜依灵儿
+
+    * Begin : 2014/12/21 04:51:34
+    * End   : 2014/12/21 04:52:36
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 娇娇2014
+
+    * Begin : 2014/12/21 04:51:30
+    * End   : 2014/12/21 04:51:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 威信qianfei2012
+
+    * Begin : 2014/12/21 04:51:28
+    * End   : 2014/12/21 04:51:28
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 姚雪
+
+    * Begin : 2014/12/21 04:51:24
+    * End   : 2014/12/21 04:51:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 姗-姗
+
+    * Begin : 2014/12/21 04:51:22
+    * End   : 2014/12/21 04:51:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 姐妹的范er
+
+    * Begin : 2014/12/21 04:51:20
+    * End   : 2014/12/21 04:51:21
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 姐又内涵了
 
     * Begin : 2014/12/21 04:50:52

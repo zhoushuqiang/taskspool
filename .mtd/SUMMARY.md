@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 娜依灵儿
+
+    * Begin : 2014/12/21 04:51:34
+    * End   : 2014/12/21 04:52:36
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 姐又内涵了
 
     * Begin : 2014/12/21 04:50:52
