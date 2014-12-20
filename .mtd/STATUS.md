@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 19:43:07] [urlrule] sites weipai.cn update Fiy
     * [2014/12/20 19:38:57] [urlrule] sites weipai.cn update DM靜兒
     * [2014/12/20 19:30:11] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2014/12/20 19:29:02] [urlrule] sites weipai.cn UPDATE 薇妮BABY
@@ -803,6 +804,18 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 19:40:20] [urlrule] sites weipai.cn update EverdayBaby
+    * [2014/12/20 19:40:16] [urlrule] sites weipai.cn update Elise谭晓彤
+    * [2014/12/20 19:40:12] [urlrule] sites vlook.cn update Elise谭晓彤
+    * [2014/12/20 19:40:06] [urlrule] sites weipai.cn update Elise谭晓彤
+    * [2014/12/20 19:40:01] [urlrule] sites weipai.cn update Djkkrmx慧玲
+    * [2014/12/20 19:39:57] [urlrule] sites vlook.cn update Dj_kelly
+    * [2014/12/20 19:39:52] [urlrule] sites weipai.cn update Dj_kelly
+    * [2014/12/20 19:39:47] [urlrule] sites weipai.cn update DjTina
+    * [2014/12/20 19:39:40] [urlrule] sites weipai.cn update Diva_狄娃
+    * [2014/12/20 19:39:36] [urlrule] sites weipai.cn update Despair-假寐
+    * [2014/12/20 19:39:31] [urlrule] sites weipai.cn update Dance小宝
+    * [2014/12/20 19:39:27] [urlrule] sites weipai.cn update Daisy__兔
     * [2014/12/20 19:37:22] [urlrule] sites vlook.cn update DJ_Ricey
     * [2014/12/20 19:37:17] [urlrule] sites weipai.cn update DJ_Ricey
     * [2014/12/20 19:37:12] [urlrule] sites weipai.cn update DJ-TiMi
