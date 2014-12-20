@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小艾艾
+
+    * Begin : 2014/12/21 06:56:38
+    * End   : 2014/12/21 06:57:24
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 威信qianfei2012
 
     * Begin : 2014/12/21 06:53:55
