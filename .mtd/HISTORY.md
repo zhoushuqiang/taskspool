@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 小将士
+
+    * Begin : 2014/12/21 04:56:29
+    * End   : 2014/12/21 04:57:28
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 小容嬷嬷
+
+    * Begin : 2014/12/21 04:56:27
+    * End   : 2014/12/21 04:56:28
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小妮仔
+
+    * Begin : 2014/12/21 04:56:25
+    * End   : 2014/12/21 04:56:26
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 小如如
 
     * Begin : 2014/12/21 04:55:54
