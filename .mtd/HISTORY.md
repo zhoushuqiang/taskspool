@@ -1,3 +1,57 @@
+* [urlrule] sites weipai.cn update 陈大榕
+
+    * Begin : 2014/12/21 03:24:23
+    * End   : 2014/12/21 03:25:12
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 陈可鑫
+
+    * Begin : 2014/12/21 03:24:21
+    * End   : 2014/12/21 03:24:21
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈依萌宝贝
+
+    * Begin : 2014/12/21 03:24:19
+    * End   : 2014/12/21 03:24:19
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈世媄
+
+    * Begin : 2014/12/21 03:24:17
+    * End   : 2014/12/21 03:24:18
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 陆晨依
+
+    * Begin : 2014/12/21 03:24:14
+    * End   : 2014/12/21 03:24:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陆晨依
+
+    * Begin : 2014/12/21 03:24:12
+    * End   : 2014/12/21 03:24:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 阿鑫很浮躁
+
+    * Begin : 2014/12/21 03:24:10
+    * End   : 2014/12/21 03:24:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 阿朵拉Adora
+
+    * Begin : 2014/12/21 03:24:08
+    * End   : 2014/12/21 03:24:09
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 长裙飘飘21
+
+    * Begin : 2014/12/21 03:24:05
+    * End   : 2014/12/21 03:24:07
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 长裙飘飘21
 
     * Begin : 2014/12/21 03:23:43
