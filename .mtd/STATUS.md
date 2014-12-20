@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 548aefd3a6640b44728b4575 吴晴Kate
+
 * Finished:
+    * [2014/12/21 03:59:40] [urlrule] sites weipai.cn follow 548aefd3a6640b44728b4575 吴晴Kate
+
     * [2014/12/21 03:59:21] [urlrule] sites weipai.cn UPDATE 来肏逼123
 
     * [2014/12/21 03:58:44] [urlrule] sites weipai.cn follow 546ed8b7a5640bc7628b457a 来肏逼123
@@ -70,6 +75,20 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 03:59:40] [urlrule] sites weipai.cn add 548aefd3a6640b44728b4575 吴晴Kate
+
+    * [2014/12/21 03:59:38] [urlrule] sites weipai.cn UPDATE 徐妍馨Mandy
+
+    * [2014/12/21 03:59:37] [urlrule] sites weipai.cn follow 531374499d67d9ee0b8b4567 徐妍馨Mandy
+
+    * [2014/12/21 03:59:37] [urlrule] sites weipai.cn add 531374499d67d9ee0b8b4567 徐妍馨Mandy
+
+    * [2014/12/21 03:59:35] [urlrule] sites weipai.cn UPDATE 王小珏elva
+
+    * [2014/12/21 03:59:35] [urlrule] sites weipai.cn follow 50cc9130803494251900000f 王小珏elva
+
+    * [2014/12/21 03:59:34] [urlrule] sites weipai.cn add 50cc9130803494251900000f 王小珏elva
+
     * [2014/12/21 03:58:44] [urlrule] sites weipai.cn add 546ed8b7a5640bc7628b457a 来肏逼123
 
     * [2014/12/21 03:58:42] [urlrule] sites weipai.cn UPDATE 卢秋桐

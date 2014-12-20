@@ -1,3 +1,59 @@
+* [urlrule] sites weipai.cn follow 548aefd3a6640b44728b4575 吴晴Kate
+
+
+    * Begin : 2014/12/21 03:59:40
+    * End   : 2014/12/21 03:59:40
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 548aefd3a6640b44728b4575 吴晴Kate
+
+
+    * Begin : 2014/12/21 03:59:40
+    * End   : 2014/12/21 03:59:40
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 徐妍馨Mandy
+
+
+    * Begin : 2014/12/21 03:59:37
+    * End   : 2014/12/21 03:59:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 531374499d67d9ee0b8b4567 徐妍馨Mandy
+
+
+    * Begin : 2014/12/21 03:59:37
+    * End   : 2014/12/21 03:59:37
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 531374499d67d9ee0b8b4567 徐妍馨Mandy
+
+
+    * Begin : 2014/12/21 03:59:37
+    * End   : 2014/12/21 03:59:37
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 王小珏elva
+
+
+    * Begin : 2014/12/21 03:59:35
+    * End   : 2014/12/21 03:59:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 50cc9130803494251900000f 王小珏elva
+
+
+    * Begin : 2014/12/21 03:59:34
+    * End   : 2014/12/21 03:59:35
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 50cc9130803494251900000f 王小珏elva
+
+
+    * Begin : 2014/12/21 03:59:34
+    * End   : 2014/12/21 03:59:34
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 来肏逼123
 
 
