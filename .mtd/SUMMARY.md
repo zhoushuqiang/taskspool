@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 心宁儿cecilia
+
+    * Begin : 2014/12/21 02:30:11
+    * End   : 2014/12/21 02:31:01
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 张瑶isa
 
     * Begin : 2014/12/21 02:23:41
