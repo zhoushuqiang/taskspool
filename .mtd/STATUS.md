@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 14:19:33] [urlrule] sites weipai.cn update 娜依灵儿
     * [2014/12/20 14:18:40] [urlrule] sites vlook.cn update 娇娇2014
     * [2014/12/20 14:17:14] [urlrule] sites weipai.cn update 女神集团
     * [2014/12/20 14:16:47] [urlrule] sites weipai.cn update 女王女王陛下
