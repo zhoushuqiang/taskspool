@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 大萨萨
+
+    * Begin : 2014/12/20 14:11:14
+    * End   : 2014/12/20 14:15:54
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 劉點點dotey_
 
     * Begin : 2014/12/20 14:05:26
