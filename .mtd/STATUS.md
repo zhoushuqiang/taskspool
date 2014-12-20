@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 546ed8b7a5640bc7628b457a 来肏逼123
+
 * Finished:
+    * [2014/12/21 03:58:44] [urlrule] sites weipai.cn follow 546ed8b7a5640bc7628b457a 来肏逼123
+
     * [2014/12/21 03:58:28] [urlrule] sites weipai.cn UPDATE 易阳ELLY
 
     * [2014/12/21 03:56:50] [urlrule] sites weipai.cn follow 54336cfda6640bd0448b456b 易阳ELLY
@@ -66,6 +71,14 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 03:58:44] [urlrule] sites weipai.cn add 546ed8b7a5640bc7628b457a 来肏逼123
+
+    * [2014/12/21 03:58:42] [urlrule] sites weipai.cn UPDATE 卢秋桐
+
+    * [2014/12/21 03:58:41] [urlrule] sites weipai.cn follow 515a6e8d7d34946f78000009 卢秋桐
+
+    * [2014/12/21 03:58:41] [urlrule] sites weipai.cn add 515a6e8d7d34946f78000009 卢秋桐
+
     * [2014/12/21 03:56:50] [urlrule] sites weipai.cn add 54336cfda6640bd0448b456b 易阳ELLY
 
     * [2014/12/21 03:56:48] [urlrule] sites weipai.cn UPDATE 最帅马三舅

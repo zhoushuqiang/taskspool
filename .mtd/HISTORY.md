@@ -1,3 +1,38 @@
+* [urlrule] sites weipai.cn follow 546ed8b7a5640bc7628b457a 来肏逼123
+
+
+    * Begin : 2014/12/21 03:58:44
+    * End   : 2014/12/21 03:58:44
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 546ed8b7a5640bc7628b457a 来肏逼123
+
+
+    * Begin : 2014/12/21 03:58:44
+    * End   : 2014/12/21 03:58:44
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 卢秋桐
+
+
+    * Begin : 2014/12/21 03:58:41
+    * End   : 2014/12/21 03:58:42
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 515a6e8d7d34946f78000009 卢秋桐
+
+
+    * Begin : 2014/12/21 03:58:41
+    * End   : 2014/12/21 03:58:41
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 515a6e8d7d34946f78000009 卢秋桐
+
+
+    * Begin : 2014/12/21 03:58:41
+    * End   : 2014/12/21 03:58:41
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 易阳ELLY
 
 
