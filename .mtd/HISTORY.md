@@ -1,3 +1,38 @@
+* [urlrule] sites weipai.cn follow 547f4357a5640bd9478b457b 平平平平子
+
+
+    * Begin : 2014/12/21 04:03:23
+    * End   : 2014/12/21 04:03:23
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 547f4357a5640bd9478b457b 平平平平子
+
+
+    * Begin : 2014/12/21 04:03:23
+    * End   : 2014/12/21 04:03:23
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE baby小菲
+
+
+    * Begin : 2014/12/21 04:03:20
+    * End   : 2014/12/21 04:03:21
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 54709ffca8640b7e028b457d baby小菲
+
+
+    * Begin : 2014/12/21 04:03:20
+    * End   : 2014/12/21 04:03:20
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 54709ffca8640b7e028b457d baby小菲
+
+
+    * Begin : 2014/12/21 04:03:20
+    * End   : 2014/12/21 04:03:20
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
 
     * Begin : 2014/12/21 04:03:07
