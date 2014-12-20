@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 13:57:22] [urlrule] sites weipai.cn update _穆穆
     * [2014/12/20 13:54:24] [urlrule] sites weipai.cn update Sweet-微
     * [2014/12/20 13:48:02] [urlrule] sites weipai.cn update Lusibaby000
     * [2014/12/20 13:41:21] [urlrule] sites weipai.cn update Diva_狄娃
@@ -702,6 +703,28 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 13:56:17] [urlrule] sites weipai.cn update _李好美
+    * [2014/12/20 13:56:12] [urlrule] sites weipai.cn update _張丹丹
+    * [2014/12/20 13:56:09] [urlrule] sites weipai.cn update _娜娜
+    * [2014/12/20 13:56:05] [urlrule] sites weipai.cn update _刘爷
+    * [2014/12/20 13:56:01] [urlrule] sites weipai.cn update __张公子
+    * [2014/12/20 13:55:57] [urlrule] sites weipai.cn update __小韩韩
+    * [2014/12/20 13:55:53] [urlrule] sites weipai.cn update __妖涅
+    * [2014/12/20 13:55:49] [urlrule] sites weipai.cn update ___悦如
+    * [2014/12/20 13:55:45] [urlrule] sites weipai.cn update __Coco
+    * [2014/12/20 13:55:41] [urlrule] sites weipai.cn update _Miss梦
+    * [2014/12/20 13:55:37] [urlrule] sites weipai.cn update _Angelia燕子
+    * [2014/12/20 13:55:33] [urlrule] sites weipai.cn update Zz贞
+    * [2014/12/20 13:55:28] [urlrule] sites weipai.cn update ZeroDis
+    * [2014/12/20 13:55:25] [urlrule] sites vlook.cn update Yumi小旁友
+    * [2014/12/20 13:55:19] [urlrule] sites weipai.cn update V信qxs95002
+    * [2014/12/20 13:55:15] [urlrule] sites weipai.cn update Vicky777777
+    * [2014/12/20 13:55:11] [urlrule] sites weipai.cn update VV朗熙
+    * [2014/12/20 13:55:08] [urlrule] sites vlook.cn update VK_bb
+    * [2014/12/20 13:55:02] [urlrule] sites weipai.cn update Tomyli惋柔
+    * [2014/12/20 13:54:58] [urlrule] sites weipai.cn update TinaWong
+    * [2014/12/20 13:54:53] [urlrule] sites weipai.cn update Theonlylove
+    * [2014/12/20 13:54:47] [urlrule] sites weipai.cn update S小妹
     * [2014/12/20 13:51:14] [urlrule] sites weipai.cn update Suki_M
     * [2014/12/20 13:51:11] [urlrule] sites weipai.cn update SpookyG
     * [2014/12/20 13:51:05] [urlrule] sites weipai.cn update Sooki莹莹孙
