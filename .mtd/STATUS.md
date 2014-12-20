@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 53310bc19d67d942728b466e 若涵Baby
+
 * Finished:
+    * [2014/12/20 13:24:50] [urlrule] sites weipai.cn follow 53310bc19d67d942728b466e 若涵Baby
+
     * [2014/12/20 13:24:08] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
     * [2014/12/20 13:23:39] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/20 13:22:51] [urlrule] sites weipai.cn UPDATE 王语纯baby
@@ -686,6 +691,26 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 13:24:48] [urlrule] sites weipai.cn add 53310bc19d67d942728b466e 若涵Baby
+
+    * [2014/12/20 13:24:44] [urlrule] sites weipai.cn UPDATE 70后米米妈丫
+
+    * [2014/12/20 13:24:42] [urlrule] sites weipai.cn follow 5434d972a6640bab078b457e 70后米米妈丫
+
+    * [2014/12/20 13:24:40] [urlrule] sites weipai.cn add 5434d972a6640bab078b457e 70后米米妈丫
+
+    * [2014/12/20 13:24:37] [urlrule] sites weipai.cn UPDATE _倩倩
+
+    * [2014/12/20 13:24:34] [urlrule] sites weipai.cn follow 532d69324f4a1366588b45f7 _倩倩
+
+    * [2014/12/20 13:24:32] [urlrule] sites weipai.cn add 532d69324f4a1366588b45f7 _倩倩
+
+    * [2014/12/20 13:24:29] [urlrule] sites weipai.cn UPDATE summer糖糖
+
+    * [2014/12/20 13:24:27] [urlrule] sites weipai.cn follow 52e1d4dce3416757558b4581 summer糖糖
+
+    * [2014/12/20 13:24:26] [urlrule] sites weipai.cn add 52e1d4dce3416757558b4581 summer糖糖
+
     * [2014/12/20 13:24:04] [urlrule] sites weipai.cn UPDATE 九尾狐-官晓双
 
     * [2014/12/20 13:24:00] [urlrule] sites weipai.cn follow 5430af70a8640b873a8b4582 九尾狐-官晓双
