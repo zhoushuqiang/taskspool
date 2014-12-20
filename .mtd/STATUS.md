@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 04:01:40] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
     * [2014/12/21 04:00:11] [urlrule] sites weipai.cn UPDATE 吴晴Kate
 
     * [2014/12/21 03:59:40] [urlrule] sites weipai.cn follow 548aefd3a6640b44728b4575 吴晴Kate
