@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 我只愛高跟鞋
+
+    * Begin : 2014/12/21 02:35:59
+    * End   : 2014/12/21 02:41:07
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 懒虫baby
 
     * Begin : 2014/12/21 02:34:53

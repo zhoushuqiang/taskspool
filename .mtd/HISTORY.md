@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 我只愛高跟鞋
+
+    * Begin : 2014/12/21 02:35:59
+    * End   : 2014/12/21 02:41:07
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 我一直都在雯雯
+
+    * Begin : 2014/12/21 02:35:56
+    * End   : 2014/12/21 02:35:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 成都的肉包子
+
+    * Begin : 2014/12/21 02:35:53
+    * End   : 2014/12/21 02:35:54
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 懒虫baby
 
     * Begin : 2014/12/21 02:34:53

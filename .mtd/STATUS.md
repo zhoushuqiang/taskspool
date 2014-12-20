@@ -2,11 +2,14 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 02:41:07] [urlrule] sites weipai.cn update 我只愛高跟鞋
     * [2014/12/21 02:35:30] [urlrule] sites weipai.cn update 懒虫baby
     * [2014/12/21 02:34:04] [urlrule] sites weipai.cn update 悦儿yummy
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 02:35:57] [urlrule] sites weipai.cn update 我一直都在雯雯
+    * [2014/12/21 02:35:54] [urlrule] sites weipai.cn update 成都的肉包子
     * [2014/12/21 02:34:51] [urlrule] sites weipai.cn update 慕慕的性感迷死你
     * [2014/12/21 02:33:42] [urlrule] sites weipai.cn update 恋姗妮
     * [2014/12/21 02:33:40] [urlrule] sites vlook.cn update 性感女神研研
