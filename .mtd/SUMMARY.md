@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小猫有毒
+
+    * Begin : 2014/12/20 10:33:29
+    * End   : 2014/12/20 10:33:51
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 女神集团
 
     * Begin : 2014/12/20 10:28:33
