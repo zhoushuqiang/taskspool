@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 神神神神神姐
+
+    * Begin : 2014/12/20 15:15:32
+    * End   : 2014/12/20 15:22:42
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 神仙姐姐__艾溪
+
+    * Begin : 2014/12/20 15:15:28
+    * End   : 2014/12/20 15:15:29
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 硬伦X妹
+
+    * Begin : 2014/12/20 15:15:24
+    * End   : 2014/12/20 15:15:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 知了
+
+    * Begin : 2014/12/20 15:15:20
+    * End   : 2014/12/20 15:15:21
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 矢帘
 
     * Begin : 2014/12/20 15:13:24
