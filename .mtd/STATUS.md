@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 547f4357a5640bd9478b457b 平平平平子
-
 * Finished:
+    * [2014/12/21 04:04:19] [urlrule] sites weipai.cn UPDATE 平平平平子
+
     * [2014/12/21 04:03:23] [urlrule] sites weipai.cn follow 547f4357a5640bd9478b457b 平平平平子
 
     * [2014/12/21 04:03:08] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
