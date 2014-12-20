@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 两只小蜜蜂丫
+
+    * Begin : 2014/12/21 04:37:29
+    * End   : 2014/12/21 04:42:41
+    * Result: OK
+
 * [urlrule task] update urlrule/task/follows.txt
 
     * Begin : 2014/12/21 04:36:29
