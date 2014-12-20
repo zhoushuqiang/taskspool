@@ -1,3 +1,255 @@
+* [urlrule] sites weipai.cn update 芭比娃哈
+
+    * Begin : 2014/12/20 18:51:43
+    * End   : 2014/12/20 18:51:45
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 芒果小懒猫
+
+    * Begin : 2014/12/20 18:51:38
+    * End   : 2014/12/20 18:51:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 艾舞kathy
+
+    * Begin : 2014/12/20 18:51:33
+    * End   : 2014/12/20 18:51:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 艾小爱
+
+    * Begin : 2014/12/20 18:51:28
+    * End   : 2014/12/20 18:51:29
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 艾_笑笑
+
+    * Begin : 2014/12/20 18:51:24
+    * End   : 2014/12/20 18:51:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 般若的每一天
+
+    * Begin : 2014/12/20 18:51:17
+    * End   : 2014/12/20 18:51:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 胸奀
+
+    * Begin : 2014/12/20 18:51:13
+    * End   : 2014/12/20 18:51:14
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 胡金熙
+
+    * Begin : 2014/12/20 18:51:07
+    * End   : 2014/12/20 18:51:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 肥尻夫人Linanan
+
+    * Begin : 2014/12/20 18:51:03
+    * End   : 2014/12/20 18:51:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 肚皮舞皇后
+
+    * Begin : 2014/12/20 18:50:59
+    * End   : 2014/12/20 18:51:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 肖蕾微博
+
+    * Begin : 2014/12/20 18:50:55
+    * End   : 2014/12/20 18:50:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 翡翠妹妹
+
+    * Begin : 2014/12/20 18:50:50
+    * End   : 2014/12/20 18:50:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 美色驿站
+
+    * Begin : 2014/12/20 18:50:46
+    * End   : 2014/12/20 18:50:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 美腿热舞福利分享
+
+    * Begin : 2014/12/20 18:50:42
+    * End   : 2014/12/20 18:50:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 美瑩
+
+    * Begin : 2014/12/20 18:50:38
+    * End   : 2014/12/20 18:50:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 美媛媛
+
+    * Begin : 2014/12/20 18:50:33
+    * End   : 2014/12/20 18:50:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 美媚腿
+
+    * Begin : 2014/12/20 18:50:29
+    * End   : 2014/12/20 18:50:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 罗小佩
+
+    * Begin : 2014/12/20 18:50:25
+    * End   : 2014/12/20 18:50:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 罗妍-D
+
+    * Begin : 2014/12/20 18:50:21
+    * End   : 2014/12/20 18:50:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 维信qianfei2012
+
+    * Begin : 2014/12/20 18:50:17
+    * End   : 2014/12/20 18:50:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 纯儿宝贝
+
+    * Begin : 2014/12/20 18:50:13
+    * End   : 2014/12/20 18:50:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 红玫瑰
+
+    * Begin : 2014/12/20 18:50:09
+    * End   : 2014/12/20 18:50:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 红心点起来
+
+    * Begin : 2014/12/20 18:50:05
+    * End   : 2014/12/20 18:50:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 索菲娅
+
+    * Begin : 2014/12/20 18:50:01
+    * End   : 2014/12/20 18:50:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 索菲娅5200
+
+    * Begin : 2014/12/20 18:49:57
+    * End   : 2014/12/20 18:49:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 素兒
+
+    * Begin : 2014/12/20 18:49:53
+    * End   : 2014/12/20 18:49:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 糖果果国
+
+    * Begin : 2014/12/20 18:49:49
+    * End   : 2014/12/20 18:49:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 粽子小姐
+
+    * Begin : 2014/12/20 18:49:43
+    * End   : 2014/12/20 18:49:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 粽子喜欢秋天
+
+    * Begin : 2014/12/20 18:49:39
+    * End   : 2014/12/20 18:49:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 粵講粵潮
+
+    * Begin : 2014/12/20 18:49:34
+    * End   : 2014/12/20 18:49:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 粉小溪CC
+
+    * Begin : 2014/12/20 18:49:30
+    * End   : 2014/12/20 18:49:31
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 米洁
+
+    * Begin : 2014/12/20 18:49:27
+    * End   : 2014/12/20 18:49:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 米洁
+
+    * Begin : 2014/12/20 18:49:21
+    * End   : 2014/12/20 18:49:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 米拉贝拉Mirabella
+
+    * Begin : 2014/12/20 18:49:17
+    * End   : 2014/12/20 18:49:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 米小西
+
+    * Begin : 2014/12/20 18:49:13
+    * End   : 2014/12/20 18:49:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 米妮mini_20140821
+
+    * Begin : 2014/12/20 18:49:09
+    * End   : 2014/12/20 18:49:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 笑笑dem
+
+    * Begin : 2014/12/20 18:49:05
+    * End   : 2014/12/20 18:49:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 笑笑Sophia
+
+    * Begin : 2014/12/20 18:49:00
+    * End   : 2014/12/20 18:49:01
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 笑笑
+
+    * Begin : 2014/12/20 18:48:55
+    * End   : 2014/12/20 18:48:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 穿着高跟鞋跳芭蕾--
+
+    * Begin : 2014/12/20 18:48:51
+    * End   : 2014/12/20 18:48:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 空虚哥
+
+    * Begin : 2014/12/20 18:48:47
+    * End   : 2014/12/20 18:48:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 秦蕾
+
+    * Begin : 2014/12/20 18:48:40
+    * End   : 2014/12/20 18:48:41
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 秦勉叫冉冉
 
     * Begin : 2014/12/20 18:47:31
