@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 54336cfda6640bd0448b456b 易阳ELLY
-
 * Finished:
+    * [2014/12/21 03:58:28] [urlrule] sites weipai.cn UPDATE 易阳ELLY
+
     * [2014/12/21 03:56:50] [urlrule] sites weipai.cn follow 54336cfda6640bd0448b456b 易阳ELLY
 
     * [2014/12/21 03:56:27] [urlrule] sites weipai.cn UPDATE 不是女神i
