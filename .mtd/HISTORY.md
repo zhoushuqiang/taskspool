@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE 王语纯baby
+
+
+    * Begin : 2014/12/20 13:21:16
+    * End   : 2014/12/20 13:22:51
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 546c8daaa5640b577f8b458f 王语纯baby
+
+
+    * Begin : 2014/12/20 13:21:14
+    * End   : 2014/12/20 13:21:15
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 546c8daaa5640b577f8b458f 王语纯baby
+
+
+    * Begin : 2014/12/20 13:21:13
+    * End   : 2014/12/20 13:21:13
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
 
     * Begin : 2014/12/20 13:20:58

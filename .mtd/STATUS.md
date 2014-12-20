@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 13:22:51] [urlrule] sites weipai.cn UPDATE 王语纯baby
+
     * [2014/12/20 13:21:01] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
     * [2014/12/20 13:20:48] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
     * [2014/12/20 13:16:32] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
@@ -682,6 +684,10 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 13:21:15] [urlrule] sites weipai.cn follow 546c8daaa5640b577f8b458f 王语纯baby
+
+    * [2014/12/20 13:21:13] [urlrule] sites weipai.cn add 546c8daaa5640b577f8b458f 王语纯baby
+
     * [2014/12/20 11:10:39] [urlrule] sites weipai.cn UPDATE 丝绸裹着性感2
 
     * [2014/12/20 11:10:36] [urlrule] sites weipai.cn follow 541e8df9a8640b0b568b4578 丝绸裹着性感2
