@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 莫晓颜
+
+    * Begin : 2014/12/21 03:19:02
+    * End   : 2014/12/21 03:19:48
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 范范范小范
 
     * Begin : 2014/12/21 03:14:25
