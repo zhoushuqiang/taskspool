@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 04:54:06] [urlrule] sites weipai.cn update 安妮Annie
     * [2014/12/21 04:52:36] [urlrule] sites weipai.cn update 娜依灵儿
     * [2014/12/21 04:51:07] [urlrule] sites weipai.cn update 姐又内涵了
     * [2014/12/21 04:50:23] [urlrule] sites weipai.cn update 女神集团
@@ -118,6 +119,20 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 04:53:28] [urlrule] sites weipai.cn update 安之拉
+    * [2014/12/21 04:53:26] [urlrule] sites weipai.cn update 孤独患者
+    * [2014/12/21 04:53:24] [urlrule] sites weipai.cn update 孤单的84剩女
+    * [2014/12/21 04:53:22] [urlrule] sites weipai.cn update 孟晓艺dana
+    * [2014/12/21 04:53:20] [urlrule] sites vlook.cn update 孟晓晴Aimme
+    * [2014/12/21 04:53:08] [urlrule] sites weipai.cn update 孙星星
+    * [2014/12/21 04:53:06] [urlrule] sites weipai.cn update 孙大星
+    * [2014/12/21 04:53:04] [urlrule] sites weipai.cn update 孙十八
+    * [2014/12/21 04:53:02] [urlrule] sites weipai.cn update 媛妞儿
+    * [2014/12/21 04:53:00] [urlrule] sites weipai.cn update 媚力女人
+    * [2014/12/21 04:52:58] [urlrule] sites weipai.cn update 婷宝20141030
+    * [2014/12/21 04:52:56] [urlrule] sites vlook.cn update 婷婷aiweier
+    * [2014/12/21 04:52:52] [urlrule] sites weipai.cn update 婷MM
+    * [2014/12/21 04:52:49] [urlrule] sites weipai.cn update 娜娜-_
     * [2014/12/21 04:51:32] [urlrule] sites vlook.cn update 娇娇2014
     * [2014/12/21 04:51:28] [urlrule] sites weipai.cn update 威信qianfei2012
     * [2014/12/21 04:51:26] [urlrule] sites vlook.cn update 姚雪
