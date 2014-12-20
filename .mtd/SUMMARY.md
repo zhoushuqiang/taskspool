@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 梅姿baby
+
+    * Begin : 2014/12/21 02:49:04
+    * End   : 2014/12/21 02:51:53
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 桓淼淼baby
 
     * Begin : 2014/12/21 02:47:43
