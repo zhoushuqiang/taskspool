@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 17:40:41] [urlrule] sites weipai.cn update ANGELG
     * [2014/12/20 17:37:17] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2014/12/20 17:36:47] [urlrule] sites weipai.cn UPDATE 薇妮BABY
 
@@ -770,6 +771,58 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 17:40:19] [urlrule] sites weipai.cn update 9999920140801
+    * [2014/12/20 17:40:15] [urlrule] sites weipai.cn update 924906386
+    * [2014/12/20 17:40:11] [urlrule] sites weipai.cn update 872705
+    * [2014/12/20 17:40:08] [urlrule] sites weipai.cn update 852206078
+    * [2014/12/20 17:40:04] [urlrule] sites weipai.cn update 84剩女姐
+    * [2014/12/20 17:40:00] [urlrule] sites weipai.cn update 70后米米妈丫
+    * [2014/12/20 17:39:55] [urlrule] sites weipai.cn update 576117778
+    * [2014/12/20 17:39:52] [urlrule] sites weipai.cn update 54423ad1a6640ba86f8b459c
+    * [2014/12/20 17:39:48] [urlrule] sites weipai.cn update 534c63348034940c2ff99e90
+    * [2014/12/20 17:39:45] [urlrule] sites weipai.cn update 450185387
+    * [2014/12/20 17:39:40] [urlrule] sites weipai.cn update 424195082
+    * [2014/12/20 17:39:36] [urlrule] sites weipai.cn update 3334
+    * [2014/12/20 17:39:32] [urlrule] sites weipai.cn update 292310977
+    * [2014/12/20 17:39:28] [urlrule] sites weipai.cn update 2413621327白易
+    * [2014/12/20 17:39:24] [urlrule] sites weipai.cn update 2014121592
+    * [2014/12/20 17:39:20] [urlrule] sites weipai.cn update 20141215100
+    * [2014/12/20 17:39:16] [urlrule] sites weipai.cn update 2014121236
+    * [2014/12/20 17:39:12] [urlrule] sites weipai.cn update 201411308
+    * [2014/12/20 17:39:08] [urlrule] sites weipai.cn update 2014110428
+    * [2014/12/20 17:39:04] [urlrule] sites weipai.cn update 2014080137
+    * [2014/12/20 17:39:00] [urlrule] sites weipai.cn update 2014071139
+    * [2014/12/20 17:38:56] [urlrule] sites weipai.cn update 20140610884
+    * [2014/12/20 17:38:52] [urlrule] sites weipai.cn update 201403085958
+    * [2014/12/20 17:38:48] [urlrule] sites weipai.cn update 20140221429
+    * [2014/12/20 17:38:44] [urlrule] sites weipai.cn update 20140110366
+    * [2014/12/20 17:38:40] [urlrule] sites weipai.cn update 20131211281
+    * [2014/12/20 17:38:35] [urlrule] sites weipai.cn update 18610561108
+    * [2014/12/20 17:38:27] [urlrule] sites weipai.cn update 1824329072宅女轩轩
+    * [2014/12/20 17:38:22] [urlrule] sites vlook.cn update 1824329072宅女轩轩
+    * [2014/12/20 17:38:16] [urlrule] sites weipai.cn update 16姐
+    * [2014/12/20 17:38:12] [urlrule] sites weipai.cn update 1589753
+    * [2014/12/20 17:38:08] [urlrule] sites weipai.cn update 1142058078
+    * [2014/12/20 17:38:04] [urlrule] sites weipai.cn update 10120
+    * [2014/12/20 17:38:00] [urlrule] sites weipai.cn update 0王妃0
+    * [2014/12/20 17:37:56] [urlrule] sites weipai.cn UPDATE 亦欢欢
+
+    * [2014/12/20 17:37:53] [urlrule] sites weipai.cn follow 545c9754a5640b20538b4593 亦欢欢
+
+    * [2014/12/20 17:37:51] [urlrule] sites weipai.cn add 545c9754a5640b20538b4593 亦欢欢
+
+    * [2014/12/20 17:37:48] [urlrule] sites weipai.cn UPDATE 郑瑞熙_
+
+    * [2014/12/20 17:37:45] [urlrule] sites weipai.cn follow 546b9e0ca5640b86798b456c 郑瑞熙_
+
+    * [2014/12/20 17:37:43] [urlrule] sites weipai.cn add 546b9e0ca5640b86798b456c 郑瑞熙_
+
+    * [2014/12/20 17:37:39] [urlrule] sites weipai.cn UPDATE 李李七七喜喜
+
+    * [2014/12/20 17:37:36] [urlrule] sites weipai.cn follow 53258990ebeddbe5798b459f 李李七七喜喜
+
+    * [2014/12/20 17:37:35] [urlrule] sites weipai.cn add 53258990ebeddbe5798b459f 李李七七喜喜
+
     * [2014/12/20 17:37:11] [urlrule] sites weipai.cn UPDATE 陈美琳Mandy
 
     * [2014/12/20 17:37:08] [urlrule] sites weipai.cn follow 51fa57ba7f3494ea70000000 陈美琳Mandy
