@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 15:37:52] [urlrule] sites weipai.cn update 陈可鑫
     * [2014/12/20 15:36:05] [urlrule] sites weipai.cn update 钟紫心
     * [2014/12/20 15:32:29] [urlrule] sites weipai.cn update 薇妮BABY
     * [2014/12/20 15:29:04] [urlrule] sites weipai.cn update 芭比娃哈
@@ -727,6 +728,16 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 15:37:15] [urlrule] sites weipai.cn update 陈依萌宝贝
+    * [2014/12/20 15:37:08] [urlrule] sites weipai.cn update 陈世媄
+    * [2014/12/20 15:37:03] [urlrule] sites vlook.cn update 陆晨依
+    * [2014/12/20 15:36:56] [urlrule] sites weipai.cn update 陆晨依
+    * [2014/12/20 15:36:52] [urlrule] sites weipai.cn update 阿鑫很浮躁
+    * [2014/12/20 15:36:48] [urlrule] sites weipai.cn update 阿朵拉Adora
+    * [2014/12/20 15:36:44] [urlrule] sites vlook.cn update 长裙飘飘21
+    * [2014/12/20 15:36:37] [urlrule] sites weipai.cn update 长裙飘飘21
+    * [2014/12/20 15:36:33] [urlrule] sites weipai.cn update 铁粉1号
+    * [2014/12/20 15:36:29] [urlrule] sites weipai.cn update 钱小美
     * [2014/12/20 15:35:14] [urlrule] sites weipai.cn update 金金金金小沙
     * [2014/12/20 15:35:10] [urlrule] sites weipai.cn update 重头再来20141107
     * [2014/12/20 15:35:06] [urlrule] sites vlook.cn update 酔熱舆Beer
