@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 14:26:36] [urlrule] sites vlook.cn update 帮主-杨筱敏
     * [2014/12/20 14:25:57] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/20 14:21:26] [urlrule] sites weipai.cn update 安妮Annie
     * [2014/12/20 14:19:33] [urlrule] sites weipai.cn update 娜依灵儿
@@ -712,6 +713,7 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 14:26:18] [urlrule] sites weipai.cn update 帮主-杨筱敏
     * [2014/12/20 14:25:52] [urlrule] sites weipai.cn update 尤物大王
     * [2014/12/20 14:25:47] [urlrule] sites weipai.cn update 尢金金
     * [2014/12/20 14:25:44] [urlrule] sites weipai.cn update 小静qq765998665
