@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update __小韩韩
+
+    * Begin : 2014/12/21 04:32:46
+    * End   : 2014/12/21 04:33:16
+    * Result: OK
+
 * [urlrule] sites weipai.cn update RAE-瑞儿
 
     * Begin : 2014/12/21 04:30:14
