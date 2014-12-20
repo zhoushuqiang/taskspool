@@ -1,3 +1,264 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
+
+    * Begin : 2014/12/21 07:20:28
+    * End   : 2014/12/21 07:27:01
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 丝绸裹着性感2
+
+
+    * Begin : 2014/12/21 07:20:26
+    * End   : 2014/12/21 07:20:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 541e8df9a8640b0b568b4578 丝绸裹着性感2
+
+
+    * Begin : 2014/12/21 07:20:25
+    * End   : 2014/12/21 07:20:26
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 541e8df9a8640b0b568b4578 丝绸裹着性感2
+
+
+    * Begin : 2014/12/21 07:20:25
+    * End   : 2014/12/21 07:20:25
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 雯子蜜
+
+
+    * Begin : 2014/12/21 07:20:23
+    * End   : 2014/12/21 07:20:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 516ac8a77d3494ef4c000015 雯子蜜
+
+
+    * Begin : 2014/12/21 07:20:22
+    * End   : 2014/12/21 07:20:23
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 516ac8a77d3494ef4c000015 雯子蜜
+
+
+    * Begin : 2014/12/21 07:20:22
+    * End   : 2014/12/21 07:20:22
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 欣赏为主
+
+
+    * Begin : 2014/12/21 07:20:20
+    * End   : 2014/12/21 07:20:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 529e268a5e7feb63478b457f 欣赏为主
+
+
+    * Begin : 2014/12/21 07:20:19
+    * End   : 2014/12/21 07:20:20
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 529e268a5e7feb63478b457f 欣赏为主
+
+
+    * Begin : 2014/12/21 07:20:19
+    * End   : 2014/12/21 07:20:19
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE Kiki_雅琪
+
+
+    * Begin : 2014/12/21 07:20:17
+    * End   : 2014/12/21 07:20:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 50093c038134944b62000280 Kiki_雅琪
+
+
+    * Begin : 2014/12/21 07:20:17
+    * End   : 2014/12/21 07:20:17
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 50093c038134944b62000280 Kiki_雅琪
+
+
+    * Begin : 2014/12/21 07:20:16
+    * End   : 2014/12/21 07:20:16
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 小将士
+
+
+    * Begin : 2014/12/21 07:20:14
+    * End   : 2014/12/21 07:20:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53945aeaebeddbf6018b457b 小将士
+
+
+    * Begin : 2014/12/21 07:20:14
+    * End   : 2014/12/21 07:20:14
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53945aeaebeddbf6018b457b 小将士
+
+
+    * Begin : 2014/12/21 07:20:13
+    * End   : 2014/12/21 07:20:13
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 硬伦X妹
+
+
+    * Begin : 2014/12/21 07:20:11
+    * End   : 2014/12/21 07:20:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 546ac171a5640b62678b457a 硬伦X妹
+
+
+    * Begin : 2014/12/21 07:20:11
+    * End   : 2014/12/21 07:20:11
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 546ac171a5640b62678b457a 硬伦X妹
+
+
+    * Begin : 2014/12/21 07:20:11
+    * End   : 2014/12/21 07:20:11
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 洛可馨baby
+
+
+    * Begin : 2014/12/21 07:20:09
+    * End   : 2014/12/21 07:20:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53f5690ea7640b91338b4574 洛可馨baby
+
+
+    * Begin : 2014/12/21 07:20:08
+    * End   : 2014/12/21 07:20:08
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53f5690ea7640b91338b4574 洛可馨baby
+
+
+    * Begin : 2014/12/21 07:20:08
+    * End   : 2014/12/21 07:20:08
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE Lusibaby000
+
+
+    * Begin : 2014/12/21 07:20:06
+    * End   : 2014/12/21 07:20:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 531dcd439d67d991428b4581 Lusibaby000
+
+
+    * Begin : 2014/12/21 07:20:05
+    * End   : 2014/12/21 07:20:05
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 531dcd439d67d991428b4581 Lusibaby000
+
+
+    * Begin : 2014/12/21 07:20:05
+    * End   : 2014/12/21 07:20:05
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 韩田稀
+
+
+    * Begin : 2014/12/21 07:20:03
+    * End   : 2014/12/21 07:20:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 54364d9ba8640b05708b4595 韩田稀
+
+
+    * Begin : 2014/12/21 07:20:02
+    * End   : 2014/12/21 07:20:03
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 54364d9ba8640b05708b4595 韩田稀
+
+
+    * Begin : 2014/12/21 07:20:02
+    * End   : 2014/12/21 07:20:02
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn update 龙儿20140330
+
+    * Begin : 2014/12/21 07:19:58
+    * End   : 2014/12/21 07:19:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 龙儿20140330
+
+    * Begin : 2014/12/21 07:19:54
+    * End   : 2014/12/21 07:19:54
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 黒目瞳
+
+    * Begin : 2014/12/21 07:19:49
+    * End   : 2014/12/21 07:19:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 黒目瞳
+
+    * Begin : 2014/12/21 07:19:47
+    * End   : 2014/12/21 07:19:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 黑金色会飞的鱼
+
+    * Begin : 2014/12/21 07:19:45
+    * End   : 2014/12/21 07:19:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 黑桃女王
+
+    * Begin : 2014/12/21 07:19:42
+    * End   : 2014/12/21 07:19:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 黑三小幺
+
+    * Begin : 2014/12/21 07:19:40
+    * End   : 2014/12/21 07:19:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 黎儿
+
+    * Begin : 2014/12/21 07:19:38
+    * End   : 2014/12/21 07:19:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 黄没没-
+
+    * Begin : 2014/12/21 07:19:36
+    * End   : 2014/12/21 07:19:37
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 麻酥酥
+
+    * Begin : 2014/12/21 07:19:32
+    * End   : 2014/12/21 07:19:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 麻优酥酥
+
+    * Begin : 2014/12/21 07:19:30
+    * End   : 2014/12/21 07:19:31
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 麦子orSkala
 
     * Begin : 2014/12/21 07:15:25
