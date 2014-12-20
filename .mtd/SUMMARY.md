@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
+
+    * Begin : 2014/12/21 03:55:25
+    * End   : 2014/12/21 03:55:27
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 穴儿
 
 

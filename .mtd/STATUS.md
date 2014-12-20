@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 03:55:27] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
     * [2014/12/21 03:55:09] [urlrule] sites weipai.cn UPDATE 穴儿
 
     * [2014/12/21 03:53:42] [urlrule] sites weipai.cn follow 5458f63ca7640bc85b8b4568 穴儿
@@ -55,6 +56,12 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 03:55:24] [urlrule] sites weipai.cn UPDATE 九尾狐-官晓双
+
+    * [2014/12/21 03:55:23] [urlrule] sites weipai.cn follow 5430af70a8640b873a8b4582 九尾狐-官晓双
+
+    * [2014/12/21 03:55:22] [urlrule] sites weipai.cn add 5430af70a8640b873a8b4582 九尾狐-官晓双
+
     * [2014/12/21 03:53:42] [urlrule] sites weipai.cn add 5458f63ca7640bc85b8b4568 穴儿
 
     * [2014/12/21 03:51:32] [urlrule] sites weipai.cn add 541a6cc8a6640b1a2c8b457d 男人不坏女人不爱B
