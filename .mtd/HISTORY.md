@@ -1,3 +1,177 @@
+* [urlrule task] update urlrule/task/follows.txt
+
+    * Begin : 2014/12/20 17:57:36
+    * End   : 2014/12/20 17:57:42
+    * Result: OK
+
+* [urlrule] sites weipai.cn update tina晨曦
+
+    * Begin : 2014/12/20 17:57:32
+    * End   : 2014/12/20 17:57:33
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update suna2411
+
+    * Begin : 2014/12/20 17:57:27
+    * End   : 2014/12/20 17:57:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update summer糖糖
+
+    * Begin : 2014/12/20 17:57:23
+    * End   : 2014/12/20 17:57:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update sukiyoyo001
+
+    * Begin : 2014/12/20 17:57:19
+    * End   : 2014/12/20 17:57:19
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update suki_jiang
+
+    * Begin : 2014/12/20 17:57:15
+    * End   : 2014/12/20 17:57:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update soso蕊
+
+    * Begin : 2014/12/20 17:57:11
+    * End   : 2014/12/20 17:57:12
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Toughgirl
+
+    * Begin : 2014/12/20 17:57:05
+    * End   : 2014/12/20 17:57:08
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update shoujigujun1680
+
+    * Begin : 2014/12/20 17:56:59
+    * End   : 2014/12/20 17:57:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update sack莎莎
+
+    * Begin : 2014/12/20 17:56:55
+    * End   : 2014/12/20 17:56:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update sachiBabyJ
+
+    * Begin : 2014/12/20 17:56:51
+    * End   : 2014/12/20 17:56:52
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update quanxinyue123
+
+    * Begin : 2014/12/20 17:56:45
+    * End   : 2014/12/20 17:56:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update qinqin1995
+
+    * Begin : 2014/12/20 17:56:41
+    * End   : 2014/12/20 17:56:42
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update penny佩佩
+
+    * Begin : 2014/12/20 17:56:35
+    * End   : 2014/12/20 17:56:36
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update pengfang
+
+    * Begin : 2014/12/20 17:56:29
+    * End   : 2014/12/20 17:56:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update pandora莉莉
+
+    * Begin : 2014/12/20 17:56:25
+    * End   : 2014/12/20 17:56:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update oliviababy
+
+    * Begin : 2014/12/20 17:56:21
+    * End   : 2014/12/20 17:56:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update monica_1990
+
+    * Begin : 2014/12/20 17:56:17
+    * End   : 2014/12/20 17:56:17
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update mm小七
+
+    * Begin : 2014/12/20 17:56:13
+    * End   : 2014/12/20 17:56:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update miss大蝴蝶
+
+    * Begin : 2014/12/20 17:56:09
+    * End   : 2014/12/20 17:56:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update miss吴
+
+    * Begin : 2014/12/20 17:56:05
+    * End   : 2014/12/20 17:56:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update mina桑
+
+    * Begin : 2014/12/20 17:56:01
+    * End   : 2014/12/20 17:56:01
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update miki夫人
+
+    * Begin : 2014/12/20 17:55:57
+    * End   : 2014/12/20 17:55:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update meng-yu520
+
+    * Begin : 2014/12/20 17:55:53
+    * End   : 2014/12/20 17:55:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update mayuko
+
+    * Begin : 2014/12/20 17:55:49
+    * End   : 2014/12/20 17:55:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update love雯雯
+
+    * Begin : 2014/12/20 17:55:44
+    * End   : 2014/12/20 17:55:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update ljylovesjy
+
+    * Begin : 2014/12/20 17:55:40
+    * End   : 2014/12/20 17:55:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update li莉
+
+    * Begin : 2014/12/20 17:55:36
+    * End   : 2014/12/20 17:55:37
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update lady小夜猫
+
+    * Begin : 2014/12/20 17:55:33
+    * End   : 2014/12/20 17:55:34
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update kitty酱
 
     * Begin : 2014/12/20 17:54:53
