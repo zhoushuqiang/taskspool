@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 548aefd3a6640b44728b4575 吴晴Kate
-
 * Finished:
+    * [2014/12/21 04:00:11] [urlrule] sites weipai.cn UPDATE 吴晴Kate
+
     * [2014/12/21 03:59:40] [urlrule] sites weipai.cn follow 548aefd3a6640b44728b4575 吴晴Kate
 
     * [2014/12/21 03:59:21] [urlrule] sites weipai.cn UPDATE 来肏逼123

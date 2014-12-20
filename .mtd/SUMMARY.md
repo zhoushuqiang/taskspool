@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 吴晴Kate
+
+
+    * Begin : 2014/12/21 03:59:52
+    * End   : 2014/12/21 04:00:11
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 548aefd3a6640b44728b4575 吴晴Kate
 
 
