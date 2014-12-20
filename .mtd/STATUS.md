@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 541a6cc8a6640b1a2c8b457d 男人不坏女人不爱B
+
 * Finished:
+    * [2014/12/21 03:51:32] [urlrule] sites weipai.cn follow 541a6cc8a6640b1a2c8b457d 男人不坏女人不爱B
+
     * [2014/12/21 03:51:18] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/21 03:50:43] [urlrule] sites weipai.cn UPDATE 耳听爱情
 
@@ -47,6 +52,8 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 03:51:32] [urlrule] sites weipai.cn add 541a6cc8a6640b1a2c8b457d 男人不坏女人不爱B
+
     * [2014/12/21 03:51:15] [urlrule] sites weipai.cn UPDATE 梦游娃娃
 
     * [2014/12/21 03:51:14] [urlrule] sites weipai.cn follow 526cdc605e7feba10b8b457f 梦游娃娃
