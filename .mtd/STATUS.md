@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 5217d8748134941a6897e5ec 胖洋葱
-
 * Finished:
+    * [2014/12/21 04:02:50] [urlrule] sites weipai.cn UPDATE 胖洋葱
+
     * [2014/12/21 04:01:53] [urlrule] sites weipai.cn follow 5217d8748134941a6897e5ec 胖洋葱
 
     * [2014/12/21 04:01:40] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE

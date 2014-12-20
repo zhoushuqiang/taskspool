@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 胖洋葱
+
+
+    * Begin : 2014/12/21 04:02:04
+    * End   : 2014/12/21 04:02:50
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5217d8748134941a6897e5ec 胖洋葱
 
 
