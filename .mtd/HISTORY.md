@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 叫我超哥
+
+    * Begin : 2014/12/21 04:45:56
+    * End   : 2014/12/21 04:46:15
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 叫丽媽咪
+
+    * Begin : 2014/12/21 04:45:54
+    * End   : 2014/12/21 04:45:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 古小丽Lily
+
+    * Begin : 2014/12/21 04:45:52
+    * End   : 2014/12/21 04:45:53
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 友熙酱
+
+    * Begin : 2014/12/21 04:45:48
+    * End   : 2014/12/21 04:45:50
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 友熙酱
 
     * Begin : 2014/12/21 04:45:25
