@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 来肏逼123
+
+
+    * Begin : 2014/12/21 03:58:56
+    * End   : 2014/12/21 03:59:21
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 546ed8b7a5640bc7628b457a 来肏逼123
 
 
