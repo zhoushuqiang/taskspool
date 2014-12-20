@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 前任攻略
+
+    * Begin : 2014/12/20 16:20:40
+    * End   : 2014/12/20 16:21:49
+    * Result: OK
+
 * [urlrule task] update urlrule/task/follows.txt
 
     * Begin : 2014/12/20 16:16:12
