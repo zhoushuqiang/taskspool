@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 5458f63ca7640bc85b8b4568 穴儿
-
 * Finished:
+    * [2014/12/21 03:55:09] [urlrule] sites weipai.cn UPDATE 穴儿
+
     * [2014/12/21 03:53:42] [urlrule] sites weipai.cn follow 5458f63ca7640bc85b8b4568 穴儿
 
     * [2014/12/21 03:53:29] [urlrule] sites weipai.cn UPDATE 男人不坏女人不爱B
