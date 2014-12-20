@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 520bc2988034944e2c95fb4c 最帅马三舅
+
 * Finished:
+    * [2014/12/20 13:27:07] [urlrule] sites weipai.cn follow 520bc2988034944e2c95fb4c 最帅马三舅
+
     * [2014/12/20 13:26:28] [urlrule] sites weipai.cn UPDATE 若涵Baby
 
     * [2014/12/20 13:24:50] [urlrule] sites weipai.cn follow 53310bc19d67d942728b466e 若涵Baby
@@ -690,6 +695,20 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 13:27:06] [urlrule] sites weipai.cn add 520bc2988034944e2c95fb4c 最帅马三舅
+
+    * [2014/12/20 13:27:03] [urlrule] sites weipai.cn UPDATE 李思桐儿
+
+    * [2014/12/20 13:27:00] [urlrule] sites weipai.cn follow 5189f0ab803494c62f00000e 李思桐儿
+
+    * [2014/12/20 13:26:58] [urlrule] sites weipai.cn add 5189f0ab803494c62f00000e 李思桐儿
+
+    * [2014/12/20 13:26:55] [urlrule] sites weipai.cn UPDATE 大美露
+
+    * [2014/12/20 13:26:53] [urlrule] sites weipai.cn follow 52db845d77d3ccbb518b4580 大美露
+
+    * [2014/12/20 13:26:51] [urlrule] sites weipai.cn add 52db845d77d3ccbb518b4580 大美露
+
     * [2014/12/20 13:24:48] [urlrule] sites weipai.cn add 53310bc19d67d942728b466e 若涵Baby
 
     * [2014/12/20 13:24:44] [urlrule] sites weipai.cn UPDATE 70后米米妈丫
