@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 04:55:23] [urlrule] sites weipai.cn update 家菱
     * [2014/12/21 04:54:06] [urlrule] sites weipai.cn update 安妮Annie
     * [2014/12/21 04:52:36] [urlrule] sites weipai.cn update 娜依灵儿
     * [2014/12/21 04:51:07] [urlrule] sites weipai.cn update 姐又内涵了
@@ -119,6 +120,16 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 04:54:45] [urlrule] sites weipai.cn update 家妹xxoo
+    * [2014/12/21 04:54:43] [urlrule] sites weipai.cn update 宝小丁
+    * [2014/12/21 04:54:40] [urlrule] sites weipai.cn update 宝宝倩
+    * [2014/12/21 04:54:38] [urlrule] sites weipai.cn update 宜官官
+    * [2014/12/21 04:54:36] [urlrule] sites vlook.cn update 宋小猫cat
+    * [2014/12/21 04:54:32] [urlrule] sites weipai.cn update 宋小猫cat
+    * [2014/12/21 04:54:29] [urlrule] sites weipai.cn update 宋佳baby
+    * [2014/12/21 04:54:27] [urlrule] sites vlook.cn update 安瑞甜
+    * [2014/12/21 04:54:23] [urlrule] sites weipai.cn update 安瑞甜
+    * [2014/12/21 04:54:21] [urlrule] sites weipai.cn update 安妮makeup
     * [2014/12/21 04:53:28] [urlrule] sites weipai.cn update 安之拉
     * [2014/12/21 04:53:26] [urlrule] sites weipai.cn update 孤独患者
     * [2014/12/21 04:53:24] [urlrule] sites weipai.cn update 孤单的84剩女
