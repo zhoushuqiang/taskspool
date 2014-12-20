@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 般若的每一天
+
+    * Begin : 2014/12/21 03:09:36
+    * End   : 2014/12/21 03:11:27
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 米洁
 
     * Begin : 2014/12/21 03:06:58
