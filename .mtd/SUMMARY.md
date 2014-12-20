@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Queen-婷婷
+
+    * Begin : 2014/12/21 04:28:42
+    * End   : 2014/12/21 04:30:00
+    * Result: OK
+
 * [urlrule] sites weipai.cn update NZL-妮子梁
 
     * Begin : 2014/12/21 04:25:21

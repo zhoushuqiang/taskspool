@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update Queen-婷婷
+
+    * Begin : 2014/12/21 04:28:42
+    * End   : 2014/12/21 04:30:00
+    * Result: OK
+
+* [urlrule] sites vlook.cn update Q1335467161
+
+    * Begin : 2014/12/21 04:28:38
+    * End   : 2014/12/21 04:28:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update PAPAGAO-
+
+    * Begin : 2014/12/21 04:28:36
+    * End   : 2014/12/21 04:28:37
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Never沛妮
+
+    * Begin : 2014/12/21 04:28:34
+    * End   : 2014/12/21 04:28:35
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update NZL-妮子梁
 
     * Begin : 2014/12/21 04:25:21
