@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 卢秋桐
+
+
+    * Begin : 2014/12/20 17:33:59
+    * End   : 2014/12/20 17:34:18
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
 
     * Begin : 2014/12/20 17:32:17
