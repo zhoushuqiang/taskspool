@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 15:59:13] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2014/12/20 15:58:45] [urlrule] sites weipai.cn UPDATE 薇妮BABY
 
     * [2014/12/20 15:57:57] [urlrule] sites weipai.cn UPDATE Gyochaeyeon
@@ -741,6 +742,12 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 15:59:08] [urlrule] sites weipai.cn UPDATE 陈美琳Mandy
+
+    * [2014/12/20 15:59:06] [urlrule] sites weipai.cn follow 51fa57ba7f3494ea70000000 陈美琳Mandy
+
+    * [2014/12/20 15:59:04] [urlrule] sites weipai.cn add 51fa57ba7f3494ea70000000 陈美琳Mandy
+
     * [2014/12/20 15:58:40] [urlrule] sites weipai.cn follow 5446fec2a6640b10708b4578 薇妮BABY
 
     * [2014/12/20 15:58:38] [urlrule] sites weipai.cn add 5446fec2a6640b10708b4578 薇妮BABY
