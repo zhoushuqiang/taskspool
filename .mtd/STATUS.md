@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 52289253803494d3413aa550 耳听爱情
-
 * Finished:
+    * [2014/12/21 03:50:43] [urlrule] sites weipai.cn UPDATE 耳听爱情
+
     * [2014/12/21 03:49:49] [urlrule] sites weipai.cn follow 52289253803494d3413aa550 耳听爱情
 
     * [2014/12/21 03:49:22] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE

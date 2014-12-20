@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 耳听爱情
+
+
+    * Begin : 2014/12/21 03:50:13
+    * End   : 2014/12/21 03:50:43
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 52289253803494d3413aa550 耳听爱情
 
 
