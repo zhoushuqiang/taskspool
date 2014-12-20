@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn update 悦儿yummy
+
+    * Begin : 2014/12/21 02:33:44
+    * End   : 2014/12/21 02:34:04
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 恋姗妮
+
+    * Begin : 2014/12/21 02:33:42
+    * End   : 2014/12/21 02:33:42
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 性感女神研研
+
+    * Begin : 2014/12/21 02:33:37
+    * End   : 2014/12/21 02:33:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 性感像多花
+
+    * Begin : 2014/12/21 02:33:35
+    * End   : 2014/12/21 02:33:36
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 忧伤的黄瓜1
+
+    * Begin : 2014/12/21 02:33:33
+    * End   : 2014/12/21 02:33:33
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 忧伤的小麻雀
+
+    * Begin : 2014/12/21 02:33:30
+    * End   : 2014/12/21 02:33:31
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 心蕾Abby
+
+    * Begin : 2014/12/21 02:33:25
+    * End   : 2014/12/21 02:33:29
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 心宁儿cecilia
 
     * Begin : 2014/12/21 02:30:11
