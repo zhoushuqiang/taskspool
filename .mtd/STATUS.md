@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 5471cce0a5640b4c288b45cb hhaskydhjjffjk
-
 * Finished:
+    * [2014/12/21 04:06:03] [urlrule] sites weipai.cn UPDATE hhaskydhjjffjk
+
     * [2014/12/21 04:04:33] [urlrule] sites weipai.cn follow 5471cce0a5640b4c288b45cb hhaskydhjjffjk
 
     * [2014/12/21 04:04:19] [urlrule] sites weipai.cn UPDATE 平平平平子
