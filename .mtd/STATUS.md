@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 06:58:14] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/21 06:57:24] [urlrule] sites weipai.cn update 小艾艾
     * [2014/12/21 06:54:04] [urlrule] sites weipai.cn update 威信qianfei2012
     * [2014/12/21 06:53:16] [urlrule] sites weipai.cn update 女神集团
@@ -157,6 +158,21 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 06:58:11] [urlrule] sites weipai.cn update 尤物大王
+    * [2014/12/21 06:58:09] [urlrule] sites weipai.cn update 尢金金
+    * [2014/12/21 06:58:07] [urlrule] sites weipai.cn update 小静qq765998665
+    * [2014/12/21 06:58:05] [urlrule] sites weipai.cn update 小露露仔
+    * [2014/12/21 06:58:03] [urlrule] sites weipai.cn update 小雨姐
+    * [2014/12/21 06:58:01] [urlrule] sites weipai.cn update 小雅雅雅雅雅
+    * [2014/12/21 06:57:59] [urlrule] sites weipai.cn update 小雅果子
+    * [2014/12/21 06:57:56] [urlrule] sites weipai.cn update 小镁媄-
+    * [2014/12/21 06:57:53] [urlrule] sites weipai.cn update 小钕Ren
+    * [2014/12/21 06:57:51] [urlrule] sites weipai.cn update 小金人888
+    * [2014/12/21 06:57:49] [urlrule] sites weipai.cn update 小资y
+    * [2014/12/21 06:57:47] [urlrule] sites weipai.cn update 小菲菲yoyo
+    * [2014/12/21 06:57:44] [urlrule] sites weipai.cn update 小茹子
+    * [2014/12/21 06:57:42] [urlrule] sites weipai.cn update 小花妹妹
+    * [2014/12/21 06:57:39] [urlrule] sites vlook.cn update 小芒果
     * [2014/12/21 06:56:37] [urlrule] sites weipai.cn update 小美宝贝
     * [2014/12/21 06:56:35] [urlrule] sites weipai.cn update 小美女云云
     * [2014/12/21 06:56:33] [urlrule] sites weipai.cn update 小白兔玩微拍
