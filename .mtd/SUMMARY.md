@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 周OK
+
+    * Begin : 2014/12/21 04:47:59
+    * End   : 2014/12/21 04:48:15
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 可是我叫__Zll
 
     * Begin : 2014/12/21 04:46:30
