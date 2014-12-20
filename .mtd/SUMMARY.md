@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 白日不湿
+
+    * Begin : 2014/12/20 16:53:04
+    * End   : 2014/12/20 16:53:09
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 没有鼻梁的姑娘
 
     * Begin : 2014/12/20 16:46:43
