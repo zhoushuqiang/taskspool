@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 不是女神i
+
+
+    * Begin : 2014/12/21 03:56:10
+    * End   : 2014/12/21 03:56:27
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5479fb8ca5640bcb7b8b4583 不是女神i
 
 

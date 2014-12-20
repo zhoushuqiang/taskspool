@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 5479fb8ca5640bcb7b8b4583 不是女神i
-
 * Finished:
+    * [2014/12/21 03:56:27] [urlrule] sites weipai.cn UPDATE 不是女神i
+
     * [2014/12/21 03:55:58] [urlrule] sites weipai.cn follow 5479fb8ca5640bcb7b8b4583 不是女神i
 
     * [2014/12/21 03:55:44] [urlrule] sites weipai.cn UPDATE 若涵Baby
