@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
+
+    * Begin : 2014/12/21 07:29:16
+    * End   : 2014/12/21 07:30:19
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 若涵Baby
 
 
