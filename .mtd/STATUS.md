@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 04:23:37] [urlrule] sites weipai.cn update Diva_狄娃
     * [2014/12/21 04:21:22] [urlrule] sites weipai.cn update DJ_Ricey
     * [2014/12/21 04:19:22] [urlrule] sites weipai.cn update Alllili
     * [2014/12/21 04:16:27] [urlrule] sites weipai.cn update 201403085958
@@ -100,6 +101,11 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 04:21:45] [urlrule] sites weipai.cn update Despair-假寐
+    * [2014/12/21 04:21:43] [urlrule] sites weipai.cn update Dance小宝
+    * [2014/12/21 04:21:41] [urlrule] sites weipai.cn update Daisy__兔
+    * [2014/12/21 04:21:38] [urlrule] sites weipai.cn update DM靜兒
+    * [2014/12/21 04:21:36] [urlrule] sites vlook.cn update DJ_Ricey
     * [2014/12/21 04:21:05] [urlrule] sites weipai.cn update DJ-TiMi
     * [2014/12/21 04:21:04] [urlrule] sites vlook.cn update DJ-CC
     * [2014/12/21 04:21:01] [urlrule] sites weipai.cn update DJ-CC
