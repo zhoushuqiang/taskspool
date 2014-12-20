@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 521a4bf19f6c000410d97d81 小葵葵之家
-
 * Finished:
+    * [2014/12/21 06:34:42] [urlrule] sites weipai.cn UPDATE 小葵葵之家
+
     * [2014/12/21 05:29:24] [urlrule] sites weipai.cn follow 521a4bf19f6c000410d97d81 小葵葵之家
 
     * [2014/12/21 05:29:03] [urlrule] sites weipai.cn UPDATE 若涵Baby

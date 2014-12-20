@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 小葵葵之家
+
+
+    * Begin : 2014/12/21 05:29:36
+    * End   : 2014/12/21 06:34:42
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 521a4bf19f6c000410d97d81 小葵葵之家
 
 
