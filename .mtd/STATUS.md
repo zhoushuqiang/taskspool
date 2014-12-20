@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 04:15:54] [urlrule] sites weipai.cn update 20131211281
     * [2014/12/21 04:14:33] [urlrule] sites weipai.cn update 1142058078
     * [2014/12/21 04:12:39] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2014/12/21 04:12:25] [urlrule] sites weipai.cn UPDATE 薇妮BABY
@@ -96,6 +97,11 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 04:15:01] [urlrule] sites weipai.cn update 18610561108
+    * [2014/12/21 04:14:56] [urlrule] sites weipai.cn update 1824329072宅女轩轩
+    * [2014/12/21 04:14:53] [urlrule] sites vlook.cn update 1824329072宅女轩轩
+    * [2014/12/21 04:14:49] [urlrule] sites weipai.cn update 16姐
+    * [2014/12/21 04:14:47] [urlrule] sites weipai.cn update 1589753
     * [2014/12/21 04:12:59] [urlrule] sites weipai.cn update 10120
     * [2014/12/21 04:12:57] [urlrule] sites weipai.cn update 0王妃0
     * [2014/12/21 04:12:55] [urlrule] sites weipai.cn UPDATE 亦欢欢
