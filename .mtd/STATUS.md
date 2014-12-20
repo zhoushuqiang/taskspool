@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 16:44:01] [urlrule] sites weipai.cn update 林歆蕊Q286312385
     * [2014/12/20 16:35:40] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/20 16:29:07] [urlrule] sites weipai.cn update 女神集团
     * [2014/12/20 16:27:20] [urlrule] sites weipai.cn update 女王女王陛下
@@ -747,6 +748,112 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 16:43:48] [urlrule] sites vlook.cn update 林歆蕊
+    * [2014/12/20 16:43:41] [urlrule] sites weipai.cn update 林夕baby123
+    * [2014/12/20 16:43:36] [urlrule] sites weipai.cn update 杨沫沫Aimee
+    * [2014/12/20 16:43:33] [urlrule] sites weipai.cn update 杨梓萱baby
+    * [2014/12/20 16:43:29] [urlrule] sites weipai.cn update 杨杨ghj
+    * [2014/12/20 16:43:26] [urlrule] sites vlook.cn update 杨慧儿
+    * [2014/12/20 16:43:19] [urlrule] sites weipai.cn update 杨小琦TY
+    * [2014/12/20 16:43:15] [urlrule] sites weipai.cn update 杨安妮宝贝
+    * [2014/12/20 16:43:11] [urlrule] sites weipai.cn update 杨大人
+    * [2014/12/20 16:43:07] [urlrule] sites vlook.cn update 来不及疼痛
+    * [2014/12/20 16:43:01] [urlrule] sites vlook.cn update 李颖芝
+    * [2014/12/20 16:42:55] [urlrule] sites weipai.cn update 李豪Joylee
+    * [2014/12/20 16:42:51] [urlrule] sites weipai.cn update 李萌萌护肤美美哒
+    * [2014/12/20 16:42:46] [urlrule] sites weipai.cn update 李点点儿
+    * [2014/12/20 16:42:42] [urlrule] sites weipai.cn update 李朝蛟-Bie
+    * [2014/12/20 16:42:38] [urlrule] sites weipai.cn update 李怡静1118
+    * [2014/12/20 16:42:34] [urlrule] sites vlook.cn update 李思闻
+    * [2014/12/20 16:42:27] [urlrule] sites weipai.cn update 李思闻
+    * [2014/12/20 16:42:23] [urlrule] sites weipai.cn update 李思桐儿
+    * [2014/12/20 16:42:19] [urlrule] sites weipai.cn update 李妍呢
+    * [2014/12/20 16:42:15] [urlrule] sites weipai.cn update 李佳洁妞儿
+    * [2014/12/20 16:42:11] [urlrule] sites weipai.cn update 李云666
+    * [2014/12/20 16:42:07] [urlrule] sites weipai.cn update 李七喜
+    * [2014/12/20 16:42:03] [urlrule] sites weipai.cn update 朵朵猪
+    * [2014/12/20 16:41:59] [urlrule] sites weipai.cn update 朱小璐-nini
+    * [2014/12/20 16:41:55] [urlrule] sites weipai.cn update 最美的太阳20140822
+    * [2014/12/20 16:41:51] [urlrule] sites weipai.cn update 最帅马三舅
+    * [2014/12/20 16:41:47] [urlrule] sites weipai.cn update 曾贾
+    * [2014/12/20 16:41:43] [urlrule] sites weipai.cn update 曼丽LXL
+    * [2014/12/20 16:41:40] [urlrule] sites weipai.cn update 曹紫涵
+    * [2014/12/20 16:41:35] [urlrule] sites weipai.cn update 曹欣妮s
+    * [2014/12/20 16:41:31] [urlrule] sites weipai.cn update 曲珈叶
+    * [2014/12/20 16:41:27] [urlrule] sites weipai.cn update 暗黑小萝莉
+    * [2014/12/20 16:41:23] [urlrule] sites weipai.cn update 晴海洋
+    * [2014/12/20 16:41:19] [urlrule] sites weipai.cn update 景小姐景小姐
+    * [2014/12/20 16:41:14] [urlrule] sites weipai.cn update 晨yoka
+    * [2014/12/20 16:41:07] [urlrule] sites weipai.cn update 晕死的大白兔
+    * [2014/12/20 16:41:03] [urlrule] sites weipai.cn update 晓彗大大大
+    * [2014/12/20 16:40:59] [urlrule] sites weipai.cn update 晓卉日记
+    * [2014/12/20 16:40:55] [urlrule] sites weipai.cn update 早晚整死你
+    * [2014/12/20 16:40:51] [urlrule] sites weipai.cn update 无敌女汉子
+    * [2014/12/20 16:40:47] [urlrule] sites weipai.cn update 无懈可击阿乐
+    * [2014/12/20 16:40:43] [urlrule] sites weipai.cn update 无名指的等待20141002
+    * [2014/12/20 16:40:39] [urlrule] sites weipai.cn update 施婭婭
+    * [2014/12/20 16:40:35] [urlrule] sites weipai.cn update 施娅静微拍
+    * [2014/12/20 16:40:31] [urlrule] sites weipai.cn update 新百伦正品代购20141202
+    * [2014/12/20 16:40:27] [urlrule] sites weipai.cn update 新用户21460
+    * [2014/12/20 16:40:23] [urlrule] sites weipai.cn update 新浪微博未知黑色曼陀罗
+    * [2014/12/20 16:40:19] [urlrule] sites weipai.cn update 新浪微博model-芯妍
+    * [2014/12/20 16:40:14] [urlrule] sites vlook.cn update 文蔓
+    * [2014/12/20 16:40:07] [urlrule] sites weipai.cn update 撒旦甜心_Ellia
+    * [2014/12/20 16:40:03] [urlrule] sites weipai.cn update 抗忙昂北鼻够够够
+    * [2014/12/20 16:39:59] [urlrule] sites weipai.cn update 把你家户口本拿出来看看
+    * [2014/12/20 16:39:55] [urlrule] sites weipai.cn update 扯起鸡儿弹蹦蹦
+    * [2014/12/20 16:39:51] [urlrule] sites weipai.cn update 戴玉琪
+    * [2014/12/20 16:39:47] [urlrule] sites weipai.cn update 我行我素新灵儿
+    * [2014/12/20 16:39:43] [urlrule] sites weipai.cn update 我的幸福你赞助
+    * [2014/12/20 16:39:39] [urlrule] sites weipai.cn update 我爱奥黛丽赫本
+    * [2014/12/20 16:39:35] [urlrule] sites weipai.cn update 我是郑成功
+    * [2014/12/20 16:39:31] [urlrule] sites weipai.cn update 我是你Lily姐
+    * [2014/12/20 16:39:27] [urlrule] sites weipai.cn update 我是伊一baby
+    * [2014/12/20 16:39:23] [urlrule] sites weipai.cn update 我就是爱瞎胡闹
+    * [2014/12/20 16:39:19] [urlrule] sites weipai.cn update 我就是樱桃小丸子
+    * [2014/12/20 16:39:15] [urlrule] sites weipai.cn update 我只愛高跟鞋
+    * [2014/12/20 16:39:11] [urlrule] sites weipai.cn update 我一直都在雯雯
+    * [2014/12/20 16:39:07] [urlrule] sites weipai.cn update 成都的肉包子
+    * [2014/12/20 16:39:03] [urlrule] sites weipai.cn update 懒虫baby
+    * [2014/12/20 16:38:59] [urlrule] sites weipai.cn update 慕慕的性感迷死你
+    * [2014/12/20 16:38:55] [urlrule] sites weipai.cn update 悦儿yummy
+    * [2014/12/20 16:38:51] [urlrule] sites weipai.cn update 恋姗妮
+    * [2014/12/20 16:38:47] [urlrule] sites vlook.cn update 性感女神研研
+    * [2014/12/20 16:38:41] [urlrule] sites weipai.cn update 性感像多花
+    * [2014/12/20 16:38:36] [urlrule] sites weipai.cn update 忧伤的黄瓜1
+    * [2014/12/20 16:38:33] [urlrule] sites weipai.cn update 忧伤的小麻雀
+    * [2014/12/20 16:38:29] [urlrule] sites vlook.cn update 心蕾Abby
+    * [2014/12/20 16:38:23] [urlrule] sites weipai.cn update 心宁儿cecilia
+    * [2014/12/20 16:38:19] [urlrule] sites weipai.cn update 微拍精品福利--
+    * [2014/12/20 16:38:15] [urlrule] sites weipai.cn update 微拍娱乐圈
+    * [2014/12/20 16:38:10] [urlrule] sites weipai.cn update 微拍三少爷
+    * [2014/12/20 16:38:07] [urlrule] sites weipai.cn update 微我信av0006789
+    * [2014/12/20 16:38:03] [urlrule] sites weipai.cn update 微子baby
+    * [2014/12/20 16:37:59] [urlrule] sites weipai.cn update 微信itangcc
+    * [2014/12/20 16:37:55] [urlrule] sites weipai.cn update 徐茜儿
+    * [2014/12/20 16:37:51] [urlrule] sites weipai.cn update 徐美儿
+    * [2014/12/20 16:37:47] [urlrule] sites weipai.cn update 徐妍馨Mandy
+    * [2014/12/20 16:37:43] [urlrule] sites weipai.cn update 张馨馨Maggie
+    * [2014/12/20 16:37:39] [urlrule] sites weipai.cn update 张露_Betty
+    * [2014/12/20 16:37:35] [urlrule] sites weipai.cn update 张鑫Amy
+    * [2014/12/20 16:37:31] [urlrule] sites weipai.cn update 张若兰
+    * [2014/12/20 16:37:24] [urlrule] sites weipai.cn update 张若兰
+    * [2014/12/20 16:37:17] [urlrule] sites weipai.cn update 张芊芊
+    * [2014/12/20 16:37:13] [urlrule] sites weipai.cn update 张美荧
+    * [2014/12/20 16:37:05] [urlrule] sites weipai.cn update 张瑶isa
+    * [2014/12/20 16:37:01] [urlrule] sites weipai.cn update 张江南同学
+    * [2014/12/20 16:36:57] [urlrule] sites weipai.cn update 张栩菲-ManGo
+    * [2014/12/20 16:36:53] [urlrule] sites weipai.cn update 张春雪v
+    * [2014/12/20 16:36:49] [urlrule] sites vlook.cn update 张心儿Bella
+    * [2014/12/20 16:36:43] [urlrule] sites vlook.cn update 张心儿
+    * [2014/12/20 16:36:37] [urlrule] sites vlook.cn update 张已桂
+    * [2014/12/20 16:36:31] [urlrule] sites weipai.cn update 张姿彦
+    * [2014/12/20 16:36:27] [urlrule] sites weipai.cn update 张大Ber__r7
+    * [2014/12/20 16:36:23] [urlrule] sites weipai.cn update 广州莉莉玛莲酒吧小熙
+    * [2014/12/20 16:36:19] [urlrule] sites weipai.cn update 年轻没有什么不可以
+    * [2014/12/20 16:36:15] [urlrule] sites weipai.cn update 干毛毛
+    * [2014/12/20 16:36:11] [urlrule] sites vlook.cn update 帮主-杨筱敏
+    * [2014/12/20 16:36:04] [urlrule] sites weipai.cn update 帮主-杨筱敏
     * [2014/12/20 16:35:35] [urlrule] sites weipai.cn update 尤物大王
     * [2014/12/20 16:35:30] [urlrule] sites weipai.cn update 尢金金
     * [2014/12/20 16:35:27] [urlrule] sites weipai.cn update 小静qq765998665
