@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update RAE-瑞儿
+
+    * Begin : 2014/12/21 04:30:14
+    * End   : 2014/12/21 04:30:55
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Queen-婷婷
 
     * Begin : 2014/12/21 04:28:42

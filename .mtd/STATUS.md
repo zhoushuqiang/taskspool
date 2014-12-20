@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 04:30:55] [urlrule] sites weipai.cn update RAE-瑞儿
     * [2014/12/21 04:30:00] [urlrule] sites weipai.cn update Queen-婷婷
     * [2014/12/21 04:28:20] [urlrule] sites weipai.cn update NZL-妮子梁
     * [2014/12/21 04:23:37] [urlrule] sites weipai.cn update Diva_狄娃
