@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE Kiki_雅琪
+
+
+    * Begin : 2014/12/21 03:35:31
+    * End   : 2014/12/21 03:39:03
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 50093c038134944b62000280 Kiki_雅琪
 
 
