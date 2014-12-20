@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 15:48:55] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
     * [2014/12/20 15:43:00] [urlrule] sites weipai.cn update 魚你你你你你
     * [2014/12/20 15:39:45] [urlrule] sites weipai.cn update 陈美琳Mandy
     * [2014/12/20 15:37:52] [urlrule] sites weipai.cn update 陈可鑫
@@ -730,6 +731,55 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 15:45:13] [urlrule] sites weipai.cn UPDATE 丝绸裹着性感2
+
+    * [2014/12/20 15:45:10] [urlrule] sites weipai.cn follow 541e8df9a8640b0b568b4578 丝绸裹着性感2
+
+    * [2014/12/20 15:45:08] [urlrule] sites weipai.cn add 541e8df9a8640b0b568b4578 丝绸裹着性感2
+
+    * [2014/12/20 15:45:05] [urlrule] sites weipai.cn UPDATE 萌萌焕
+
+    * [2014/12/20 15:45:03] [urlrule] sites weipai.cn follow 52b5c3daebeddbfa358b4567 萌萌焕
+
+    * [2014/12/20 15:45:00] [urlrule] sites weipai.cn add 52b5c3daebeddbfa358b4567 萌萌焕
+
+    * [2014/12/20 15:44:57] [urlrule] sites weipai.cn UPDATE 硬伦X妹
+
+    * [2014/12/20 15:44:54] [urlrule] sites weipai.cn follow 546ac171a5640b62678b457a 硬伦X妹
+
+    * [2014/12/20 15:44:52] [urlrule] sites weipai.cn add 546ac171a5640b62678b457a 硬伦X妹
+
+    * [2014/12/20 15:44:49] [urlrule] sites weipai.cn UPDATE 杨梓萱baby
+
+    * [2014/12/20 15:44:47] [urlrule] sites weipai.cn follow 53820e34ebeddb3b218b459d 杨梓萱baby
+
+    * [2014/12/20 15:44:44] [urlrule] sites weipai.cn add 53820e34ebeddb3b218b459d 杨梓萱baby
+
+    * [2014/12/20 15:44:41] [urlrule] sites weipai.cn UPDATE Lusibaby000
+
+    * [2014/12/20 15:44:39] [urlrule] sites weipai.cn follow 531dcd439d67d991428b4581 Lusibaby000
+
+    * [2014/12/20 15:44:36] [urlrule] sites weipai.cn add 531dcd439d67d991428b4581 Lusibaby000
+
+    * [2014/12/20 15:44:33] [urlrule] sites weipai.cn UPDATE 韩田稀
+
+    * [2014/12/20 15:44:30] [urlrule] sites weipai.cn follow 54364d9ba8640b05708b4595 韩田稀
+
+    * [2014/12/20 15:44:28] [urlrule] sites weipai.cn add 54364d9ba8640b05708b4595 韩田稀
+
+    * [2014/12/20 15:44:22] [urlrule] sites weipai.cn update 龙儿20140330
+    * [2014/12/20 15:44:18] [urlrule] sites vlook.cn update 黒目瞳
+    * [2014/12/20 15:44:10] [urlrule] sites weipai.cn update 龙儿20140330
+    * [2014/12/20 15:44:05] [urlrule] sites vlook.cn update 黒目瞳
+    * [2014/12/20 15:43:59] [urlrule] sites weipai.cn update 黒目瞳
+    * [2014/12/20 15:43:55] [urlrule] sites weipai.cn update 黑金色会飞的鱼
+    * [2014/12/20 15:43:51] [urlrule] sites weipai.cn update 黑桃女王
+    * [2014/12/20 15:43:47] [urlrule] sites weipai.cn update 黑三小幺
+    * [2014/12/20 15:43:43] [urlrule] sites weipai.cn update 黎儿
+    * [2014/12/20 15:43:39] [urlrule] sites weipai.cn update 黄没没-
+    * [2014/12/20 15:43:35] [urlrule] sites vlook.cn update 麻酥酥
+    * [2014/12/20 15:43:29] [urlrule] sites weipai.cn update 麻优酥酥
+    * [2014/12/20 15:43:24] [urlrule] sites weipai.cn update 麦子orSkala
     * [2014/12/20 15:42:35] [urlrule] sites vlook.cn update 魔都天后
     * [2014/12/20 15:42:29] [urlrule] sites weipai.cn update 魔法倩
     * [2014/12/20 15:42:25] [urlrule] sites weipai.cn update 魏嘉蒂Betty
