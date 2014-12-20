@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 520bc2988034944e2c95fb4c 最帅马三舅
-
 * Finished:
+    * [2014/12/20 13:29:21] [urlrule] sites weipai.cn UPDATE 最帅马三舅
+
     * [2014/12/20 13:27:07] [urlrule] sites weipai.cn follow 520bc2988034944e2c95fb4c 最帅马三舅
 
     * [2014/12/20 13:26:28] [urlrule] sites weipai.cn UPDATE 若涵Baby
