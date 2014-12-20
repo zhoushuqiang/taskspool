@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 17:53:06] [urlrule] sites weipai.cn update _穆穆
     * [2014/12/20 17:50:35] [urlrule] sites weipai.cn update Zz贞
     * [2014/12/20 17:40:41] [urlrule] sites weipai.cn update ANGELG
     * [2014/12/20 17:37:17] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
@@ -772,6 +773,17 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 17:51:42] [urlrule] sites weipai.cn update _李好美
+    * [2014/12/20 17:51:38] [urlrule] sites weipai.cn update _張丹丹
+    * [2014/12/20 17:51:34] [urlrule] sites weipai.cn update _娜娜
+    * [2014/12/20 17:51:30] [urlrule] sites weipai.cn update _刘爷
+    * [2014/12/20 17:51:26] [urlrule] sites weipai.cn update __张公子
+    * [2014/12/20 17:51:22] [urlrule] sites weipai.cn update __小韩韩
+    * [2014/12/20 17:51:18] [urlrule] sites weipai.cn update __妖涅
+    * [2014/12/20 17:51:14] [urlrule] sites weipai.cn update ___悦如
+    * [2014/12/20 17:51:10] [urlrule] sites weipai.cn update __Coco
+    * [2014/12/20 17:51:05] [urlrule] sites weipai.cn update _Miss梦
+    * [2014/12/20 17:51:01] [urlrule] sites weipai.cn update _Angelia燕子
     * [2014/12/20 17:50:24] [urlrule] sites weipai.cn update ZeroDis
     * [2014/12/20 17:50:20] [urlrule] sites vlook.cn update Yumi小旁友
     * [2014/12/20 17:50:14] [urlrule] sites weipai.cn update V信qxs95002
