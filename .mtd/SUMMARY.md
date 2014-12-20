@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 潘潘20140413
+
+    * Begin : 2014/12/20 15:07:23
+    * End   : 2014/12/20 15:08:54
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 没有鼻梁的姑娘
 
     * Begin : 2014/12/20 14:41:29

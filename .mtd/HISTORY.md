@@ -1,3 +1,69 @@
+* [urlrule] sites weipai.cn update 潘潘20140413
+
+    * Begin : 2014/12/20 15:07:23
+    * End   : 2014/12/20 15:08:54
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 潘小云云
+
+    * Begin : 2014/12/20 15:07:19
+    * End   : 2014/12/20 15:07:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 满天都是小鑫鑫_
+
+    * Begin : 2014/12/20 15:07:14
+    * End   : 2014/12/20 15:07:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 溅行溅美
+
+    * Begin : 2014/12/20 15:07:10
+    * End   : 2014/12/20 15:07:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 湯大师
+
+    * Begin : 2014/12/20 15:07:05
+    * End   : 2014/12/20 15:07:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 混血演员安娜
+
+    * Begin : 2014/12/20 15:07:01
+    * End   : 2014/12/20 15:07:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 涵肉肉
+
+    * Begin : 2014/12/20 15:06:57
+    * End   : 2014/12/20 15:06:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 浮生若梦
+
+    * Begin : 2014/12/20 15:06:53
+    * End   : 2014/12/20 15:06:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 洛熙爱爱
+
+    * Begin : 2014/12/20 15:06:49
+    * End   : 2014/12/20 15:06:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 洛可馨
+
+    * Begin : 2014/12/20 15:06:44
+    * End   : 2014/12/20 15:06:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 波波小姐
+
+    * Begin : 2014/12/20 15:06:40
+    * End   : 2014/12/20 15:06:41
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 没有鼻梁的姑娘
 
     * Begin : 2014/12/20 14:41:29
