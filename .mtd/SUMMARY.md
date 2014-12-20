@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Diva_狄娃
+
+    * Begin : 2014/12/20 13:39:43
+    * End   : 2014/12/20 13:41:21
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2014/12/20 13:32:53
