@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 541a6cc8a6640b1a2c8b457d 男人不坏女人不爱B
-
 * Finished:
+    * [2014/12/21 03:53:29] [urlrule] sites weipai.cn UPDATE 男人不坏女人不爱B
+
     * [2014/12/21 03:51:32] [urlrule] sites weipai.cn follow 541a6cc8a6640b1a2c8b457d 男人不坏女人不爱B
 
     * [2014/12/21 03:51:18] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
