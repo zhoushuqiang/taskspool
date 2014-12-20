@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 15:58:45] [urlrule] sites weipai.cn UPDATE 薇妮BABY
+
     * [2014/12/20 15:57:57] [urlrule] sites weipai.cn UPDATE Gyochaeyeon
 
     * [2014/12/20 15:56:13] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
@@ -739,6 +741,28 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 15:58:40] [urlrule] sites weipai.cn follow 5446fec2a6640b10708b4578 薇妮BABY
+
+    * [2014/12/20 15:58:38] [urlrule] sites weipai.cn add 5446fec2a6640b10708b4578 薇妮BABY
+
+    * [2014/12/20 15:58:35] [urlrule] sites weipai.cn UPDATE C小宝宝
+
+    * [2014/12/20 15:58:32] [urlrule] sites weipai.cn follow 5433a420a6640ba2588b45a3 C小宝宝
+
+    * [2014/12/20 15:58:30] [urlrule] sites weipai.cn add 5433a420a6640ba2588b45a3 C小宝宝
+
+    * [2014/12/20 15:58:27] [urlrule] sites weipai.cn UPDATE 琳琳baby
+
+    * [2014/12/20 15:58:26] [urlrule] sites weipai.cn follow 52dc303979d3cca32f8b4590 琳琳baby
+
+    * [2014/12/20 15:58:24] [urlrule] sites weipai.cn add 52dc303979d3cca32f8b4590 琳琳baby
+
+    * [2014/12/20 15:58:21] [urlrule] sites weipai.cn UPDATE baby小菲
+
+    * [2014/12/20 15:58:19] [urlrule] sites weipai.cn follow 54709ffca8640b7e028b457d baby小菲
+
+    * [2014/12/20 15:58:17] [urlrule] sites weipai.cn add 54709ffca8640b7e028b457d baby小菲
+
     * [2014/12/20 15:56:43] [urlrule] sites weipai.cn follow 52648e589f6c00cd1a8fde4e Gyochaeyeon
 
     * [2014/12/20 15:56:40] [urlrule] sites weipai.cn add 52648e589f6c00cd1a8fde4e Gyochaeyeon
