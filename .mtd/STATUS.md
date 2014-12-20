@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 15:25:06] [urlrule] sites weipai.cn update 秦蕾
     * [2014/12/20 15:22:42] [urlrule] sites weipai.cn update 神神神神神姐
     * [2014/12/20 15:14:58] [urlrule] sites weipai.cn update 矢帘
     * [2014/12/20 15:12:41] [urlrule] sites weipai.cn update 白日不湿
@@ -722,6 +723,8 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 15:23:09] [urlrule] sites weipai.cn update 秦勉叫冉冉
+    * [2014/12/20 15:23:05] [urlrule] sites weipai.cn update 私人空间
     * [2014/12/20 15:15:29] [urlrule] sites weipai.cn update 神仙姐姐__艾溪
     * [2014/12/20 15:15:25] [urlrule] sites weipai.cn update 硬伦X妹
     * [2014/12/20 15:15:21] [urlrule] sites weipai.cn update 知了

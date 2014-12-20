@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 秦蕾
+
+    * Begin : 2014/12/20 15:23:12
+    * End   : 2014/12/20 15:25:06
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 秦勉叫冉冉
+
+    * Begin : 2014/12/20 15:23:07
+    * End   : 2014/12/20 15:23:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 私人空间
+
+    * Begin : 2014/12/20 15:23:04
+    * End   : 2014/12/20 15:23:05
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 神神神神神姐
 
     * Begin : 2014/12/20 15:15:32

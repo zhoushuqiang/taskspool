@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 秦蕾
+
+    * Begin : 2014/12/20 15:23:12
+    * End   : 2014/12/20 15:25:06
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 神神神神神姐
 
     * Begin : 2014/12/20 15:15:32
