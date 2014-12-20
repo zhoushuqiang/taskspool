@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 欣赏为主
+
+
+    * Begin : 2014/12/21 03:39:54
+    * End   : 2014/12/21 03:41:04
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 529e268a5e7feb63478b457f 欣赏为主
 
 

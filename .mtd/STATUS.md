@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 529e268a5e7feb63478b457f 欣赏为主
-
 * Finished:
+    * [2014/12/21 03:41:04] [urlrule] sites weipai.cn UPDATE 欣赏为主
+
     * [2014/12/21 03:39:33] [urlrule] sites weipai.cn follow 529e268a5e7feb63478b457f 欣赏为主
 
     * [2014/12/21 03:39:03] [urlrule] sites weipai.cn UPDATE Kiki_雅琪
