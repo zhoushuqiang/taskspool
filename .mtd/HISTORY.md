@@ -1,3 +1,93 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
+
+    * Begin : 2014/12/20 17:35:09
+    * End   : 2014/12/20 17:35:11
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 徐妍馨Mandy
+
+
+    * Begin : 2014/12/20 17:35:05
+    * End   : 2014/12/20 17:35:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 531374499d67d9ee0b8b4567 徐妍馨Mandy
+
+
+    * Begin : 2014/12/20 17:35:03
+    * End   : 2014/12/20 17:35:03
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 531374499d67d9ee0b8b4567 徐妍馨Mandy
+
+
+    * Begin : 2014/12/20 17:35:01
+    * End   : 2014/12/20 17:35:01
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 王悠悠
+
+
+    * Begin : 2014/12/20 17:34:57
+    * End   : 2014/12/20 17:34:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 50d20ea77d3494ef7a0001e1 王悠悠
+
+
+    * Begin : 2014/12/20 17:34:55
+    * End   : 2014/12/20 17:34:55
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 50d20ea77d3494ef7a0001e1 王悠悠
+
+
+    * Begin : 2014/12/20 17:34:53
+    * End   : 2014/12/20 17:34:53
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 王小珏elva
+
+
+    * Begin : 2014/12/20 17:34:49
+    * End   : 2014/12/20 17:34:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 50cc9130803494251900000f 王小珏elva
+
+
+    * Begin : 2014/12/20 17:34:47
+    * End   : 2014/12/20 17:34:47
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 50cc9130803494251900000f 王小珏elva
+
+
+    * Begin : 2014/12/20 17:34:45
+    * End   : 2014/12/20 17:34:45
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE LLLL-喵喵
+
+
+    * Begin : 2014/12/20 17:34:41
+    * End   : 2014/12/20 17:34:42
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5458457ca5640ba7668b4597 LLLL-喵喵
+
+
+    * Begin : 2014/12/20 17:34:39
+    * End   : 2014/12/20 17:34:39
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5458457ca5640ba7668b4597 LLLL-喵喵
+
+
+    * Begin : 2014/12/20 17:34:38
+    * End   : 2014/12/20 17:34:38
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 卢秋桐
 
 
