@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 529e268a5e7feb63478b457f 欣赏为主
+
 * Finished:
+    * [2014/12/21 03:39:33] [urlrule] sites weipai.cn follow 529e268a5e7feb63478b457f 欣赏为主
+
     * [2014/12/21 03:39:03] [urlrule] sites weipai.cn UPDATE Kiki_雅琪
 
     * [2014/12/21 03:35:07] [urlrule] sites weipai.cn follow 50093c038134944b62000280 Kiki_雅琪
@@ -35,6 +40,8 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 03:39:32] [urlrule] sites weipai.cn add 529e268a5e7feb63478b457f 欣赏为主
+
     * [2014/12/21 03:35:07] [urlrule] sites weipai.cn add 50093c038134944b62000280 Kiki_雅琪
 
     * [2014/12/21 03:35:05] [urlrule] sites weipai.cn UPDATE 硬伦X妹
