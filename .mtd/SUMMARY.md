@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小如如
+
+    * Begin : 2014/12/21 04:55:54
+    * End   : 2014/12/21 04:56:11
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 家菱
 
     * Begin : 2014/12/21 04:54:46
