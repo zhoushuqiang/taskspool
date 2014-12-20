@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn follow 5471cce0a5640b4c288b45cb hhaskydhjjffjk
+
+
+    * Begin : 2014/12/21 04:04:32
+    * End   : 2014/12/21 04:04:33
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 平平平平子
 
 

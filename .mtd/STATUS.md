@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 5471cce0a5640b4c288b45cb hhaskydhjjffjk
+
 * Finished:
+    * [2014/12/21 04:04:33] [urlrule] sites weipai.cn follow 5471cce0a5640b4c288b45cb hhaskydhjjffjk
+
     * [2014/12/21 04:04:19] [urlrule] sites weipai.cn UPDATE 平平平平子
 
     * [2014/12/21 04:03:23] [urlrule] sites weipai.cn follow 547f4357a5640bd9478b457b 平平平平子
@@ -84,6 +89,8 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 04:04:32] [urlrule] sites weipai.cn add 5471cce0a5640b4c288b45cb hhaskydhjjffjk
+
     * [2014/12/21 04:03:23] [urlrule] sites weipai.cn add 547f4357a5640bd9478b457b 平平平平子
 
     * [2014/12/21 04:03:21] [urlrule] sites weipai.cn UPDATE baby小菲
