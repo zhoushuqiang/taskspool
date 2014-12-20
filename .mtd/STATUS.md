@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 53310bc19d67d942728b466e 若涵Baby
-
 * Finished:
+    * [2014/12/20 13:26:28] [urlrule] sites weipai.cn UPDATE 若涵Baby
+
     * [2014/12/20 13:24:50] [urlrule] sites weipai.cn follow 53310bc19d67d942728b466e 若涵Baby
 
     * [2014/12/20 13:24:08] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE

@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 若涵Baby
+
+
+    * Begin : 2014/12/20 13:25:11
+    * End   : 2014/12/20 13:26:28
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53310bc19d67d942728b466e 若涵Baby
 
 
