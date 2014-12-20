@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 5479fb8ca5640bcb7b8b4583 不是女神i
+
 * Finished:
+    * [2014/12/21 03:55:58] [urlrule] sites weipai.cn follow 5479fb8ca5640bcb7b8b4583 不是女神i
+
     * [2014/12/21 03:55:44] [urlrule] sites weipai.cn UPDATE 若涵Baby
 
     * [2014/12/21 03:55:27] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
@@ -58,6 +63,8 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 03:55:58] [urlrule] sites weipai.cn add 5479fb8ca5640bcb7b8b4583 不是女神i
+
     * [2014/12/21 03:55:43] [urlrule] sites weipai.cn follow 53310bc19d67d942728b466e 若涵Baby
 
     * [2014/12/21 03:55:42] [urlrule] sites weipai.cn add 53310bc19d67d942728b466e 若涵Baby
