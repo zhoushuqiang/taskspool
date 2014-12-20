@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 03:07:21] [urlrule] sites weipai.cn update 米洁
     * [2014/12/21 03:05:10] [urlrule] sites weipai.cn update 白日不湿
     * [2014/12/21 03:04:37] [urlrule] sites weipai.cn update 画泪听雨眠
     * [2014/12/21 03:02:07] [urlrule] sites weipai.cn update 王籽文
@@ -20,6 +21,27 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 03:06:56] [urlrule] sites weipai.cn update 米拉贝拉Mirabella
+    * [2014/12/21 03:06:53] [urlrule] sites weipai.cn update 米小西
+    * [2014/12/21 03:06:50] [urlrule] sites weipai.cn update 米妮mini_20140821
+    * [2014/12/21 03:06:47] [urlrule] sites weipai.cn update 笑笑dem
+    * [2014/12/21 03:06:42] [urlrule] sites weipai.cn update 笑笑Sophia
+    * [2014/12/21 03:06:37] [urlrule] sites weipai.cn update 笑笑
+    * [2014/12/21 03:06:34] [urlrule] sites weipai.cn update 穿着高跟鞋跳芭蕾--
+    * [2014/12/21 03:06:31] [urlrule] sites weipai.cn update 空虚哥
+    * [2014/12/21 03:06:26] [urlrule] sites weipai.cn update 秦蕾
+    * [2014/12/21 03:06:23] [urlrule] sites weipai.cn update 秦勉叫冉冉
+    * [2014/12/21 03:06:19] [urlrule] sites weipai.cn update 私人空间
+    * [2014/12/21 03:06:16] [urlrule] sites weipai.cn update 神神神神神姐
+    * [2014/12/21 03:06:13] [urlrule] sites weipai.cn update 神仙姐姐__艾溪
+    * [2014/12/21 03:06:10] [urlrule] sites weipai.cn update 硬伦X妹
+    * [2014/12/21 03:06:07] [urlrule] sites weipai.cn update 知了
+    * [2014/12/21 03:06:05] [urlrule] sites weipai.cn update 矢帘
+    * [2014/12/21 03:06:02] [urlrule] sites weipai.cn update 瞥瞥
+    * [2014/12/21 03:05:56] [urlrule] sites weipai.cn update 瞄小婷
+    * [2014/12/21 03:05:53] [urlrule] sites weipai.cn update 真子佳佳
+    * [2014/12/21 03:05:51] [urlrule] sites weipai.cn update 皇家国际-佳欲
+    * [2014/12/21 03:05:48] [urlrule] sites weipai.cn update 白雪团队全球招募创业伙伴
     * [2014/12/21 03:03:38] [urlrule] sites weipai.cn update 由咩咩
     * [2014/12/21 03:03:35] [urlrule] sites weipai.cn update 田晓多tesia
     * [2014/12/21 03:03:32] [urlrule] sites weipai.cn update 田君er
