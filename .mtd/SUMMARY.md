@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 威信qianfei2012
+
+    * Begin : 2014/12/21 06:53:55
+    * End   : 2014/12/21 06:54:04
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 女神集团
 
     * Begin : 2014/12/21 06:53:13
