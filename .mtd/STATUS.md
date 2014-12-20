@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 52289253803494d3413aa550 耳听爱情
+
 * Finished:
+    * [2014/12/21 03:49:49] [urlrule] sites weipai.cn follow 52289253803494d3413aa550 耳听爱情
+
     * [2014/12/21 03:49:22] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
     * [2014/12/21 03:48:51] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
     * [2014/12/21 03:48:25] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
@@ -42,6 +47,14 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 03:49:48] [urlrule] sites weipai.cn add 52289253803494d3413aa550 耳听爱情
+
+    * [2014/12/21 03:49:46] [urlrule] sites weipai.cn UPDATE 王语纯baby
+
+    * [2014/12/21 03:49:44] [urlrule] sites weipai.cn follow 546c8daaa5640b577f8b458f 王语纯baby
+
+    * [2014/12/21 03:49:44] [urlrule] sites weipai.cn add 546c8daaa5640b577f8b458f 王语纯baby
+
     * [2014/12/21 03:41:31] [urlrule] sites weipai.cn UPDATE 丝绸裹着性感2
 
     * [2014/12/21 03:41:29] [urlrule] sites weipai.cn follow 541e8df9a8640b0b568b4578 丝绸裹着性感2
