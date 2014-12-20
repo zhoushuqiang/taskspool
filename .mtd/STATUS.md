@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 13:31:15] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
     * [2014/12/20 13:30:45] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
     * [2014/12/20 13:29:21] [urlrule] sites weipai.cn UPDATE 最帅马三舅
 
@@ -695,6 +696,12 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 13:31:10] [urlrule] sites weipai.cn UPDATE 高尚kiko
+
+    * [2014/12/20 13:31:09] [urlrule] sites weipai.cn follow 50eda2fe7d34948e2f000036 高尚kiko
+
+    * [2014/12/20 13:31:07] [urlrule] sites weipai.cn add 50eda2fe7d34948e2f000036 高尚kiko
+
     * [2014/12/20 13:30:40] [urlrule] sites weipai.cn UPDATE 徐妍馨Mandy
 
     * [2014/12/20 13:30:38] [urlrule] sites weipai.cn follow 531374499d67d9ee0b8b4567 徐妍馨Mandy
