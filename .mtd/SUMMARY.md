@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update _李好美
+
+    * Begin : 2014/12/21 06:45:22
+    * End   : 2014/12/21 06:45:28
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2014/12/21 06:38:12
