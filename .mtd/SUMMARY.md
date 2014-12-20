@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 芭比娃哈
+
+    * Begin : 2014/12/20 15:29:02
+    * End   : 2014/12/20 15:29:04
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 糖果果国
 
     * Begin : 2014/12/20 15:26:26
