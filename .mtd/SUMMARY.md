@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update 友熙酱
+
+    * Begin : 2014/12/21 07:46:57
+    * End   : 2014/12/21 07:47:03
+    * Result: OK
+
 * [urlrule task] update urlrule/task/follows.txt
 
     * Begin : 2014/12/21 07:44:18
