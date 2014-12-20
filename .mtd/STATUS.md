@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 02:57:47] [urlrule] sites weipai.cn update 澄小兔
     * [2014/12/21 02:57:09] [urlrule] sites weipai.cn update 潘潘20140413
     * [2014/12/21 02:54:46] [urlrule] sites weipai.cn update 洛可馨
     * [2014/12/21 02:53:05] [urlrule] sites weipai.cn update 水蜜桃子
