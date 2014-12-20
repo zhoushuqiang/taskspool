@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 劉點點dotey_
+
+    * Begin : 2014/12/20 14:05:26
+    * End   : 2014/12/20 14:06:54
+    * Result: OK
+
 * [urlrule task] update urlrule/task/follows.txt
 
     * Begin : 2014/12/20 14:01:06
