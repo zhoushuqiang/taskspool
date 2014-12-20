@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 15:57:57] [urlrule] sites weipai.cn UPDATE Gyochaeyeon
+
     * [2014/12/20 15:56:13] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
     * [2014/12/20 15:55:46] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
     * [2014/12/20 15:53:27] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
@@ -737,6 +739,16 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 15:56:43] [urlrule] sites weipai.cn follow 52648e589f6c00cd1a8fde4e Gyochaeyeon
+
+    * [2014/12/20 15:56:40] [urlrule] sites weipai.cn add 52648e589f6c00cd1a8fde4e Gyochaeyeon
+
+    * [2014/12/20 15:56:37] [urlrule] sites weipai.cn UPDATE 小小小乖
+
+    * [2014/12/20 15:56:34] [urlrule] sites weipai.cn follow 52bd05f986f66f49118b4567 小小小乖
+
+    * [2014/12/20 15:56:33] [urlrule] sites weipai.cn add 52bd05f986f66f49118b4567 小小小乖
+
     * [2014/12/20 15:56:07] [urlrule] sites weipai.cn UPDATE 高尚kiko
 
     * [2014/12/20 15:56:06] [urlrule] sites weipai.cn follow 50eda2fe7d34948e2f000036 高尚kiko
