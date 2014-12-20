@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 矢帘
+
+    * Begin : 2014/12/20 15:13:24
+    * End   : 2014/12/20 15:14:58
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 白日不湿
 
     * Begin : 2014/12/20 15:12:39
