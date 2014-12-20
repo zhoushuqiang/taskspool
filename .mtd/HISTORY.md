@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn update 范范范小范
+
+    * Begin : 2014/12/20 17:05:03
+    * End   : 2014/12/20 17:06:10
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 范美熙Jennifer
+
+    * Begin : 2014/12/20 17:04:59
+    * End   : 2014/12/20 17:05:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 范琪
+
+    * Begin : 2014/12/20 17:04:54
+    * End   : 2014/12/20 17:04:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 若涵Baby
+
+    * Begin : 2014/12/20 17:04:50
+    * End   : 2014/12/20 17:04:51
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 若含baby
+
+    * Begin : 2014/12/20 17:04:44
+    * End   : 2014/12/20 17:04:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 若含_Princess
+
+    * Begin : 2014/12/20 17:04:39
+    * End   : 2014/12/20 17:04:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 苏柒杞
+
+    * Begin : 2014/12/20 17:04:36
+    * End   : 2014/12/20 17:04:37
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 苏夏妞妞
 
     * Begin : 2014/12/20 17:04:00
