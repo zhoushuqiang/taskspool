@@ -1,3 +1,63 @@
+* [urlrule] sites weipai.cn update 1142058078
+
+    * Begin : 2014/12/21 04:13:01
+    * End   : 2014/12/21 04:14:33
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 10120
+
+    * Begin : 2014/12/21 04:12:59
+    * End   : 2014/12/21 04:12:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 0王妃0
+
+    * Begin : 2014/12/21 04:12:57
+    * End   : 2014/12/21 04:12:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn UPDATE 亦欢欢
+
+
+    * Begin : 2014/12/21 04:12:55
+    * End   : 2014/12/21 04:12:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 545c9754a5640b20538b4593 亦欢欢
+
+
+    * Begin : 2014/12/21 04:12:54
+    * End   : 2014/12/21 04:12:55
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 545c9754a5640b20538b4593 亦欢欢
+
+
+    * Begin : 2014/12/21 04:12:54
+    * End   : 2014/12/21 04:12:54
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 内涵姐姐
+
+
+    * Begin : 2014/12/21 04:12:52
+    * End   : 2014/12/21 04:12:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5448e762a6640b036b8b45b3 内涵姐姐
+
+
+    * Begin : 2014/12/21 04:12:52
+    * End   : 2014/12/21 04:12:52
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5448e762a6640b036b8b45b3 内涵姐姐
+
+
+    * Begin : 2014/12/21 04:12:52
+    * End   : 2014/12/21 04:12:52
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2014/12/21 04:12:38
