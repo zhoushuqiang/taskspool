@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/20 14:17:14] [urlrule] sites weipai.cn update 女神集团
     * [2014/12/20 14:16:47] [urlrule] sites weipai.cn update 女王女王陛下
     * [2014/12/20 14:15:54] [urlrule] sites weipai.cn update 大萨萨
     * [2014/12/20 14:06:54] [urlrule] sites weipai.cn update 劉點點dotey_
@@ -707,6 +708,7 @@ Tasks Status Report
     * [2014/12/18 13:31:24] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/18 13:30:29] [urlrule] sites weipai.cn update 王炤钧
 * Doing Nothing:
+    * [2014/12/20 14:17:09] [urlrule] sites weipai.cn update 女神情情
     * [2014/12/20 14:16:40] [urlrule] sites weipai.cn update 女侠桃花鹿
     * [2014/12/20 14:16:36] [urlrule] sites weipai.cn update 奈奈萌大奶
     * [2014/12/20 14:16:32] [urlrule] sites weipai.cn update 奇美女
