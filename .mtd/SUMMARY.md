@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update DJ_Ricey
+
+    * Begin : 2014/12/21 23:15:19
+    * End   : 2014/12/21 23:20:42
+    * Result: OK
+
 * [urlrule] sites weipai.cn update CBMXX
 
     * Begin : 2014/12/21 23:08:27

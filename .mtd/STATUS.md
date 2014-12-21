@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 23:20:42] [urlrule] sites weipai.cn update DJ_Ricey
     * [2014/12/21 23:14:15] [urlrule] sites weipai.cn update CBMXX
     * [2014/12/21 23:06:10] [urlrule] sites weipai.cn update 84剩女姐
     * [2014/12/21 23:01:39] [urlrule] sites weipai.cn UPDATE 内涵姐姐
@@ -523,6 +524,21 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 23:15:17] [urlrule] sites weipai.cn update DJ-TiMi
+    * [2014/12/21 23:15:13] [urlrule] sites vlook.cn update DJ-CC
+    * [2014/12/21 23:15:10] [urlrule] sites weipai.cn update DJ-CC
+    * [2014/12/21 23:15:07] [urlrule] sites weipai.cn update C希人
+    * [2014/12/21 23:15:05] [urlrule] sites weipai.cn update C小宝宝
+    * [2014/12/21 23:15:02] [urlrule] sites weipai.cn update Crystal欣
+    * [2014/12/21 23:14:59] [urlrule] sites weipai.cn update CoCo_安妮
+    * [2014/12/21 23:14:56] [urlrule] sites vlook.cn update Christine黄可
+    * [2014/12/21 23:14:51] [urlrule] sites weipai.cn update Christine黄可
+    * [2014/12/21 23:14:47] [urlrule] sites weipai.cn update Cello
+    * [2014/12/21 23:14:45] [urlrule] sites weipai.cn update Cathy陈茹雪
+    * [2014/12/21 23:14:41] [urlrule] sites weipai.cn update CL森系女神
+    * [2014/12/21 23:14:39] [urlrule] sites weipai.cn update CFTZ
+    * [2014/12/21 23:14:35] [urlrule] sites weipai.cn update CC宠儿凌溪
+    * [2014/12/21 23:14:33] [urlrule] sites weipai.cn update CC-rose
     * [2014/12/21 23:08:25] [urlrule] sites weipai.cn update C0C0
     * [2014/12/21 23:08:22] [urlrule] sites weipai.cn update Box039
     * [2014/12/21 23:08:19] [urlrule] sites weipai.cn update BoBo小苗
