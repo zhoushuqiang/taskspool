@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 13:55:15] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/21 13:53:14] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
     * [2014/12/21 13:52:58] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
     * [2014/12/21 13:52:30] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
@@ -327,6 +328,36 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 13:53:46] [urlrule] sites weipai.cn UPDATE 梦游娃娃
+
+    * [2014/12/21 13:53:45] [urlrule] sites weipai.cn follow 526cdc605e7feba10b8b457f 梦游娃娃
+
+    * [2014/12/21 13:53:44] [urlrule] sites weipai.cn add 526cdc605e7feba10b8b457f 梦游娃娃
+
+    * [2014/12/21 13:53:42] [urlrule] sites weipai.cn UPDATE 铁粉1号
+
+    * [2014/12/21 13:53:41] [urlrule] sites weipai.cn follow 5331a3749d67d9b5348b45c6 铁粉1号
+
+    * [2014/12/21 13:53:40] [urlrule] sites weipai.cn add 5331a3749d67d9b5348b45c6 铁粉1号
+
+    * [2014/12/21 13:53:38] [urlrule] sites weipai.cn UPDATE 米洁
+
+    * [2014/12/21 13:53:37] [urlrule] sites weipai.cn follow 52a565957f349434799a17ad 米洁
+
+    * [2014/12/21 13:53:36] [urlrule] sites weipai.cn add 52a565957f349434799a17ad 米洁
+
+    * [2014/12/21 13:53:34] [urlrule] sites weipai.cn UPDATE 梅姿baby
+
+    * [2014/12/21 13:53:33] [urlrule] sites weipai.cn follow 508e3aa38134941b2400001a 梅姿baby
+
+    * [2014/12/21 13:53:32] [urlrule] sites weipai.cn add 508e3aa38134941b2400001a 梅姿baby
+
+    * [2014/12/21 13:53:29] [urlrule] sites weipai.cn UPDATE 耳听爱情
+
+    * [2014/12/21 13:53:28] [urlrule] sites weipai.cn follow 52289253803494d3413aa550 耳听爱情
+
+    * [2014/12/21 13:53:27] [urlrule] sites weipai.cn add 52289253803494d3413aa550 耳听爱情
+
     * [2014/12/21 13:49:01] [urlrule] sites weipai.cn UPDATE 丝绸裹着性感2
 
     * [2014/12/21 13:49:00] [urlrule] sites weipai.cn follow 541e8df9a8640b0b568b4578 丝绸裹着性感2
