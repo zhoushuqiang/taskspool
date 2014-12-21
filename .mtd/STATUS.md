@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 03:38:14] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/22 03:37:20] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
     * [2014/12/22 03:37:03] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
     * [2014/12/22 03:36:46] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
@@ -598,6 +599,42 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 03:38:10] [urlrule] sites weipai.cn UPDATE 梦游娃娃
+
+    * [2014/12/22 03:38:08] [urlrule] sites weipai.cn follow 526cdc605e7feba10b8b457f 梦游娃娃
+
+    * [2014/12/22 03:38:07] [urlrule] sites weipai.cn add 526cdc605e7feba10b8b457f 梦游娃娃
+
+    * [2014/12/22 03:38:03] [urlrule] sites weipai.cn UPDATE 肖金铭
+
+    * [2014/12/22 03:38:02] [urlrule] sites weipai.cn follow 53d3694fa7640b9e058b457f 肖金铭
+
+    * [2014/12/22 03:38:00] [urlrule] sites weipai.cn add 53d3694fa7640b9e058b457f 肖金铭
+
+    * [2014/12/22 03:37:58] [urlrule] sites weipai.cn UPDATE 铁粉1号
+
+    * [2014/12/22 03:37:56] [urlrule] sites weipai.cn follow 5331a3749d67d9b5348b45c6 铁粉1号
+
+    * [2014/12/22 03:37:55] [urlrule] sites weipai.cn add 5331a3749d67d9b5348b45c6 铁粉1号
+
+    * [2014/12/22 03:37:52] [urlrule] sites weipai.cn UPDATE 米洁
+
+    * [2014/12/22 03:37:50] [urlrule] sites weipai.cn follow 52a565957f349434799a17ad 米洁
+
+    * [2014/12/22 03:37:48] [urlrule] sites weipai.cn add 52a565957f349434799a17ad 米洁
+
+    * [2014/12/22 03:37:45] [urlrule] sites weipai.cn UPDATE 梅姿baby
+
+    * [2014/12/22 03:37:43] [urlrule] sites weipai.cn follow 508e3aa38134941b2400001a 梅姿baby
+
+    * [2014/12/22 03:37:42] [urlrule] sites weipai.cn add 508e3aa38134941b2400001a 梅姿baby
+
+    * [2014/12/22 03:37:40] [urlrule] sites weipai.cn UPDATE 耳听爱情
+
+    * [2014/12/22 03:37:39] [urlrule] sites weipai.cn follow 52289253803494d3413aa550 耳听爱情
+
+    * [2014/12/22 03:37:37] [urlrule] sites weipai.cn add 52289253803494d3413aa550 耳听爱情
+
     * [2014/12/22 03:32:40] [urlrule] sites weipai.cn UPDATE 雯子蜜
 
     * [2014/12/22 03:32:38] [urlrule] sites weipai.cn follow 516ac8a77d3494ef4c000015 雯子蜜
