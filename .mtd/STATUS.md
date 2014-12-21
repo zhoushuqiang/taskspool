@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 53d3694fa7640b9e058b457f 肖金铭
-
 * Finished:
+    * [2014/12/21 20:02:36] [urlrule] sites weipai.cn UPDATE 肖金铭
+
     * [2014/12/21 19:56:22] [urlrule] sites weipai.cn follow 53d3694fa7640b9e058b457f 肖金铭
 
     * [2014/12/21 19:55:45] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE

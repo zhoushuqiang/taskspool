@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 肖金铭
+
+
+    * Begin : 2014/12/21 19:56:35
+    * End   : 2014/12/21 20:02:36
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 53d3694fa7640b9e058b457f 肖金铭
 
 
