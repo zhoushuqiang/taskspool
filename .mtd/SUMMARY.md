@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 杨梓萱baby
+
+    * Begin : 2014/12/21 13:31:48
+    * End   : 2014/12/21 13:32:17
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/21 13:26:42
