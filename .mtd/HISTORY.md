@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 没有鼻梁的姑娘
+
+    * Begin : 2014/12/21 17:40:20
+    * End   : 2014/12/21 17:41:04
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 沈希JOY
+
+    * Begin : 2014/12/21 17:40:17
+    * End   : 2014/12/21 17:40:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 江宣
+
+    * Begin : 2014/12/21 17:40:14
+    * End   : 2014/12/21 17:40:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 汉小仙
+
+    * Begin : 2014/12/21 17:40:12
+    * End   : 2014/12/21 17:40:12
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 水蜜桃子
 
     * Begin : 2014/12/21 17:39:54
