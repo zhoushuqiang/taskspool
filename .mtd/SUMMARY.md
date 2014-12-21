@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 宋佳baby
+
+    * Begin : 2014/12/22 02:55:52
+    * End   : 2014/12/22 02:56:21
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 女神集团
 
     * Begin : 2014/12/22 02:53:26
