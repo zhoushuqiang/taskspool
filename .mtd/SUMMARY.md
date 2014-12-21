@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小葵葵之家
+
+    * Begin : 2014/12/21 18:51:23
+    * End   : 2014/12/21 18:52:25
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 安妮makeup
 
     * Begin : 2014/12/21 18:32:41
