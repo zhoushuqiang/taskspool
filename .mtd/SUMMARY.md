@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 长裙飘飘21
+
+    * Begin : 2014/12/21 15:45:14
+    * End   : 2014/12/21 15:46:07
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 薇妮BABY
 
     * Begin : 2014/12/21 15:43:15
