@@ -1,3 +1,57 @@
+* [urlrule] sites vlook.cn update 若含baby
+
+    * Begin : 2014/12/22 07:46:54
+    * End   : 2014/12/22 07:47:05
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 若含_Princess
+
+    * Begin : 2014/12/22 07:46:50
+    * End   : 2014/12/22 07:46:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 苏柒杞
+
+    * Begin : 2014/12/22 07:46:47
+    * End   : 2014/12/22 07:46:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 苏夏妞妞
+
+    * Begin : 2014/12/22 07:46:43
+    * End   : 2014/12/22 07:46:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 花旗是个双面少女
+
+    * Begin : 2014/12/22 07:46:40
+    * End   : 2014/12/22 07:46:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 花小西
+
+    * Begin : 2014/12/22 07:46:36
+    * End   : 2014/12/22 07:46:37
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 芮涵Annabelle
+
+    * Begin : 2014/12/22 07:46:31
+    * End   : 2014/12/22 07:46:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 芮涵Annabelle
+
+    * Begin : 2014/12/22 07:46:28
+    * End   : 2014/12/22 07:46:28
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 芭芘李迪娅
+
+    * Begin : 2014/12/22 07:46:24
+    * End   : 2014/12/22 07:46:25
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 芭比娃哈
 
     * Begin : 2014/12/22 07:45:36
