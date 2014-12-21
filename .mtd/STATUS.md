@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 53d3694fa7640b9e058b457f 肖金铭
+
 * Finished:
+    * [2014/12/21 19:56:22] [urlrule] sites weipai.cn follow 53d3694fa7640b9e058b457f 肖金铭
+
     * [2014/12/21 19:55:45] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
     * [2014/12/21 19:52:24] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
     * [2014/12/21 19:40:27] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
@@ -465,6 +470,32 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 19:56:21] [urlrule] sites weipai.cn add 53d3694fa7640b9e058b457f 肖金铭
+
+    * [2014/12/21 19:56:18] [urlrule] sites weipai.cn UPDATE 铁粉1号
+
+    * [2014/12/21 19:56:16] [urlrule] sites weipai.cn follow 5331a3749d67d9b5348b45c6 铁粉1号
+
+    * [2014/12/21 19:56:15] [urlrule] sites weipai.cn add 5331a3749d67d9b5348b45c6 铁粉1号
+
+    * [2014/12/21 19:56:12] [urlrule] sites weipai.cn UPDATE 米洁
+
+    * [2014/12/21 19:56:10] [urlrule] sites weipai.cn follow 52a565957f349434799a17ad 米洁
+
+    * [2014/12/21 19:56:09] [urlrule] sites weipai.cn add 52a565957f349434799a17ad 米洁
+
+    * [2014/12/21 19:56:07] [urlrule] sites weipai.cn UPDATE 梅姿baby
+
+    * [2014/12/21 19:56:06] [urlrule] sites weipai.cn follow 508e3aa38134941b2400001a 梅姿baby
+
+    * [2014/12/21 19:56:05] [urlrule] sites weipai.cn add 508e3aa38134941b2400001a 梅姿baby
+
+    * [2014/12/21 19:56:02] [urlrule] sites weipai.cn UPDATE 耳听爱情
+
+    * [2014/12/21 19:56:00] [urlrule] sites weipai.cn follow 52289253803494d3413aa550 耳听爱情
+
+    * [2014/12/21 19:55:59] [urlrule] sites weipai.cn add 52289253803494d3413aa550 耳听爱情
+
     * [2014/12/21 19:18:22] [urlrule] sites weipai.cn UPDATE 雯子蜜
 
     * [2014/12/21 19:18:20] [urlrule] sites weipai.cn follow 516ac8a77d3494ef4c000015 雯子蜜
