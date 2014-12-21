@@ -1,3 +1,9 @@
+* [urlrule task] update urlrule/task/follows.txt
+
+    * Begin : 2014/12/21 14:09:50
+    * End   : 2014/12/21 14:09:52
+    * Result: OK
+
 * [urlrule] sites weipai.cn update forgetlethe
 
     * Begin : 2014/12/21 14:07:45
