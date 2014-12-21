@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 芭比娃哈
+
+    * Begin : 2014/12/21 21:17:25
+    * End   : 2014/12/21 21:17:27
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 秦勉叫冉冉
 
     * Begin : 2014/12/21 21:13:42
