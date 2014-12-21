@@ -1,3 +1,30 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
+
+    * Begin : 2014/12/21 20:03:33
+    * End   : 2014/12/21 20:03:37
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 梦游娃娃
+
+
+    * Begin : 2014/12/21 20:03:30
+    * End   : 2014/12/21 20:03:31
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 526cdc605e7feba10b8b457f 梦游娃娃
+
+
+    * Begin : 2014/12/21 20:03:28
+    * End   : 2014/12/21 20:03:29
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 526cdc605e7feba10b8b457f 梦游娃娃
+
+
+    * Begin : 2014/12/21 20:03:27
+    * End   : 2014/12/21 20:03:27
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 肖金铭
 
 

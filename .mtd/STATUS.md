@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 20:03:37] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/21 20:02:36] [urlrule] sites weipai.cn UPDATE 肖金铭
 
     * [2014/12/21 19:56:22] [urlrule] sites weipai.cn follow 53d3694fa7640b9e058b457f 肖金铭
@@ -469,6 +470,12 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 20:03:31] [urlrule] sites weipai.cn UPDATE 梦游娃娃
+
+    * [2014/12/21 20:03:29] [urlrule] sites weipai.cn follow 526cdc605e7feba10b8b457f 梦游娃娃
+
+    * [2014/12/21 20:03:27] [urlrule] sites weipai.cn add 526cdc605e7feba10b8b457f 梦游娃娃
+
     * [2014/12/21 19:56:21] [urlrule] sites weipai.cn add 53d3694fa7640b9e058b457f 肖金铭
 
     * [2014/12/21 19:56:18] [urlrule] sites weipai.cn UPDATE 铁粉1号
