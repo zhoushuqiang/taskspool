@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Christine黄可
+
+    * Begin : 2014/12/21 20:14:27
+    * End   : 2014/12/21 20:14:53
+    * Result: OK
+
 * [urlrule] sites weipai.cn update ANGELG
 
     * Begin : 2014/12/21 20:11:48
