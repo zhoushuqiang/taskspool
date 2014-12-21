@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 20:33:41] [urlrule] sites weipai.cn update 以我之名祭你风华初成
     * [2014/12/21 20:32:57] [urlrule] sites weipai.cn update 于安朵
     * [2014/12/21 20:29:46] [urlrule] sites weipai.cn update 乔宝宝i
     * [2014/12/21 20:27:59] [urlrule task] update urlrule/task/follows.txt
@@ -490,6 +491,12 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 20:33:29] [urlrule] sites weipai.cn update 仙德瑞拉_模特经纪
+    * [2014/12/21 20:33:26] [urlrule] sites weipai.cn update 仙女大人
+    * [2014/12/21 20:33:23] [urlrule] sites weipai.cn update 他不懂我的xin
+    * [2014/12/21 20:33:20] [urlrule] sites weipai.cn update 亿艾儿-baby
+    * [2014/12/21 20:33:17] [urlrule] sites weipai.cn update 亦欢欢
+    * [2014/12/21 20:33:14] [urlrule] sites weipai.cn update 于小慧
     * [2014/12/21 20:30:06] [urlrule] sites weipai.cn update 乱搞砖家
     * [2014/12/21 20:30:03] [urlrule] sites weipai.cn update 九尾狐-官晓双
     * [2014/12/21 20:29:27] [urlrule] sites weipai.cn update 乐怡

@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn update 以我之名祭你风华初成
+
+    * Begin : 2014/12/21 20:33:32
+    * End   : 2014/12/21 20:33:41
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 仙德瑞拉_模特经纪
+
+    * Begin : 2014/12/21 20:33:29
+    * End   : 2014/12/21 20:33:29
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 仙女大人
+
+    * Begin : 2014/12/21 20:33:26
+    * End   : 2014/12/21 20:33:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 他不懂我的xin
+
+    * Begin : 2014/12/21 20:33:22
+    * End   : 2014/12/21 20:33:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 亿艾儿-baby
+
+    * Begin : 2014/12/21 20:33:20
+    * End   : 2014/12/21 20:33:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 亦欢欢
+
+    * Begin : 2014/12/21 20:33:16
+    * End   : 2014/12/21 20:33:17
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 于小慧
+
+    * Begin : 2014/12/21 20:33:14
+    * End   : 2014/12/21 20:33:14
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 于安朵
 
     * Begin : 2014/12/21 20:30:08
