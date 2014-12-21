@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 02:26:20] [urlrule] sites weipai.cn update Adela_chiang
     * [2014/12/22 02:17:00] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2014/12/22 02:16:37] [urlrule] sites weipai.cn UPDATE 薇妮BABY
 
@@ -574,6 +575,50 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 02:19:37] [urlrule] sites weipai.cn update Abbymiki
+    * [2014/12/22 02:19:34] [urlrule] sites weipai.cn update Abby_徐惠雪
+    * [2014/12/22 02:19:31] [urlrule] sites weipai.cn update ANGELG
+    * [2014/12/22 02:19:27] [urlrule] sites weipai.cn update 9999920140801
+    * [2014/12/22 02:19:23] [urlrule] sites weipai.cn update 924906386
+    * [2014/12/22 02:19:20] [urlrule] sites weipai.cn update 872705
+    * [2014/12/22 02:19:17] [urlrule] sites weipai.cn update 852206078
+    * [2014/12/22 02:19:13] [urlrule] sites weipai.cn update 84剩女姐
+    * [2014/12/22 02:19:10] [urlrule] sites weipai.cn update 70后米米妈丫
+    * [2014/12/22 02:19:07] [urlrule] sites weipai.cn update 5沉睡森林
+    * [2014/12/22 02:19:03] [urlrule] sites weipai.cn update 576117778
+    * [2014/12/22 02:19:00] [urlrule] sites weipai.cn update 54423ad1a6640ba86f8b459c
+    * [2014/12/22 02:18:57] [urlrule] sites weipai.cn update 534c63348034940c2ff99e90
+    * [2014/12/22 02:18:54] [urlrule] sites weipai.cn update 450185387
+    * [2014/12/22 02:18:49] [urlrule] sites weipai.cn update 424195082
+    * [2014/12/22 02:18:45] [urlrule] sites weipai.cn update 3334
+    * [2014/12/22 02:18:42] [urlrule] sites weipai.cn update 292310977
+    * [2014/12/22 02:18:38] [urlrule] sites weipai.cn update 2413621327白易
+    * [2014/12/22 02:18:35] [urlrule] sites weipai.cn update 2014121592
+    * [2014/12/22 02:18:32] [urlrule] sites weipai.cn update 20141215100
+    * [2014/12/22 02:18:28] [urlrule] sites weipai.cn update 2014121236
+    * [2014/12/22 02:18:25] [urlrule] sites weipai.cn update 201411308
+    * [2014/12/22 02:18:21] [urlrule] sites weipai.cn update 2014110428
+    * [2014/12/22 02:18:17] [urlrule] sites weipai.cn update 2014080137
+    * [2014/12/22 02:18:13] [urlrule] sites weipai.cn update 2014071139
+    * [2014/12/22 02:18:10] [urlrule] sites weipai.cn update 20140610884
+    * [2014/12/22 02:18:06] [urlrule] sites weipai.cn update 201403085958
+    * [2014/12/22 02:18:03] [urlrule] sites weipai.cn update 20140221429
+    * [2014/12/22 02:17:59] [urlrule] sites weipai.cn update 20140110366
+    * [2014/12/22 02:17:56] [urlrule] sites weipai.cn update 20131211281
+    * [2014/12/22 02:17:52] [urlrule] sites weipai.cn update 18610561108
+    * [2014/12/22 02:17:48] [urlrule] sites weipai.cn update 1824329072宅女轩轩
+    * [2014/12/22 02:17:43] [urlrule] sites vlook.cn update 1824329072宅女轩轩
+    * [2014/12/22 02:17:37] [urlrule] sites weipai.cn update 16姐
+    * [2014/12/22 02:17:34] [urlrule] sites weipai.cn update 1589753
+    * [2014/12/22 02:17:31] [urlrule] sites weipai.cn update 1142058078
+    * [2014/12/22 02:17:27] [urlrule] sites weipai.cn update 10120
+    * [2014/12/22 02:17:24] [urlrule] sites weipai.cn update 0王妃0
+    * [2014/12/22 02:17:21] [urlrule] sites weipai.cn UPDATE 内涵姐姐
+
+    * [2014/12/22 02:17:19] [urlrule] sites weipai.cn follow 5448e762a6640b036b8b45b3 内涵姐姐
+
+    * [2014/12/22 02:17:17] [urlrule] sites weipai.cn add 5448e762a6640b036b8b45b3 内涵姐姐
+
     * [2014/12/22 02:16:34] [urlrule] sites weipai.cn follow 5446fec2a6640b10708b4578 薇妮BABY
 
     * [2014/12/22 02:16:32] [urlrule] sites weipai.cn add 5446fec2a6640b10708b4578 薇妮BABY
