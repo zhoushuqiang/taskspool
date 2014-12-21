@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 19:01:45] [urlrule] sites weipai.cn update 水蜜桃子
     * [2014/12/21 19:01:12] [urlrule] sites weipai.cn update 橙大爷
     * [2014/12/21 18:53:18] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/21 18:52:25] [urlrule] sites weipai.cn update 小葵葵之家
@@ -456,6 +457,11 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 19:01:41] [urlrule] sites weipai.cn update 毛大怪
+    * [2014/12/21 19:01:38] [urlrule] sites weipai.cn update 欣赏为主
+    * [2014/12/21 19:01:36] [urlrule] sites weipai.cn update 欠缺完美
+    * [2014/12/21 19:01:33] [urlrule] sites weipai.cn update 橙子醬
+    * [2014/12/21 19:01:30] [urlrule] sites weipai.cn update 橙子妹妹
     * [2014/12/21 19:00:44] [urlrule] sites weipai.cn update 模特-杨伊
     * [2014/12/21 19:00:41] [urlrule] sites weipai.cn update 梦瑶
     * [2014/12/21 19:00:38] [urlrule] sites weipai.cn update 梦游娃娃

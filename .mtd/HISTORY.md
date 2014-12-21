@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 水蜜桃子
+
+    * Begin : 2014/12/21 19:01:43
+    * End   : 2014/12/21 19:01:45
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 毛大怪
+
+    * Begin : 2014/12/21 19:01:40
+    * End   : 2014/12/21 19:01:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 欣赏为主
+
+    * Begin : 2014/12/21 19:01:38
+    * End   : 2014/12/21 19:01:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 欠缺完美
+
+    * Begin : 2014/12/21 19:01:35
+    * End   : 2014/12/21 19:01:36
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 橙子醬
+
+    * Begin : 2014/12/21 19:01:32
+    * End   : 2014/12/21 19:01:33
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 橙子妹妹
+
+    * Begin : 2014/12/21 19:01:29
+    * End   : 2014/12/21 19:01:30
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 橙大爷
 
     * Begin : 2014/12/21 19:00:46
