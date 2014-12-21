@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 16:47:33] [urlrule] sites weipai.cn update 芭比娃哈
     * [2014/12/21 16:46:21] [urlrule] sites weipai.cn update 维信qianfei2012
     * [2014/12/21 16:44:19] [urlrule] sites weipai.cn update 白日不湿
     * [2014/12/21 16:41:03] [urlrule] sites weipai.cn update 水蜜桃子
@@ -403,6 +404,26 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 16:47:29] [urlrule] sites weipai.cn update 芒果小懒猫
+    * [2014/12/21 16:47:27] [urlrule] sites weipai.cn update 艾舞kathy
+    * [2014/12/21 16:47:24] [urlrule] sites weipai.cn update 艾小爱
+    * [2014/12/21 16:47:21] [urlrule] sites weipai.cn update 艾_笑笑
+    * [2014/12/21 16:47:18] [urlrule] sites weipai.cn update 般若的每一天
+    * [2014/12/21 16:47:15] [urlrule] sites weipai.cn update 胸奀
+    * [2014/12/21 16:47:13] [urlrule] sites vlook.cn update 胡金熙
+    * [2014/12/21 16:47:09] [urlrule] sites weipai.cn update 胖洋葱
+    * [2014/12/21 16:47:06] [urlrule] sites weipai.cn update 肥尻夫人Linanan
+    * [2014/12/21 16:47:03] [urlrule] sites weipai.cn update 肚皮舞皇后
+    * [2014/12/21 16:47:01] [urlrule] sites weipai.cn update 肖蕾微博
+    * [2014/12/21 16:46:58] [urlrule] sites weipai.cn update 耳听爱情
+    * [2014/12/21 16:46:55] [urlrule] sites weipai.cn update 翡翠妹妹
+    * [2014/12/21 16:46:53] [urlrule] sites weipai.cn update 美色驿站
+    * [2014/12/21 16:46:51] [urlrule] sites weipai.cn update 美腿热舞福利分享
+    * [2014/12/21 16:46:48] [urlrule] sites weipai.cn update 美瑩
+    * [2014/12/21 16:46:45] [urlrule] sites weipai.cn update 美媛媛
+    * [2014/12/21 16:46:43] [urlrule] sites weipai.cn update 美媚腿
+    * [2014/12/21 16:46:40] [urlrule] sites weipai.cn update 罗小佩
+    * [2014/12/21 16:46:37] [urlrule] sites weipai.cn update 罗妍-D
     * [2014/12/21 16:46:04] [urlrule] sites weipai.cn update 纯儿宝贝
     * [2014/12/21 16:46:02] [urlrule] sites weipai.cn update 红玫瑰
     * [2014/12/21 16:45:59] [urlrule] sites weipai.cn update 红心点起来
