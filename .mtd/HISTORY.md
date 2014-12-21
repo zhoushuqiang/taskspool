@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update Diva_狄娃
+
+    * Begin : 2014/12/21 23:21:10
+    * End   : 2014/12/21 23:51:53
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Despair-假寐
+
+    * Begin : 2014/12/21 23:21:08
+    * End   : 2014/12/21 23:21:08
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Dance小宝
+
+    * Begin : 2014/12/21 23:21:05
+    * End   : 2014/12/21 23:21:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Daisy__兔
+
+    * Begin : 2014/12/21 23:21:02
+    * End   : 2014/12/21 23:21:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update DM靜兒
+
+    * Begin : 2014/12/21 23:20:59
+    * End   : 2014/12/21 23:21:00
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update DJ_Ricey
+
+    * Begin : 2014/12/21 23:20:56
+    * End   : 2014/12/21 23:20:57
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update DJ_Ricey
 
     * Begin : 2014/12/21 23:15:19
