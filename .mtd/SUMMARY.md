@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 花旗是个双面少女
+
+    * Begin : 2014/12/21 11:33:17
+    * End   : 2014/12/21 11:33:45
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 芭比娃哈
 
     * Begin : 2014/12/21 11:32:44
