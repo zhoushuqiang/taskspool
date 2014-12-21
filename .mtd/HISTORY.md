@@ -1,3 +1,30 @@
+* [urlrule] sites weipai.cn UPDATE 洛可馨baby
+
+
+    * Begin : 2014/12/22 02:07:17
+    * End   : 2014/12/22 02:07:20
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 53f5690ea7640b91338b4574 洛可馨baby
+
+
+    * Begin : 2014/12/22 02:07:15
+    * End   : 2014/12/22 02:07:16
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53f5690ea7640b91338b4574 洛可馨baby
+
+
+    * Begin : 2014/12/22 02:07:14
+    * End   : 2014/12/22 02:07:14
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn update 龙儿20140330
+
+    * Begin : 2014/12/22 02:07:08
+    * End   : 2014/12/22 02:07:09
+    * Result: Nothing to do
+
 * [urlrule] sites vlook.cn update 黒目瞳
 
     * Begin : 2014/12/22 02:06:27

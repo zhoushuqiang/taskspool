@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 02:07:20] [urlrule] sites weipai.cn UPDATE 洛可馨baby
+
     * [2014/12/22 02:06:47] [urlrule] sites vlook.cn update 黒目瞳
     * [2014/12/22 02:03:12] [urlrule] sites weipai.cn update 陈语乔
     * [2014/12/22 02:01:27] [urlrule] sites weipai.cn update 阿鑫很浮躁
@@ -560,6 +562,11 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 02:07:16] [urlrule] sites weipai.cn follow 53f5690ea7640b91338b4574 洛可馨baby
+
+    * [2014/12/22 02:07:14] [urlrule] sites weipai.cn add 53f5690ea7640b91338b4574 洛可馨baby
+
+    * [2014/12/22 02:07:09] [urlrule] sites weipai.cn update 龙儿20140330
     * [2014/12/22 02:06:25] [urlrule] sites weipai.cn update 黒目瞳
     * [2014/12/22 02:06:21] [urlrule] sites weipai.cn update 黑金色会飞的鱼
     * [2014/12/22 02:06:17] [urlrule] sites weipai.cn update 黑桃女王

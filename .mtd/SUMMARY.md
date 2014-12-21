@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 洛可馨baby
+
+
+    * Begin : 2014/12/22 02:07:17
+    * End   : 2014/12/22 02:07:20
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 黒目瞳
 
     * Begin : 2014/12/22 02:06:27
