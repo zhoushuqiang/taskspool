@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 11:51:01] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
     * [2014/12/21 11:49:57] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
     * [2014/12/21 11:41:51] [urlrule] sites weipai.cn update 高冷漾
     * [2014/12/21 11:37:03] [urlrule] sites weipai.cn update 薇妮BABY
