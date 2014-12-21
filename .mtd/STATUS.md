@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 20:04:25] [urlrule] sites weipai.cn UPDATE 若涵Baby
+
     * [2014/12/21 20:04:02] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
     * [2014/12/21 20:03:37] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/21 20:02:36] [urlrule] sites weipai.cn UPDATE 肖金铭
@@ -471,6 +473,16 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 20:04:22] [urlrule] sites weipai.cn follow 53310bc19d67d942728b466e 若涵Baby
+
+    * [2014/12/21 20:04:21] [urlrule] sites weipai.cn add 53310bc19d67d942728b466e 若涵Baby
+
+    * [2014/12/21 20:04:18] [urlrule] sites weipai.cn UPDATE 70后米米妈丫
+
+    * [2014/12/21 20:04:16] [urlrule] sites weipai.cn follow 5434d972a6640bab078b457e 70后米米妈丫
+
+    * [2014/12/21 20:04:15] [urlrule] sites weipai.cn add 5434d972a6640bab078b457e 70后米米妈丫
+
     * [2014/12/21 20:03:59] [urlrule] sites weipai.cn UPDATE 穴儿
 
     * [2014/12/21 20:03:57] [urlrule] sites weipai.cn follow 5458f63ca7640bc85b8b4568 穴儿
