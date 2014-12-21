@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Sooki莹莹孙
+
+    * Begin : 2014/12/21 23:56:03
+    * End   : 2014/12/22 00:02:01
+    * Result: OK
+
 * [urlrule] sites vlook.cn update Katherine陳佳妮
 
     * Begin : 2014/12/21 23:53:13
