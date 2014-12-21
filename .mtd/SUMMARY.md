@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 李七喜
+
+    * Begin : 2014/12/21 15:27:48
+    * End   : 2014/12/21 15:30:13
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/21 15:23:28
