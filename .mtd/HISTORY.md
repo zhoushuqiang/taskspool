@@ -1,3 +1,63 @@
+* [urlrule] sites weipai.cn update 姗-姗
+
+    * Begin : 2014/12/21 18:29:13
+    * End   : 2014/12/21 18:30:36
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 姐妹的范er
+
+    * Begin : 2014/12/21 18:29:11
+    * End   : 2014/12/21 18:29:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 姐又内涵了
+
+    * Begin : 2014/12/21 18:29:08
+    * End   : 2014/12/21 18:29:08
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 妮妮儿r
+
+    * Begin : 2014/12/21 18:29:05
+    * End   : 2014/12/21 18:29:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 妮妮love
+
+    * Begin : 2014/12/21 18:29:02
+    * End   : 2014/12/21 18:29:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 妩媚动人栩儿
+
+    * Begin : 2014/12/21 18:28:59
+    * End   : 2014/12/21 18:29:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 妞跪着给哥唱征服
+
+    * Begin : 2014/12/21 18:28:56
+    * End   : 2014/12/21 18:28:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 妖精annly
+
+    * Begin : 2014/12/21 18:28:53
+    * End   : 2014/12/21 18:28:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 奶棒
+
+    * Begin : 2014/12/21 18:28:50
+    * End   : 2014/12/21 18:28:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 女超人
+
+    * Begin : 2014/12/21 18:28:47
+    * End   : 2014/12/21 18:28:48
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 女神集团
 
     * Begin : 2014/12/21 18:28:29
