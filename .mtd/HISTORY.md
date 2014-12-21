@@ -1,3 +1,87 @@
+* [urlrule] sites weipai.cn update 陈语乔
+
+    * Begin : 2014/12/22 02:02:38
+    * End   : 2014/12/22 02:03:12
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 陈芯儿
+
+    * Begin : 2014/12/22 02:02:34
+    * End   : 2014/12/22 02:02:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈美琳Mandy
+
+    * Begin : 2014/12/22 02:02:31
+    * End   : 2014/12/22 02:02:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈柔轩Michel
+
+    * Begin : 2014/12/22 02:02:28
+    * End   : 2014/12/22 02:02:29
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 陈怡曼coco
+
+    * Begin : 2014/12/22 02:02:22
+    * End   : 2014/12/22 02:02:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈子萱vivi
+
+    * Begin : 2014/12/22 02:02:18
+    * End   : 2014/12/22 02:02:19
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈子萱vivi
+
+    * Begin : 2014/12/22 02:02:15
+    * End   : 2014/12/22 02:02:16
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 陈大榕
+
+    * Begin : 2014/12/22 02:02:09
+    * End   : 2014/12/22 02:02:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈大榕
+
+    * Begin : 2014/12/22 02:02:06
+    * End   : 2014/12/22 02:02:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈可鑫
+
+    * Begin : 2014/12/22 02:02:02
+    * End   : 2014/12/22 02:02:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈依萌宝贝
+
+    * Begin : 2014/12/22 02:01:59
+    * End   : 2014/12/22 02:01:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈世媄
+
+    * Begin : 2014/12/22 02:01:56
+    * End   : 2014/12/22 02:01:57
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 陆晨依
+
+    * Begin : 2014/12/22 02:01:50
+    * End   : 2014/12/22 02:01:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陆晨依
+
+    * Begin : 2014/12/22 02:01:47
+    * End   : 2014/12/22 02:01:48
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 阿鑫很浮躁
 
     * Begin : 2014/12/22 02:01:25
