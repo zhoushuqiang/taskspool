@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 01:44:10] [urlrule] sites weipai.cn update 白日不湿
     * [2014/12/22 01:42:23] [urlrule] sites weipai.cn update 王语纯baby
     * [2014/12/22 01:38:55] [urlrule] sites weipai.cn update 洛可馨
     * [2014/12/22 01:36:59] [urlrule] sites weipai.cn update 沈希JOY
@@ -548,6 +549,26 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 01:44:03] [urlrule] sites weipai.cn update 画泪听雨眠
+    * [2014/12/22 01:43:59] [urlrule] sites weipai.cn update 男人不坏女人不爱B
+    * [2014/12/22 01:43:55] [urlrule] sites weipai.cn update 由咩咩
+    * [2014/12/22 01:43:51] [urlrule] sites weipai.cn update 田晓多tesia
+    * [2014/12/22 01:43:48] [urlrule] sites weipai.cn update 田君er
+    * [2014/12/22 01:43:45] [urlrule] sites weipai.cn update 生如夏花12
+    * [2014/12/22 01:43:41] [urlrule] sites weipai.cn update 甜美人angela
+    * [2014/12/22 01:43:37] [urlrule] sites vlook.cn update 甜心宝
+    * [2014/12/22 01:43:31] [urlrule] sites weipai.cn update 瓶宝宝
+    * [2014/12/22 01:43:27] [urlrule] sites weipai.cn update 璇子_Yvonne
+    * [2014/12/22 01:43:23] [urlrule] sites weipai.cn update 瑶瑶baby
+    * [2014/12/22 01:43:19] [urlrule] sites weipai.cn update 瑞莎国际
+    * [2014/12/22 01:43:15] [urlrule] sites weipai.cn update 瑜伽女神青文
+    * [2014/12/22 01:43:12] [urlrule] sites weipai.cn update 琳琳baby
+    * [2014/12/22 01:43:09] [urlrule] sites weipai.cn update 琪胖胖
+    * [2014/12/22 01:43:05] [urlrule] sites weipai.cn update 琦琦loveBaby
+    * [2014/12/22 01:43:02] [urlrule] sites weipai.cn update 珠宝定制-GIA国际证书
+    * [2014/12/22 01:42:58] [urlrule] sites vlook.cn update 玩摄影Rayshen
+    * [2014/12/22 01:42:53] [urlrule] sites vlook.cn update 森玲
+    * [2014/12/22 01:42:47] [urlrule] sites weipai.cn update 王馨瑶
     * [2014/12/22 01:41:38] [urlrule] sites weipai.cn update 王若楠1228
     * [2014/12/22 01:41:34] [urlrule] sites weipai.cn update 王籽文
     * [2014/12/22 01:41:29] [urlrule] sites weipai.cn update 王璐璐-Dasiy
