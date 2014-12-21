@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 5133253c7d34948402000059 AhmaY琪
-
 * Finished:
+    * [2014/12/21 20:05:47] [urlrule] sites weipai.cn UPDATE AhmaY琪
+
     * [2014/12/21 20:04:59] [urlrule] sites weipai.cn follow 5133253c7d34948402000059 AhmaY琪
 
     * [2014/12/21 20:04:25] [urlrule] sites weipai.cn UPDATE 若涵Baby

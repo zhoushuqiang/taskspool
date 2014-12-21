@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE AhmaY琪
+
+
+    * Begin : 2014/12/21 20:05:13
+    * End   : 2014/12/21 20:05:47
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5133253c7d34948402000059 AhmaY琪
 
 
