@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 00:27:04] [urlrule] sites weipai.cn update 乔宝宝i
     * [2014/12/22 00:20:30] [urlrule task] update urlrule/task/follows.txt
     * [2014/12/22 00:19:57] [urlrule] sites weipai.cn update suki_jiang
     * [2014/12/22 00:18:01] [urlrule] sites weipai.cn update penny佩佩
@@ -532,6 +533,31 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 00:22:04] [urlrule] sites weipai.cn update 乐怡
+    * [2014/12/22 00:22:01] [urlrule] sites weipai.cn update 丽嫂zyk
+    * [2014/12/22 00:21:58] [urlrule] sites weipai.cn update 丹梦妮ooloo
+    * [2014/12/22 00:21:54] [urlrule] sites weipai.cn update 两只小蜜蜂丫
+    * [2014/12/22 00:21:51] [urlrule] sites weipai.cn update 丝绸裹着性感福利号
+    * [2014/12/22 00:21:47] [urlrule] sites weipai.cn update 丝绸裹着性感
+    * [2014/12/22 00:21:44] [urlrule] sites weipai.cn update 丝绸裹着性感2
+    * [2014/12/22 00:21:41] [urlrule] sites weipai.cn update 丝月阁
+    * [2014/12/22 00:21:37] [urlrule] sites weipai.cn update 不羁的风20140212
+    * [2014/12/22 00:21:34] [urlrule] sites weipai.cn update 不是女神i
+    * [2014/12/22 00:21:31] [urlrule] sites weipai.cn update 不是大姐好多年
+    * [2014/12/22 00:21:28] [urlrule] sites weipai.cn update 上官宁儿大人
+    * [2014/12/22 00:21:25] [urlrule] sites weipai.cn update 丁可和肥松鼠
+    * [2014/12/22 00:21:21] [urlrule] sites weipai.cn update 丁丁丁丁丁小宝
+    * [2014/12/22 00:21:18] [urlrule] sites weipai.cn update 丁丁lris
+    * [2014/12/22 00:21:15] [urlrule] sites weipai.cn update 一生热爱回头太难
+    * [2014/12/22 00:21:12] [urlrule] sites weipai.cn update zz蘑菇小象zz
+    * [2014/12/22 00:21:09] [urlrule] sites weipai.cn update y依凌小姐
+    * [2014/12/22 00:21:05] [urlrule] sites weipai.cn update yoyo12320141105
+    * [2014/12/22 00:21:01] [urlrule] sites weipai.cn update yiurdhe520
+    * [2014/12/22 00:20:58] [urlrule] sites weipai.cn update yi_sex_mei
+    * [2014/12/22 00:20:55] [urlrule] sites weipai.cn update yes丶
+    * [2014/12/22 00:20:52] [urlrule] sites weipai.cn update w女王a
+    * [2014/12/22 00:20:49] [urlrule] sites weipai.cn update vk_bb
+    * [2014/12/22 00:20:45] [urlrule] sites weipai.cn update vamipre小妖
     * [2014/12/22 00:20:22] [urlrule] sites weipai.cn update tina晨曦
     * [2014/12/22 00:20:19] [urlrule] sites weipai.cn update suna2411
     * [2014/12/22 00:20:16] [urlrule] sites weipai.cn update summer糖糖
