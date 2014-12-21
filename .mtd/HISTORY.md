@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 茉莉_
+
+    * Begin : 2014/12/21 17:48:52
+    * End   : 2014/12/21 17:50:08
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 范范范小范
+
+    * Begin : 2014/12/21 17:48:49
+    * End   : 2014/12/21 17:48:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 范美熙Jennifer
+
+    * Begin : 2014/12/21 17:48:46
+    * End   : 2014/12/21 17:48:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 范琪
+
+    * Begin : 2014/12/21 17:48:43
+    * End   : 2014/12/21 17:48:44
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 若涵Baby
 
     * Begin : 2014/12/21 17:48:27
