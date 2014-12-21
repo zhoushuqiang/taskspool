@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 02:10:00] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
     * [2014/12/22 02:07:20] [urlrule] sites weipai.cn UPDATE 洛可馨baby
 
     * [2014/12/22 02:06:47] [urlrule] sites vlook.cn update 黒目瞳
@@ -562,6 +563,42 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 02:08:17] [urlrule] sites weipai.cn UPDATE 雯子蜜
+
+    * [2014/12/22 02:08:15] [urlrule] sites weipai.cn follow 516ac8a77d3494ef4c000015 雯子蜜
+
+    * [2014/12/22 02:08:13] [urlrule] sites weipai.cn add 516ac8a77d3494ef4c000015 雯子蜜
+
+    * [2014/12/22 02:08:11] [urlrule] sites weipai.cn UPDATE 欣赏为主
+
+    * [2014/12/22 02:08:09] [urlrule] sites weipai.cn follow 529e268a5e7feb63478b457f 欣赏为主
+
+    * [2014/12/22 02:08:07] [urlrule] sites weipai.cn add 529e268a5e7feb63478b457f 欣赏为主
+
+    * [2014/12/22 02:08:05] [urlrule] sites weipai.cn UPDATE Kiki_雅琪
+
+    * [2014/12/22 02:08:03] [urlrule] sites weipai.cn follow 50093c038134944b62000280 Kiki_雅琪
+
+    * [2014/12/22 02:08:02] [urlrule] sites weipai.cn add 50093c038134944b62000280 Kiki_雅琪
+
+    * [2014/12/22 02:07:56] [urlrule] sites weipai.cn UPDATE Amanda5275
+
+    * [2014/12/22 02:07:53] [urlrule] sites weipai.cn follow 52fd7665ebeddb2f488b46d9 Amanda5275
+
+    * [2014/12/22 02:07:51] [urlrule] sites weipai.cn add 52fd7665ebeddb2f488b46d9 Amanda5275
+
+    * [2014/12/22 02:07:49] [urlrule] sites weipai.cn UPDATE 小将士
+
+    * [2014/12/22 02:07:47] [urlrule] sites weipai.cn follow 53945aeaebeddbf6018b457b 小将士
+
+    * [2014/12/22 02:07:45] [urlrule] sites weipai.cn add 53945aeaebeddbf6018b457b 小将士
+
+    * [2014/12/22 02:07:43] [urlrule] sites weipai.cn UPDATE 硬伦X妹
+
+    * [2014/12/22 02:07:41] [urlrule] sites weipai.cn follow 546ac171a5640b62678b457a 硬伦X妹
+
+    * [2014/12/22 02:07:40] [urlrule] sites weipai.cn add 546ac171a5640b62678b457a 硬伦X妹
+
     * [2014/12/22 02:07:16] [urlrule] sites weipai.cn follow 53f5690ea7640b91338b4574 洛可馨baby
 
     * [2014/12/22 02:07:14] [urlrule] sites weipai.cn add 53f5690ea7640b91338b4574 洛可馨baby
