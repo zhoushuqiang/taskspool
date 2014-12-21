@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 橙大爷
+
+    * Begin : 2014/12/21 19:00:46
+    * End   : 2014/12/21 19:01:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/21 18:53:16
