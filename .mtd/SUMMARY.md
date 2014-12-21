@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update EverdayBaby
+
+    * Begin : 2014/12/21 14:02:46
+    * End   : 2014/12/21 14:03:03
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2014/12/21 13:58:15
