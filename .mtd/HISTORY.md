@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 矢帘
+
+    * Begin : 2014/12/21 14:31:45
+    * End   : 2014/12/21 14:32:02
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 瞥瞥
+
+    * Begin : 2014/12/21 14:31:42
+    * End   : 2014/12/21 14:31:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 瞄小婷
+
+    * Begin : 2014/12/21 14:31:40
+    * End   : 2014/12/21 14:31:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 真子佳佳
+
+    * Begin : 2014/12/21 14:31:37
+    * End   : 2014/12/21 14:31:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 皇家国际-佳欲
+
+    * Begin : 2014/12/21 14:31:35
+    * End   : 2014/12/21 14:31:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 白雪团队全球招募创业伙伴
+
+    * Begin : 2014/12/21 14:31:32
+    * End   : 2014/12/21 14:31:33
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 白日不湿
 
     * Begin : 2014/12/21 14:31:15
