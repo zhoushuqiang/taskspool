@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 大国GEE
+
+    * Begin : 2014/12/21 15:14:55
+    * End   : 2014/12/21 15:15:30
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 何佳琪baby
 
     * Begin : 2014/12/21 15:09:33
