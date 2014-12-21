@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 5133253c7d34948402000059 AhmaY琪
+
 * Finished:
+    * [2014/12/21 20:04:59] [urlrule] sites weipai.cn follow 5133253c7d34948402000059 AhmaY琪
+
     * [2014/12/21 20:04:25] [urlrule] sites weipai.cn UPDATE 若涵Baby
 
     * [2014/12/21 20:04:02] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
@@ -473,6 +478,26 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 20:04:58] [urlrule] sites weipai.cn add 5133253c7d34948402000059 AhmaY琪
+
+    * [2014/12/21 20:04:55] [urlrule] sites weipai.cn UPDATE 最帅马三舅
+
+    * [2014/12/21 20:04:54] [urlrule] sites weipai.cn follow 520bc2988034944e2c95fb4c 最帅马三舅
+
+    * [2014/12/21 20:04:53] [urlrule] sites weipai.cn add 520bc2988034944e2c95fb4c 最帅马三舅
+
+    * [2014/12/21 20:04:49] [urlrule] sites weipai.cn UPDATE 李思桐儿
+
+    * [2014/12/21 20:04:47] [urlrule] sites weipai.cn follow 5189f0ab803494c62f00000e 李思桐儿
+
+    * [2014/12/21 20:04:46] [urlrule] sites weipai.cn add 5189f0ab803494c62f00000e 李思桐儿
+
+    * [2014/12/21 20:04:43] [urlrule] sites weipai.cn UPDATE 不是女神i
+
+    * [2014/12/21 20:04:41] [urlrule] sites weipai.cn follow 5479fb8ca5640bcb7b8b4583 不是女神i
+
+    * [2014/12/21 20:04:41] [urlrule] sites weipai.cn add 5479fb8ca5640bcb7b8b4583 不是女神i
+
     * [2014/12/21 20:04:22] [urlrule] sites weipai.cn follow 53310bc19d67d942728b466e 若涵Baby
 
     * [2014/12/21 20:04:21] [urlrule] sites weipai.cn add 53310bc19d67d942728b466e 若涵Baby
