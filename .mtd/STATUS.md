@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 02:59:35] [urlrule] sites weipai.cn update 小小小小米
     * [2014/12/22 02:56:21] [urlrule] sites weipai.cn update 宋佳baby
     * [2014/12/22 02:53:28] [urlrule] sites weipai.cn update 女神集团
     * [2014/12/22 02:53:03] [urlrule] sites weipai.cn update 女王女王陛下
@@ -582,6 +583,26 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 02:57:50] [urlrule] sites weipai.cn update 小小小乖
+    * [2014/12/22 02:57:47] [urlrule] sites weipai.cn update 小将士
+    * [2014/12/22 02:57:44] [urlrule] sites weipai.cn update 小容嬷嬷
+    * [2014/12/22 02:57:40] [urlrule] sites weipai.cn update 小妮仔
+    * [2014/12/22 02:57:36] [urlrule] sites weipai.cn update 小如如
+    * [2014/12/22 02:57:32] [urlrule] sites weipai.cn update 小可爱mmd
+    * [2014/12/22 02:57:29] [urlrule] sites weipai.cn update 小仓老师
+    * [2014/12/22 02:57:26] [urlrule] sites weipai.cn update 小也慧子
+    * [2014/12/22 02:57:22] [urlrule] sites weipai.cn update 小乔流水
+    * [2014/12/22 02:57:19] [urlrule] sites weipai.cn update 小乔Cheryl
+    * [2014/12/22 02:57:16] [urlrule] sites weipai.cn update 小qiqi总爱凑美呦
+    * [2014/12/22 02:57:12] [urlrule] sites weipai.cn update 对你着了迷
+    * [2014/12/22 02:57:09] [urlrule] sites weipai.cn update 寂寞姐姐
+    * [2014/12/22 02:57:06] [urlrule] sites weipai.cn update 家菱
+    * [2014/12/22 02:57:02] [urlrule] sites weipai.cn update 家妹xxoo
+    * [2014/12/22 02:56:58] [urlrule] sites weipai.cn update 宝小丁
+    * [2014/12/22 02:56:54] [urlrule] sites weipai.cn update 宝宝倩
+    * [2014/12/22 02:56:51] [urlrule] sites weipai.cn update 宜官官
+    * [2014/12/22 02:56:48] [urlrule] sites vlook.cn update 宋小猫cat
+    * [2014/12/22 02:56:43] [urlrule] sites weipai.cn update 宋小猫cat
     * [2014/12/22 02:55:50] [urlrule] sites vlook.cn update 安瑞甜
     * [2014/12/22 02:55:45] [urlrule] sites weipai.cn update 安瑞甜
     * [2014/12/22 02:55:42] [urlrule] sites weipai.cn update 安妮makeup
