@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Alllili
+
+    * Begin : 2014/12/22 02:27:08
+    * End   : 2014/12/22 02:28:27
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Adela_chiang
 
     * Begin : 2014/12/22 02:19:41

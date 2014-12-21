@@ -1,3 +1,51 @@
+* [urlrule] sites weipai.cn update Alllili
+
+    * Begin : 2014/12/22 02:27:08
+    * End   : 2014/12/22 02:28:27
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Alla-王愛
+
+    * Begin : 2014/12/22 02:27:04
+    * End   : 2014/12/22 02:27:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Alisa晓雯
+
+    * Begin : 2014/12/22 02:27:01
+    * End   : 2014/12/22 02:27:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Ala莫奈酱
+
+    * Begin : 2014/12/22 02:26:58
+    * End   : 2014/12/22 02:26:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Aiyo
+
+    * Begin : 2014/12/22 02:26:55
+    * End   : 2014/12/22 02:26:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Aigirl拽丫头
+
+    * Begin : 2014/12/22 02:26:51
+    * End   : 2014/12/22 02:26:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update AhmaY琪
+
+    * Begin : 2014/12/22 02:26:47
+    * End   : 2014/12/22 02:26:48
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Adela_chiang
+
+    * Begin : 2014/12/22 02:26:41
+    * End   : 2014/12/22 02:26:45
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Adela_chiang
 
     * Begin : 2014/12/22 02:19:41

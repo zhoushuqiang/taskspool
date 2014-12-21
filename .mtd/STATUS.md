@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 02:28:27] [urlrule] sites weipai.cn update Alllili
     * [2014/12/22 02:26:20] [urlrule] sites weipai.cn update Adela_chiang
     * [2014/12/22 02:17:00] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2014/12/22 02:16:37] [urlrule] sites weipai.cn UPDATE 薇妮BABY
@@ -575,6 +576,13 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 02:27:05] [urlrule] sites weipai.cn update Alla-王愛
+    * [2014/12/22 02:27:02] [urlrule] sites weipai.cn update Alisa晓雯
+    * [2014/12/22 02:26:59] [urlrule] sites weipai.cn update Ala莫奈酱
+    * [2014/12/22 02:26:56] [urlrule] sites weipai.cn update Aiyo
+    * [2014/12/22 02:26:52] [urlrule] sites weipai.cn update Aigirl拽丫头
+    * [2014/12/22 02:26:48] [urlrule] sites weipai.cn update AhmaY琪
+    * [2014/12/22 02:26:45] [urlrule] sites vlook.cn update Adela_chiang
     * [2014/12/22 02:19:37] [urlrule] sites weipai.cn update Abbymiki
     * [2014/12/22 02:19:34] [urlrule] sites weipai.cn update Abby_徐惠雪
     * [2014/12/22 02:19:31] [urlrule] sites weipai.cn update ANGELG
