@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 23:01:39] [urlrule] sites weipai.cn UPDATE 内涵姐姐
+
     * [2014/12/21 22:57:19] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2014/12/21 22:57:00] [urlrule] sites weipai.cn UPDATE 薇妮BABY
 
@@ -519,6 +521,10 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 22:57:35] [urlrule] sites weipai.cn follow 5448e762a6640b036b8b45b3 内涵姐姐
+
+    * [2014/12/21 22:57:34] [urlrule] sites weipai.cn add 5448e762a6640b036b8b45b3 内涵姐姐
+
     * [2014/12/21 22:56:58] [urlrule] sites weipai.cn follow 5446fec2a6640b10708b4578 薇妮BABY
 
     * [2014/12/21 22:56:57] [urlrule] sites weipai.cn add 5446fec2a6640b10708b4578 薇妮BABY

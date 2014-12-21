@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 内涵姐姐
+
+
+    * Begin : 2014/12/21 22:57:36
+    * End   : 2014/12/21 23:01:39
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2014/12/21 22:57:18
