@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 15:35:08] [urlrule] sites weipai.cn update 波波小姐
     * [2014/12/21 15:34:17] [urlrule] sites weipai.cn update 汉小仙
     * [2014/12/21 15:33:39] [urlrule] sites weipai.cn update 水蜜桃子
     * [2014/12/21 15:32:14] [urlrule] sites weipai.cn update 林歆蕊Q286312385
@@ -374,6 +375,9 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 15:34:40] [urlrule] sites weipai.cn update 没有鼻梁的姑娘
+    * [2014/12/21 15:34:37] [urlrule] sites weipai.cn update 沈希JOY
+    * [2014/12/21 15:34:35] [urlrule] sites weipai.cn update 江宣
     * [2014/12/21 15:33:35] [urlrule] sites weipai.cn update 毛大怪
     * [2014/12/21 15:33:33] [urlrule] sites weipai.cn update 欣赏为主
     * [2014/12/21 15:33:30] [urlrule] sites weipai.cn update 欠缺完美
