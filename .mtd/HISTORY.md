@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 沈希JOY
+
+    * Begin : 2014/12/22 01:36:52
+    * End   : 2014/12/22 01:36:59
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 江宣
+
+    * Begin : 2014/12/22 01:36:49
+    * End   : 2014/12/22 01:36:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 汉小仙
+
+    * Begin : 2014/12/22 01:36:46
+    * End   : 2014/12/22 01:36:47
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 水蜜桃子
 
     * Begin : 2014/12/22 01:36:24
