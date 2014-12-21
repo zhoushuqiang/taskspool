@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 水蜜桃子
+
+    * Begin : 2014/12/22 03:14:31
+    * End   : 2014/12/22 03:14:33
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 新浪微博model-芯妍
 
     * Begin : 2014/12/22 03:09:00
