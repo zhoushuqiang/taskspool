@@ -1,3 +1,72 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
+
+    * Begin : 2014/12/21 10:38:16
+    * End   : 2014/12/21 10:38:17
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 九尾狐-官晓双
+
+
+    * Begin : 2014/12/21 10:38:13
+    * End   : 2014/12/21 10:38:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5430af70a8640b873a8b4582 九尾狐-官晓双
+
+
+    * Begin : 2014/12/21 10:38:13
+    * End   : 2014/12/21 10:38:13
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5430af70a8640b873a8b4582 九尾狐-官晓双
+
+
+    * Begin : 2014/12/21 10:38:12
+    * End   : 2014/12/21 10:38:12
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 穴儿
+
+
+    * Begin : 2014/12/21 10:38:10
+    * End   : 2014/12/21 10:38:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5458f63ca7640bc85b8b4568 穴儿
+
+
+    * Begin : 2014/12/21 10:38:09
+    * End   : 2014/12/21 10:38:09
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5458f63ca7640bc85b8b4568 穴儿
+
+
+    * Begin : 2014/12/21 10:38:09
+    * End   : 2014/12/21 10:38:09
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 男人不坏女人不爱B
+
+
+    * Begin : 2014/12/21 10:38:06
+    * End   : 2014/12/21 10:38:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 541a6cc8a6640b1a2c8b457d 男人不坏女人不爱B
+
+
+    * Begin : 2014/12/21 10:38:06
+    * End   : 2014/12/21 10:38:06
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 541a6cc8a6640b1a2c8b457d 男人不坏女人不爱B
+
+
+    * Begin : 2014/12/21 10:38:06
+    * End   : 2014/12/21 10:38:06
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
 
     * Begin : 2014/12/21 10:37:52
