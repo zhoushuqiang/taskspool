@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 02:15:43] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
     * [2014/12/22 02:14:20] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
     * [2014/12/22 02:12:44] [urlrule] sites weipai.cn UPDATE 若涵Baby
 
@@ -570,6 +571,12 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 02:14:41] [urlrule] sites weipai.cn UPDATE 胖洋葱
+
+    * [2014/12/22 02:14:39] [urlrule] sites weipai.cn follow 5217d8748134941a6897e5ec 胖洋葱
+
+    * [2014/12/22 02:14:38] [urlrule] sites weipai.cn add 5217d8748134941a6897e5ec 胖洋葱
+
     * [2014/12/22 02:14:15] [urlrule] sites weipai.cn UPDATE 吴晴Kate
 
     * [2014/12/22 02:14:14] [urlrule] sites weipai.cn follow 548aefd3a6640b44728b4575 吴晴Kate
