@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 06:48:42] [urlrule] sites weipai.cn UPDATE 洛可馨baby
+
     * [2014/12/22 06:47:12] [urlrule] sites weipai.cn update 颜若熙92
     * [2014/12/22 06:43:51] [urlrule] sites weipai.cn update 阿鑫很浮躁
     * [2014/12/22 06:41:12] [urlrule] sites weipai.cn update 薇妮BABY
@@ -673,6 +675,28 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 06:48:38] [urlrule] sites weipai.cn follow 53f5690ea7640b91338b4574 洛可馨baby
+
+    * [2014/12/22 06:48:36] [urlrule] sites weipai.cn add 53f5690ea7640b91338b4574 洛可馨baby
+
+    * [2014/12/22 06:48:31] [urlrule] sites weipai.cn update 龙儿20140330
+    * [2014/12/22 06:48:28] [urlrule] sites vlook.cn update 黒目瞳
+    * [2014/12/22 06:48:23] [urlrule] sites weipai.cn update 黒目瞳
+    * [2014/12/22 06:48:19] [urlrule] sites weipai.cn update 黑金色会飞的鱼
+    * [2014/12/22 06:48:16] [urlrule] sites weipai.cn update 黑桃女王
+    * [2014/12/22 06:48:13] [urlrule] sites weipai.cn update 黑三小幺
+    * [2014/12/22 06:48:09] [urlrule] sites weipai.cn update 黎儿
+    * [2014/12/22 06:48:06] [urlrule] sites weipai.cn update 黄没没-
+    * [2014/12/22 06:48:03] [urlrule] sites vlook.cn update 麻酥酥
+    * [2014/12/22 06:47:58] [urlrule] sites weipai.cn update 麻优酥酥
+    * [2014/12/22 06:47:55] [urlrule] sites weipai.cn update 麦子orSkala
+    * [2014/12/22 06:47:51] [urlrule] sites weipai.cn update 魚你你你你你
+    * [2014/12/22 06:47:48] [urlrule] sites vlook.cn update 魔都天后
+    * [2014/12/22 06:47:43] [urlrule] sites weipai.cn update 魔法倩
+    * [2014/12/22 06:47:39] [urlrule] sites weipai.cn update 魏嘉蒂Betty
+    * [2014/12/22 06:47:36] [urlrule] sites weipai.cn update 高冷漾
+    * [2014/12/22 06:47:33] [urlrule] sites weipai.cn update 高依然Doris
+    * [2014/12/22 06:47:30] [urlrule] sites weipai.cn update 馨妹纸
     * [2014/12/22 06:46:34] [urlrule] sites vlook.cn update 颜若曦子
     * [2014/12/22 06:46:29] [urlrule] sites weipai.cn update 颜若曦子
     * [2014/12/22 06:46:25] [urlrule] sites weipai.cn update 颜珊珊baby
