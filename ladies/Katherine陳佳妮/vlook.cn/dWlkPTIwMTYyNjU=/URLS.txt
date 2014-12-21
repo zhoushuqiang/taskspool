@@ -160,3 +160,4 @@ http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=69ht&client=pc&imei=ee257
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6f8j&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140906100731_分享于 201496 1007_17秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6lLC&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140918215355_帶我弟弟去報名_37秒.mp4
 http://download1.vlook.cn/video/high/6QcG.mp4	20141124223800_分享于 20141124 2235_13秒.mp4
+http://download1.vlook.cn/video/high/70gi.mp4	20141221211110_分享于 20141221 2109_9秒.mp4

@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 23:53:19] [urlrule] sites vlook.cn update Katherine陳佳妮
     * [2014/12/21 23:51:53] [urlrule] sites weipai.cn update Diva_狄娃
     * [2014/12/21 23:20:42] [urlrule] sites weipai.cn update DJ_Ricey
     * [2014/12/21 23:14:15] [urlrule] sites weipai.cn update CBMXX
@@ -525,6 +526,25 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 23:53:11] [urlrule] sites weipai.cn update J小姐20140401
+    * [2014/12/21 23:53:08] [urlrule] sites vlook.cn update JunBaby
+    * [2014/12/21 23:53:03] [urlrule] sites weipai.cn update Jun20141205
+    * [2014/12/21 23:53:00] [urlrule] sites weipai.cn update Jocelyn_晶
+    * [2014/12/21 23:52:57] [urlrule] sites vlook.cn update Joanbaby倩
+    * [2014/12/21 23:52:51] [urlrule] sites weipai.cn update Hugme20141119
+    * [2014/12/21 23:52:49] [urlrule] sites weipai.cn update HellenBaby_
+    * [2014/12/21 23:52:46] [urlrule] sites weipai.cn update Godismyfather
+    * [2014/12/21 23:52:43] [urlrule] sites vlook.cn update Gaby_Kim金慧嫄
+    * [2014/12/21 23:52:38] [urlrule] sites weipai.cn update Fox_00
+    * [2014/12/21 23:52:35] [urlrule] sites weipai.cn update Fiy
+    * [2014/12/21 23:52:32] [urlrule] sites weipai.cn update EverdayBaby
+    * [2014/12/21 23:52:29] [urlrule] sites weipai.cn update Elise谭晓彤
+    * [2014/12/21 23:52:26] [urlrule] sites vlook.cn update Elise谭晓彤
+    * [2014/12/21 23:52:22] [urlrule] sites weipai.cn update Elise谭晓彤
+    * [2014/12/21 23:52:19] [urlrule] sites weipai.cn update Djkkrmx慧玲
+    * [2014/12/21 23:52:17] [urlrule] sites vlook.cn update Dj_kelly
+    * [2014/12/21 23:52:13] [urlrule] sites weipai.cn update Dj_kelly
+    * [2014/12/21 23:52:10] [urlrule] sites weipai.cn update DjTina
     * [2014/12/21 23:21:08] [urlrule] sites weipai.cn update Despair-假寐
     * [2014/12/21 23:21:05] [urlrule] sites weipai.cn update Dance小宝
     * [2014/12/21 23:21:03] [urlrule] sites weipai.cn update Daisy__兔

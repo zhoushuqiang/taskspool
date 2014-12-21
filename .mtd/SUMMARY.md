@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update Katherine陳佳妮
+
+    * Begin : 2014/12/21 23:53:13
+    * End   : 2014/12/21 23:53:19
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Diva_狄娃
 
     * Begin : 2014/12/21 23:21:10
