@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 21:42:17] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
     * [2014/12/21 21:32:45] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
     * [2014/12/21 21:26:07] [urlrule] sites weipai.cn update 陈柔轩Michel
     * [2014/12/21 21:24:29] [urlrule] sites weipai.cn update 阿鑫很浮躁
