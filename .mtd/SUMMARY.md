@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 大美露
+
+    * Begin : 2014/12/22 00:35:41
+    * End   : 2014/12/22 01:16:51
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 前任攻略
 
     * Begin : 2014/12/22 00:29:10
