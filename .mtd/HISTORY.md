@@ -1,3 +1,63 @@
+* [urlrule] sites weipai.cn update 神神神神神姐
+
+    * Begin : 2014/12/21 17:45:09
+    * End   : 2014/12/21 17:45:17
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 神仙姐姐__艾溪
+
+    * Begin : 2014/12/21 17:45:06
+    * End   : 2014/12/21 17:45:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 硬伦X妹
+
+    * Begin : 2014/12/21 17:45:04
+    * End   : 2014/12/21 17:45:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 知了
+
+    * Begin : 2014/12/21 17:45:01
+    * End   : 2014/12/21 17:45:01
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 矢帘
+
+    * Begin : 2014/12/21 17:44:58
+    * End   : 2014/12/21 17:44:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 瞥瞥
+
+    * Begin : 2014/12/21 17:44:55
+    * End   : 2014/12/21 17:44:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 瞄小婷
+
+    * Begin : 2014/12/21 17:44:52
+    * End   : 2014/12/21 17:44:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 真子佳佳
+
+    * Begin : 2014/12/21 17:44:48
+    * End   : 2014/12/21 17:44:49
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 皇家国际-佳欲
+
+    * Begin : 2014/12/21 17:44:46
+    * End   : 2014/12/21 17:44:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 白雪团队全球招募创业伙伴
+
+    * Begin : 2014/12/21 17:44:43
+    * End   : 2014/12/21 17:44:44
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 白日不湿
 
     * Begin : 2014/12/21 17:44:24
