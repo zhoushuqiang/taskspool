@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 00:10:07] [urlrule] sites weipai.cn update _刘爷
     * [2014/12/22 00:02:01] [urlrule] sites weipai.cn update Sooki莹莹孙
     * [2014/12/21 23:53:19] [urlrule] sites vlook.cn update Katherine陳佳妮
     * [2014/12/21 23:51:53] [urlrule] sites weipai.cn update Diva_狄娃
@@ -527,6 +528,27 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 00:03:36] [urlrule] sites weipai.cn update __张公子
+    * [2014/12/22 00:03:33] [urlrule] sites weipai.cn update __小韩韩
+    * [2014/12/22 00:03:29] [urlrule] sites weipai.cn update __妖涅
+    * [2014/12/22 00:03:25] [urlrule] sites weipai.cn update ___悦如
+    * [2014/12/22 00:03:22] [urlrule] sites weipai.cn update __Coco
+    * [2014/12/22 00:03:19] [urlrule] sites weipai.cn update _Miss梦
+    * [2014/12/22 00:03:15] [urlrule] sites weipai.cn update _Angelia燕子
+    * [2014/12/22 00:03:12] [urlrule] sites weipai.cn update Zz贞
+    * [2014/12/22 00:03:09] [urlrule] sites weipai.cn update ZeroDis
+    * [2014/12/22 00:03:06] [urlrule] sites vlook.cn update Yumi小旁友
+    * [2014/12/22 00:03:00] [urlrule] sites weipai.cn update V信qxs95002
+    * [2014/12/22 00:02:56] [urlrule] sites weipai.cn update Vicky777777
+    * [2014/12/22 00:02:52] [urlrule] sites weipai.cn update VV朗熙
+    * [2014/12/22 00:02:49] [urlrule] sites vlook.cn update VK_bb
+    * [2014/12/22 00:02:43] [urlrule] sites weipai.cn update Tomyli惋柔
+    * [2014/12/22 00:02:39] [urlrule] sites weipai.cn update TinaWong
+    * [2014/12/22 00:02:35] [urlrule] sites weipai.cn update Theonlylove
+    * [2014/12/22 00:02:31] [urlrule] sites weipai.cn update S小妹
+    * [2014/12/22 00:02:27] [urlrule] sites weipai.cn update Sweet-微
+    * [2014/12/22 00:02:24] [urlrule] sites weipai.cn update Suki_M
+    * [2014/12/22 00:02:21] [urlrule] sites weipai.cn update SpookyG
     * [2014/12/21 23:56:00] [urlrule] sites weipai.cn update Sonwy_
     * [2014/12/21 23:55:57] [urlrule] sites vlook.cn update Song修
     * [2014/12/21 23:55:52] [urlrule] sites vlook.cn update SlyVIcky
