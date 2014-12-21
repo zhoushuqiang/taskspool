@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 02:16:37] [urlrule] sites weipai.cn UPDATE 薇妮BABY
+
     * [2014/12/22 02:15:43] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
     * [2014/12/22 02:14:20] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
     * [2014/12/22 02:12:44] [urlrule] sites weipai.cn UPDATE 若涵Baby
@@ -571,6 +573,40 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 02:16:34] [urlrule] sites weipai.cn follow 5446fec2a6640b10708b4578 薇妮BABY
+
+    * [2014/12/22 02:16:32] [urlrule] sites weipai.cn add 5446fec2a6640b10708b4578 薇妮BABY
+
+    * [2014/12/22 02:16:30] [urlrule] sites weipai.cn UPDATE 5沉睡森林
+
+    * [2014/12/22 02:16:28] [urlrule] sites weipai.cn follow 53eb7023a5640baa4e8b4574 5沉睡森林
+
+    * [2014/12/22 02:16:26] [urlrule] sites weipai.cn add 53eb7023a5640baa4e8b4574 5沉睡森林
+
+    * [2014/12/22 02:16:23] [urlrule] sites weipai.cn UPDATE 范范范小范
+
+    * [2014/12/22 02:16:22] [urlrule] sites weipai.cn follow 52c6b16c803494867c92f58d 范范范小范
+
+    * [2014/12/22 02:16:20] [urlrule] sites weipai.cn add 52c6b16c803494867c92f58d 范范范小范
+
+    * [2014/12/22 02:16:18] [urlrule] sites weipai.cn UPDATE 琳琳baby
+
+    * [2014/12/22 02:16:15] [urlrule] sites weipai.cn follow 52dc303979d3cca32f8b4590 琳琳baby
+
+    * [2014/12/22 02:16:14] [urlrule] sites weipai.cn add 52dc303979d3cca32f8b4590 琳琳baby
+
+    * [2014/12/22 02:16:12] [urlrule] sites weipai.cn UPDATE hhaskydhjjffjk
+
+    * [2014/12/22 02:16:10] [urlrule] sites weipai.cn follow 5471cce0a5640b4c288b45cb hhaskydhjjffjk
+
+    * [2014/12/22 02:16:09] [urlrule] sites weipai.cn add 5471cce0a5640b4c288b45cb hhaskydhjjffjk
+
+    * [2014/12/22 02:16:06] [urlrule] sites weipai.cn UPDATE 平平平平子
+
+    * [2014/12/22 02:16:05] [urlrule] sites weipai.cn follow 547f4357a5640bd9478b457b 平平平平子
+
+    * [2014/12/22 02:16:03] [urlrule] sites weipai.cn add 547f4357a5640bd9478b457b 平平平平子
+
     * [2014/12/22 02:14:41] [urlrule] sites weipai.cn UPDATE 胖洋葱
 
     * [2014/12/22 02:14:39] [urlrule] sites weipai.cn follow 5217d8748134941a6897e5ec 胖洋葱
