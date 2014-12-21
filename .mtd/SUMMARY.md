@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 新浪微博model-芯妍
+
+    * Begin : 2014/12/22 03:09:00
+    * End   : 2014/12/22 03:09:40
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/22 03:05:06
