@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 颜若熙92
+
+    * Begin : 2014/12/22 06:46:37
+    * End   : 2014/12/22 06:47:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 阿鑫很浮躁
 
     * Begin : 2014/12/22 06:43:49
