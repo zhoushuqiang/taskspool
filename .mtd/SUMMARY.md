@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update forgetlethe
+
+    * Begin : 2014/12/21 14:07:45
+    * End   : 2014/12/21 14:08:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn update EverdayBaby
 
     * Begin : 2014/12/21 14:02:46
