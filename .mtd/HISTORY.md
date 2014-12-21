@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 阿鑫很浮躁
+
+    * Begin : 2014/12/21 15:46:29
+    * End   : 2014/12/21 15:53:40
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 阿朵拉Adora
+
+    * Begin : 2014/12/21 15:46:27
+    * End   : 2014/12/21 15:46:27
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 长裙飘飘21
+
+    * Begin : 2014/12/21 15:46:23
+    * End   : 2014/12/21 15:46:25
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 长裙飘飘21
 
     * Begin : 2014/12/21 15:45:14

@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 15:53:40] [urlrule] sites weipai.cn update 阿鑫很浮躁
     * [2014/12/21 15:46:07] [urlrule] sites weipai.cn update 长裙飘飘21
     * [2014/12/21 15:43:16] [urlrule] sites weipai.cn update 薇妮BABY
     * [2014/12/21 15:41:45] [urlrule] sites weipai.cn update 若涵Baby
@@ -380,6 +381,8 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 15:46:27] [urlrule] sites weipai.cn update 阿朵拉Adora
+    * [2014/12/21 15:46:25] [urlrule] sites vlook.cn update 长裙飘飘21
     * [2014/12/21 15:45:12] [urlrule] sites weipai.cn update 铁粉1号
     * [2014/12/21 15:45:10] [urlrule] sites weipai.cn update 钱小美
     * [2014/12/21 15:45:07] [urlrule] sites weipai.cn update 钟紫心
