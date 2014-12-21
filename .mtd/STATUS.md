@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 00:18:01] [urlrule] sites weipai.cn update penny佩佩
     * [2014/12/22 00:16:12] [urlrule] sites weipai.cn update mayuko
     * [2014/12/22 00:10:07] [urlrule] sites weipai.cn update _刘爷
     * [2014/12/22 00:02:01] [urlrule] sites weipai.cn update Sooki莹莹孙
@@ -529,6 +530,16 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 00:16:59] [urlrule] sites weipai.cn update pengfang
+    * [2014/12/22 00:16:56] [urlrule] sites weipai.cn update pandora莉莉
+    * [2014/12/22 00:16:53] [urlrule] sites weipai.cn update oliviababy
+    * [2014/12/22 00:16:50] [urlrule] sites weipai.cn update monica_1990
+    * [2014/12/22 00:16:47] [urlrule] sites weipai.cn update mm小七
+    * [2014/12/22 00:16:43] [urlrule] sites weipai.cn update miss大蝴蝶
+    * [2014/12/22 00:16:40] [urlrule] sites weipai.cn update miss吴
+    * [2014/12/22 00:16:36] [urlrule] sites weipai.cn update mina桑
+    * [2014/12/22 00:16:33] [urlrule] sites weipai.cn update miki夫人
+    * [2014/12/22 00:16:30] [urlrule] sites weipai.cn update meng-yu520
     * [2014/12/22 00:12:04] [urlrule] sites weipai.cn update love雯雯
     * [2014/12/22 00:12:01] [urlrule] sites weipai.cn update ljylovesjy
     * [2014/12/22 00:11:58] [urlrule] sites weipai.cn update li莉

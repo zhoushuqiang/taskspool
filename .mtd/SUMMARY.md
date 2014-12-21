@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update penny佩佩
+
+    * Begin : 2014/12/22 00:17:01
+    * End   : 2014/12/22 00:18:01
+    * Result: OK
+
 * [urlrule] sites weipai.cn update mayuko
 
     * Begin : 2014/12/22 00:12:07
