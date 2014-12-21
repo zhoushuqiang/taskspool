@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 18:11:50] [urlrule] sites vlook.cn update Amanda5275
     * [2014/12/21 18:11:08] [urlrule] sites weipai.cn update Amanda5275
     * [2014/12/21 18:08:04] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2014/12/21 18:07:46] [urlrule] sites weipai.cn UPDATE 薇妮BABY
