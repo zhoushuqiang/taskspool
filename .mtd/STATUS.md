@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 20:32:57] [urlrule] sites weipai.cn update 于安朵
     * [2014/12/21 20:29:46] [urlrule] sites weipai.cn update 乔宝宝i
     * [2014/12/21 20:27:59] [urlrule task] update urlrule/task/follows.txt
     * [2014/12/21 20:26:00] [urlrule] sites weipai.cn update love雯雯
@@ -489,6 +490,8 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 20:30:06] [urlrule] sites weipai.cn update 乱搞砖家
+    * [2014/12/21 20:30:03] [urlrule] sites weipai.cn update 九尾狐-官晓双
     * [2014/12/21 20:29:27] [urlrule] sites weipai.cn update 乐怡
     * [2014/12/21 20:29:25] [urlrule] sites weipai.cn update 丽嫂zyk
     * [2014/12/21 20:29:21] [urlrule] sites weipai.cn update 丹梦妮ooloo
