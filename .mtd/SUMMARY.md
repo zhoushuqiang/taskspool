@@ -1,3 +1,9 @@
+* [urlrule task] update urlrule/task/follows.txt
+
+    * Begin : 2014/12/22 04:00:54
+    * End   : 2014/12/22 04:00:59
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Alllili
 
     * Begin : 2014/12/22 03:46:35
