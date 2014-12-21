@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 08:03:42] [urlrule] sites weipai.cn update 芭比娃哈
     * [2014/12/21 08:01:31] [urlrule] sites weipai.cn update 白日不湿
     * [2014/12/21 07:58:54] [urlrule] sites weipai.cn update 水蜜桃子
     * [2014/12/21 07:53:27] [urlrule] sites weipai.cn update 屌丝福利小清新
@@ -183,6 +184,62 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 08:03:39] [urlrule] sites weipai.cn update 芒果小懒猫
+    * [2014/12/21 08:03:37] [urlrule] sites weipai.cn update 艾舞kathy
+    * [2014/12/21 08:03:35] [urlrule] sites weipai.cn update 艾小爱
+    * [2014/12/21 08:03:33] [urlrule] sites weipai.cn update 艾_笑笑
+    * [2014/12/21 08:03:31] [urlrule] sites weipai.cn update 般若的每一天
+    * [2014/12/21 08:03:29] [urlrule] sites weipai.cn update 胸奀
+    * [2014/12/21 08:03:27] [urlrule] sites vlook.cn update 胡金熙
+    * [2014/12/21 08:03:23] [urlrule] sites weipai.cn update 胖洋葱
+    * [2014/12/21 08:03:21] [urlrule] sites weipai.cn update 肥尻夫人Linanan
+    * [2014/12/21 08:03:19] [urlrule] sites weipai.cn update 肚皮舞皇后
+    * [2014/12/21 08:03:17] [urlrule] sites weipai.cn update 肖蕾微博
+    * [2014/12/21 08:03:15] [urlrule] sites weipai.cn update 耳听爱情
+    * [2014/12/21 08:03:13] [urlrule] sites weipai.cn update 翡翠妹妹
+    * [2014/12/21 08:03:11] [urlrule] sites weipai.cn update 美色驿站
+    * [2014/12/21 08:03:09] [urlrule] sites weipai.cn update 美腿热舞福利分享
+    * [2014/12/21 08:03:07] [urlrule] sites weipai.cn update 美瑩
+    * [2014/12/21 08:03:05] [urlrule] sites weipai.cn update 美媛媛
+    * [2014/12/21 08:03:02] [urlrule] sites weipai.cn update 美媚腿
+    * [2014/12/21 08:03:00] [urlrule] sites weipai.cn update 罗小佩
+    * [2014/12/21 08:02:58] [urlrule] sites weipai.cn update 罗妍-D
+    * [2014/12/21 08:02:56] [urlrule] sites weipai.cn update 维信qianfei2012
+    * [2014/12/21 08:02:54] [urlrule] sites weipai.cn update 纯儿宝贝
+    * [2014/12/21 08:02:52] [urlrule] sites weipai.cn update 红玫瑰
+    * [2014/12/21 08:02:50] [urlrule] sites weipai.cn update 红心点起来
+    * [2014/12/21 08:02:48] [urlrule] sites weipai.cn update 索菲娅
+    * [2014/12/21 08:02:46] [urlrule] sites weipai.cn update 索菲娅5200
+    * [2014/12/21 08:02:44] [urlrule] sites weipai.cn update 素兒
+    * [2014/12/21 08:02:42] [urlrule] sites weipai.cn update 糖果果国
+    * [2014/12/21 08:02:40] [urlrule] sites weipai.cn update 粽子小姐
+    * [2014/12/21 08:02:37] [urlrule] sites weipai.cn update 粽子喜欢秋天
+    * [2014/12/21 08:02:35] [urlrule] sites weipai.cn update 粵講粵潮
+    * [2014/12/21 08:02:33] [urlrule] sites weipai.cn update 粉小溪CC
+    * [2014/12/21 08:02:31] [urlrule] sites vlook.cn update 米洁
+    * [2014/12/21 08:02:30] [urlrule] sites weipai.cn update 米洁
+    * [2014/12/21 08:02:28] [urlrule] sites weipai.cn update 米拉贝拉Mirabella
+    * [2014/12/21 08:02:26] [urlrule] sites weipai.cn update 米小西
+    * [2014/12/21 08:02:23] [urlrule] sites weipai.cn update 米妮mini_20140821
+    * [2014/12/21 08:02:21] [urlrule] sites weipai.cn update 笑笑dem
+    * [2014/12/21 08:02:19] [urlrule] sites weipai.cn update 笑笑Sophia
+    * [2014/12/21 08:02:17] [urlrule] sites weipai.cn update 笑笑
+    * [2014/12/21 08:02:15] [urlrule] sites weipai.cn update 穿着高跟鞋跳芭蕾--
+    * [2014/12/21 08:02:13] [urlrule] sites weipai.cn update 空虚哥
+    * [2014/12/21 08:02:11] [urlrule] sites weipai.cn update 穴儿
+    * [2014/12/21 08:02:09] [urlrule] sites weipai.cn update 秦蕾
+    * [2014/12/21 08:02:07] [urlrule] sites weipai.cn update 秦勉叫冉冉
+    * [2014/12/21 08:02:05] [urlrule] sites weipai.cn update 私人空间
+    * [2014/12/21 08:02:02] [urlrule] sites weipai.cn update 神神神神神姐
+    * [2014/12/21 08:02:00] [urlrule] sites weipai.cn update 神仙姐姐__艾溪
+    * [2014/12/21 08:01:58] [urlrule] sites weipai.cn update 硬伦X妹
+    * [2014/12/21 08:01:56] [urlrule] sites weipai.cn update 知了
+    * [2014/12/21 08:01:54] [urlrule] sites weipai.cn update 矢帘
+    * [2014/12/21 08:01:52] [urlrule] sites weipai.cn update 瞥瞥
+    * [2014/12/21 08:01:50] [urlrule] sites weipai.cn update 瞄小婷
+    * [2014/12/21 08:01:48] [urlrule] sites weipai.cn update 真子佳佳
+    * [2014/12/21 08:01:45] [urlrule] sites weipai.cn update 皇家国际-佳欲
+    * [2014/12/21 08:01:43] [urlrule] sites weipai.cn update 白雪团队全球招募创业伙伴
     * [2014/12/21 08:01:27] [urlrule] sites weipai.cn update 画泪听雨眠
     * [2014/12/21 08:01:24] [urlrule] sites weipai.cn update 男人不坏女人不爱B
     * [2014/12/21 08:01:22] [urlrule] sites weipai.cn update 由咩咩
