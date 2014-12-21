@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 陈柔轩Michel
+
+    * Begin : 2014/12/21 21:25:37
+    * End   : 2014/12/21 21:26:07
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 阿鑫很浮躁
 
     * Begin : 2014/12/21 21:24:27

@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 21:26:07] [urlrule] sites weipai.cn update 陈柔轩Michel
     * [2014/12/21 21:24:29] [urlrule] sites weipai.cn update 阿鑫很浮躁
     * [2014/12/21 21:22:03] [urlrule] sites weipai.cn update 薇妮BABY
     * [2014/12/21 21:20:43] [urlrule] sites weipai.cn update 莹姐
@@ -506,6 +507,16 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 21:25:34] [urlrule] sites vlook.cn update 陈怡曼coco
+    * [2014/12/21 21:25:26] [urlrule] sites weipai.cn update 陈子萱vivi
+    * [2014/12/21 21:25:23] [urlrule] sites weipai.cn update 陈子萱vivi
+    * [2014/12/21 21:25:20] [urlrule] sites vlook.cn update 陈大榕
+    * [2014/12/21 21:25:11] [urlrule] sites weipai.cn update 陈大榕
+    * [2014/12/21 21:25:08] [urlrule] sites weipai.cn update 陈可鑫
+    * [2014/12/21 21:25:05] [urlrule] sites weipai.cn update 陈依萌宝贝
+    * [2014/12/21 21:25:02] [urlrule] sites weipai.cn update 陈世媄
+    * [2014/12/21 21:24:59] [urlrule] sites vlook.cn update 陆晨依
+    * [2014/12/21 21:24:48] [urlrule] sites weipai.cn update 陆晨依
     * [2014/12/21 21:24:24] [urlrule] sites weipai.cn update 阿朵拉Adora
     * [2014/12/21 21:24:21] [urlrule] sites vlook.cn update 长裙飘飘21
     * [2014/12/21 21:24:16] [urlrule] sites weipai.cn update 长裙飘飘21
