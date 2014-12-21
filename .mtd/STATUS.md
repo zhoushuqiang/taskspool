@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/21 08:01:31] [urlrule] sites weipai.cn update 白日不湿
     * [2014/12/21 07:58:54] [urlrule] sites weipai.cn update 水蜜桃子
     * [2014/12/21 07:53:27] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/21 07:49:45] [urlrule] sites weipai.cn update 女神集团
@@ -182,6 +183,68 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/21 08:01:27] [urlrule] sites weipai.cn update 画泪听雨眠
+    * [2014/12/21 08:01:24] [urlrule] sites weipai.cn update 男人不坏女人不爱B
+    * [2014/12/21 08:01:22] [urlrule] sites weipai.cn update 由咩咩
+    * [2014/12/21 08:01:20] [urlrule] sites weipai.cn update 田晓多tesia
+    * [2014/12/21 08:01:18] [urlrule] sites weipai.cn update 田君er
+    * [2014/12/21 08:01:16] [urlrule] sites weipai.cn update 生如夏花12
+    * [2014/12/21 08:01:14] [urlrule] sites weipai.cn update 甜美人angela
+    * [2014/12/21 08:01:12] [urlrule] sites vlook.cn update 甜心宝
+    * [2014/12/21 08:01:08] [urlrule] sites weipai.cn update 瓶宝宝
+    * [2014/12/21 08:01:06] [urlrule] sites weipai.cn update 璇子_Yvonne
+    * [2014/12/21 08:01:04] [urlrule] sites weipai.cn update 瑶瑶baby
+    * [2014/12/21 08:01:02] [urlrule] sites weipai.cn update 瑞莎国际
+    * [2014/12/21 08:01:00] [urlrule] sites weipai.cn update 瑜伽女神青文
+    * [2014/12/21 08:00:58] [urlrule] sites weipai.cn update 琳琳baby
+    * [2014/12/21 08:00:56] [urlrule] sites weipai.cn update 琪胖胖
+    * [2014/12/21 08:00:54] [urlrule] sites weipai.cn update 琦琦loveBaby
+    * [2014/12/21 08:00:52] [urlrule] sites weipai.cn update 珠宝定制-GIA国际证书
+    * [2014/12/21 08:00:49] [urlrule] sites vlook.cn update 玩摄影Rayshen
+    * [2014/12/21 08:00:46] [urlrule] sites vlook.cn update 森玲
+    * [2014/12/21 08:00:42] [urlrule] sites weipai.cn update 王馨瑶
+    * [2014/12/21 08:00:40] [urlrule] sites weipai.cn update 王语纯baby
+    * [2014/12/21 08:00:38] [urlrule] sites weipai.cn update 王若楠1228
+    * [2014/12/21 08:00:36] [urlrule] sites weipai.cn update 王籽文
+    * [2014/12/21 08:00:34] [urlrule] sites weipai.cn update 王璐璐-Dasiy
+    * [2014/12/21 08:00:32] [urlrule] sites weipai.cn update 王王王王-蕊
+    * [2014/12/21 08:00:30] [urlrule] sites weipai.cn update 王熙悦
+    * [2014/12/21 08:00:28] [urlrule] sites weipai.cn update 王炤钧
+    * [2014/12/21 08:00:26] [urlrule] sites weipai.cn update 王悠悠
+    * [2014/12/21 08:00:23] [urlrule] sites weipai.cn update 王小珏elva
+    * [2014/12/21 08:00:21] [urlrule] sites weipai.cn update 王大小姐__Miss
+    * [2014/12/21 08:00:19] [urlrule] sites weipai.cn update 王允甜
+    * [2014/12/21 08:00:17] [urlrule] sites weipai.cn update 王依萱
+    * [2014/12/21 08:00:15] [urlrule] sites weipai.cn update 王丹妮baby
+    * [2014/12/21 08:00:13] [urlrule] sites weipai.cn update 玉baby
+    * [2014/12/21 08:00:11] [urlrule] sites vlook.cn update 猫小咪Queen
+    * [2014/12/21 08:00:07] [urlrule] sites weipai.cn update 猫小咪Queen
+    * [2014/12/21 08:00:05] [urlrule] sites weipai.cn update 猫大人是猫大人
+    * [2014/12/21 08:00:03] [urlrule] sites vlook.cn update 猫一样的女人猫 伊莲的小衣橱
+    * [2014/12/21 08:00:00] [urlrule] sites weipai.cn update 独爱简单控
+    * [2014/12/21 07:59:57] [urlrule] sites weipai.cn update 狐狸要成精LZ去死
+    * [2014/12/21 07:59:55] [urlrule] sites weipai.cn update 爱爱微拍
+    * [2014/12/21 07:59:53] [urlrule] sites weipai.cn update 燕囡囡
+    * [2014/12/21 07:59:51] [urlrule] sites vlook.cn update 熙悦儿丶
+    * [2014/12/21 07:59:48] [urlrule] sites weipai.cn update 熊葵
+    * [2014/12/21 07:59:46] [urlrule] sites weipai.cn update 然又又
+    * [2014/12/21 07:59:44] [urlrule] sites vlook.cn update 激情一夏
+    * [2014/12/21 07:59:40] [urlrule] sites weipai.cn update 澄小兔
+    * [2014/12/21 07:59:38] [urlrule] sites weipai.cn update 潘潘20140413
+    * [2014/12/21 07:59:36] [urlrule] sites weipai.cn update 潘小云云
+    * [2014/12/21 07:59:34] [urlrule] sites weipai.cn update 满天都是小鑫鑫_
+    * [2014/12/21 07:59:31] [urlrule] sites weipai.cn update 溅行溅美
+    * [2014/12/21 07:59:29] [urlrule] sites weipai.cn update 湯大师
+    * [2014/12/21 07:59:27] [urlrule] sites weipai.cn update 混血演员安娜
+    * [2014/12/21 07:59:25] [urlrule] sites weipai.cn update 涵肉肉
+    * [2014/12/21 07:59:23] [urlrule] sites weipai.cn update 浮生若梦
+    * [2014/12/21 07:59:21] [urlrule] sites weipai.cn update 洛熙爱爱
+    * [2014/12/21 07:59:19] [urlrule] sites weipai.cn update 洛可馨
+    * [2014/12/21 07:59:17] [urlrule] sites weipai.cn update 波波小姐
+    * [2014/12/21 07:59:15] [urlrule] sites weipai.cn update 没有鼻梁的姑娘
+    * [2014/12/21 07:59:13] [urlrule] sites weipai.cn update 沈希JOY
+    * [2014/12/21 07:59:11] [urlrule] sites weipai.cn update 江宣
+    * [2014/12/21 07:59:09] [urlrule] sites weipai.cn update 汉小仙
     * [2014/12/21 07:58:51] [urlrule] sites weipai.cn update 毛大怪
     * [2014/12/21 07:58:49] [urlrule] sites weipai.cn update 欣赏为主
     * [2014/12/21 07:58:47] [urlrule] sites weipai.cn update 欠缺完美
