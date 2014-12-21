@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 01:25:15] [urlrule] sites weipai.cn update 家菱
     * [2014/12/22 01:23:22] [urlrule] sites weipai.cn update 媚力女人
     * [2014/12/22 01:22:28] [urlrule] sites weipai.cn update 姗-姗
     * [2014/12/22 01:21:08] [urlrule] sites weipai.cn update 女神集团
@@ -541,6 +542,26 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 01:24:51] [urlrule] sites weipai.cn update 家妹xxoo
+    * [2014/12/22 01:24:48] [urlrule] sites weipai.cn update 宝小丁
+    * [2014/12/22 01:24:45] [urlrule] sites weipai.cn update 宝宝倩
+    * [2014/12/22 01:24:42] [urlrule] sites weipai.cn update 宜官官
+    * [2014/12/22 01:24:39] [urlrule] sites vlook.cn update 宋小猫cat
+    * [2014/12/22 01:24:34] [urlrule] sites weipai.cn update 宋小猫cat
+    * [2014/12/22 01:24:30] [urlrule] sites weipai.cn update 宋佳baby
+    * [2014/12/22 01:24:27] [urlrule] sites vlook.cn update 安瑞甜
+    * [2014/12/22 01:24:22] [urlrule] sites weipai.cn update 安瑞甜
+    * [2014/12/22 01:24:19] [urlrule] sites weipai.cn update 安妮makeup
+    * [2014/12/22 01:24:16] [urlrule] sites weipai.cn update 安妮Annie
+    * [2014/12/22 01:24:12] [urlrule] sites weipai.cn update 安之拉
+    * [2014/12/22 01:24:09] [urlrule] sites weipai.cn update 孤独患者
+    * [2014/12/22 01:24:06] [urlrule] sites weipai.cn update 孤单的84剩女
+    * [2014/12/22 01:24:02] [urlrule] sites weipai.cn update 孟晓艺dana
+    * [2014/12/22 01:24:00] [urlrule] sites vlook.cn update 孟晓晴Aimme
+    * [2014/12/22 01:23:46] [urlrule] sites weipai.cn update 孙星星
+    * [2014/12/22 01:23:43] [urlrule] sites weipai.cn update 孙大星
+    * [2014/12/22 01:23:40] [urlrule] sites weipai.cn update 孙十八
+    * [2014/12/22 01:23:37] [urlrule] sites weipai.cn update 媛妞儿
     * [2014/12/22 01:23:10] [urlrule] sites weipai.cn update 婷宝20141030
     * [2014/12/22 01:23:07] [urlrule] sites vlook.cn update 婷婷aiweier
     * [2014/12/22 01:23:02] [urlrule] sites weipai.cn update 婷MM

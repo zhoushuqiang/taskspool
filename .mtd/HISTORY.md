@@ -1,3 +1,129 @@
+* [urlrule] sites weipai.cn update 家菱
+
+    * Begin : 2014/12/22 01:24:53
+    * End   : 2014/12/22 01:25:15
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 家妹xxoo
+
+    * Begin : 2014/12/22 01:24:50
+    * End   : 2014/12/22 01:24:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 宝小丁
+
+    * Begin : 2014/12/22 01:24:47
+    * End   : 2014/12/22 01:24:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 宝宝倩
+
+    * Begin : 2014/12/22 01:24:44
+    * End   : 2014/12/22 01:24:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 宜官官
+
+    * Begin : 2014/12/22 01:24:41
+    * End   : 2014/12/22 01:24:42
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 宋小猫cat
+
+    * Begin : 2014/12/22 01:24:36
+    * End   : 2014/12/22 01:24:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 宋小猫cat
+
+    * Begin : 2014/12/22 01:24:33
+    * End   : 2014/12/22 01:24:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 宋佳baby
+
+    * Begin : 2014/12/22 01:24:29
+    * End   : 2014/12/22 01:24:30
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 安瑞甜
+
+    * Begin : 2014/12/22 01:24:24
+    * End   : 2014/12/22 01:24:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 安瑞甜
+
+    * Begin : 2014/12/22 01:24:21
+    * End   : 2014/12/22 01:24:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 安妮makeup
+
+    * Begin : 2014/12/22 01:24:18
+    * End   : 2014/12/22 01:24:19
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 安妮Annie
+
+    * Begin : 2014/12/22 01:24:15
+    * End   : 2014/12/22 01:24:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 安之拉
+
+    * Begin : 2014/12/22 01:24:11
+    * End   : 2014/12/22 01:24:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 孤独患者
+
+    * Begin : 2014/12/22 01:24:08
+    * End   : 2014/12/22 01:24:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 孤单的84剩女
+
+    * Begin : 2014/12/22 01:24:06
+    * End   : 2014/12/22 01:24:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 孟晓艺dana
+
+    * Begin : 2014/12/22 01:24:02
+    * End   : 2014/12/22 01:24:02
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 孟晓晴Aimme
+
+    * Begin : 2014/12/22 01:23:48
+    * End   : 2014/12/22 01:24:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 孙星星
+
+    * Begin : 2014/12/22 01:23:45
+    * End   : 2014/12/22 01:23:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 孙大星
+
+    * Begin : 2014/12/22 01:23:42
+    * End   : 2014/12/22 01:23:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 孙十八
+
+    * Begin : 2014/12/22 01:23:39
+    * End   : 2014/12/22 01:23:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 媛妞儿
+
+    * Begin : 2014/12/22 01:23:36
+    * End   : 2014/12/22 01:23:37
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 媚力女人
 
     * Begin : 2014/12/22 01:23:12
