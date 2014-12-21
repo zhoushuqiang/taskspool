@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 家菱
+
+    * Begin : 2014/12/22 05:15:38
+    * End   : 2014/12/22 05:16:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 女神集团
 
     * Begin : 2014/12/22 05:12:56
