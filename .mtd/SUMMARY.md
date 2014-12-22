@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update Katherine陳佳妮
+
+    * Begin : 2014/12/22 08:15:54
+    * End   : 2014/12/22 08:16:28
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2014/12/22 08:09:03
