@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 19:38:44] [urlrule] sites weipai.cn update 薇妮BABY
     * [2014/12/22 19:37:32] [urlrule] sites weipai.cn update 萌萌焕
     * [2014/12/22 19:35:32] [urlrule] sites weipai.cn update 范美熙Jennifer
     * [2014/12/22 19:31:47] [urlrule] sites weipai.cn update 若涵Baby
@@ -940,6 +941,14 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 19:38:39] [urlrule] sites weipai.cn update 蕃茄你是誰的西紅柿
+    * [2014/12/22 19:38:34] [urlrule] sites weipai.cn update 蓝色的港湾20140821
+    * [2014/12/22 19:38:28] [urlrule] sites vlook.cn update 蒙丽伊
+    * [2014/12/22 19:38:21] [urlrule] sites vlook.cn update 蒂娜
+    * [2014/12/22 19:38:11] [urlrule] sites weipai.cn update 董洁1022
+    * [2014/12/22 19:38:06] [urlrule] sites weipai.cn update 萱萱-H
+    * [2014/12/22 19:38:00] [urlrule] sites weipai.cn update 萨莎
+    * [2014/12/22 19:37:56] [urlrule] sites weipai.cn update 萝卜baby
     * [2014/12/22 19:36:51] [urlrule] sites weipai.cn update 萌小萌不萌
     * [2014/12/22 19:36:47] [urlrule] sites weipai.cn update 萌娇小妖精
     * [2014/12/22 19:36:43] [urlrule] sites weipai.cn update 萌不可言
