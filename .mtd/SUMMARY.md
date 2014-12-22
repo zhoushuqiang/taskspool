@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 刘韩依HY
+
+
+    * Begin : 2014/12/22 23:00:32
+    * End   : 2014/12/22 23:44:50
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 51850ff67f34940e0f000001 刘韩依HY
 
 
