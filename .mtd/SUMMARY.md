@@ -1,3 +1,9 @@
+* [urlrule task] update urlrule/task/follows.txt
+
+    * Begin : 2014/12/22 08:23:55
+    * End   : 2014/12/22 08:23:59
+    * Result: OK
+
 * [urlrule] sites vlook.cn update Katherine陳佳妮
 
     * Begin : 2014/12/22 08:15:54
