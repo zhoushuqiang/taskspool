@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 5398544cebeddbb2768b4567 没有尾巴小狐狸
-
 * Finished:
+    * [2014/12/22 22:50:09] [urlrule] sites weipai.cn UPDATE 没有尾巴小狐狸
+
     * [2014/12/22 22:45:44] [urlrule] sites weipai.cn follow 5398544cebeddbb2768b4567 没有尾巴小狐狸
 
     * [2014/12/22 22:41:32] [urlrule] sites weipai.cn update 颖小姐

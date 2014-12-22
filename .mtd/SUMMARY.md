@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 没有尾巴小狐狸
+
+
+    * Begin : 2014/12/22 22:46:06
+    * End   : 2014/12/22 22:50:09
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 5398544cebeddbb2768b4567 没有尾巴小狐狸
 
 
