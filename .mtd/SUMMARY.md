@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 水蜜桃子
+
+    * Begin : 2014/12/22 14:46:24
+    * End   : 2014/12/22 14:46:25
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/22 14:38:32
