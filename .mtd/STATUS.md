@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 08:05:24] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/22 08:03:53] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
     * [2014/12/22 08:03:36] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
     * [2014/12/22 08:03:17] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
@@ -704,6 +705,60 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 08:05:18] [urlrule] sites weipai.cn UPDATE DJ_Ricey
+
+    * [2014/12/22 08:05:14] [urlrule] sites weipai.cn follow 52532abd7d3494db6eb88247 DJ_Ricey
+
+    * [2014/12/22 08:05:11] [urlrule] sites weipai.cn add 52532abd7d3494db6eb88247 DJ_Ricey
+
+    * [2014/12/22 08:05:05] [urlrule] sites weipai.cn UPDATE 肖金铭
+
+    * [2014/12/22 08:05:02] [urlrule] sites weipai.cn follow 53d3694fa7640b9e058b457f 肖金铭
+
+    * [2014/12/22 08:04:55] [urlrule] sites weipai.cn add 53d3694fa7640b9e058b457f 肖金铭
+
+    * [2014/12/22 08:04:52] [urlrule] sites weipai.cn UPDATE 若含_Princess
+
+    * [2014/12/22 08:04:48] [urlrule] sites weipai.cn follow 523963c27d3494dc6f2ef6ca 若含_Princess
+
+    * [2014/12/22 08:04:45] [urlrule] sites weipai.cn add 523963c27d3494dc6f2ef6ca 若含_Princess
+
+    * [2014/12/22 08:04:42] [urlrule] sites weipai.cn UPDATE 米洁
+
+    * [2014/12/22 08:04:38] [urlrule] sites weipai.cn follow 52a565957f349434799a17ad 米洁
+
+    * [2014/12/22 08:04:37] [urlrule] sites weipai.cn add 52a565957f349434799a17ad 米洁
+
+    * [2014/12/22 08:04:34] [urlrule] sites weipai.cn UPDATE 对你着了迷
+
+    * [2014/12/22 08:04:32] [urlrule] sites weipai.cn follow 527a15d37f34946403ffd763 对你着了迷
+
+    * [2014/12/22 08:04:31] [urlrule] sites weipai.cn add 527a15d37f34946403ffd763 对你着了迷
+
+    * [2014/12/22 08:04:28] [urlrule] sites weipai.cn UPDATE 伊莱丽
+
+    * [2014/12/22 08:04:26] [urlrule] sites weipai.cn follow 532f4655803494464176699f 伊莱丽
+
+    * [2014/12/22 08:04:24] [urlrule] sites weipai.cn add 532f4655803494464176699f 伊莱丽
+
+    * [2014/12/22 08:04:21] [urlrule] sites weipai.cn UPDATE 颜若熙92
+
+    * [2014/12/22 08:04:20] [urlrule] sites weipai.cn follow 5300a2664f4a139d6c8b48c0 颜若熙92
+
+    * [2014/12/22 08:04:19] [urlrule] sites weipai.cn add 5300a2664f4a139d6c8b48c0 颜若熙92
+
+    * [2014/12/22 08:04:16] [urlrule] sites weipai.cn UPDATE 梅姿baby
+
+    * [2014/12/22 08:04:14] [urlrule] sites weipai.cn follow 508e3aa38134941b2400001a 梅姿baby
+
+    * [2014/12/22 08:04:13] [urlrule] sites weipai.cn add 508e3aa38134941b2400001a 梅姿baby
+
+    * [2014/12/22 08:04:11] [urlrule] sites weipai.cn UPDATE 耳听爱情
+
+    * [2014/12/22 08:04:09] [urlrule] sites weipai.cn follow 52289253803494d3413aa550 耳听爱情
+
+    * [2014/12/22 08:04:08] [urlrule] sites weipai.cn add 52289253803494d3413aa550 耳听爱情
+
     * [2014/12/22 07:57:05] [urlrule] sites weipai.cn UPDATE 前任攻略
 
     * [2014/12/22 07:57:04] [urlrule] sites weipai.cn follow 52efdc8f803494321f30d8fc 前任攻略
