@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 洛可馨baby
+
+
+    * Begin : 2014/12/22 10:22:22
+    * End   : 2014/12/22 10:22:23
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 阿鑫很浮躁
 
     * Begin : 2014/12/22 10:18:22
