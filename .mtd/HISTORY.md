@@ -1,3 +1,114 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
+
+    * Begin : 2014/12/22 09:24:22
+    * End   : 2014/12/22 09:24:25
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE DJ_Ricey
+
+
+    * Begin : 2014/12/22 09:24:19
+    * End   : 2014/12/22 09:24:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52532abd7d3494db6eb88247 DJ_Ricey
+
+
+    * Begin : 2014/12/22 09:24:17
+    * End   : 2014/12/22 09:24:18
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52532abd7d3494db6eb88247 DJ_Ricey
+
+
+    * Begin : 2014/12/22 09:24:16
+    * End   : 2014/12/22 09:24:16
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 肖金铭
+
+
+    * Begin : 2014/12/22 09:24:13
+    * End   : 2014/12/22 09:24:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53d3694fa7640b9e058b457f 肖金铭
+
+
+    * Begin : 2014/12/22 09:24:11
+    * End   : 2014/12/22 09:24:12
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53d3694fa7640b9e058b457f 肖金铭
+
+
+    * Begin : 2014/12/22 09:24:11
+    * End   : 2014/12/22 09:24:11
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 若含_Princess
+
+
+    * Begin : 2014/12/22 09:24:07
+    * End   : 2014/12/22 09:24:08
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 523963c27d3494dc6f2ef6ca 若含_Princess
+
+
+    * Begin : 2014/12/22 09:24:05
+    * End   : 2014/12/22 09:24:06
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 523963c27d3494dc6f2ef6ca 若含_Princess
+
+
+    * Begin : 2014/12/22 09:24:04
+    * End   : 2014/12/22 09:24:05
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 米洁
+
+
+    * Begin : 2014/12/22 09:24:01
+    * End   : 2014/12/22 09:24:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52a565957f349434799a17ad 米洁
+
+
+    * Begin : 2014/12/22 09:23:59
+    * End   : 2014/12/22 09:23:59
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52a565957f349434799a17ad 米洁
+
+
+    * Begin : 2014/12/22 09:23:58
+    * End   : 2014/12/22 09:23:58
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 对你着了迷
+
+
+    * Begin : 2014/12/22 09:23:55
+    * End   : 2014/12/22 09:23:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 527a15d37f34946403ffd763 对你着了迷
+
+
+    * Begin : 2014/12/22 09:23:54
+    * End   : 2014/12/22 09:23:54
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 527a15d37f34946403ffd763 对你着了迷
+
+
+    * Begin : 2014/12/22 09:23:53
+    * End   : 2014/12/22 09:23:53
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 伊莱丽
 
 

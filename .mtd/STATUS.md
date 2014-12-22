@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 09:24:25] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/22 09:23:35] [urlrule] sites weipai.cn UPDATE 伊莱丽
 
     * [2014/12/22 09:21:35] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
@@ -730,6 +731,36 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 09:24:20] [urlrule] sites weipai.cn UPDATE DJ_Ricey
+
+    * [2014/12/22 09:24:18] [urlrule] sites weipai.cn follow 52532abd7d3494db6eb88247 DJ_Ricey
+
+    * [2014/12/22 09:24:16] [urlrule] sites weipai.cn add 52532abd7d3494db6eb88247 DJ_Ricey
+
+    * [2014/12/22 09:24:14] [urlrule] sites weipai.cn UPDATE 肖金铭
+
+    * [2014/12/22 09:24:12] [urlrule] sites weipai.cn follow 53d3694fa7640b9e058b457f 肖金铭
+
+    * [2014/12/22 09:24:11] [urlrule] sites weipai.cn add 53d3694fa7640b9e058b457f 肖金铭
+
+    * [2014/12/22 09:24:08] [urlrule] sites weipai.cn UPDATE 若含_Princess
+
+    * [2014/12/22 09:24:06] [urlrule] sites weipai.cn follow 523963c27d3494dc6f2ef6ca 若含_Princess
+
+    * [2014/12/22 09:24:05] [urlrule] sites weipai.cn add 523963c27d3494dc6f2ef6ca 若含_Princess
+
+    * [2014/12/22 09:24:02] [urlrule] sites weipai.cn UPDATE 米洁
+
+    * [2014/12/22 09:23:59] [urlrule] sites weipai.cn follow 52a565957f349434799a17ad 米洁
+
+    * [2014/12/22 09:23:58] [urlrule] sites weipai.cn add 52a565957f349434799a17ad 米洁
+
+    * [2014/12/22 09:23:56] [urlrule] sites weipai.cn UPDATE 对你着了迷
+
+    * [2014/12/22 09:23:54] [urlrule] sites weipai.cn follow 527a15d37f34946403ffd763 对你着了迷
+
+    * [2014/12/22 09:23:53] [urlrule] sites weipai.cn add 527a15d37f34946403ffd763 对你着了迷
+
     * [2014/12/22 09:22:08] [urlrule] sites weipai.cn follow 532f4655803494464176699f 伊莱丽
 
     * [2014/12/22 09:22:07] [urlrule] sites weipai.cn add 532f4655803494464176699f 伊莱丽
