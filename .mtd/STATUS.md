@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 17:21:07] [urlrule] sites weipai.cn update 女神集团
     * [2014/12/22 17:20:42] [urlrule] sites weipai.cn update 女王女王陛下
     * [2014/12/22 17:14:13] [urlrule] sites weipai.cn update 何佳琪baby
     * [2014/12/22 17:11:04] [urlrule task] update urlrule/task/follows.txt
@@ -899,6 +900,7 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 17:21:02] [urlrule] sites weipai.cn update 女神情情
     * [2014/12/22 17:20:37] [urlrule] sites weipai.cn update 女侠桃花鹿
     * [2014/12/22 17:20:33] [urlrule] sites weipai.cn update 奈奈萌大奶
     * [2014/12/22 17:20:29] [urlrule] sites weipai.cn update 奇美女
