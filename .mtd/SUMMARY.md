@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
+
+    * Begin : 2014/12/22 13:56:34
+    * End   : 2014/12/22 13:59:47
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 洛可馨baby
 
 
