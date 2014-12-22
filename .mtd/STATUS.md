@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 17:11:04] [urlrule task] update urlrule/task/follows.txt
     * [2014/12/22 17:05:51] [urlrule] sites weipai.cn update Zz贞
     * [2014/12/22 16:52:02] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2014/12/22 16:50:25] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
@@ -896,6 +897,67 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 17:10:57] [urlrule] sites weipai.cn update tina晨曦
+    * [2014/12/22 17:10:53] [urlrule] sites weipai.cn update suna2411
+    * [2014/12/22 17:10:49] [urlrule] sites weipai.cn update summer糖糖
+    * [2014/12/22 17:10:45] [urlrule] sites weipai.cn update sukiyoyo001
+    * [2014/12/22 17:10:41] [urlrule] sites weipai.cn update suki_jiang
+    * [2014/12/22 17:10:37] [urlrule] sites weipai.cn update soso蕊
+    * [2014/12/22 17:10:33] [urlrule] sites vlook.cn update Toughgirl
+    * [2014/12/22 17:10:27] [urlrule] sites vlook.cn update shoujigujun1680
+    * [2014/12/22 17:10:21] [urlrule] sites weipai.cn update sack莎莎
+    * [2014/12/22 17:10:17] [urlrule] sites weipai.cn update sachiBabyJ
+    * [2014/12/22 17:10:13] [urlrule] sites vlook.cn update quanxinyue123
+    * [2014/12/22 17:10:07] [urlrule] sites weipai.cn update qinqin1995
+    * [2014/12/22 17:10:03] [urlrule] sites weipai.cn update penny佩佩
+    * [2014/12/22 17:09:59] [urlrule] sites weipai.cn update pengfang
+    * [2014/12/22 17:09:56] [urlrule] sites weipai.cn update pandora莉莉
+    * [2014/12/22 17:09:51] [urlrule] sites weipai.cn update oliviababy
+    * [2014/12/22 17:09:47] [urlrule] sites weipai.cn update monica_1990
+    * [2014/12/22 17:09:43] [urlrule] sites weipai.cn update mm小七
+    * [2014/12/22 17:09:39] [urlrule] sites weipai.cn update miss大蝴蝶
+    * [2014/12/22 17:09:35] [urlrule] sites weipai.cn update miss吴
+    * [2014/12/22 17:09:30] [urlrule] sites weipai.cn update mina桑
+    * [2014/12/22 17:09:26] [urlrule] sites weipai.cn update miki夫人
+    * [2014/12/22 17:09:21] [urlrule] sites weipai.cn update meng-yu520
+    * [2014/12/22 17:09:17] [urlrule] sites weipai.cn update mayuko
+    * [2014/12/22 17:09:13] [urlrule] sites weipai.cn update love雯雯
+    * [2014/12/22 17:09:09] [urlrule] sites weipai.cn update ljylovesjy
+    * [2014/12/22 17:09:05] [urlrule] sites weipai.cn update li莉
+    * [2014/12/22 17:09:01] [urlrule] sites weipai.cn update lady小夜猫
+    * [2014/12/22 17:08:58] [urlrule] sites weipai.cn update kitty酱
+    * [2014/12/22 17:08:53] [urlrule] sites weipai.cn update kimoon
+    * [2014/12/22 17:08:49] [urlrule] sites weipai.cn update hhaskydhjjffjk
+    * [2014/12/22 17:08:45] [urlrule] sites weipai.cn update forgetlethe
+    * [2014/12/22 17:08:40] [urlrule] sites weipai.cn update dj-vivi
+    * [2014/12/22 17:08:36] [urlrule] sites weipai.cn update crystal尚
+    * [2014/12/22 17:08:32] [urlrule] sites weipai.cn update coco小姐
+    * [2014/12/22 17:08:27] [urlrule] sites weipai.cn update bobobobobo
+    * [2014/12/22 17:08:23] [urlrule] sites weipai.cn update bobao
+    * [2014/12/22 17:08:19] [urlrule] sites weipai.cn update beautyrella
+    * [2014/12/22 17:08:16] [urlrule] sites weipai.cn update ba女i
+    * [2014/12/22 17:08:11] [urlrule] sites weipai.cn update baby蜜儿
+    * [2014/12/22 17:08:07] [urlrule] sites weipai.cn update baby彩霞
+    * [2014/12/22 17:08:02] [urlrule] sites weipai.cn update baby小菲
+    * [2014/12/22 17:07:58] [urlrule] sites weipai.cn update a小狐狸520
+    * [2014/12/22 17:07:54] [urlrule] sites vlook.cn update angela允娜
+    * [2014/12/22 17:07:47] [urlrule] sites weipai.cn update amber小鑫
+    * [2014/12/22 17:07:42] [urlrule] sites weipai.cn update aling_888
+    * [2014/12/22 17:07:38] [urlrule] sites vlook.cn update absppo
+    * [2014/12/22 17:07:12] [urlrule] sites weipai.cn update _金妍熙
+    * [2014/12/22 17:07:07] [urlrule] sites weipai.cn update _郑美人
+    * [2014/12/22 17:07:03] [urlrule] sites weipai.cn update _穆穆
+    * [2014/12/22 17:06:58] [urlrule] sites weipai.cn update _李好美
+    * [2014/12/22 17:06:54] [urlrule] sites weipai.cn update _張丹丹
+    * [2014/12/22 17:06:49] [urlrule] sites weipai.cn update _娜娜
+    * [2014/12/22 17:06:45] [urlrule] sites weipai.cn update _刘爷
+    * [2014/12/22 17:06:40] [urlrule] sites weipai.cn update __张公子
+    * [2014/12/22 17:06:36] [urlrule] sites weipai.cn update __小韩韩
+    * [2014/12/22 17:06:31] [urlrule] sites weipai.cn update __妖涅
+    * [2014/12/22 17:06:27] [urlrule] sites weipai.cn update ___悦如
+    * [2014/12/22 17:06:23] [urlrule] sites weipai.cn update __Coco
+    * [2014/12/22 17:06:18] [urlrule] sites weipai.cn update _Miss梦
+    * [2014/12/22 17:06:15] [urlrule] sites weipai.cn update _Angelia燕子
     * [2014/12/22 17:05:10] [urlrule] sites weipai.cn update ZeroDis
     * [2014/12/22 17:05:06] [urlrule] sites vlook.cn update Yumi小旁友
     * [2014/12/22 17:04:59] [urlrule] sites weipai.cn update V信qxs95002
