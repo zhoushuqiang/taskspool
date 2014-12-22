@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 50bb2604803494ef02000054 Ms阿婆王
+
 * Finished:
+    * [2014/12/23 00:06:45] [urlrule] sites weipai.cn follow 50bb2604803494ef02000054 Ms阿婆王
+
     * [2014/12/23 00:03:00] [urlrule] sites weipai.cn UPDATE 模特丹丹
 
     * [2014/12/22 23:47:23] [urlrule] sites weipai.cn follow 53c9a962a8640be9178b4593 模特丹丹
@@ -988,6 +993,50 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/23 00:06:41] [urlrule] sites weipai.cn add 50bb2604803494ef02000054 Ms阿婆王
+
+    * [2014/12/23 00:06:36] [urlrule] sites weipai.cn UPDATE 肖金铭
+
+    * [2014/12/23 00:06:33] [urlrule] sites weipai.cn follow 53d3694fa7640b9e058b457f 肖金铭
+
+    * [2014/12/23 00:06:29] [urlrule] sites weipai.cn add 53d3694fa7640b9e058b457f 肖金铭
+
+    * [2014/12/23 00:06:22] [urlrule] sites weipai.cn UPDATE 张若兰
+
+    * [2014/12/23 00:06:17] [urlrule] sites weipai.cn follow 514eca76803494b723000006 张若兰
+
+    * [2014/12/23 00:06:14] [urlrule] sites weipai.cn add 514eca76803494b723000006 张若兰
+
+    * [2014/12/23 00:06:09] [urlrule] sites weipai.cn UPDATE 若含_Princess
+
+    * [2014/12/23 00:06:05] [urlrule] sites weipai.cn follow 523963c27d3494dc6f2ef6ca 若含_Princess
+
+    * [2014/12/23 00:06:02] [urlrule] sites weipai.cn add 523963c27d3494dc6f2ef6ca 若含_Princess
+
+    * [2014/12/23 00:05:57] [urlrule] sites weipai.cn UPDATE 米洁
+
+    * [2014/12/23 00:05:53] [urlrule] sites weipai.cn follow 52a565957f349434799a17ad 米洁
+
+    * [2014/12/23 00:05:49] [urlrule] sites weipai.cn add 52a565957f349434799a17ad 米洁
+
+    * [2014/12/23 00:05:44] [urlrule] sites weipai.cn UPDATE 对你着了迷
+
+    * [2014/12/23 00:05:40] [urlrule] sites weipai.cn follow 527a15d37f34946403ffd763 对你着了迷
+
+    * [2014/12/23 00:05:34] [urlrule] sites weipai.cn add 527a15d37f34946403ffd763 对你着了迷
+
+    * [2014/12/23 00:05:29] [urlrule] sites weipai.cn UPDATE 伊莱丽
+
+    * [2014/12/23 00:05:24] [urlrule] sites weipai.cn follow 532f4655803494464176699f 伊莱丽
+
+    * [2014/12/23 00:05:20] [urlrule] sites weipai.cn add 532f4655803494464176699f 伊莱丽
+
+    * [2014/12/23 00:05:15] [urlrule] sites weipai.cn UPDATE 颜若熙92
+
+    * [2014/12/23 00:05:10] [urlrule] sites weipai.cn follow 5300a2664f4a139d6c8b48c0 颜若熙92
+
+    * [2014/12/23 00:05:06] [urlrule] sites weipai.cn add 5300a2664f4a139d6c8b48c0 颜若熙92
+
     * [2014/12/22 23:47:18] [urlrule] sites weipai.cn add 53c9a962a8640be9178b4593 模特丹丹
 
     * [2014/12/22 22:59:25] [urlrule] sites weipai.cn add 51850ff67f34940e0f000001 刘韩依HY

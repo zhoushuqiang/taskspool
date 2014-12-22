@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn follow 50bb2604803494ef02000054 Ms阿婆王
+
+
+    * Begin : 2014/12/23 00:06:44
+    * End   : 2014/12/23 00:06:45
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 模特丹丹
 
 
