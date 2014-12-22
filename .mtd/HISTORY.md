@@ -1,3 +1,72 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
+
+    * Begin : 2014/12/22 15:09:15
+    * End   : 2014/12/22 15:09:16
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE DJ_Ricey
+
+
+    * Begin : 2014/12/22 15:09:12
+    * End   : 2014/12/22 15:09:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52532abd7d3494db6eb88247 DJ_Ricey
+
+
+    * Begin : 2014/12/22 15:09:10
+    * End   : 2014/12/22 15:09:11
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52532abd7d3494db6eb88247 DJ_Ricey
+
+
+    * Begin : 2014/12/22 15:09:09
+    * End   : 2014/12/22 15:09:09
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 肖金铭
+
+
+    * Begin : 2014/12/22 15:09:06
+    * End   : 2014/12/22 15:09:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53d3694fa7640b9e058b457f 肖金铭
+
+
+    * Begin : 2014/12/22 15:09:05
+    * End   : 2014/12/22 15:09:05
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53d3694fa7640b9e058b457f 肖金铭
+
+
+    * Begin : 2014/12/22 15:09:03
+    * End   : 2014/12/22 15:09:03
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 若含_Princess
+
+
+    * Begin : 2014/12/22 15:09:00
+    * End   : 2014/12/22 15:09:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 523963c27d3494dc6f2ef6ca 若含_Princess
+
+
+    * Begin : 2014/12/22 15:08:59
+    * End   : 2014/12/22 15:08:59
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 523963c27d3494dc6f2ef6ca 若含_Princess
+
+
+    * Begin : 2014/12/22 15:08:58
+    * End   : 2014/12/22 15:08:58
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 米洁
 
 
