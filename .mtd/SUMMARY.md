@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update 帮主-杨筱敏
+
+    * Begin : 2014/12/22 09:56:16
+    * End   : 2014/12/22 09:56:23
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/22 09:55:54
