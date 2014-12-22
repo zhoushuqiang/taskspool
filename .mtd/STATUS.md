@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 18:58:33] [urlrule] sites weipai.cn update 小艾艾
     * [2014/12/22 18:53:32] [urlrule] sites weipai.cn update 孙大星
     * [2014/12/22 18:51:12] [urlrule] sites weipai.cn update 女神集团
     * [2014/12/22 18:50:44] [urlrule] sites weipai.cn update 女王女王陛下
@@ -928,6 +929,52 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 18:57:14] [urlrule] sites weipai.cn update 小美宝贝
+    * [2014/12/22 18:57:10] [urlrule] sites weipai.cn update 小美女云云
+    * [2014/12/22 18:57:06] [urlrule] sites weipai.cn update 小白兔玩微拍
+    * [2014/12/22 18:57:02] [urlrule] sites weipai.cn update 小甜猫
+    * [2014/12/22 18:56:58] [urlrule] sites weipai.cn update 小瓢20141127
+    * [2014/12/22 18:56:53] [urlrule] sites weipai.cn update 小猫有毒
+    * [2014/12/22 18:56:49] [urlrule] sites weipai.cn update 小狐狸精灵
+    * [2014/12/22 18:56:45] [urlrule] sites weipai.cn update 小爱妞妞
+    * [2014/12/22 18:56:40] [urlrule] sites weipai.cn update 小燃燃baby
+    * [2014/12/22 18:56:36] [urlrule] sites weipai.cn update 小柔L
+    * [2014/12/22 18:56:32] [urlrule] sites weipai.cn update 小晴天baby
+    * [2014/12/22 18:56:28] [urlrule] sites weipai.cn update 小惡魔Linsey
+    * [2014/12/22 18:56:24] [urlrule] sites weipai.cn update 小情绪纷纷扰扰
+    * [2014/12/22 18:56:20] [urlrule] sites weipai.cn update 小小美mmmmmm
+    * [2014/12/22 18:56:16] [urlrule] sites weipai.cn update 小小小小米
+    * [2014/12/22 18:56:12] [urlrule] sites weipai.cn update 小小小乖
+    * [2014/12/22 18:56:08] [urlrule] sites weipai.cn update 小将士
+    * [2014/12/22 18:56:04] [urlrule] sites weipai.cn update 小容嬷嬷
+    * [2014/12/22 18:56:00] [urlrule] sites weipai.cn update 小妮仔
+    * [2014/12/22 18:55:56] [urlrule] sites weipai.cn update 小如如
+    * [2014/12/22 18:55:52] [urlrule] sites weipai.cn update 小可爱mmd
+    * [2014/12/22 18:55:48] [urlrule] sites weipai.cn update 小仓老师
+    * [2014/12/22 18:55:44] [urlrule] sites weipai.cn update 小也慧子
+    * [2014/12/22 18:55:40] [urlrule] sites weipai.cn update 小乔流水
+    * [2014/12/22 18:55:36] [urlrule] sites weipai.cn update 小乔Cheryl
+    * [2014/12/22 18:55:32] [urlrule] sites weipai.cn update 小qiqi总爱凑美呦
+    * [2014/12/22 18:55:28] [urlrule] sites weipai.cn update 对你着了迷
+    * [2014/12/22 18:55:24] [urlrule] sites weipai.cn update 寂寞姐姐
+    * [2014/12/22 18:55:20] [urlrule] sites weipai.cn update 家菱
+    * [2014/12/22 18:55:16] [urlrule] sites weipai.cn update 家妹xxoo
+    * [2014/12/22 18:55:12] [urlrule] sites weipai.cn update 宝小丁
+    * [2014/12/22 18:55:08] [urlrule] sites weipai.cn update 宝宝倩
+    * [2014/12/22 18:55:04] [urlrule] sites weipai.cn update 宜官官
+    * [2014/12/22 18:54:59] [urlrule] sites vlook.cn update 宋小猫cat
+    * [2014/12/22 18:54:52] [urlrule] sites weipai.cn update 宋小猫cat
+    * [2014/12/22 18:54:46] [urlrule] sites weipai.cn update 宋佳baby
+    * [2014/12/22 18:54:42] [urlrule] sites vlook.cn update 安瑞甜
+    * [2014/12/22 18:54:36] [urlrule] sites weipai.cn update 安瑞甜
+    * [2014/12/22 18:54:32] [urlrule] sites weipai.cn update 安妮makeup
+    * [2014/12/22 18:54:28] [urlrule] sites weipai.cn update 安妮Annie
+    * [2014/12/22 18:54:24] [urlrule] sites weipai.cn update 安之拉
+    * [2014/12/22 18:54:20] [urlrule] sites weipai.cn update 孤独患者
+    * [2014/12/22 18:54:16] [urlrule] sites weipai.cn update 孤单的84剩女
+    * [2014/12/22 18:54:12] [urlrule] sites weipai.cn update 孟晓艺dana
+    * [2014/12/22 18:54:09] [urlrule] sites vlook.cn update 孟晓晴Aimme
+    * [2014/12/22 18:53:52] [urlrule] sites weipai.cn update 孙星星
     * [2014/12/22 18:53:04] [urlrule] sites weipai.cn update 孙十八
     * [2014/12/22 18:53:00] [urlrule] sites weipai.cn update 媛妞儿
     * [2014/12/22 18:52:56] [urlrule] sites weipai.cn update 媚力女人
