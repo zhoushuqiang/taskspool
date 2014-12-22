@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 17:59:21] [urlrule] sites weipai.cn update 阿鑫很浮躁
     * [2014/12/22 17:56:18] [urlrule] sites weipai.cn update 辣妈ai美丽
     * [2014/12/22 17:53:59] [urlrule] sites weipai.cn update 薇妮BABY
     * [2014/12/22 17:51:39] [urlrule] sites weipai.cn update 若涵Baby
@@ -909,6 +910,23 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 17:58:17] [urlrule] sites weipai.cn update 阿朵拉Adora
+    * [2014/12/22 17:58:12] [urlrule] sites vlook.cn update 长裙飘飘21
+    * [2014/12/22 17:58:01] [urlrule] sites weipai.cn update 长裙飘飘21
+    * [2014/12/22 17:57:51] [urlrule] sites weipai.cn update 铁粉1号
+    * [2014/12/22 17:57:46] [urlrule] sites weipai.cn update 钱小美
+    * [2014/12/22 17:57:38] [urlrule] sites weipai.cn update 钟紫心
+    * [2014/12/22 17:57:34] [urlrule] sites weipai.cn update 金金金金小沙
+    * [2014/12/22 17:57:30] [urlrule] sites weipai.cn update 重头再来20141107
+    * [2014/12/22 17:57:22] [urlrule] sites vlook.cn update 酔熱舆Beer
+    * [2014/12/22 17:57:12] [urlrule] sites weipai.cn update 酒窝妹子
+    * [2014/12/22 17:57:08] [urlrule] sites weipai.cn update 酒才是最忠诚的男朋友
+    * [2014/12/22 17:57:01] [urlrule] sites weipai.cn update 郑菲儿
+    * [2014/12/22 17:56:56] [urlrule] sites weipai.cn update 郑瑞熙_
+    * [2014/12/22 17:56:51] [urlrule] sites weipai.cn update 郑安然
+    * [2014/12/22 17:56:46] [urlrule] sites weipai.cn update 邻家猴猴
+    * [2014/12/22 17:56:42] [urlrule] sites weipai.cn update 逐光流云20140912
+    * [2014/12/22 17:56:38] [urlrule] sites weipai.cn update 近色怡人
     * [2014/12/22 17:55:50] [urlrule] sites vlook.cn update 软萌妹
     * [2014/12/22 17:55:44] [urlrule] sites weipai.cn update 赵有根
     * [2014/12/22 17:55:40] [urlrule] sites weipai.cn update 豆妞妞
