@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE 若涵Baby
+
+
+    * Begin : 2014/12/22 10:39:40
+    * End   : 2014/12/22 10:39:41
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 53310bc19d67d942728b466e 若涵Baby
+
+
+    * Begin : 2014/12/22 10:39:38
+    * End   : 2014/12/22 10:39:39
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53310bc19d67d942728b466e 若涵Baby
+
+
+    * Begin : 2014/12/22 10:39:38
+    * End   : 2014/12/22 10:39:38
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
 
     * Begin : 2014/12/22 10:39:21
