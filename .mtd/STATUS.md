@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 18:37:45] [urlrule] sites weipai.cn update baby蜜儿
     * [2014/12/22 18:35:55] [urlrule] sites weipai.cn update __小韩韩
     * [2014/12/22 18:31:49] [urlrule] sites weipai.cn update Queen-婷婷
     * [2014/12/22 18:21:07] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
@@ -923,6 +924,21 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 18:37:22] [urlrule] sites weipai.cn update baby彩霞
+    * [2014/12/22 18:37:18] [urlrule] sites weipai.cn update baby小菲
+    * [2014/12/22 18:37:14] [urlrule] sites weipai.cn update a小狐狸520
+    * [2014/12/22 18:37:10] [urlrule] sites vlook.cn update angela允娜
+    * [2014/12/22 18:37:04] [urlrule] sites weipai.cn update amber小鑫
+    * [2014/12/22 18:37:00] [urlrule] sites weipai.cn update aling_888
+    * [2014/12/22 18:36:56] [urlrule] sites vlook.cn update absppo
+    * [2014/12/22 18:36:48] [urlrule] sites weipai.cn update _金妍熙
+    * [2014/12/22 18:36:44] [urlrule] sites weipai.cn update _郑美人
+    * [2014/12/22 18:36:39] [urlrule] sites weipai.cn update _穆穆
+    * [2014/12/22 18:36:35] [urlrule] sites weipai.cn update _李好美
+    * [2014/12/22 18:36:30] [urlrule] sites weipai.cn update _張丹丹
+    * [2014/12/22 18:36:26] [urlrule] sites weipai.cn update _娜娜
+    * [2014/12/22 18:36:22] [urlrule] sites weipai.cn update _刘爷
+    * [2014/12/22 18:36:18] [urlrule] sites weipai.cn update __张公子
     * [2014/12/22 18:35:27] [urlrule] sites weipai.cn update __妖涅
     * [2014/12/22 18:35:22] [urlrule] sites weipai.cn update ___悦如
     * [2014/12/22 18:35:18] [urlrule] sites weipai.cn update __Coco

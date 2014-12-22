@@ -1,3 +1,99 @@
+* [urlrule] sites weipai.cn update baby蜜儿
+
+    * Begin : 2014/12/22 18:37:26
+    * End   : 2014/12/22 18:37:45
+    * Result: OK
+
+* [urlrule] sites weipai.cn update baby彩霞
+
+    * Begin : 2014/12/22 18:37:21
+    * End   : 2014/12/22 18:37:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update baby小菲
+
+    * Begin : 2014/12/22 18:37:17
+    * End   : 2014/12/22 18:37:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update a小狐狸520
+
+    * Begin : 2014/12/22 18:37:13
+    * End   : 2014/12/22 18:37:14
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update angela允娜
+
+    * Begin : 2014/12/22 18:37:07
+    * End   : 2014/12/22 18:37:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update amber小鑫
+
+    * Begin : 2014/12/22 18:37:03
+    * End   : 2014/12/22 18:37:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update aling_888
+
+    * Begin : 2014/12/22 18:36:59
+    * End   : 2014/12/22 18:37:00
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update absppo
+
+    * Begin : 2014/12/22 18:36:51
+    * End   : 2014/12/22 18:36:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update _金妍熙
+
+    * Begin : 2014/12/22 18:36:47
+    * End   : 2014/12/22 18:36:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update _郑美人
+
+    * Begin : 2014/12/22 18:36:43
+    * End   : 2014/12/22 18:36:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update _穆穆
+
+    * Begin : 2014/12/22 18:36:38
+    * End   : 2014/12/22 18:36:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update _李好美
+
+    * Begin : 2014/12/22 18:36:34
+    * End   : 2014/12/22 18:36:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update _張丹丹
+
+    * Begin : 2014/12/22 18:36:29
+    * End   : 2014/12/22 18:36:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update _娜娜
+
+    * Begin : 2014/12/22 18:36:25
+    * End   : 2014/12/22 18:36:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update _刘爷
+
+    * Begin : 2014/12/22 18:36:21
+    * End   : 2014/12/22 18:36:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update __张公子
+
+    * Begin : 2014/12/22 18:36:17
+    * End   : 2014/12/22 18:36:18
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update __小韩韩
 
     * Begin : 2014/12/22 18:35:30

@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update baby蜜儿
+
+    * Begin : 2014/12/22 18:37:26
+    * End   : 2014/12/22 18:37:45
+    * Result: OK
+
 * [urlrule] sites weipai.cn update __小韩韩
 
     * Begin : 2014/12/22 18:35:30
