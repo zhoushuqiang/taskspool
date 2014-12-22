@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn follow 51850ff67f34940e0f000001 刘韩依HY
+
+
+    * Begin : 2014/12/22 22:59:27
+    * End   : 2014/12/22 22:59:28
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
 
     * Begin : 2014/12/22 22:58:42
