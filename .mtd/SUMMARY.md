@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 媚力女人
+
+    * Begin : 2014/12/22 21:16:53
+    * End   : 2014/12/22 21:39:55
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 妮妮love
 
     * Begin : 2014/12/22 21:14:11
