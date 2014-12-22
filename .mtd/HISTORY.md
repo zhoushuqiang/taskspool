@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 笑笑
+
+    * Begin : 2014/12/22 16:23:38
+    * End   : 2014/12/22 16:23:59
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 穿着高跟鞋跳芭蕾--
+
+    * Begin : 2014/12/22 16:23:34
+    * End   : 2014/12/22 16:23:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 空虚哥
+
+    * Begin : 2014/12/22 16:23:30
+    * End   : 2014/12/22 16:23:31
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 穴儿
+
+    * Begin : 2014/12/22 16:23:27
+    * End   : 2014/12/22 16:23:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 秦蕾
+
+    * Begin : 2014/12/22 16:23:22
+    * End   : 2014/12/22 16:23:23
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 秦勉叫冉冉
 
     * Begin : 2014/12/22 16:22:02

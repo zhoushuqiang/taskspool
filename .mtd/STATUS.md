@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 16:23:59] [urlrule] sites weipai.cn update 笑笑
     * [2014/12/22 16:23:03] [urlrule] sites weipai.cn update 秦勉叫冉冉
     * [2014/12/22 16:21:14] [urlrule] sites weipai.cn update 瞄小婷
     * [2014/12/22 16:03:13] [urlrule] sites weipai.cn update 白日不湿
@@ -876,6 +877,10 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 16:23:35] [urlrule] sites weipai.cn update 穿着高跟鞋跳芭蕾--
+    * [2014/12/22 16:23:31] [urlrule] sites weipai.cn update 空虚哥
+    * [2014/12/22 16:23:27] [urlrule] sites weipai.cn update 穴儿
+    * [2014/12/22 16:23:23] [urlrule] sites weipai.cn update 秦蕾
     * [2014/12/22 16:21:59] [urlrule] sites weipai.cn update 私人空间
     * [2014/12/22 16:21:55] [urlrule] sites weipai.cn update 神神神神神姐
     * [2014/12/22 16:21:51] [urlrule] sites weipai.cn update 神仙姐姐__艾溪
