@@ -1,3 +1,87 @@
+* [urlrule] sites weipai.cn UPDATE 伊莱丽
+
+
+    * Begin : 2014/12/22 09:22:09
+    * End   : 2014/12/22 09:23:35
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 532f4655803494464176699f 伊莱丽
+
+
+    * Begin : 2014/12/22 09:22:08
+    * End   : 2014/12/22 09:22:08
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 532f4655803494464176699f 伊莱丽
+
+
+    * Begin : 2014/12/22 09:22:07
+    * End   : 2014/12/22 09:22:07
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 颜若熙92
+
+
+    * Begin : 2014/12/22 09:22:03
+    * End   : 2014/12/22 09:22:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5300a2664f4a139d6c8b48c0 颜若熙92
+
+
+    * Begin : 2014/12/22 09:22:01
+    * End   : 2014/12/22 09:22:02
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5300a2664f4a139d6c8b48c0 颜若熙92
+
+
+    * Begin : 2014/12/22 09:22:00
+    * End   : 2014/12/22 09:22:01
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 梅姿baby
+
+
+    * Begin : 2014/12/22 09:21:57
+    * End   : 2014/12/22 09:21:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 508e3aa38134941b2400001a 梅姿baby
+
+
+    * Begin : 2014/12/22 09:21:55
+    * End   : 2014/12/22 09:21:56
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 508e3aa38134941b2400001a 梅姿baby
+
+
+    * Begin : 2014/12/22 09:21:54
+    * End   : 2014/12/22 09:21:54
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 耳听爱情
+
+
+    * Begin : 2014/12/22 09:21:51
+    * End   : 2014/12/22 09:21:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52289253803494d3413aa550 耳听爱情
+
+
+    * Begin : 2014/12/22 09:21:49
+    * End   : 2014/12/22 09:21:50
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52289253803494d3413aa550 耳听爱情
+
+
+    * Begin : 2014/12/22 09:21:49
+    * End   : 2014/12/22 09:21:49
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
 
     * Begin : 2014/12/22 09:21:33

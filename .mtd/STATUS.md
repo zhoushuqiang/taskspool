@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 09:23:35] [urlrule] sites weipai.cn UPDATE 伊莱丽
+
     * [2014/12/22 09:21:35] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
     * [2014/12/22 09:21:18] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
     * [2014/12/22 09:18:48] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
@@ -728,6 +730,28 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 09:22:08] [urlrule] sites weipai.cn follow 532f4655803494464176699f 伊莱丽
+
+    * [2014/12/22 09:22:07] [urlrule] sites weipai.cn add 532f4655803494464176699f 伊莱丽
+
+    * [2014/12/22 09:22:03] [urlrule] sites weipai.cn UPDATE 颜若熙92
+
+    * [2014/12/22 09:22:02] [urlrule] sites weipai.cn follow 5300a2664f4a139d6c8b48c0 颜若熙92
+
+    * [2014/12/22 09:22:01] [urlrule] sites weipai.cn add 5300a2664f4a139d6c8b48c0 颜若熙92
+
+    * [2014/12/22 09:21:58] [urlrule] sites weipai.cn UPDATE 梅姿baby
+
+    * [2014/12/22 09:21:56] [urlrule] sites weipai.cn follow 508e3aa38134941b2400001a 梅姿baby
+
+    * [2014/12/22 09:21:54] [urlrule] sites weipai.cn add 508e3aa38134941b2400001a 梅姿baby
+
+    * [2014/12/22 09:21:52] [urlrule] sites weipai.cn UPDATE 耳听爱情
+
+    * [2014/12/22 09:21:50] [urlrule] sites weipai.cn follow 52289253803494d3413aa550 耳听爱情
+
+    * [2014/12/22 09:21:49] [urlrule] sites weipai.cn add 52289253803494d3413aa550 耳听爱情
+
     * [2014/12/22 09:07:46] [urlrule] sites weipai.cn UPDATE 前任攻略
 
     * [2014/12/22 09:07:44] [urlrule] sites weipai.cn follow 52efdc8f803494321f30d8fc 前任攻略
