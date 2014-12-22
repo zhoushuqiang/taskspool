@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn follow 53c9a962a8640be9178b4593 模特丹丹
+
+
+    * Begin : 2014/12/22 23:47:21
+    * End   : 2014/12/22 23:47:23
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 刘韩依HY
 
 
