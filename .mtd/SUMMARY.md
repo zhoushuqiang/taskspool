@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 屌丝福利小清新
+
+    * Begin : 2014/12/22 12:18:42
+    * End   : 2014/12/22 12:18:44
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 女神集团
 
     * Begin : 2014/12/22 12:12:57
