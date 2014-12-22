@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 22:56:39] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
     * [2014/12/22 22:50:09] [urlrule] sites weipai.cn UPDATE 没有尾巴小狐狸
 
     * [2014/12/22 22:45:44] [urlrule] sites weipai.cn follow 5398544cebeddbb2768b4567 没有尾巴小狐狸
@@ -977,6 +978,12 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 22:50:47] [urlrule] sites weipai.cn UPDATE 前任攻略
+
+    * [2014/12/22 22:50:43] [urlrule] sites weipai.cn follow 52efdc8f803494321f30d8fc 前任攻略
+
+    * [2014/12/22 22:50:39] [urlrule] sites weipai.cn add 52efdc8f803494321f30d8fc 前任攻略
+
     * [2014/12/22 22:45:36] [urlrule] sites weipai.cn add 5398544cebeddbb2768b4567 没有尾巴小狐狸
 
     * [2014/12/22 22:45:27] [urlrule] sites weipai.cn UPDATE 雯子蜜

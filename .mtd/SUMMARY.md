@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
+
+    * Begin : 2014/12/22 22:50:53
+    * End   : 2014/12/22 22:56:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 没有尾巴小狐狸
 
 
