@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 水蜜桃子
+
+    * Begin : 2014/12/22 15:58:06
+    * End   : 2014/12/22 15:58:08
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 林歆蕊Q286312385
 
     * Begin : 2014/12/22 15:54:33

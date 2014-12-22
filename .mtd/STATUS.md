@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 15:58:08] [urlrule] sites weipai.cn update 水蜜桃子
     * [2014/12/22 15:56:02] [urlrule] sites weipai.cn update 林歆蕊Q286312385
     * [2014/12/22 15:46:24] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/22 15:39:47] [urlrule] sites weipai.cn update 女神集团
@@ -871,6 +872,30 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 15:58:03] [urlrule] sites weipai.cn update 毛大怪
+    * [2014/12/22 15:57:59] [urlrule] sites weipai.cn update 欣赏为主
+    * [2014/12/22 15:57:55] [urlrule] sites weipai.cn update 欠缺完美
+    * [2014/12/22 15:57:51] [urlrule] sites weipai.cn update 橙子醬
+    * [2014/12/22 15:57:47] [urlrule] sites weipai.cn update 橙子妹妹
+    * [2014/12/22 15:57:43] [urlrule] sites weipai.cn update 橙大爷
+    * [2014/12/22 15:57:38] [urlrule] sites weipai.cn update 模特-杨伊
+    * [2014/12/22 15:57:33] [urlrule] sites weipai.cn update 梦瑶
+    * [2014/12/22 15:57:29] [urlrule] sites weipai.cn update 梦游娃娃
+    * [2014/12/22 15:57:25] [urlrule] sites weipai.cn update 梦梦20141111
+    * [2014/12/22 15:57:21] [urlrule] sites weipai.cn update 梦幻噢
+    * [2014/12/22 15:57:17] [urlrule] sites weipai.cn update 梦婷Baby
+    * [2014/12/22 15:57:12] [urlrule] sites vlook.cn update 梦之冰城
+    * [2014/12/22 15:57:07] [urlrule] sites weipai.cn update 梓茜ZX
+    * [2014/12/22 15:57:03] [urlrule] sites weipai.cn update 梅子小姐_01
+    * [2014/12/22 15:56:59] [urlrule] sites weipai.cn update 梅姿baby
+    * [2014/12/22 15:56:55] [urlrule] sites weipai.cn update 梁珂
+    * [2014/12/22 15:56:52] [urlrule] sites weipai.cn update 梁倩cat
+    * [2014/12/22 15:56:48] [urlrule] sites vlook.cn update 桓淼淼baby
+    * [2014/12/22 15:56:44] [urlrule] sites weipai.cn update 桓淼淼baby
+    * [2014/12/22 15:56:40] [urlrule] sites vlook.cn update 桓淼淼
+    * [2014/12/22 15:56:37] [urlrule] sites vlook.cn update 栾丽娜123
+    * [2014/12/22 15:56:31] [urlrule] sites vlook.cn update 枫叶4561
+    * [2014/12/22 15:56:25] [urlrule] sites vlook.cn update 林蕊儿
     * [2014/12/22 15:54:29] [urlrule] sites vlook.cn update 林歆蕊
     * [2014/12/22 15:54:23] [urlrule] sites weipai.cn update 林夕baby123
     * [2014/12/22 15:54:19] [urlrule] sites weipai.cn update 杨沫沫Aimee
