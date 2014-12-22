@@ -1,3 +1,30 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
+
+    * Begin : 2014/12/22 18:20:14
+    * End   : 2014/12/22 18:20:15
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 胖洋葱
+
+
+    * Begin : 2014/12/22 18:20:10
+    * End   : 2014/12/22 18:20:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5217d8748134941a6897e5ec 胖洋葱
+
+
+    * Begin : 2014/12/22 18:20:08
+    * End   : 2014/12/22 18:20:08
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5217d8748134941a6897e5ec 胖洋葱
+
+
+    * Begin : 2014/12/22 18:20:06
+    * End   : 2014/12/22 18:20:07
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 
     * Begin : 2014/12/22 18:19:48
