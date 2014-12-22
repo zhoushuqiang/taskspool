@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 18:15:23] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
     * [2014/12/22 18:15:04] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
     * [2014/12/22 18:07:55] [urlrule] sites vlook.cn update 黒目瞳
     * [2014/12/22 17:59:21] [urlrule] sites weipai.cn update 阿鑫很浮躁
