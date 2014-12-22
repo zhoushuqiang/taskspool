@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 吴晴Kate
+
+
+    * Begin : 2014/12/22 12:53:54
+    * End   : 2014/12/22 12:54:26
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 若涵Baby
 
 
