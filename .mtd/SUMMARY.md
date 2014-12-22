@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn follow 5398544cebeddbb2768b4567 没有尾巴小狐狸
+
+
+    * Begin : 2014/12/22 22:45:43
+    * End   : 2014/12/22 22:45:44
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 颖小姐
 
     * Begin : 2014/12/22 22:41:20
