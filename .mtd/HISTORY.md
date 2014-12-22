@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
+
+    * Begin : 2014/12/22 10:43:01
+    * End   : 2014/12/22 10:43:03
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 5沉睡森林
 
 
