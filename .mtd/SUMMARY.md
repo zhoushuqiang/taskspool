@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update __小韩韩
+
+    * Begin : 2014/12/22 18:35:30
+    * End   : 2014/12/22 18:35:55
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Queen-婷婷
 
     * Begin : 2014/12/22 18:30:57
