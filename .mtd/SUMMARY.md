@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 晴海洋
+
+    * Begin : 2014/12/22 17:33:14
+    * End   : 2014/12/22 17:33:41
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 屌丝福利小清新
 
     * Begin : 2014/12/22 17:27:38
