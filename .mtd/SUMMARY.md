@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 寂寞姐姐
+
+    * Begin : 2014/12/22 09:52:47
+    * End   : 2014/12/22 09:52:59
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 女神集团
 
     * Begin : 2014/12/22 09:49:51
