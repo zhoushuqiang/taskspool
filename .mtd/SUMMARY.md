@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 水蜜桃子
+
+    * Begin : 2014/12/22 10:04:42
+    * End   : 2014/12/22 10:04:43
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 帮主-杨筱敏
 
     * Begin : 2014/12/22 09:56:16
