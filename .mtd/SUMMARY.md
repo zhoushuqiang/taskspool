@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 范美熙Jennifer
+
+    * Begin : 2014/12/22 19:32:12
+    * End   : 2014/12/22 19:35:32
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 若涵Baby
 
     * Begin : 2014/12/22 19:31:45
