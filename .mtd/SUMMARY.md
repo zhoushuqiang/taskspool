@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 水蜜桃子
+
+    * Begin : 2014/12/22 19:12:44
+    * End   : 2014/12/22 19:12:46
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 最美的太阳20140822
 
     * Begin : 2014/12/22 19:06:27
