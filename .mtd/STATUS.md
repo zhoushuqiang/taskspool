@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 53c9a962a8640be9178b4593 模特丹丹
-
 * Finished:
+    * [2014/12/23 00:03:00] [urlrule] sites weipai.cn UPDATE 模特丹丹
+
     * [2014/12/22 23:47:23] [urlrule] sites weipai.cn follow 53c9a962a8640be9178b4593 模特丹丹
 
     * [2014/12/22 23:44:50] [urlrule] sites weipai.cn UPDATE 刘韩依HY
