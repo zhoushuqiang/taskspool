@@ -1,3 +1,87 @@
+* [urlrule] sites weipai.cn UPDATE 5沉睡森林
+
+
+    * Begin : 2014/12/22 10:42:20
+    * End   : 2014/12/22 10:42:45
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 53eb7023a5640baa4e8b4574 5沉睡森林
+
+
+    * Begin : 2014/12/22 10:42:18
+    * End   : 2014/12/22 10:42:19
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53eb7023a5640baa4e8b4574 5沉睡森林
+
+
+    * Begin : 2014/12/22 10:42:17
+    * End   : 2014/12/22 10:42:17
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 范范范小范
+
+
+    * Begin : 2014/12/22 10:42:14
+    * End   : 2014/12/22 10:42:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52c6b16c803494867c92f58d 范范范小范
+
+
+    * Begin : 2014/12/22 10:42:12
+    * End   : 2014/12/22 10:42:13
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52c6b16c803494867c92f58d 范范范小范
+
+
+    * Begin : 2014/12/22 10:42:12
+    * End   : 2014/12/22 10:42:12
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE hhaskydhjjffjk
+
+
+    * Begin : 2014/12/22 10:42:08
+    * End   : 2014/12/22 10:42:08
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5471cce0a5640b4c288b45cb hhaskydhjjffjk
+
+
+    * Begin : 2014/12/22 10:42:06
+    * End   : 2014/12/22 10:42:07
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5471cce0a5640b4c288b45cb hhaskydhjjffjk
+
+
+    * Begin : 2014/12/22 10:42:05
+    * End   : 2014/12/22 10:42:05
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 平平平平子
+
+
+    * Begin : 2014/12/22 10:42:02
+    * End   : 2014/12/22 10:42:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 547f4357a5640bd9478b457b 平平平平子
+
+
+    * Begin : 2014/12/22 10:42:00
+    * End   : 2014/12/22 10:42:01
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 547f4357a5640bd9478b457b 平平平平子
+
+
+    * Begin : 2014/12/22 10:41:59
+    * End   : 2014/12/22 10:41:59
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
 
     * Begin : 2014/12/22 10:41:41
