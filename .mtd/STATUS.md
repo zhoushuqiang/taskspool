@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/22 18:15:04] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
     * [2014/12/22 18:07:55] [urlrule] sites vlook.cn update 黒目瞳
     * [2014/12/22 17:59:21] [urlrule] sites weipai.cn update 阿鑫很浮躁
     * [2014/12/22 17:56:18] [urlrule] sites weipai.cn update 辣妈ai美丽
@@ -911,6 +912,61 @@ Tasks Status Report
     * [2014/12/21 02:31:01] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2014/12/21 02:25:50] [urlrule] sites weipai.cn update 张瑶isa
 * Doing Nothing:
+    * [2014/12/22 18:09:36] [urlrule] sites weipai.cn UPDATE 前任攻略
+
+    * [2014/12/22 18:09:34] [urlrule] sites weipai.cn follow 52efdc8f803494321f30d8fc 前任攻略
+
+    * [2014/12/22 18:09:31] [urlrule] sites weipai.cn add 52efdc8f803494321f30d8fc 前任攻略
+
+    * [2014/12/22 18:09:28] [urlrule] sites weipai.cn UPDATE 雯子蜜
+
+    * [2014/12/22 18:09:26] [urlrule] sites weipai.cn follow 516ac8a77d3494ef4c000015 雯子蜜
+
+    * [2014/12/22 18:09:23] [urlrule] sites weipai.cn add 516ac8a77d3494ef4c000015 雯子蜜
+
+    * [2014/12/22 18:09:20] [urlrule] sites weipai.cn UPDATE 欣赏为主
+
+    * [2014/12/22 18:09:18] [urlrule] sites weipai.cn follow 529e268a5e7feb63478b457f 欣赏为主
+
+    * [2014/12/22 18:09:16] [urlrule] sites weipai.cn add 529e268a5e7feb63478b457f 欣赏为主
+
+    * [2014/12/22 18:09:13] [urlrule] sites weipai.cn UPDATE Kiki_雅琪
+
+    * [2014/12/22 18:09:10] [urlrule] sites weipai.cn follow 50093c038134944b62000280 Kiki_雅琪
+
+    * [2014/12/22 18:09:08] [urlrule] sites weipai.cn add 50093c038134944b62000280 Kiki_雅琪
+
+    * [2014/12/22 18:09:05] [urlrule] sites weipai.cn UPDATE mayuko
+
+    * [2014/12/22 18:09:02] [urlrule] sites weipai.cn follow 51ac5faf5a8e87197a00004a mayuko
+
+    * [2014/12/22 18:08:59] [urlrule] sites weipai.cn add 51ac5faf5a8e87197a00004a mayuko
+
+    * [2014/12/22 18:08:54] [urlrule] sites weipai.cn UPDATE Amanda5275
+
+    * [2014/12/22 18:08:49] [urlrule] sites weipai.cn follow 52fd7665ebeddb2f488b46d9 Amanda5275
+
+    * [2014/12/22 18:08:47] [urlrule] sites weipai.cn add 52fd7665ebeddb2f488b46d9 Amanda5275
+
+    * [2014/12/22 18:08:43] [urlrule] sites weipai.cn UPDATE 小将士
+
+    * [2014/12/22 18:08:40] [urlrule] sites weipai.cn follow 53945aeaebeddbf6018b457b 小将士
+
+    * [2014/12/22 18:08:37] [urlrule] sites weipai.cn add 53945aeaebeddbf6018b457b 小将士
+
+    * [2014/12/22 18:08:35] [urlrule] sites weipai.cn UPDATE 硬伦X妹
+
+    * [2014/12/22 18:08:32] [urlrule] sites weipai.cn follow 546ac171a5640b62678b457a 硬伦X妹
+
+    * [2014/12/22 18:08:30] [urlrule] sites weipai.cn add 546ac171a5640b62678b457a 硬伦X妹
+
+    * [2014/12/22 18:08:27] [urlrule] sites weipai.cn UPDATE 洛可馨baby
+
+    * [2014/12/22 18:08:24] [urlrule] sites weipai.cn follow 53f5690ea7640b91338b4574 洛可馨baby
+
+    * [2014/12/22 18:08:21] [urlrule] sites weipai.cn add 53f5690ea7640b91338b4574 洛可馨baby
+
+    * [2014/12/22 18:08:16] [urlrule] sites weipai.cn update 龙儿20140330
     * [2014/12/22 18:04:27] [urlrule] sites weipai.cn update 黒目瞳
     * [2014/12/22 18:04:21] [urlrule] sites weipai.cn update 黑金色会飞的鱼
     * [2014/12/22 18:04:17] [urlrule] sites weipai.cn update 黑桃女王
