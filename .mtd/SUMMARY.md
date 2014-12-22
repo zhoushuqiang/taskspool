@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 孙大星
+
+    * Begin : 2014/12/22 18:53:07
+    * End   : 2014/12/22 18:53:32
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 女神集团
 
     * Begin : 2014/12/22 18:51:10
