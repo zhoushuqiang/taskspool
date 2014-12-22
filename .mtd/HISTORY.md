@@ -1,3 +1,177 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
+
+    * Begin : 2014/12/22 09:07:48
+    * End   : 2014/12/22 09:18:48
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 前任攻略
+
+
+    * Begin : 2014/12/22 09:07:45
+    * End   : 2014/12/22 09:07:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52efdc8f803494321f30d8fc 前任攻略
+
+
+    * Begin : 2014/12/22 09:07:43
+    * End   : 2014/12/22 09:07:44
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52efdc8f803494321f30d8fc 前任攻略
+
+
+    * Begin : 2014/12/22 09:07:42
+    * End   : 2014/12/22 09:07:43
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 雯子蜜
+
+
+    * Begin : 2014/12/22 09:07:39
+    * End   : 2014/12/22 09:07:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 516ac8a77d3494ef4c000015 雯子蜜
+
+
+    * Begin : 2014/12/22 09:07:37
+    * End   : 2014/12/22 09:07:38
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 516ac8a77d3494ef4c000015 雯子蜜
+
+
+    * Begin : 2014/12/22 09:07:36
+    * End   : 2014/12/22 09:07:36
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 欣赏为主
+
+
+    * Begin : 2014/12/22 09:07:33
+    * End   : 2014/12/22 09:07:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 529e268a5e7feb63478b457f 欣赏为主
+
+
+    * Begin : 2014/12/22 09:07:31
+    * End   : 2014/12/22 09:07:32
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 529e268a5e7feb63478b457f 欣赏为主
+
+
+    * Begin : 2014/12/22 09:07:30
+    * End   : 2014/12/22 09:07:30
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE Kiki_雅琪
+
+
+    * Begin : 2014/12/22 09:07:27
+    * End   : 2014/12/22 09:07:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 50093c038134944b62000280 Kiki_雅琪
+
+
+    * Begin : 2014/12/22 09:07:25
+    * End   : 2014/12/22 09:07:26
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 50093c038134944b62000280 Kiki_雅琪
+
+
+    * Begin : 2014/12/22 09:07:24
+    * End   : 2014/12/22 09:07:24
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE mayuko
+
+
+    * Begin : 2014/12/22 09:07:20
+    * End   : 2014/12/22 09:07:21
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 51ac5faf5a8e87197a00004a mayuko
+
+
+    * Begin : 2014/12/22 09:07:19
+    * End   : 2014/12/22 09:07:19
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 51ac5faf5a8e87197a00004a mayuko
+
+
+    * Begin : 2014/12/22 09:07:18
+    * End   : 2014/12/22 09:07:18
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE Amanda5275
+
+
+    * Begin : 2014/12/22 09:07:11
+    * End   : 2014/12/22 09:07:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52fd7665ebeddb2f488b46d9 Amanda5275
+
+
+    * Begin : 2014/12/22 09:07:09
+    * End   : 2014/12/22 09:07:10
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52fd7665ebeddb2f488b46d9 Amanda5275
+
+
+    * Begin : 2014/12/22 09:07:08
+    * End   : 2014/12/22 09:07:08
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 小将士
+
+
+    * Begin : 2014/12/22 09:07:05
+    * End   : 2014/12/22 09:07:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53945aeaebeddbf6018b457b 小将士
+
+
+    * Begin : 2014/12/22 09:07:03
+    * End   : 2014/12/22 09:07:04
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53945aeaebeddbf6018b457b 小将士
+
+
+    * Begin : 2014/12/22 09:07:02
+    * End   : 2014/12/22 09:07:02
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 硬伦X妹
+
+
+    * Begin : 2014/12/22 09:06:59
+    * End   : 2014/12/22 09:07:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 546ac171a5640b62678b457a 硬伦X妹
+
+
+    * Begin : 2014/12/22 09:06:58
+    * End   : 2014/12/22 09:06:58
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 546ac171a5640b62678b457a 硬伦X妹
+
+
+    * Begin : 2014/12/22 09:06:57
+    * End   : 2014/12/22 09:06:57
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 洛可馨baby
 
 
