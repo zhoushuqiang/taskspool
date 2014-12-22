@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 白日不湿
+
+    * Begin : 2014/12/22 10:09:05
+    * End   : 2014/12/22 10:09:07
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 洛可馨
 
     * Begin : 2014/12/22 10:05:23
