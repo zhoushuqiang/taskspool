@@ -1,3 +1,9 @@
+* [urlrule task] update urlrule/task/follows.txt
+
+    * Begin : 2014/12/22 18:40:53
+    * End   : 2014/12/22 18:40:57
+    * Result: OK
+
 * [urlrule] sites weipai.cn update baby蜜儿
 
     * Begin : 2014/12/22 18:37:26
