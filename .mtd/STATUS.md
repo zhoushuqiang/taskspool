@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 03:00:06] [urlrule] sites weipai.cn update 画泪听雨眠
     * [2014/12/24 02:59:30] [urlrule] sites weipai.cn update 甜美人angela
     * [2014/12/24 02:58:41] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2014/12/24 02:58:11] [urlrule] sites weipai.cn update 瑜伽女神青文
@@ -30,6 +31,11 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 02:59:52] [urlrule] sites weipai.cn update 男人不坏女人不爱B
+    * [2014/12/24 02:59:50] [urlrule] sites weipai.cn update 由咩咩
+    * [2014/12/24 02:59:48] [urlrule] sites weipai.cn update 田晓多tesia
+    * [2014/12/24 02:59:47] [urlrule] sites weipai.cn update 田君er
+    * [2014/12/24 02:59:45] [urlrule] sites weipai.cn update 生如夏花12
     * [2014/12/24 02:59:01] [urlrule] sites vlook.cn update 甜心宝
     * [2014/12/24 02:58:58] [urlrule] sites weipai.cn update 瓶宝宝
     * [2014/12/24 02:58:56] [urlrule] sites weipai.cn update 璇子_Yvonne

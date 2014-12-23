@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 画泪听雨眠
+
+    * Begin : 2014/12/24 02:59:54
+    * End   : 2014/12/24 03:00:06
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 男人不坏女人不爱B
+
+    * Begin : 2014/12/24 02:59:52
+    * End   : 2014/12/24 02:59:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 由咩咩
+
+    * Begin : 2014/12/24 02:59:50
+    * End   : 2014/12/24 02:59:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 田晓多tesia
+
+    * Begin : 2014/12/24 02:59:48
+    * End   : 2014/12/24 02:59:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 田君er
+
+    * Begin : 2014/12/24 02:59:46
+    * End   : 2014/12/24 02:59:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 生如夏花12
+
+    * Begin : 2014/12/24 02:59:44
+    * End   : 2014/12/24 02:59:45
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 甜美人angela
 
     * Begin : 2014/12/24 02:59:03
