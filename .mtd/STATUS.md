@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 02:52:58] [urlrule] sites weipai.cn update 然又又
     * [2014/12/24 02:52:03] [urlrule] sites weipai.cn update 湯大师
     * [2014/12/24 02:51:04] [urlrule] sites weipai.cn update 波波小姐
     * [2014/12/24 02:49:29] [urlrule] sites weipai.cn update 水蜜桃子
@@ -24,6 +25,12 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 02:52:32] [urlrule] sites vlook.cn update 激情一夏
+    * [2014/12/24 02:52:27] [urlrule] sites weipai.cn update 澄小兔
+    * [2014/12/24 02:52:25] [urlrule] sites weipai.cn update 潘潘20140413
+    * [2014/12/24 02:52:22] [urlrule] sites weipai.cn update 潘小云云
+    * [2014/12/24 02:52:20] [urlrule] sites weipai.cn update 满天都是小鑫鑫_
+    * [2014/12/24 02:52:18] [urlrule] sites weipai.cn update 溅行溅美
     * [2014/12/24 02:51:26] [urlrule] sites weipai.cn update 混血演员安娜
     * [2014/12/24 02:51:24] [urlrule] sites weipai.cn update 涵肉肉
     * [2014/12/24 02:51:22] [urlrule] sites weipai.cn update 浮生若梦
