@@ -1,3 +1,87 @@
+* [urlrule] sites weipai.cn update 雨辰Raina
+
+    * Begin : 2014/12/24 03:52:36
+    * End   : 2014/12/24 03:54:58
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 雨020141120
+
+    * Begin : 2014/12/24 03:52:34
+    * End   : 2014/12/24 03:52:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 雅蒂Atind
+
+    * Begin : 2014/12/24 03:52:32
+    * End   : 2014/12/24 03:52:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 雅沁
+
+    * Begin : 2014/12/24 03:52:30
+    * End   : 2014/12/24 03:52:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 随遇而安20140415
+
+    * Begin : 2014/12/24 03:52:28
+    * End   : 2014/12/24 03:52:28
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陛下陛下女王王
+
+    * Begin : 2014/12/24 03:52:26
+    * End   : 2014/12/24 03:52:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈语乔
+
+    * Begin : 2014/12/24 03:52:24
+    * End   : 2014/12/24 03:52:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈芯儿
+
+    * Begin : 2014/12/24 03:52:22
+    * End   : 2014/12/24 03:52:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈美琳Mandy
+
+    * Begin : 2014/12/24 03:52:19
+    * End   : 2014/12/24 03:52:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈柔轩Michel
+
+    * Begin : 2014/12/24 03:52:17
+    * End   : 2014/12/24 03:52:18
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 陈怡曼coco
+
+    * Begin : 2014/12/24 03:52:13
+    * End   : 2014/12/24 03:52:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈子萱vivi
+
+    * Begin : 2014/12/24 03:52:11
+    * End   : 2014/12/24 03:52:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈子萱vivi
+
+    * Begin : 2014/12/24 03:52:09
+    * End   : 2014/12/24 03:52:10
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 陈大榕
+
+    * Begin : 2014/12/24 03:52:05
+    * End   : 2014/12/24 03:52:08
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 陈大榕
 
     * Begin : 2014/12/24 03:50:21

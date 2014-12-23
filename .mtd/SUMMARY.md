@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 雨辰Raina
+
+    * Begin : 2014/12/24 03:52:36
+    * End   : 2014/12/24 03:54:58
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 陈大榕
 
     * Begin : 2014/12/24 03:50:21
