@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 05:35:29] [urlrule] sites weipai.cn UPDATE DJ_Ricey
+
     * [2014/12/24 05:29:08] [urlrule] sites weipai.cn UPDATE 伊莱丽
 
     * [2014/12/24 05:25:15] [urlrule] sites weipai.cn UPDATE 刘韩依HY
@@ -75,6 +77,46 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 05:30:13] [urlrule] sites weipai.cn follow 52532abd7d3494db6eb88247 DJ_Ricey
+
+    * [2014/12/24 05:30:13] [urlrule] sites weipai.cn add 52532abd7d3494db6eb88247 DJ_Ricey
+
+    * [2014/12/24 05:30:11] [urlrule] sites weipai.cn UPDATE Ms阿婆王
+
+    * [2014/12/24 05:30:10] [urlrule] sites weipai.cn follow 50bb2604803494ef02000054 Ms阿婆王
+
+    * [2014/12/24 05:30:10] [urlrule] sites weipai.cn add 50bb2604803494ef02000054 Ms阿婆王
+
+    * [2014/12/24 05:30:09] [urlrule] sites weipai.cn UPDATE 肖金铭
+
+    * [2014/12/24 05:30:08] [urlrule] sites weipai.cn follow 53d3694fa7640b9e058b457f 肖金铭
+
+    * [2014/12/24 05:30:07] [urlrule] sites weipai.cn add 53d3694fa7640b9e058b457f 肖金铭
+
+    * [2014/12/24 05:30:04] [urlrule] sites weipai.cn UPDATE 张若兰
+
+    * [2014/12/24 05:30:03] [urlrule] sites weipai.cn follow 514eca76803494b723000006 张若兰
+
+    * [2014/12/24 05:30:03] [urlrule] sites weipai.cn add 514eca76803494b723000006 张若兰
+
+    * [2014/12/24 05:30:01] [urlrule] sites weipai.cn UPDATE 若含_Princess
+
+    * [2014/12/24 05:30:00] [urlrule] sites weipai.cn follow 523963c27d3494dc6f2ef6ca 若含_Princess
+
+    * [2014/12/24 05:30:00] [urlrule] sites weipai.cn add 523963c27d3494dc6f2ef6ca 若含_Princess
+
+    * [2014/12/24 05:29:58] [urlrule] sites weipai.cn UPDATE 米洁
+
+    * [2014/12/24 05:29:57] [urlrule] sites weipai.cn follow 52a565957f349434799a17ad 米洁
+
+    * [2014/12/24 05:29:57] [urlrule] sites weipai.cn add 52a565957f349434799a17ad 米洁
+
+    * [2014/12/24 05:29:55] [urlrule] sites weipai.cn UPDATE 对你着了迷
+
+    * [2014/12/24 05:29:54] [urlrule] sites weipai.cn follow 527a15d37f34946403ffd763 对你着了迷
+
+    * [2014/12/24 05:29:53] [urlrule] sites weipai.cn add 527a15d37f34946403ffd763 对你着了迷
+
     * [2014/12/24 05:25:37] [urlrule] sites weipai.cn follow 532f4655803494464176699f 伊莱丽
 
     * [2014/12/24 05:25:36] [urlrule] sites weipai.cn add 532f4655803494464176699f 伊莱丽

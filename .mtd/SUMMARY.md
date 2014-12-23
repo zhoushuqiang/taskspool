@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE DJ_Ricey
+
+
+    * Begin : 2014/12/24 05:30:13
+    * End   : 2014/12/24 05:35:29
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 伊莱丽
 
 
