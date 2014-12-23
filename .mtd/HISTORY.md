@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 皇家国际-佳欲
+
+    * Begin : 2014/12/24 03:00:38
+    * End   : 2014/12/24 03:00:42
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 白雪团队全球招募创业伙伴
+
+    * Begin : 2014/12/24 03:00:36
+    * End   : 2014/12/24 03:00:37
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 白日不湿
 
     * Begin : 2014/12/24 03:00:20
