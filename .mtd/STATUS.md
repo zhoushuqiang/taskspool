@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 04:10:13] [urlrule] sites weipai.cn UPDATE mayuko
+
     * [2014/12/24 04:04:54] [urlrule] sites weipai.cn UPDATE Amanda5275
 
     * [2014/12/24 04:01:57] [urlrule] sites weipai.cn update 魚你你你你你
@@ -62,6 +64,10 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 04:06:17] [urlrule] sites weipai.cn follow 51ac5faf5a8e87197a00004a mayuko
+
+    * [2014/12/24 04:06:16] [urlrule] sites weipai.cn add 51ac5faf5a8e87197a00004a mayuko
+
     * [2014/12/24 04:03:05] [urlrule] sites weipai.cn follow 52fd7665ebeddb2f488b46d9 Amanda5275
 
     * [2014/12/24 04:03:04] [urlrule] sites weipai.cn add 52fd7665ebeddb2f488b46d9 Amanda5275

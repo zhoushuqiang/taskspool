@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE mayuko
+
+
+    * Begin : 2014/12/24 04:06:17
+    * End   : 2014/12/24 04:10:13
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 51ac5faf5a8e87197a00004a mayuko
+
+
+    * Begin : 2014/12/24 04:06:16
+    * End   : 2014/12/24 04:06:17
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 51ac5faf5a8e87197a00004a mayuko
+
+
+    * Begin : 2014/12/24 04:06:15
+    * End   : 2014/12/24 04:06:16
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE Amanda5275
 
 
