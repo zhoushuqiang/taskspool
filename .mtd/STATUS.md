@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 02:48:47] [urlrule] sites vlook.cn update 梦之冰城
     * [2014/12/24 02:46:27] [urlrule] sites weipai.cn update 梓茜ZX
     * [2014/12/24 02:45:48] [urlrule] sites weipai.cn update 梅姿baby
     * [2014/12/24 02:43:28] [urlrule] sites weipai.cn update 桓淼淼baby
