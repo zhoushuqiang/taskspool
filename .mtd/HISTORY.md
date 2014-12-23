@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 糖果果国
+
+    * Begin : 2014/12/24 03:12:56
+    * End   : 2014/12/24 03:17:21
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 粽子小姐
+
+    * Begin : 2014/12/24 03:12:53
+    * End   : 2014/12/24 03:12:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 粽子喜欢秋天
+
+    * Begin : 2014/12/24 03:12:51
+    * End   : 2014/12/24 03:12:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 粵講粵潮
+
+    * Begin : 2014/12/24 03:12:49
+    * End   : 2014/12/24 03:12:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 粉小溪CC
+
+    * Begin : 2014/12/24 03:12:47
+    * End   : 2014/12/24 03:12:48
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 米洁
+
+    * Begin : 2014/12/24 03:12:46
+    * End   : 2014/12/24 03:12:46
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 米洁
 
     * Begin : 2014/12/24 03:11:44

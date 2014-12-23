@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 糖果果国
+
+    * Begin : 2014/12/24 03:12:56
+    * End   : 2014/12/24 03:17:21
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 米洁
 
     * Begin : 2014/12/24 03:11:44
