@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 03:11:30] [urlrule] sites weipai.cn update 米拉贝拉Mirabella
     * [2014/12/24 03:10:47] [urlrule] sites weipai.cn update 空虚哥
     * [2014/12/24 03:09:46] [urlrule] sites weipai.cn update 秦勉叫冉冉
     * [2014/12/24 03:06:04] [urlrule] sites weipai.cn update 神神神神神姐
@@ -38,6 +39,12 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 03:11:11] [urlrule] sites weipai.cn update 米小西
+    * [2014/12/24 03:11:09] [urlrule] sites weipai.cn update 米妮mini_20140821
+    * [2014/12/24 03:11:07] [urlrule] sites weipai.cn update 笑笑dem
+    * [2014/12/24 03:11:05] [urlrule] sites weipai.cn update 笑笑Sophia
+    * [2014/12/24 03:11:02] [urlrule] sites weipai.cn update 笑笑
+    * [2014/12/24 03:11:00] [urlrule] sites weipai.cn update 穿着高跟鞋跳芭蕾--
     * [2014/12/24 03:10:03] [urlrule] sites weipai.cn update 穴儿
     * [2014/12/24 03:10:00] [urlrule] sites weipai.cn update 秦蕾
     * [2014/12/24 03:06:18] [urlrule] sites weipai.cn update 私人空间

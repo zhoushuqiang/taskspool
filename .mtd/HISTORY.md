@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn update 米拉贝拉Mirabella
+
+    * Begin : 2014/12/24 03:11:12
+    * End   : 2014/12/24 03:11:30
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 米小西
+
+    * Begin : 2014/12/24 03:11:10
+    * End   : 2014/12/24 03:11:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 米妮mini_20140821
+
+    * Begin : 2014/12/24 03:11:08
+    * End   : 2014/12/24 03:11:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 笑笑dem
+
+    * Begin : 2014/12/24 03:11:06
+    * End   : 2014/12/24 03:11:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 笑笑Sophia
+
+    * Begin : 2014/12/24 03:11:04
+    * End   : 2014/12/24 03:11:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 笑笑
+
+    * Begin : 2014/12/24 03:11:02
+    * End   : 2014/12/24 03:11:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 穿着高跟鞋跳芭蕾--
+
+    * Begin : 2014/12/24 03:10:59
+    * End   : 2014/12/24 03:11:00
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 空虚哥
 
     * Begin : 2014/12/24 03:10:04

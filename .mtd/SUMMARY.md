@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 米拉贝拉Mirabella
+
+    * Begin : 2014/12/24 03:11:12
+    * End   : 2014/12/24 03:11:30
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 空虚哥
 
     * Begin : 2014/12/24 03:10:04
