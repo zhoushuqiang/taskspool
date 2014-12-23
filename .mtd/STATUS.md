@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 02:21:58] [urlrule] sites weipai.cn update 暗黑小萝莉
     * [2014/12/24 02:21:03] [urlrule] sites weipai.cn update 晓卉日记
     * [2014/12/24 02:18:52] [urlrule] sites weipai.cn update 无敌女汉子
     * [2014/12/24 02:15:51] [urlrule] sites weipai.cn update 悦儿yummy
@@ -13,6 +14,11 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 02:21:21] [urlrule] sites weipai.cn update 晴海洋
+    * [2014/12/24 02:21:19] [urlrule] sites weipai.cn update 景小姐景小姐
+    * [2014/12/24 02:21:18] [urlrule] sites weipai.cn update 晨yoka
+    * [2014/12/24 02:21:15] [urlrule] sites weipai.cn update 晕死的大白兔
+    * [2014/12/24 02:21:14] [urlrule] sites weipai.cn update 晓彗大大大
     * [2014/12/24 02:19:04] [urlrule] sites weipai.cn update 易阳ELLY
     * [2014/12/24 02:19:02] [urlrule] sites weipai.cn update 早晚整死你
     * [2014/12/24 02:16:46] [urlrule] sites weipai.cn update 无懈可击阿乐

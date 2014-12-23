@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 暗黑小萝莉
+
+    * Begin : 2014/12/24 02:21:22
+    * End   : 2014/12/24 02:21:58
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 晓卉日记
 
     * Begin : 2014/12/24 02:19:05

@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 暗黑小萝莉
+
+    * Begin : 2014/12/24 02:21:22
+    * End   : 2014/12/24 02:21:58
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 晴海洋
+
+    * Begin : 2014/12/24 02:21:21
+    * End   : 2014/12/24 02:21:21
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 景小姐景小姐
+
+    * Begin : 2014/12/24 02:21:19
+    * End   : 2014/12/24 02:21:19
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 晨yoka
+
+    * Begin : 2014/12/24 02:21:17
+    * End   : 2014/12/24 02:21:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 晕死的大白兔
+
+    * Begin : 2014/12/24 02:21:15
+    * End   : 2014/12/24 02:21:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 晓彗大大大
+
+    * Begin : 2014/12/24 02:21:13
+    * End   : 2014/12/24 02:21:14
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 晓卉日记
 
     * Begin : 2014/12/24 02:19:05
