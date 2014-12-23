@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 05:55:56] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/24 05:35:29] [urlrule] sites weipai.cn UPDATE DJ_Ricey
 
     * [2014/12/24 05:29:08] [urlrule] sites weipai.cn UPDATE 伊莱丽
