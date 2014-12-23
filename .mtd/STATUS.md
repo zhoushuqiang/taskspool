@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 03:12:33] [urlrule] sites weipai.cn update 米洁
     * [2014/12/24 03:11:30] [urlrule] sites weipai.cn update 米拉贝拉Mirabella
     * [2014/12/24 03:10:47] [urlrule] sites weipai.cn update 空虚哥
     * [2014/12/24 03:09:46] [urlrule] sites weipai.cn update 秦勉叫冉冉
