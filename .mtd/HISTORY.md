@@ -1,3 +1,111 @@
+* [urlrule] sites weipai.cn update 颜珊珊baby
+
+    * Begin : 2014/12/24 03:56:23
+    * End   : 2014/12/24 03:59:16
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 颖小姐
+
+    * Begin : 2014/12/24 03:56:21
+    * End   : 2014/12/24 03:56:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 颕姐good-looking
+
+    * Begin : 2014/12/24 03:56:19
+    * End   : 2014/12/24 03:56:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 顾美丽
+
+    * Begin : 2014/12/24 03:56:17
+    * End   : 2014/12/24 03:56:18
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 顽石化钻恋玉人
+
+    * Begin : 2014/12/24 03:56:13
+    * End   : 2014/12/24 03:56:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 順唭自嘫
+
+    * Begin : 2014/12/24 03:56:11
+    * End   : 2014/12/24 03:56:12
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 韩金丽
+
+    * Begin : 2014/12/24 03:56:08
+    * End   : 2014/12/24 03:56:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩金丽
+
+    * Begin : 2014/12/24 03:56:06
+    * End   : 2014/12/24 03:56:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩田稀小号
+
+    * Begin : 2014/12/24 03:56:04
+    * End   : 2014/12/24 03:56:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩田稀
+
+    * Begin : 2014/12/24 03:56:02
+    * End   : 2014/12/24 03:56:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩田稀
+
+    * Begin : 2014/12/24 03:55:59
+    * End   : 2014/12/24 03:56:00
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 韩昕怡Summer
+
+    * Begin : 2014/12/24 03:55:55
+    * End   : 2014/12/24 03:55:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩媚希
+
+    * Begin : 2014/12/24 03:55:53
+    * End   : 2014/12/24 03:55:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩士博
+
+    * Begin : 2014/12/24 03:55:50
+    * End   : 2014/12/24 03:55:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 静静韩妆护肤
+
+    * Begin : 2014/12/24 03:55:48
+    * End   : 2014/12/24 03:55:49
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 静静的微笑
+
+    * Begin : 2014/12/24 03:55:46
+    * End   : 2014/12/24 03:55:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 露滴
+
+    * Begin : 2014/12/24 03:55:44
+    * End   : 2014/12/24 03:55:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 雷婷婷Baby
+
+    * Begin : 2014/12/24 03:55:41
+    * End   : 2014/12/24 03:55:42
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 雨辰Raina
 
     * Begin : 2014/12/24 03:52:36
