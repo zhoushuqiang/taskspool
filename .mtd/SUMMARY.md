@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 阿鑫很浮躁
+
+    * Begin : 2014/12/24 03:46:31
+    * End   : 2014/12/24 03:49:55
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 钱小美
 
     * Begin : 2014/12/24 03:44:29
