@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 02:39:33] [urlrule] sites weipai.cn update 林歆蕊Q286312385
     * [2014/12/24 02:38:33] [urlrule] sites weipai.cn update 李点点儿
     * [2014/12/24 02:30:32] [urlrule] sites weipai.cn update 李七喜
     * [2014/12/24 02:21:58] [urlrule] sites weipai.cn update 暗黑小萝莉
@@ -16,6 +17,20 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 02:39:18] [urlrule] sites vlook.cn update 林歆蕊
+    * [2014/12/24 02:39:14] [urlrule] sites weipai.cn update 林夕baby123
+    * [2014/12/24 02:39:12] [urlrule] sites weipai.cn update 杨沫沫Aimee
+    * [2014/12/24 02:39:10] [urlrule] sites weipai.cn update 杨梓萱baby
+    * [2014/12/24 02:39:09] [urlrule] sites weipai.cn update 杨杨ghj
+    * [2014/12/24 02:39:07] [urlrule] sites vlook.cn update 杨慧儿
+    * [2014/12/24 02:39:03] [urlrule] sites weipai.cn update 杨小琦TY
+    * [2014/12/24 02:39:01] [urlrule] sites weipai.cn update 杨安妮宝贝
+    * [2014/12/24 02:38:59] [urlrule] sites weipai.cn update 杨大人
+    * [2014/12/24 02:38:57] [urlrule] sites weipai.cn update 来肏逼123
+    * [2014/12/24 02:38:55] [urlrule] sites vlook.cn update 来不及疼痛
+    * [2014/12/24 02:38:52] [urlrule] sites vlook.cn update 李颖芝
+    * [2014/12/24 02:38:49] [urlrule] sites weipai.cn update 李豪Joylee
+    * [2014/12/24 02:38:47] [urlrule] sites weipai.cn update 李萌萌护肤美美哒
     * [2014/12/24 02:30:59] [urlrule] sites weipai.cn update 李朝蛟-Bie
     * [2014/12/24 02:30:57] [urlrule] sites weipai.cn update 李怡静1118
     * [2014/12/24 02:30:55] [urlrule] sites vlook.cn update 李思闻
