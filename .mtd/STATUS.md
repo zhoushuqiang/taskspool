@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 03:24:17] [urlrule] sites weipai.cn update 芭比娃哈
     * [2014/12/24 03:23:59] [urlrule] sites weipai.cn update 艾舞kathy
     * [2014/12/24 03:22:34] [urlrule] sites weipai.cn update 艾小爱
     * [2014/12/24 03:22:03] [urlrule] sites weipai.cn update 般若的每一天
@@ -45,6 +46,7 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 03:24:14] [urlrule] sites weipai.cn update 芒果小懒猫
     * [2014/12/24 03:22:19] [urlrule] sites weipai.cn update 艾_笑笑
     * [2014/12/24 03:19:24] [urlrule] sites weipai.cn update 胸奀
     * [2014/12/24 03:19:22] [urlrule] sites vlook.cn update 胡金熙
