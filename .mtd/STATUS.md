@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 03:30:12] [urlrule] sites weipai.cn update 萨莎
     * [2014/12/24 03:28:34] [urlrule] sites weipai.cn update 菲飞飞
     * [2014/12/24 03:27:29] [urlrule] sites weipai.cn update 范范范小范
     * [2014/12/24 03:25:28] [urlrule] sites weipai.cn update 若涵Baby
@@ -50,6 +51,11 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 03:28:58] [urlrule] sites weipai.cn update 萝卜baby
+    * [2014/12/24 03:28:56] [urlrule] sites weipai.cn update 萌萌焕
+    * [2014/12/24 03:28:54] [urlrule] sites weipai.cn update 萌小萌不萌
+    * [2014/12/24 03:28:52] [urlrule] sites weipai.cn update 萌娇小妖精
+    * [2014/12/24 03:28:50] [urlrule] sites weipai.cn update 萌不可言
     * [2014/12/24 03:28:04] [urlrule] sites weipai.cn update 菲菲和娜娜
     * [2014/12/24 03:28:02] [urlrule] sites weipai.cn update 菲儿
     * [2014/12/24 03:27:59] [urlrule] sites weipai.cn update 菀児baby

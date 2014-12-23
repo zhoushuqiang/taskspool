@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 萨莎
+
+    * Begin : 2014/12/24 03:28:59
+    * End   : 2014/12/24 03:30:12
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 萝卜baby
+
+    * Begin : 2014/12/24 03:28:57
+    * End   : 2014/12/24 03:28:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 萌萌焕
+
+    * Begin : 2014/12/24 03:28:55
+    * End   : 2014/12/24 03:28:56
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 萌小萌不萌
+
+    * Begin : 2014/12/24 03:28:53
+    * End   : 2014/12/24 03:28:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 萌娇小妖精
+
+    * Begin : 2014/12/24 03:28:52
+    * End   : 2014/12/24 03:28:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 萌不可言
+
+    * Begin : 2014/12/24 03:28:50
+    * End   : 2014/12/24 03:28:50
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 菲飞飞
 
     * Begin : 2014/12/24 03:28:06
