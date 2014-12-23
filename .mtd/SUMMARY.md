@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 李七喜
+
+    * Begin : 2014/12/24 02:22:24
+    * End   : 2014/12/24 02:30:32
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 暗黑小萝莉
 
     * Begin : 2014/12/24 02:21:22

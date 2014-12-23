@@ -1,3 +1,63 @@
+* [urlrule] sites weipai.cn update 李七喜
+
+    * Begin : 2014/12/24 02:22:24
+    * End   : 2014/12/24 02:30:32
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 朵朵猪
+
+    * Begin : 2014/12/24 02:22:22
+    * End   : 2014/12/24 02:22:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 朱小璐-nini
+
+    * Begin : 2014/12/24 02:22:20
+    * End   : 2014/12/24 02:22:21
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 最美的太阳20140822
+
+    * Begin : 2014/12/24 02:22:19
+    * End   : 2014/12/24 02:22:19
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 最帅马三舅
+
+    * Begin : 2014/12/24 02:22:17
+    * End   : 2014/12/24 02:22:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曾贾
+
+    * Begin : 2014/12/24 02:22:16
+    * End   : 2014/12/24 02:22:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曼丽LXL
+
+    * Begin : 2014/12/24 02:22:14
+    * End   : 2014/12/24 02:22:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曹紫涵
+
+    * Begin : 2014/12/24 02:22:12
+    * End   : 2014/12/24 02:22:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曹欣妮s
+
+    * Begin : 2014/12/24 02:22:10
+    * End   : 2014/12/24 02:22:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曲珈叶
+
+    * Begin : 2014/12/24 02:22:08
+    * End   : 2014/12/24 02:22:08
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 暗黑小萝莉
 
     * Begin : 2014/12/24 02:21:22

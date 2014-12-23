@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 02:30:32] [urlrule] sites weipai.cn update 李七喜
     * [2014/12/24 02:21:58] [urlrule] sites weipai.cn update 暗黑小萝莉
     * [2014/12/24 02:21:03] [urlrule] sites weipai.cn update 晓卉日记
     * [2014/12/24 02:18:52] [urlrule] sites weipai.cn update 无敌女汉子
@@ -14,6 +15,15 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 02:22:23] [urlrule] sites weipai.cn update 朵朵猪
+    * [2014/12/24 02:22:21] [urlrule] sites weipai.cn update 朱小璐-nini
+    * [2014/12/24 02:22:19] [urlrule] sites weipai.cn update 最美的太阳20140822
+    * [2014/12/24 02:22:18] [urlrule] sites weipai.cn update 最帅马三舅
+    * [2014/12/24 02:22:16] [urlrule] sites weipai.cn update 曾贾
+    * [2014/12/24 02:22:14] [urlrule] sites weipai.cn update 曼丽LXL
+    * [2014/12/24 02:22:13] [urlrule] sites weipai.cn update 曹紫涵
+    * [2014/12/24 02:22:10] [urlrule] sites weipai.cn update 曹欣妮s
+    * [2014/12/24 02:22:08] [urlrule] sites weipai.cn update 曲珈叶
     * [2014/12/24 02:21:21] [urlrule] sites weipai.cn update 晴海洋
     * [2014/12/24 02:21:19] [urlrule] sites weipai.cn update 景小姐景小姐
     * [2014/12/24 02:21:18] [urlrule] sites weipai.cn update 晨yoka
