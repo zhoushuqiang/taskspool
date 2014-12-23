@@ -1,3 +1,174 @@
+* [urlrule] sites weipai.cn UPDATE Amanda5275
+
+
+    * Begin : 2014/12/24 04:03:05
+    * End   : 2014/12/24 04:04:54
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 52fd7665ebeddb2f488b46d9 Amanda5275
+
+
+    * Begin : 2014/12/24 04:03:04
+    * End   : 2014/12/24 04:03:05
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52fd7665ebeddb2f488b46d9 Amanda5275
+
+
+    * Begin : 2014/12/24 04:03:04
+    * End   : 2014/12/24 04:03:04
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 小将士
+
+
+    * Begin : 2014/12/24 04:03:02
+    * End   : 2014/12/24 04:03:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53945aeaebeddbf6018b457b 小将士
+
+
+    * Begin : 2014/12/24 04:03:01
+    * End   : 2014/12/24 04:03:02
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53945aeaebeddbf6018b457b 小将士
+
+
+    * Begin : 2014/12/24 04:03:01
+    * End   : 2014/12/24 04:03:01
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 小艾艾
+
+
+    * Begin : 2014/12/24 04:02:59
+    * End   : 2014/12/24 04:03:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 51d4a4d47f34947078000015 小艾艾
+
+
+    * Begin : 2014/12/24 04:02:58
+    * End   : 2014/12/24 04:02:59
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 51d4a4d47f34947078000015 小艾艾
+
+
+    * Begin : 2014/12/24 04:02:58
+    * End   : 2014/12/24 04:02:58
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE BOBO小苗
+
+
+    * Begin : 2014/12/24 04:02:56
+    * End   : 2014/12/24 04:02:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 51e4173e8134948967000017 BOBO小苗
+
+
+    * Begin : 2014/12/24 04:02:56
+    * End   : 2014/12/24 04:02:56
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 51e4173e8134948967000017 BOBO小苗
+
+
+    * Begin : 2014/12/24 04:02:56
+    * End   : 2014/12/24 04:02:56
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 洛可馨baby
+
+
+    * Begin : 2014/12/24 04:02:53
+    * End   : 2014/12/24 04:02:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53f5690ea7640b91338b4574 洛可馨baby
+
+
+    * Begin : 2014/12/24 04:02:52
+    * End   : 2014/12/24 04:02:53
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53f5690ea7640b91338b4574 洛可馨baby
+
+
+    * Begin : 2014/12/24 04:02:52
+    * End   : 2014/12/24 04:02:52
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn update 龙儿20140330
+
+    * Begin : 2014/12/24 04:02:48
+    * End   : 2014/12/24 04:02:49
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 黒目瞳
+
+    * Begin : 2014/12/24 04:02:43
+    * End   : 2014/12/24 04:02:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 黒目瞳
+
+    * Begin : 2014/12/24 04:02:41
+    * End   : 2014/12/24 04:02:42
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 黑金色会飞的鱼
+
+    * Begin : 2014/12/24 04:02:39
+    * End   : 2014/12/24 04:02:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 黑桃女王
+
+    * Begin : 2014/12/24 04:02:37
+    * End   : 2014/12/24 04:02:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 黑三小幺
+
+    * Begin : 2014/12/24 04:02:35
+    * End   : 2014/12/24 04:02:36
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 黎儿
+
+    * Begin : 2014/12/24 04:02:33
+    * End   : 2014/12/24 04:02:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 黄没没-
+
+    * Begin : 2014/12/24 04:02:31
+    * End   : 2014/12/24 04:02:32
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 麻酥酥
+
+    * Begin : 2014/12/24 04:02:27
+    * End   : 2014/12/24 04:02:29
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 麻优酥酥
+
+    * Begin : 2014/12/24 04:02:25
+    * End   : 2014/12/24 04:02:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 麦子orSkala
+
+    * Begin : 2014/12/24 04:02:22
+    * End   : 2014/12/24 04:02:23
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 魚你你你你你
 
     * Begin : 2014/12/24 04:00:13

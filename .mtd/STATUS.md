@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 04:04:54] [urlrule] sites weipai.cn UPDATE Amanda5275
+
     * [2014/12/24 04:01:57] [urlrule] sites weipai.cn update 魚你你你你你
     * [2014/12/24 03:59:16] [urlrule] sites weipai.cn update 颜珊珊baby
     * [2014/12/24 03:54:58] [urlrule] sites weipai.cn update 雨辰Raina
@@ -60,6 +62,45 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 04:03:05] [urlrule] sites weipai.cn follow 52fd7665ebeddb2f488b46d9 Amanda5275
+
+    * [2014/12/24 04:03:04] [urlrule] sites weipai.cn add 52fd7665ebeddb2f488b46d9 Amanda5275
+
+    * [2014/12/24 04:03:02] [urlrule] sites weipai.cn UPDATE 小将士
+
+    * [2014/12/24 04:03:02] [urlrule] sites weipai.cn follow 53945aeaebeddbf6018b457b 小将士
+
+    * [2014/12/24 04:03:01] [urlrule] sites weipai.cn add 53945aeaebeddbf6018b457b 小将士
+
+    * [2014/12/24 04:03:00] [urlrule] sites weipai.cn UPDATE 小艾艾
+
+    * [2014/12/24 04:02:59] [urlrule] sites weipai.cn follow 51d4a4d47f34947078000015 小艾艾
+
+    * [2014/12/24 04:02:58] [urlrule] sites weipai.cn add 51d4a4d47f34947078000015 小艾艾
+
+    * [2014/12/24 04:02:57] [urlrule] sites weipai.cn UPDATE BOBO小苗
+
+    * [2014/12/24 04:02:56] [urlrule] sites weipai.cn follow 51e4173e8134948967000017 BOBO小苗
+
+    * [2014/12/24 04:02:56] [urlrule] sites weipai.cn add 51e4173e8134948967000017 BOBO小苗
+
+    * [2014/12/24 04:02:54] [urlrule] sites weipai.cn UPDATE 洛可馨baby
+
+    * [2014/12/24 04:02:53] [urlrule] sites weipai.cn follow 53f5690ea7640b91338b4574 洛可馨baby
+
+    * [2014/12/24 04:02:52] [urlrule] sites weipai.cn add 53f5690ea7640b91338b4574 洛可馨baby
+
+    * [2014/12/24 04:02:49] [urlrule] sites weipai.cn update 龙儿20140330
+    * [2014/12/24 04:02:46] [urlrule] sites vlook.cn update 黒目瞳
+    * [2014/12/24 04:02:42] [urlrule] sites weipai.cn update 黒目瞳
+    * [2014/12/24 04:02:40] [urlrule] sites weipai.cn update 黑金色会飞的鱼
+    * [2014/12/24 04:02:38] [urlrule] sites weipai.cn update 黑桃女王
+    * [2014/12/24 04:02:36] [urlrule] sites weipai.cn update 黑三小幺
+    * [2014/12/24 04:02:34] [urlrule] sites weipai.cn update 黎儿
+    * [2014/12/24 04:02:32] [urlrule] sites weipai.cn update 黄没没-
+    * [2014/12/24 04:02:29] [urlrule] sites vlook.cn update 麻酥酥
+    * [2014/12/24 04:02:26] [urlrule] sites weipai.cn update 麻优酥酥
+    * [2014/12/24 04:02:23] [urlrule] sites weipai.cn update 麦子orSkala
     * [2014/12/24 04:00:12] [urlrule] sites vlook.cn update 魔都天后
     * [2014/12/24 04:00:08] [urlrule] sites weipai.cn update 魔法倩
     * [2014/12/24 04:00:05] [urlrule] sites weipai.cn update 魏嘉蒂Betty
