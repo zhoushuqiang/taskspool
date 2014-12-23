@@ -15,3 +15,4 @@ http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5MUk&client=pc&imei=ee257
 http://download1.vlook.cn/video/high/6V_Q.mp4	20141210020442_喜歡紅心點起來❤️❤️_17秒.mp4
 http://download1.vlook.cn/video/high/6V_D.mp4	20141210020421_我要紅心❤️唷_7秒.mp4
 http://download1.vlook.cn/video/high/6VBp.mp4	20141207221511_今晚比較嗨幾點點紅心❤️_7秒.mp4
+http://download1.vlook.cn/video/high/71a3.mp4	20141223180908_大家最近好嗎！很久沒有給大家錄視頻了！@微录客_33秒.mp4

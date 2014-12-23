@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update 性感女神研研
+
+    * Begin : 2014/12/24 02:10:32
+    * End   : 2014/12/24 02:10:40
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 徐美儿
 
     * Begin : 2014/12/24 02:09:43
