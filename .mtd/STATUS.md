@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 03:42:34] [urlrule] sites weipai.cn update 诗卉95113
     * [2014/12/24 03:34:04] [urlrule] sites weipai.cn update 表妹baby
     * [2014/12/24 03:30:48] [urlrule] sites weipai.cn update 薇妮BABY
     * [2014/12/24 03:30:12] [urlrule] sites weipai.cn update 萨莎
@@ -53,6 +54,11 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 03:34:28] [urlrule] sites weipai.cn update 许小雪S
+    * [2014/12/24 03:34:26] [urlrule] sites weipai.cn update 許曼妮
+    * [2014/12/24 03:34:24] [urlrule] sites weipai.cn update 角落宝贝
+    * [2014/12/24 03:34:22] [urlrule] sites weipai.cn update 西瓜姑娘
+    * [2014/12/24 03:34:19] [urlrule] sites vlook.cn update 表表表
     * [2014/12/24 03:31:18] [urlrule] sites weipai.cn update 蜜蜜波
     * [2014/12/24 03:31:16] [urlrule] sites weipai.cn update 蛇蛇姜瑾芝
     * [2014/12/24 03:31:13] [urlrule] sites weipai.cn update 蛇精病---
