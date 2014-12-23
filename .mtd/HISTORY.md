@@ -1,3 +1,57 @@
+* [urlrule] sites weipai.cn update 李点点儿
+
+    * Begin : 2014/12/24 02:31:00
+    * End   : 2014/12/24 02:38:33
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 李朝蛟-Bie
+
+    * Begin : 2014/12/24 02:30:58
+    * End   : 2014/12/24 02:30:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李怡静1118
+
+    * Begin : 2014/12/24 02:30:56
+    * End   : 2014/12/24 02:30:57
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 李思闻
+
+    * Begin : 2014/12/24 02:30:53
+    * End   : 2014/12/24 02:30:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李思闻
+
+    * Begin : 2014/12/24 02:30:51
+    * End   : 2014/12/24 02:30:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李思桐儿
+
+    * Begin : 2014/12/24 02:30:49
+    * End   : 2014/12/24 02:30:49
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李妍呢
+
+    * Begin : 2014/12/24 02:30:47
+    * End   : 2014/12/24 02:30:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李佳洁妞儿
+
+    * Begin : 2014/12/24 02:30:45
+    * End   : 2014/12/24 02:30:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李云666
+
+    * Begin : 2014/12/24 02:30:43
+    * End   : 2014/12/24 02:30:44
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 李七喜
 
     * Begin : 2014/12/24 02:22:24
