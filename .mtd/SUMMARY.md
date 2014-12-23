@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 水蜜桃子
+
+    * Begin : 2014/12/24 02:49:27
+    * End   : 2014/12/24 02:49:29
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 梦之冰城
 
     * Begin : 2014/12/24 02:46:39

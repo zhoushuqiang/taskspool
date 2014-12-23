@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 02:49:29] [urlrule] sites weipai.cn update 水蜜桃子
     * [2014/12/24 02:48:47] [urlrule] sites vlook.cn update 梦之冰城
     * [2014/12/24 02:46:27] [urlrule] sites weipai.cn update 梓茜ZX
     * [2014/12/24 02:45:48] [urlrule] sites weipai.cn update 梅姿baby
@@ -21,6 +22,19 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 02:49:25] [urlrule] sites weipai.cn update 毛大怪
+    * [2014/12/24 02:49:24] [urlrule] sites weipai.cn update 欣赏为主
+    * [2014/12/24 02:49:22] [urlrule] sites weipai.cn update 欠缺完美
+    * [2014/12/24 02:49:19] [urlrule] sites weipai.cn update 橙子醬
+    * [2014/12/24 02:49:17] [urlrule] sites weipai.cn update 橙子妹妹
+    * [2014/12/24 02:49:15] [urlrule] sites weipai.cn update 橙大爷
+    * [2014/12/24 02:49:13] [urlrule] sites weipai.cn update 模特丹丹
+    * [2014/12/24 02:49:11] [urlrule] sites weipai.cn update 模特-杨伊
+    * [2014/12/24 02:49:09] [urlrule] sites weipai.cn update 梦瑶
+    * [2014/12/24 02:49:07] [urlrule] sites weipai.cn update 梦游娃娃
+    * [2014/12/24 02:49:05] [urlrule] sites weipai.cn update 梦梦20141111
+    * [2014/12/24 02:49:03] [urlrule] sites weipai.cn update 梦幻噢
+    * [2014/12/24 02:49:01] [urlrule] sites weipai.cn update 梦婷Baby
     * [2014/12/24 02:46:02] [urlrule] sites weipai.cn update 梅子小姐_01
     * [2014/12/24 02:43:47] [urlrule] sites weipai.cn update 梁珂
     * [2014/12/24 02:43:45] [urlrule] sites weipai.cn update 梁倩cat
