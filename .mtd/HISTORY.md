@@ -1,3 +1,57 @@
+* [urlrule] sites weipai.cn update 猫小咪Queen
+
+    * Begin : 2014/12/24 02:53:31
+    * End   : 2014/12/24 02:54:13
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 猫大人是猫大人
+
+    * Begin : 2014/12/24 02:53:29
+    * End   : 2014/12/24 02:53:29
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 猫一样的女人猫 伊莲的小衣橱
+
+    * Begin : 2014/12/24 02:53:25
+    * End   : 2014/12/24 02:53:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 独爱简单控
+
+    * Begin : 2014/12/24 02:53:23
+    * End   : 2014/12/24 02:53:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 狐狸要成精LZ去死
+
+    * Begin : 2014/12/24 02:53:21
+    * End   : 2014/12/24 02:53:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 爱爱微拍
+
+    * Begin : 2014/12/24 02:53:19
+    * End   : 2014/12/24 02:53:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 燕囡囡
+
+    * Begin : 2014/12/24 02:53:17
+    * End   : 2014/12/24 02:53:18
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 熙悦儿丶
+
+    * Begin : 2014/12/24 02:53:13
+    * End   : 2014/12/24 02:53:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 熊葵
+
+    * Begin : 2014/12/24 02:53:11
+    * End   : 2014/12/24 02:53:12
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 然又又
 
     * Begin : 2014/12/24 02:52:34
