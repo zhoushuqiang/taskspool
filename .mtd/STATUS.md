@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 04:16:49] [urlrule] sites weipai.cn UPDATE 前任攻略
+
     * [2014/12/24 04:13:04] [urlrule] sites weipai.cn UPDATE 雯子蜜
 
     * [2014/12/24 04:10:13] [urlrule] sites weipai.cn UPDATE mayuko
@@ -66,6 +68,16 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 04:13:23] [urlrule] sites weipai.cn follow 52efdc8f803494321f30d8fc 前任攻略
+
+    * [2014/12/24 04:13:22] [urlrule] sites weipai.cn add 52efdc8f803494321f30d8fc 前任攻略
+
+    * [2014/12/24 04:13:20] [urlrule] sites weipai.cn UPDATE 没有尾巴小狐狸
+
+    * [2014/12/24 04:13:20] [urlrule] sites weipai.cn follow 5398544cebeddbb2768b4567 没有尾巴小狐狸
+
+    * [2014/12/24 04:13:19] [urlrule] sites weipai.cn add 5398544cebeddbb2768b4567 没有尾巴小狐狸
+
     * [2014/12/24 04:10:27] [urlrule] sites weipai.cn follow 516ac8a77d3494ef4c000015 雯子蜜
 
     * [2014/12/24 04:10:27] [urlrule] sites weipai.cn add 516ac8a77d3494ef4c000015 雯子蜜

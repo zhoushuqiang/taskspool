@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn UPDATE 前任攻略
+
+
+    * Begin : 2014/12/24 04:13:23
+    * End   : 2014/12/24 04:16:49
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 52efdc8f803494321f30d8fc 前任攻略
+
+
+    * Begin : 2014/12/24 04:13:22
+    * End   : 2014/12/24 04:13:23
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52efdc8f803494321f30d8fc 前任攻略
+
+
+    * Begin : 2014/12/24 04:13:22
+    * End   : 2014/12/24 04:13:22
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 没有尾巴小狐狸
+
+
+    * Begin : 2014/12/24 04:13:20
+    * End   : 2014/12/24 04:13:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5398544cebeddbb2768b4567 没有尾巴小狐狸
+
+
+    * Begin : 2014/12/24 04:13:19
+    * End   : 2014/12/24 04:13:20
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5398544cebeddbb2768b4567 没有尾巴小狐狸
+
+
+    * Begin : 2014/12/24 04:13:19
+    * End   : 2014/12/24 04:13:19
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 雯子蜜
 
 
