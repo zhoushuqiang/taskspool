@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 矢帘
+
+    * Begin : 2014/12/24 03:03:28
+    * End   : 2014/12/24 03:05:36
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 瞄小婷
 
     * Begin : 2014/12/24 03:00:58
