@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 04:01:57] [urlrule] sites weipai.cn update 魚你你你你你
     * [2014/12/24 03:59:16] [urlrule] sites weipai.cn update 颜珊珊baby
     * [2014/12/24 03:54:58] [urlrule] sites weipai.cn update 雨辰Raina
     * [2014/12/24 03:51:52] [urlrule] sites weipai.cn update 陈大榕
@@ -59,6 +60,15 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 04:00:12] [urlrule] sites vlook.cn update 魔都天后
+    * [2014/12/24 04:00:08] [urlrule] sites weipai.cn update 魔法倩
+    * [2014/12/24 04:00:05] [urlrule] sites weipai.cn update 魏嘉蒂Betty
+    * [2014/12/24 04:00:03] [urlrule] sites weipai.cn update 高冷漾
+    * [2014/12/24 04:00:01] [urlrule] sites weipai.cn update 高依然Doris
+    * [2014/12/24 03:59:59] [urlrule] sites weipai.cn update 馨妹纸
+    * [2014/12/24 03:59:57] [urlrule] sites weipai.cn update 颜若熙92
+    * [2014/12/24 03:59:55] [urlrule] sites vlook.cn update 颜若曦子
+    * [2014/12/24 03:59:52] [urlrule] sites weipai.cn update 颜若曦子
     * [2014/12/24 03:56:22] [urlrule] sites weipai.cn update 颖小姐
     * [2014/12/24 03:56:20] [urlrule] sites weipai.cn update 颕姐good-looking
     * [2014/12/24 03:56:18] [urlrule] sites weipai.cn update 顾美丽
