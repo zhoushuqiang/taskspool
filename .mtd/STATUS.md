@@ -2,10 +2,18 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 02:09:32] [urlrule] sites weipai.cn update 徐妍馨Mandy
     * [2014/12/24 02:08:44] [urlrule] sites weipai.cn update 张瑶isa
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 02:09:08] [urlrule] sites weipai.cn update 张馨馨Maggie
+    * [2014/12/24 02:09:06] [urlrule] sites weipai.cn update 张露_Betty
+    * [2014/12/24 02:09:04] [urlrule] sites weipai.cn update 张鑫Amy
+    * [2014/12/24 02:09:03] [urlrule] sites weipai.cn update 张若兰
+    * [2014/12/24 02:09:00] [urlrule] sites weipai.cn update 张若兰
+    * [2014/12/24 02:08:58] [urlrule] sites weipai.cn update 张芊芊
+    * [2014/12/24 02:08:56] [urlrule] sites weipai.cn update 张美荧
     * [2014/12/24 02:07:37] [urlrule] sites weipai.cn update 张江南同学
     * [2014/12/24 02:07:35] [urlrule] sites weipai.cn update 张栩菲-ManGo
     * [2014/12/24 02:07:34] [urlrule] sites weipai.cn update 张春雪v
