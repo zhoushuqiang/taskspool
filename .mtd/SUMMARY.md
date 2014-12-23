@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 刘韩依HY
+
+
+    * Begin : 2014/12/24 05:18:48
+    * End   : 2014/12/24 05:25:15
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
 
     * Begin : 2014/12/24 04:58:20

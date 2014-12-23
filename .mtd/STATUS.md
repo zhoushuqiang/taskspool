@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 05:25:15] [urlrule] sites weipai.cn UPDATE 刘韩依HY
+
     * [2014/12/24 05:18:26] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
     * [2014/12/24 04:58:07] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
     * [2014/12/24 04:37:46] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
@@ -71,6 +73,22 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 05:18:48] [urlrule] sites weipai.cn follow 51850ff67f34940e0f000001 刘韩依HY
+
+    * [2014/12/24 05:18:47] [urlrule] sites weipai.cn add 51850ff67f34940e0f000001 刘韩依HY
+
+    * [2014/12/24 05:18:45] [urlrule] sites weipai.cn UPDATE 小龙钕baby
+
+    * [2014/12/24 05:18:44] [urlrule] sites weipai.cn follow 52cbb7d079d3ccbb0d8b4570 小龙钕baby
+
+    * [2014/12/24 05:18:44] [urlrule] sites weipai.cn add 52cbb7d079d3ccbb0d8b4570 小龙钕baby
+
+    * [2014/12/24 05:18:41] [urlrule] sites weipai.cn UPDATE 苏夏妞妞
+
+    * [2014/12/24 05:18:40] [urlrule] sites weipai.cn follow 505d163d7f34941c2f000070 苏夏妞妞
+
+    * [2014/12/24 05:18:39] [urlrule] sites weipai.cn add 505d163d7f34941c2f000070 苏夏妞妞
+
     * [2014/12/24 04:13:23] [urlrule] sites weipai.cn follow 52efdc8f803494321f30d8fc 前任攻略
 
     * [2014/12/24 04:13:22] [urlrule] sites weipai.cn add 52efdc8f803494321f30d8fc 前任攻略
