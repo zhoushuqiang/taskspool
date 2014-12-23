@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 03:22:34] [urlrule] sites weipai.cn update 艾小爱
     * [2014/12/24 03:22:03] [urlrule] sites weipai.cn update 般若的每一天
     * [2014/12/24 03:18:43] [urlrule] sites weipai.cn update 罗小佩
     * [2014/12/24 03:17:21] [urlrule] sites weipai.cn update 糖果果国
@@ -43,6 +44,7 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 03:22:19] [urlrule] sites weipai.cn update 艾_笑笑
     * [2014/12/24 03:19:24] [urlrule] sites weipai.cn update 胸奀
     * [2014/12/24 03:19:22] [urlrule] sites vlook.cn update 胡金熙
     * [2014/12/24 03:19:18] [urlrule] sites weipai.cn update 胖洋葱
