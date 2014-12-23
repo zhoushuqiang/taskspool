@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 般若的每一天
+
+    * Begin : 2014/12/24 03:19:26
+    * End   : 2014/12/24 03:22:03
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 罗小佩
 
     * Begin : 2014/12/24 03:17:50
