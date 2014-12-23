@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 钱小美
+
+    * Begin : 2014/12/24 03:44:29
+    * End   : 2014/12/24 03:46:07
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 诗卉95113
 
     * Begin : 2014/12/24 03:34:29

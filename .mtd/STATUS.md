@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 03:46:07] [urlrule] sites weipai.cn update 钱小美
     * [2014/12/24 03:42:34] [urlrule] sites weipai.cn update 诗卉95113
     * [2014/12/24 03:34:04] [urlrule] sites weipai.cn update 表妹baby
     * [2014/12/24 03:30:48] [urlrule] sites weipai.cn update 薇妮BABY
@@ -54,6 +55,26 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 03:44:27] [urlrule] sites weipai.cn update 钟紫心
+    * [2014/12/24 03:44:25] [urlrule] sites weipai.cn update 金金金金小沙
+    * [2014/12/24 03:44:23] [urlrule] sites weipai.cn update 重头再来20141107
+    * [2014/12/24 03:44:21] [urlrule] sites vlook.cn update 酔熱舆Beer
+    * [2014/12/24 03:44:17] [urlrule] sites weipai.cn update 酒窝妹子
+    * [2014/12/24 03:44:15] [urlrule] sites weipai.cn update 酒才是最忠诚的男朋友
+    * [2014/12/24 03:44:13] [urlrule] sites weipai.cn update 郑菲儿
+    * [2014/12/24 03:44:11] [urlrule] sites weipai.cn update 郑瑞熙_
+    * [2014/12/24 03:44:09] [urlrule] sites weipai.cn update 郑安然
+    * [2014/12/24 03:44:07] [urlrule] sites weipai.cn update 邻家猴猴
+    * [2014/12/24 03:44:05] [urlrule] sites weipai.cn update 逐光流云20140912
+    * [2014/12/24 03:44:03] [urlrule] sites weipai.cn update 近色怡人
+    * [2014/12/24 03:44:01] [urlrule] sites weipai.cn update 辣妈ai美丽
+    * [2014/12/24 03:43:59] [urlrule] sites vlook.cn update 软萌妹
+    * [2014/12/24 03:43:55] [urlrule] sites weipai.cn update 赵有根
+    * [2014/12/24 03:43:53] [urlrule] sites weipai.cn update 豆妞妞
+    * [2014/12/24 03:43:51] [urlrule] sites weipai.cn update 谭昙
+    * [2014/12/24 03:43:49] [urlrule] sites weipai.cn update 请叫我二爷_Su
+    * [2014/12/24 03:43:47] [urlrule] sites weipai.cn update 语儿
+    * [2014/12/24 03:43:45] [urlrule] sites weipai.cn update 诗梓佳Kitty
     * [2014/12/24 03:34:28] [urlrule] sites weipai.cn update 许小雪S
     * [2014/12/24 03:34:26] [urlrule] sites weipai.cn update 許曼妮
     * [2014/12/24 03:34:24] [urlrule] sites weipai.cn update 角落宝贝
