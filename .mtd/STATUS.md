@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 03:25:28] [urlrule] sites weipai.cn update 若涵Baby
     * [2014/12/24 03:24:55] [urlrule] sites weipai.cn update 苏夏妞妞
     * [2014/12/24 03:24:17] [urlrule] sites weipai.cn update 芭比娃哈
     * [2014/12/24 03:23:59] [urlrule] sites weipai.cn update 艾舞kathy
@@ -47,6 +48,9 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 03:25:17] [urlrule] sites vlook.cn update 若含baby
+    * [2014/12/24 03:25:13] [urlrule] sites weipai.cn update 若含_Princess
+    * [2014/12/24 03:25:11] [urlrule] sites weipai.cn update 苏柒杞
     * [2014/12/24 03:24:43] [urlrule] sites weipai.cn update 花旗是个双面少女
     * [2014/12/24 03:24:41] [urlrule] sites weipai.cn update 花小西
     * [2014/12/24 03:24:39] [urlrule] sites vlook.cn update 芮涵Annabelle
