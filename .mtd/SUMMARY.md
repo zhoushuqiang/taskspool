@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小雨姐
+
+    * Begin : 2014/12/24 02:04:12
+    * End   : 2014/12/24 02:05:03
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 50bb2604803494ef02000054 Ms阿婆王
 
 
