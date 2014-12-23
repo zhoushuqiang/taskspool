@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 桓淼淼baby
+
+    * Begin : 2014/12/24 02:39:57
+    * End   : 2014/12/24 02:43:28
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 桓淼淼
+
+    * Begin : 2014/12/24 02:39:56
+    * End   : 2014/12/24 02:39:56
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 栾丽娜123
+
+    * Begin : 2014/12/24 02:39:53
+    * End   : 2014/12/24 02:39:55
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 枫叶4561
+
+    * Begin : 2014/12/24 02:39:49
+    * End   : 2014/12/24 02:39:51
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 林蕊儿
+
+    * Begin : 2014/12/24 02:39:45
+    * End   : 2014/12/24 02:39:48
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 林歆蕊Q286312385
 
     * Begin : 2014/12/24 02:39:20

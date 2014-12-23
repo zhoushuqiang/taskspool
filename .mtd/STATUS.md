@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 02:43:28] [urlrule] sites weipai.cn update 桓淼淼baby
     * [2014/12/24 02:39:33] [urlrule] sites weipai.cn update 林歆蕊Q286312385
     * [2014/12/24 02:38:33] [urlrule] sites weipai.cn update 李点点儿
     * [2014/12/24 02:30:32] [urlrule] sites weipai.cn update 李七喜
@@ -17,6 +18,10 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 02:39:56] [urlrule] sites vlook.cn update 桓淼淼
+    * [2014/12/24 02:39:55] [urlrule] sites vlook.cn update 栾丽娜123
+    * [2014/12/24 02:39:51] [urlrule] sites vlook.cn update 枫叶4561
+    * [2014/12/24 02:39:48] [urlrule] sites vlook.cn update 林蕊儿
     * [2014/12/24 02:39:18] [urlrule] sites vlook.cn update 林歆蕊
     * [2014/12/24 02:39:14] [urlrule] sites weipai.cn update 林夕baby123
     * [2014/12/24 02:39:12] [urlrule] sites weipai.cn update 杨沫沫Aimee
