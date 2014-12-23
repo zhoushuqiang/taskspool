@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 雯子蜜
+
+
+    * Begin : 2014/12/24 04:10:27
+    * End   : 2014/12/24 04:13:04
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE mayuko
 
 

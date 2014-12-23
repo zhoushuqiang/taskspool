@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE 雯子蜜
+
+
+    * Begin : 2014/12/24 04:10:27
+    * End   : 2014/12/24 04:13:04
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 516ac8a77d3494ef4c000015 雯子蜜
+
+
+    * Begin : 2014/12/24 04:10:27
+    * End   : 2014/12/24 04:10:27
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 516ac8a77d3494ef4c000015 雯子蜜
+
+
+    * Begin : 2014/12/24 04:10:27
+    * End   : 2014/12/24 04:10:27
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE mayuko
 
 
