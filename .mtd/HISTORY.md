@@ -1,3 +1,38 @@
+* [urlrule] sites weipai.cn follow 54780adaa6640b99158b458e 李京琳-宝宝
+
+
+    * Begin : 2014/12/24 05:56:11
+    * End   : 2014/12/24 05:56:12
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 54780adaa6640b99158b458e 李京琳-宝宝
+
+
+    * Begin : 2014/12/24 05:56:11
+    * End   : 2014/12/24 05:56:11
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 穴儿
+
+
+    * Begin : 2014/12/24 05:56:09
+    * End   : 2014/12/24 05:56:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5458f63ca7640bc85b8b4568 穴儿
+
+
+    * Begin : 2014/12/24 05:56:09
+    * End   : 2014/12/24 05:56:09
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5458f63ca7640bc85b8b4568 穴儿
+
+
+    * Begin : 2014/12/24 05:56:08
+    * End   : 2014/12/24 05:56:08
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
 
     * Begin : 2014/12/24 05:35:43

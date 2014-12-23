@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 54780adaa6640b99158b458e 李京琳-宝宝
+
 * Finished:
+    * [2014/12/24 05:56:12] [urlrule] sites weipai.cn follow 54780adaa6640b99158b458e 李京琳-宝宝
+
     * [2014/12/24 05:55:56] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2014/12/24 05:35:29] [urlrule] sites weipai.cn UPDATE DJ_Ricey
 
@@ -78,6 +83,14 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 05:56:11] [urlrule] sites weipai.cn add 54780adaa6640b99158b458e 李京琳-宝宝
+
+    * [2014/12/24 05:56:10] [urlrule] sites weipai.cn UPDATE 穴儿
+
+    * [2014/12/24 05:56:09] [urlrule] sites weipai.cn follow 5458f63ca7640bc85b8b4568 穴儿
+
+    * [2014/12/24 05:56:08] [urlrule] sites weipai.cn add 5458f63ca7640bc85b8b4568 穴儿
+
     * [2014/12/24 05:30:13] [urlrule] sites weipai.cn follow 52532abd7d3494db6eb88247 DJ_Ricey
 
     * [2014/12/24 05:30:13] [urlrule] sites weipai.cn add 52532abd7d3494db6eb88247 DJ_Ricey

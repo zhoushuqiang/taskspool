@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn follow 54780adaa6640b99158b458e 李京琳-宝宝
+
+
+    * Begin : 2014/12/24 05:56:11
+    * End   : 2014/12/24 05:56:12
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
 
     * Begin : 2014/12/24 05:35:43
