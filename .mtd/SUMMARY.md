@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 王王王王-蕊
+
+    * Begin : 2014/12/24 02:54:49
+    * End   : 2014/12/24 02:56:46
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 猫小咪Queen
 
     * Begin : 2014/12/24 02:53:31

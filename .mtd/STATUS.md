@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 02:56:46] [urlrule] sites weipai.cn update 王王王王-蕊
     * [2014/12/24 02:54:13] [urlrule] sites weipai.cn update 猫小咪Queen
     * [2014/12/24 02:52:58] [urlrule] sites weipai.cn update 然又又
     * [2014/12/24 02:52:03] [urlrule] sites weipai.cn update 湯大师
@@ -26,6 +27,16 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 02:54:47] [urlrule] sites weipai.cn update 王熙悦
+    * [2014/12/24 02:54:46] [urlrule] sites weipai.cn update 王炤钧
+    * [2014/12/24 02:54:44] [urlrule] sites weipai.cn update 王悠悠
+    * [2014/12/24 02:54:41] [urlrule] sites weipai.cn update 王小珏elva
+    * [2014/12/24 02:54:39] [urlrule] sites weipai.cn update 王大小姐__Miss
+    * [2014/12/24 02:54:37] [urlrule] sites weipai.cn update 王允甜
+    * [2014/12/24 02:54:35] [urlrule] sites weipai.cn update 王依萱
+    * [2014/12/24 02:54:33] [urlrule] sites weipai.cn update 王丹妮baby
+    * [2014/12/24 02:54:31] [urlrule] sites weipai.cn update 玉baby
+    * [2014/12/24 02:54:29] [urlrule] sites vlook.cn update 猫小咪Queen
     * [2014/12/24 02:53:29] [urlrule] sites weipai.cn update 猫大人是猫大人
     * [2014/12/24 02:53:27] [urlrule] sites vlook.cn update 猫一样的女人猫 伊莲的小衣橱
     * [2014/12/24 02:53:24] [urlrule] sites weipai.cn update 独爱简单控
