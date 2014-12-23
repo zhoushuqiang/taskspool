@@ -1,3 +1,66 @@
+* [urlrule] sites weipai.cn UPDATE 伊莱丽
+
+
+    * Begin : 2014/12/24 05:25:37
+    * End   : 2014/12/24 05:29:08
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 532f4655803494464176699f 伊莱丽
+
+
+    * Begin : 2014/12/24 05:25:36
+    * End   : 2014/12/24 05:25:37
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 532f4655803494464176699f 伊莱丽
+
+
+    * Begin : 2014/12/24 05:25:36
+    * End   : 2014/12/24 05:25:36
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 颜若熙92
+
+
+    * Begin : 2014/12/24 05:25:33
+    * End   : 2014/12/24 05:25:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 5300a2664f4a139d6c8b48c0 颜若熙92
+
+
+    * Begin : 2014/12/24 05:25:33
+    * End   : 2014/12/24 05:25:33
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 5300a2664f4a139d6c8b48c0 颜若熙92
+
+
+    * Begin : 2014/12/24 05:25:33
+    * End   : 2014/12/24 05:25:33
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 模特丹丹
+
+
+    * Begin : 2014/12/24 05:25:31
+    * End   : 2014/12/24 05:25:31
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53c9a962a8640be9178b4593 模特丹丹
+
+
+    * Begin : 2014/12/24 05:25:30
+    * End   : 2014/12/24 05:25:31
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53c9a962a8640be9178b4593 模特丹丹
+
+
+    * Begin : 2014/12/24 05:25:30
+    * End   : 2014/12/24 05:25:30
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 刘韩依HY
 
 

@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 伊莱丽
+
+
+    * Begin : 2014/12/24 05:25:37
+    * End   : 2014/12/24 05:29:08
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 刘韩依HY
 
 
