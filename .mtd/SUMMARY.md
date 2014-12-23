@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 瞄小婷
+
+    * Begin : 2014/12/24 03:00:58
+    * End   : 2014/12/24 03:03:11
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 皇家国际-佳欲
 
     * Begin : 2014/12/24 03:00:38
