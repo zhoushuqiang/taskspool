@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 02:10:57] [urlrule] sites weipai.cn update 恋姗妮
     * [2014/12/24 02:10:40] [urlrule] sites vlook.cn update 性感女神研研
     * [2014/12/24 02:10:00] [urlrule] sites weipai.cn update 徐美儿
     * [2014/12/24 02:09:32] [urlrule] sites weipai.cn update 徐妍馨Mandy
