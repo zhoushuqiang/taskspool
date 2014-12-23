@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 03:28:34] [urlrule] sites weipai.cn update 菲飞飞
     * [2014/12/24 03:27:29] [urlrule] sites weipai.cn update 范范范小范
     * [2014/12/24 03:25:28] [urlrule] sites weipai.cn update 若涵Baby
     * [2014/12/24 03:24:55] [urlrule] sites weipai.cn update 苏夏妞妞
@@ -49,6 +50,16 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 03:28:04] [urlrule] sites weipai.cn update 菲菲和娜娜
+    * [2014/12/24 03:28:02] [urlrule] sites weipai.cn update 菲儿
+    * [2014/12/24 03:27:59] [urlrule] sites weipai.cn update 菀児baby
+    * [2014/12/24 03:27:57] [urlrule] sites weipai.cn update 莹小白
+    * [2014/12/24 03:27:54] [urlrule] sites weipai.cn update 莹姐
+    * [2014/12/24 03:27:52] [urlrule] sites weipai.cn update 莫晓颜
+    * [2014/12/24 03:27:50] [urlrule] sites weipai.cn update 莫小尤
+    * [2014/12/24 03:27:48] [urlrule] sites weipai.cn update 草莓Rasa
+    * [2014/12/24 03:27:45] [urlrule] sites weipai.cn update 茜baby
+    * [2014/12/24 03:27:43] [urlrule] sites weipai.cn update 茉莉_
     * [2014/12/24 03:25:46] [urlrule] sites weipai.cn update 范美熙Jennifer
     * [2014/12/24 03:25:43] [urlrule] sites weipai.cn update 范琪
     * [2014/12/24 03:25:17] [urlrule] sites vlook.cn update 若含baby
