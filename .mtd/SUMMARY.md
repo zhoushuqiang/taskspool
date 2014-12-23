@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 神神神神神姐
+
+    * Begin : 2014/12/24 03:05:56
+    * End   : 2014/12/24 03:06:04
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 矢帘
 
     * Begin : 2014/12/24 03:03:28
