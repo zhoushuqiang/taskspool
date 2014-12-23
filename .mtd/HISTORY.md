@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 晓卉日记
+
+    * Begin : 2014/12/24 02:19:05
+    * End   : 2014/12/24 02:21:03
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 易阳ELLY
+
+    * Begin : 2014/12/24 02:19:04
+    * End   : 2014/12/24 02:19:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 早晚整死你
+
+    * Begin : 2014/12/24 02:19:02
+    * End   : 2014/12/24 02:19:02
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 无敌女汉子
 
     * Begin : 2014/12/24 02:16:48

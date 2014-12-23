@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 晓卉日记
+
+    * Begin : 2014/12/24 02:19:05
+    * End   : 2014/12/24 02:21:03
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 无敌女汉子
 
     * Begin : 2014/12/24 02:16:48
