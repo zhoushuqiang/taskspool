@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 空虚哥
+
+    * Begin : 2014/12/24 03:10:04
+    * End   : 2014/12/24 03:10:47
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 穴儿
+
+    * Begin : 2014/12/24 03:10:02
+    * End   : 2014/12/24 03:10:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 秦蕾
+
+    * Begin : 2014/12/24 03:09:59
+    * End   : 2014/12/24 03:10:00
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 秦勉叫冉冉
 
     * Begin : 2014/12/24 03:06:20
