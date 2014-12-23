@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2014/12/24 03:18:43] [urlrule] sites weipai.cn update 罗小佩
     * [2014/12/24 03:17:21] [urlrule] sites weipai.cn update 糖果果国
     * [2014/12/24 03:12:33] [urlrule] sites weipai.cn update 米洁
     * [2014/12/24 03:11:30] [urlrule] sites weipai.cn update 米拉贝拉Mirabella
@@ -41,6 +42,14 @@ Tasks Status Report
     * [2014/12/24 02:06:58] [urlrule] sites weipai.cn update 屌丝福利小清新
     * [2014/12/24 02:05:03] [urlrule] sites weipai.cn update 小雨姐
 * Doing Nothing:
+    * [2014/12/24 03:17:48] [urlrule] sites weipai.cn update 罗妍-D
+    * [2014/12/24 03:17:46] [urlrule] sites weipai.cn update 维信qianfei2012
+    * [2014/12/24 03:17:44] [urlrule] sites weipai.cn update 纯儿宝贝
+    * [2014/12/24 03:17:42] [urlrule] sites weipai.cn update 红玫瑰
+    * [2014/12/24 03:17:40] [urlrule] sites weipai.cn update 红心点起来
+    * [2014/12/24 03:17:38] [urlrule] sites weipai.cn update 索菲娅
+    * [2014/12/24 03:17:36] [urlrule] sites weipai.cn update 索菲娅5200
+    * [2014/12/24 03:17:34] [urlrule] sites weipai.cn update 素兒
     * [2014/12/24 03:12:54] [urlrule] sites weipai.cn update 粽子小姐
     * [2014/12/24 03:12:52] [urlrule] sites weipai.cn update 粽子喜欢秋天
     * [2014/12/24 03:12:50] [urlrule] sites weipai.cn update 粵講粵潮

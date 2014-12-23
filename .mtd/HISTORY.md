@@ -1,3 +1,57 @@
+* [urlrule] sites weipai.cn update 罗小佩
+
+    * Begin : 2014/12/24 03:17:50
+    * End   : 2014/12/24 03:18:43
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 罗妍-D
+
+    * Begin : 2014/12/24 03:17:48
+    * End   : 2014/12/24 03:17:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 维信qianfei2012
+
+    * Begin : 2014/12/24 03:17:46
+    * End   : 2014/12/24 03:17:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 纯儿宝贝
+
+    * Begin : 2014/12/24 03:17:44
+    * End   : 2014/12/24 03:17:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 红玫瑰
+
+    * Begin : 2014/12/24 03:17:42
+    * End   : 2014/12/24 03:17:42
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 红心点起来
+
+    * Begin : 2014/12/24 03:17:40
+    * End   : 2014/12/24 03:17:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 索菲娅
+
+    * Begin : 2014/12/24 03:17:38
+    * End   : 2014/12/24 03:17:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 索菲娅5200
+
+    * Begin : 2014/12/24 03:17:36
+    * End   : 2014/12/24 03:17:36
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 素兒
+
+    * Begin : 2014/12/24 03:17:34
+    * End   : 2014/12/24 03:17:34
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 糖果果国
 
     * Begin : 2014/12/24 03:12:56

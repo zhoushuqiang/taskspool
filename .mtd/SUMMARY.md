@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 罗小佩
+
+    * Begin : 2014/12/24 03:17:50
+    * End   : 2014/12/24 03:18:43
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 糖果果国
 
     * Begin : 2014/12/24 03:12:56
