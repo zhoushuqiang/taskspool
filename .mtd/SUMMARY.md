@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 湯大师
+
+    * Begin : 2014/12/24 02:51:28
+    * End   : 2014/12/24 02:52:03
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 波波小姐
 
     * Begin : 2014/12/24 02:49:56

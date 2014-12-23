@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 湯大师
+
+    * Begin : 2014/12/24 02:51:28
+    * End   : 2014/12/24 02:52:03
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 混血演员安娜
+
+    * Begin : 2014/12/24 02:51:26
+    * End   : 2014/12/24 02:51:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 涵肉肉
+
+    * Begin : 2014/12/24 02:51:23
+    * End   : 2014/12/24 02:51:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 浮生若梦
+
+    * Begin : 2014/12/24 02:51:22
+    * End   : 2014/12/24 02:51:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 洛熙爱爱
+
+    * Begin : 2014/12/24 02:51:19
+    * End   : 2014/12/24 02:51:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 洛可馨
+
+    * Begin : 2014/12/24 02:51:17
+    * End   : 2014/12/24 02:51:18
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 波波小姐
 
     * Begin : 2014/12/24 02:49:56
