@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 心宁儿cecilia
+
+    * Begin : 2015/01/05 00:48:40
+    * End   : 2015/01/05 00:57:00
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 微拍精品福利--
+
+    * Begin : 2015/01/05 00:48:37
+    * End   : 2015/01/05 00:48:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 微拍娱乐圈
+
+    * Begin : 2015/01/05 00:48:35
+    * End   : 2015/01/05 00:48:36
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 微拍三少爷
 
     * Begin : 2015/01/05 00:45:30
