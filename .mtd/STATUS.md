@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 00:59:56] [urlrule] sites weipai.cn update 恋姗妮
     * [2015/01/05 00:57:00] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2015/01/05 00:48:25] [urlrule] sites weipai.cn update 微拍三少爷
     * [2015/01/05 00:45:20] [urlrule] sites weipai.cn update 微我信av0006789
@@ -12,6 +13,11 @@ Tasks Status Report
     * [2015/01/05 00:11:11] [urlrule] sites weipai.cn update 张若兰
     * [2015/01/05 00:09:10] [urlrule] sites weipai.cn update 张芊芊
 * Doing Nothing:
+    * [2015/01/05 00:57:25] [urlrule] sites vlook.cn update 性感女神研研
+    * [2015/01/05 00:57:21] [urlrule] sites weipai.cn update 性感像多花
+    * [2015/01/05 00:57:18] [urlrule] sites weipai.cn update 忧伤的黄瓜1
+    * [2015/01/05 00:57:16] [urlrule] sites weipai.cn update 忧伤的小麻雀
+    * [2015/01/05 00:57:14] [urlrule] sites vlook.cn update 心蕾Abby
     * [2015/01/05 00:48:38] [urlrule] sites weipai.cn update 微拍精品福利--
     * [2015/01/05 00:48:36] [urlrule] sites weipai.cn update 微拍娱乐圈
     * [2015/01/05 00:43:34] [urlrule] sites weipai.cn update 微信itangcc
