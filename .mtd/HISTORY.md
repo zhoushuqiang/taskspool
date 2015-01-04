@@ -1,3 +1,8 @@
+* [urlrule] sites weipai.cn update 张瑶isa
+
+    * Begin : 2015/01/04 20:33:09
+    * Result: PENDING
+
 * [urlrule] sites weipai.cn update 张江南同学
 
     * Begin : 2015/01/04 20:26:54
