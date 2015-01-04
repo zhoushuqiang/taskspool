@@ -2,12 +2,15 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 00:44:36] [urlrule] sites weipai.cn update 微子baby
     * [2015/01/05 00:43:17] [urlrule] sites weipai.cn update 徐美儿
     * [2015/01/05 00:25:58] [urlrule] sites weipai.cn update 徐妍馨Mandy
     * [2015/01/05 00:15:03] [urlrule] sites weipai.cn update 张馨馨Maggie
     * [2015/01/05 00:11:11] [urlrule] sites weipai.cn update 张若兰
     * [2015/01/05 00:09:10] [urlrule] sites weipai.cn update 张芊芊
 * Doing Nothing:
+    * [2015/01/05 00:43:34] [urlrule] sites weipai.cn update 微信itangcc
+    * [2015/01/05 00:43:31] [urlrule] sites weipai.cn update 徐茜儿
     * [2015/01/05 00:11:32] [urlrule] sites weipai.cn update 张露_Betty
     * [2015/01/05 00:11:29] [urlrule] sites weipai.cn update 张鑫Amy
     * [2015/01/05 00:11:27] [urlrule] sites weipai.cn update 张若兰

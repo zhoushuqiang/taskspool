@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 微子baby
+
+    * Begin : 2015/01/05 00:43:35
+    * End   : 2015/01/05 00:44:36
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 微信itangcc
+
+    * Begin : 2015/01/05 00:43:33
+    * End   : 2015/01/05 00:43:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 徐茜儿
+
+    * Begin : 2015/01/05 00:43:30
+    * End   : 2015/01/05 00:43:31
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 徐美儿
 
     * Begin : 2015/01/05 00:26:09
