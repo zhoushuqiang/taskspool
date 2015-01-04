@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 01:24:05] [urlrule] sites weipai.cn update 暗黑小萝莉
     * [2015/01/05 01:22:28] [urlrule] sites weipai.cn update 晴海洋
     * [2015/01/05 01:21:22] [urlrule] sites weipai.cn update 晨yoka
     * [2015/01/05 01:20:20] [urlrule] sites weipai.cn update 无敌女汉子
