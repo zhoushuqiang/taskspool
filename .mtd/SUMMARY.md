@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 懒虫baby
+
+    * Begin : 2015/01/05 01:03:58
+    * End   : 2015/01/05 01:04:57
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 悦儿yummy
 
     * Begin : 2015/01/05 01:00:06
