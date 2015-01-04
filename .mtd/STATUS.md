@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 00:48:25] [urlrule] sites weipai.cn update 微拍三少爷
     * [2015/01/05 00:45:20] [urlrule] sites weipai.cn update 微我信av0006789
     * [2015/01/05 00:44:36] [urlrule] sites weipai.cn update 微子baby
     * [2015/01/05 00:43:17] [urlrule] sites weipai.cn update 徐美儿

@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 微拍三少爷
+
+    * Begin : 2015/01/05 00:45:30
+    * End   : 2015/01/05 00:48:25
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 微我信av0006789
 
     * Begin : 2015/01/05 00:44:46
