@@ -1,3 +1,32 @@
+* [urlrule] sites weipai.cn update 李点点儿
+
+    * Begin : 2015/01/05 01:51:54
+    * Result: PENDING
+
+* [urlrule] sites weipai.cn update 李朝蛟-Bie
+
+    * Begin : 2015/01/05 01:51:52
+    * End   : 2015/01/05 01:51:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李怡静1118
+
+    * Begin : 2015/01/05 01:51:49
+    * End   : 2015/01/05 01:51:50
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 李思闻
+
+    * Begin : 2015/01/05 01:51:42
+    * End   : 2015/01/05 01:51:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李思闻
+
+    * Begin : 2015/01/05 01:51:40
+    * End   : 2015/01/05 01:51:41
+    * Result: Nothing to do
+
 * [urlrule] sites miaopai.com SAVE 陈美琳Mandy
 
     * Begin : 2015/01/05 01:51:10

@@ -1,6 +1,8 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn update 李点点儿
 * Finished:
     * [2015/01/05 01:51:29] [urlrule] sites miaopai.com SAVE 陈美琳Mandy
     * [2015/01/05 01:51:00] [urlrule] sites weipai.cn update 李思桐儿
@@ -32,6 +34,10 @@ Tasks Status Report
     * [2015/01/05 00:11:11] [urlrule] sites weipai.cn update 张若兰
     * [2015/01/05 00:09:10] [urlrule] sites weipai.cn update 张芊芊
 * Doing Nothing:
+    * [2015/01/05 01:51:53] [urlrule] sites weipai.cn update 李朝蛟-Bie
+    * [2015/01/05 01:51:50] [urlrule] sites weipai.cn update 李怡静1118
+    * [2015/01/05 01:51:48] [urlrule] sites vlook.cn update 李思闻
+    * [2015/01/05 01:51:41] [urlrule] sites weipai.cn update 李思闻
     * [2015/01/05 01:49:01] [urlrule] sites weipai.cn update 李妍呢
     * [2015/01/05 01:48:59] [urlrule] sites weipai.cn update 李佳洁妞儿
     * [2015/01/05 01:31:00] [urlrule] sites weipai.cn update 朵朵猪

@@ -166,6 +166,10 @@ sub listener_init {
 			#die "[$url] => $name, $id\n";
 			return $id,$name,$host;
 		}
+		elsif(m/miaopai.com/) {
+			require MyPlace::MiaoPai;
+			return MyPlace::MiaoPai::extract_user_info($url);
+		}
 	}
 	
 	my $WORKER = MyPlace::Tasks::Worker->new(
