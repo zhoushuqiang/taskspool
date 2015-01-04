@@ -1,3 +1,15 @@
+* [urlrule] sites miaopai.com follow paike_5ih56mclzx 桃子就是小桃红红红
+
+    * Begin : 2015/01/05 07:16:53
+    * End   : 2015/01/05 07:16:53
+    * Result: OK
+
+* [urlrule] sites miaopai.com add paike_5ih56mclzx 桃子就是小桃红红红
+
+    * Begin : 2015/01/05 07:16:47
+    * End   : 2015/01/05 07:16:53
+    * Result: http://www.miaopai.com/u/paike_5ih56mclzx=>[miaopai.com] paike_5ih56mclzx (桃子就是小桃红红红) OK
+
 * [urlrule] sites miaopai.com SAVE 韩昕怡Summer
 
     * Begin : 2015/01/05 06:48:48
