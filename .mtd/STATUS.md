@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 00:25:58] [urlrule] sites weipai.cn update 徐妍馨Mandy
     * [2015/01/05 00:15:03] [urlrule] sites weipai.cn update 张馨馨Maggie
     * [2015/01/05 00:11:11] [urlrule] sites weipai.cn update 张若兰
     * [2015/01/05 00:09:10] [urlrule] sites weipai.cn update 张芊芊
