@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 晨yoka
+
+    * Begin : 2015/01/05 01:20:42
+    * End   : 2015/01/05 01:21:22
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 无敌女汉子
 
     * Begin : 2015/01/05 01:19:56

@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 晨yoka
+
+    * Begin : 2015/01/05 01:20:42
+    * End   : 2015/01/05 01:21:22
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 晕死的大白兔
+
+    * Begin : 2015/01/05 01:20:39
+    * End   : 2015/01/05 01:20:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 晓彗大大大
+
+    * Begin : 2015/01/05 01:20:37
+    * End   : 2015/01/05 01:20:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 晓卉日记
+
+    * Begin : 2015/01/05 01:20:35
+    * End   : 2015/01/05 01:20:36
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 易阳ELLY
+
+    * Begin : 2015/01/05 01:20:32
+    * End   : 2015/01/05 01:20:33
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 早晚整死你
+
+    * Begin : 2015/01/05 01:20:30
+    * End   : 2015/01/05 01:20:31
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 无敌女汉子
 
     * Begin : 2015/01/05 01:19:56

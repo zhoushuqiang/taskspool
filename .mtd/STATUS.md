@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 01:21:22] [urlrule] sites weipai.cn update 晨yoka
     * [2015/01/05 01:20:20] [urlrule] sites weipai.cn update 无敌女汉子
     * [2015/01/05 01:19:27] [urlrule] sites vlook.cn update 文蔓
     * [2015/01/05 01:19:00] [urlrule] sites weipai.cn update 撒旦甜心_Ellia
@@ -22,6 +23,11 @@ Tasks Status Report
     * [2015/01/05 00:11:11] [urlrule] sites weipai.cn update 张若兰
     * [2015/01/05 00:09:10] [urlrule] sites weipai.cn update 张芊芊
 * Doing Nothing:
+    * [2015/01/05 01:20:40] [urlrule] sites weipai.cn update 晕死的大白兔
+    * [2015/01/05 01:20:38] [urlrule] sites weipai.cn update 晓彗大大大
+    * [2015/01/05 01:20:36] [urlrule] sites weipai.cn update 晓卉日记
+    * [2015/01/05 01:20:33] [urlrule] sites weipai.cn update 易阳ELLY
+    * [2015/01/05 01:20:31] [urlrule] sites weipai.cn update 早晚整死你
     * [2015/01/05 01:19:54] [urlrule] sites weipai.cn update 无懈可击阿乐
     * [2015/01/05 01:19:52] [urlrule] sites weipai.cn update 无名指的等待20141002
     * [2015/01/05 01:19:50] [urlrule] sites weipai.cn update 施婭婭
