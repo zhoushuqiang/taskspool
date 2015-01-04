@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 曹欣妮s
+
+    * Begin : 2015/01/05 01:24:17
+    * End   : 2015/01/05 01:29:25
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 暗黑小萝莉
 
     * Begin : 2015/01/05 01:22:38
