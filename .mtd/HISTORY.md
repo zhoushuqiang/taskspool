@@ -1,3 +1,57 @@
+* [urlrule] sites weipai.cn update 无敌女汉子
+
+    * Begin : 2015/01/05 01:19:56
+    * End   : 2015/01/05 01:20:20
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 无懈可击阿乐
+
+    * Begin : 2015/01/05 01:19:53
+    * End   : 2015/01/05 01:19:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 无名指的等待20141002
+
+    * Begin : 2015/01/05 01:19:51
+    * End   : 2015/01/05 01:19:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 施婭婭
+
+    * Begin : 2015/01/05 01:19:49
+    * End   : 2015/01/05 01:19:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 施娅静微拍
+
+    * Begin : 2015/01/05 01:19:47
+    * End   : 2015/01/05 01:19:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 新百伦正品代购20141202
+
+    * Begin : 2015/01/05 01:19:45
+    * End   : 2015/01/05 01:19:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 新用户21460
+
+    * Begin : 2015/01/05 01:19:42
+    * End   : 2015/01/05 01:19:43
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 新浪微博未知黑色曼陀罗
+
+    * Begin : 2015/01/05 01:19:40
+    * End   : 2015/01/05 01:19:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 新浪微博model-芯妍
+
+    * Begin : 2015/01/05 01:19:38
+    * End   : 2015/01/05 01:19:39
+    * Result: Nothing to do
+
 * [urlrule] sites vlook.cn update 文蔓
 
     * Begin : 2015/01/05 01:19:11

@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 无敌女汉子
+
+    * Begin : 2015/01/05 01:19:56
+    * End   : 2015/01/05 01:20:20
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 文蔓
 
     * Begin : 2015/01/05 01:19:11

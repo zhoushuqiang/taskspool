@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 01:20:20] [urlrule] sites weipai.cn update 无敌女汉子
     * [2015/01/05 01:19:27] [urlrule] sites vlook.cn update 文蔓
     * [2015/01/05 01:19:00] [urlrule] sites weipai.cn update 撒旦甜心_Ellia
     * [2015/01/05 01:09:51] [urlrule] sites weipai.cn update 把你家户口本拿出来看看
@@ -21,6 +22,14 @@ Tasks Status Report
     * [2015/01/05 00:11:11] [urlrule] sites weipai.cn update 张若兰
     * [2015/01/05 00:09:10] [urlrule] sites weipai.cn update 张芊芊
 * Doing Nothing:
+    * [2015/01/05 01:19:54] [urlrule] sites weipai.cn update 无懈可击阿乐
+    * [2015/01/05 01:19:52] [urlrule] sites weipai.cn update 无名指的等待20141002
+    * [2015/01/05 01:19:50] [urlrule] sites weipai.cn update 施婭婭
+    * [2015/01/05 01:19:48] [urlrule] sites weipai.cn update 施娅静微拍
+    * [2015/01/05 01:19:46] [urlrule] sites weipai.cn update 新百伦正品代购20141202
+    * [2015/01/05 01:19:43] [urlrule] sites weipai.cn update 新用户21460
+    * [2015/01/05 01:19:41] [urlrule] sites weipai.cn update 新浪微博未知黑色曼陀罗
+    * [2015/01/05 01:19:39] [urlrule] sites weipai.cn update 新浪微博model-芯妍
     * [2015/01/05 01:10:02] [urlrule] sites weipai.cn update 抗忙昂北鼻够够够
     * [2015/01/05 01:08:16] [urlrule] sites weipai.cn update 扯起鸡儿弹蹦蹦
     * [2015/01/05 01:08:14] [urlrule] sites weipai.cn update 戴玉琪
