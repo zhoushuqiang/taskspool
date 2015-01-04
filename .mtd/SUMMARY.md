@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 屌丝福利小清新
+
+    * Begin : 2015/01/04 16:21:08
+    * End   : 2015/01/04 16:21:24
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 54780adaa6640b99158b458e 李京琳-宝宝
 
 
