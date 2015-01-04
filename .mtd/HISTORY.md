@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 我只愛高跟鞋
+
+    * Begin : 2015/01/05 01:06:05
+    * End   : 2015/01/05 01:06:31
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 我一直都在雯雯
 
     * Begin : 2015/01/05 01:05:10

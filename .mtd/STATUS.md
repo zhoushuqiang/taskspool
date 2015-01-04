@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 01:06:31] [urlrule] sites weipai.cn update 我只愛高跟鞋
     * [2015/01/05 01:05:55] [urlrule] sites weipai.cn update 我一直都在雯雯
     * [2015/01/05 01:04:57] [urlrule] sites weipai.cn update 懒虫baby
     * [2015/01/05 01:03:46] [urlrule] sites weipai.cn update 悦儿yummy
