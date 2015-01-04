@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 01:05:55] [urlrule] sites weipai.cn update 我一直都在雯雯
     * [2015/01/05 01:04:57] [urlrule] sites weipai.cn update 懒虫baby
     * [2015/01/05 01:03:46] [urlrule] sites weipai.cn update 悦儿yummy
     * [2015/01/05 00:59:56] [urlrule] sites weipai.cn update 恋姗妮
@@ -15,6 +16,7 @@ Tasks Status Report
     * [2015/01/05 00:11:11] [urlrule] sites weipai.cn update 张若兰
     * [2015/01/05 00:09:10] [urlrule] sites weipai.cn update 张芊芊
 * Doing Nothing:
+    * [2015/01/05 01:05:08] [urlrule] sites weipai.cn update 成都的肉包子
     * [2015/01/05 01:03:57] [urlrule] sites weipai.cn update 慕慕的性感迷死你
     * [2015/01/05 00:57:25] [urlrule] sites vlook.cn update 性感女神研研
     * [2015/01/05 00:57:21] [urlrule] sites weipai.cn update 性感像多花

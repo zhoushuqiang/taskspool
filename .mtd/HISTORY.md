@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 我一直都在雯雯
+
+    * Begin : 2015/01/05 01:05:10
+    * End   : 2015/01/05 01:05:55
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 成都的肉包子
+
+    * Begin : 2015/01/05 01:05:07
+    * End   : 2015/01/05 01:05:08
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 懒虫baby
 
     * Begin : 2015/01/05 01:03:58
