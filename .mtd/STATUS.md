@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 01:30:48] [urlrule] sites weipai.cn update 朱小璐-nini
     * [2015/01/05 01:29:25] [urlrule] sites weipai.cn update 曹欣妮s
     * [2015/01/05 01:24:05] [urlrule] sites weipai.cn update 暗黑小萝莉
     * [2015/01/05 01:22:28] [urlrule] sites weipai.cn update 晴海洋
@@ -26,6 +27,11 @@ Tasks Status Report
     * [2015/01/05 00:11:11] [urlrule] sites weipai.cn update 张若兰
     * [2015/01/05 00:09:10] [urlrule] sites weipai.cn update 张芊芊
 * Doing Nothing:
+    * [2015/01/05 01:29:47] [urlrule] sites weipai.cn update 最美的太阳20140822
+    * [2015/01/05 01:29:44] [urlrule] sites weipai.cn update 最帅马三舅
+    * [2015/01/05 01:29:42] [urlrule] sites weipai.cn update 曾贾
+    * [2015/01/05 01:29:40] [urlrule] sites weipai.cn update 曼丽LXL
+    * [2015/01/05 01:29:37] [urlrule] sites weipai.cn update 曹紫涵
     * [2015/01/05 01:24:16] [urlrule] sites weipai.cn update 曲珈叶
     * [2015/01/05 01:21:33] [urlrule] sites weipai.cn update 景小姐景小姐
     * [2015/01/05 01:20:40] [urlrule] sites weipai.cn update 晕死的大白兔

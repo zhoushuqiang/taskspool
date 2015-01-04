@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 朱小璐-nini
+
+    * Begin : 2015/01/05 01:29:48
+    * End   : 2015/01/05 01:30:48
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 曹欣妮s
 
     * Begin : 2015/01/05 01:24:17

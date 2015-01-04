@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 朱小璐-nini
+
+    * Begin : 2015/01/05 01:29:48
+    * End   : 2015/01/05 01:30:48
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 最美的太阳20140822
+
+    * Begin : 2015/01/05 01:29:46
+    * End   : 2015/01/05 01:29:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 最帅马三舅
+
+    * Begin : 2015/01/05 01:29:43
+    * End   : 2015/01/05 01:29:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曾贾
+
+    * Begin : 2015/01/05 01:29:41
+    * End   : 2015/01/05 01:29:42
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曼丽LXL
+
+    * Begin : 2015/01/05 01:29:39
+    * End   : 2015/01/05 01:29:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 曹紫涵
+
+    * Begin : 2015/01/05 01:29:36
+    * End   : 2015/01/05 01:29:37
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 曹欣妮s
 
     * Begin : 2015/01/05 01:24:17
