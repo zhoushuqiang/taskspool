@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/04 19:16:50] [urlrule] sites vlook.cn update 帮主-杨筱敏
     * [2015/01/04 19:14:08] [urlrule] sites weipai.cn update 帮主-杨筱敏
     * [2015/01/04 16:21:24] [urlrule] sites weipai.cn update 屌丝福利小清新
 * Doing Nothing:
