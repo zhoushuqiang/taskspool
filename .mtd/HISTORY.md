@@ -1,3 +1,57 @@
+* [urlrule] sites weipai.cn update 把你家户口本拿出来看看
+
+    * Begin : 2015/01/05 01:08:18
+    * End   : 2015/01/05 01:09:51
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 扯起鸡儿弹蹦蹦
+
+    * Begin : 2015/01/05 01:08:15
+    * End   : 2015/01/05 01:08:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 戴玉琪
+
+    * Begin : 2015/01/05 01:08:13
+    * End   : 2015/01/05 01:08:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我行我素新灵儿
+
+    * Begin : 2015/01/05 01:08:11
+    * End   : 2015/01/05 01:08:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我的幸福你赞助
+
+    * Begin : 2015/01/05 01:08:09
+    * End   : 2015/01/05 01:08:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我爱奥黛丽赫本
+
+    * Begin : 2015/01/05 01:08:07
+    * End   : 2015/01/05 01:08:08
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我是郑成功
+
+    * Begin : 2015/01/05 01:08:04
+    * End   : 2015/01/05 01:08:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我是你Lily姐
+
+    * Begin : 2015/01/05 01:08:02
+    * End   : 2015/01/05 01:08:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 我是伊一baby
+
+    * Begin : 2015/01/05 01:08:00
+    * End   : 2015/01/05 01:08:01
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 我就是爱瞎胡闹
 
     * Begin : 2015/01/05 01:06:44

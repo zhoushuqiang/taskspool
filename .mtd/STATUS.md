@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 01:09:51] [urlrule] sites weipai.cn update 把你家户口本拿出来看看
     * [2015/01/05 01:07:50] [urlrule] sites weipai.cn update 我就是爱瞎胡闹
     * [2015/01/05 01:06:31] [urlrule] sites weipai.cn update 我只愛高跟鞋
     * [2015/01/05 01:05:55] [urlrule] sites weipai.cn update 我一直都在雯雯
@@ -18,6 +19,14 @@ Tasks Status Report
     * [2015/01/05 00:11:11] [urlrule] sites weipai.cn update 张若兰
     * [2015/01/05 00:09:10] [urlrule] sites weipai.cn update 张芊芊
 * Doing Nothing:
+    * [2015/01/05 01:08:16] [urlrule] sites weipai.cn update 扯起鸡儿弹蹦蹦
+    * [2015/01/05 01:08:14] [urlrule] sites weipai.cn update 戴玉琪
+    * [2015/01/05 01:08:12] [urlrule] sites weipai.cn update 我行我素新灵儿
+    * [2015/01/05 01:08:10] [urlrule] sites weipai.cn update 我的幸福你赞助
+    * [2015/01/05 01:08:08] [urlrule] sites weipai.cn update 我爱奥黛丽赫本
+    * [2015/01/05 01:08:06] [urlrule] sites weipai.cn update 我是郑成功
+    * [2015/01/05 01:08:03] [urlrule] sites weipai.cn update 我是你Lily姐
+    * [2015/01/05 01:08:01] [urlrule] sites weipai.cn update 我是伊一baby
     * [2015/01/05 01:06:43] [urlrule] sites weipai.cn update 我就是樱桃小丸子
     * [2015/01/05 01:05:08] [urlrule] sites weipai.cn update 成都的肉包子
     * [2015/01/05 01:03:57] [urlrule] sites weipai.cn update 慕慕的性感迷死你

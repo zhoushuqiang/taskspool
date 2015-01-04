@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 把你家户口本拿出来看看
+
+    * Begin : 2015/01/05 01:08:18
+    * End   : 2015/01/05 01:09:51
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 我就是爱瞎胡闹
 
     * Begin : 2015/01/05 01:06:44
