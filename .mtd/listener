@@ -2,6 +2,7 @@
 #!/usr/bin/perl -w
 use MyPlace::Script::Message;
 use MyPlace::Program::SimpleQuery;
+use MyPlace::URLRule::Utils qw/get_url/;
 
 my $USQ;
 
@@ -106,8 +107,9 @@ sub listener_init {
 		if($url =~ m/weipai\.cn|l\.mob\.com/) {
 			my ($host,$name,$id);
 			$url =~ s/weipai\.cn\/(?:videos|user)\//weipai.cn\/follows\//;
-			open FI,'-|','netcat',$url or return;
-			while(<FI>) {
+			my $data = get_url($url,"-v");
+			my @text = split("\n",$data);
+			foreach(@text) {
 				chomp;
 				if(!$host) {
 					if(m/'LoginDownloadUrl'\s*:\s*'http:\/\/www.weipai.cn\/coop/) {
@@ -133,14 +135,13 @@ sub listener_init {
 				}
 				last if($id and $name);
 			}
-			close FI;
-			#print STDERR "$name === $id\n";
 			return $id,$name,$host;
 		}
 		elsif($url =~ m/vlook\.cn/) {		
 			my ($name,$id);
-			open FI,'-|','netcat',$url or return;
-			while(<FI>) {
+			my $data = get_url($url,"-v");
+			my @text = split("\n",$data);
+			foreach(@text) {
 				chomp;
 				if(!$host) {
 					$host = 'vlook.cn';
@@ -162,13 +163,13 @@ sub listener_init {
 				}
 				
 			}
-			close FI;
 			#die "[$url] => $name, $id\n";
 			return $id,$name,$host;
 		}
-		elsif(m/miaopai.com/) {
+		elsif($url =~ m/miaopai.com/) {
+			my $data = get_url($url,"-v");
 			require MyPlace::MiaoPai;
-			return MyPlace::MiaoPai::extract_user_info($url);
+			return MyPlace::MiaoPai::extract_user_info($data);
 		}
 	}
 	

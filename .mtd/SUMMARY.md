@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
+
+    * Begin : 2015/01/05 02:23:03
+    * End   : 2015/01/05 02:23:04
+    * Result: OK
+
 * [urlrule] sites miaopai.com SAVE 陈美琳Mandy
 
     * Begin : 2015/01/05 01:51:10

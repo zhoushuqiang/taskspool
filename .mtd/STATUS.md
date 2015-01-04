@@ -2,87 +2,22 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites weipai.cn update 李点点儿
+    *[urlrule] sites miaopai.com SAVE paike_5aljkb2xnz 澄小兔Annie
+    *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_f0ataiy4d0
+    *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_5ih56mclzx
+    *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/qqsso_eb0u7626un
+    *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/wxsso_wyl0v389py
+    *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_3jgu16h5yd
+    *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_u30h3nhuzv
+    *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_njt0as90l0
+    *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/qqsso_fswzogvhyf
+    *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/qqsso_sfuskxk39g
+    *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_vpvlkqkqcc
+    *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_jwdym6jd57
+    *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_fxiw1u6tg0
+    *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_x5wzwni3mb
+    *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_1ktrqsi02m
 * Finished:
-    * [2015/01/05 01:51:29] [urlrule] sites miaopai.com SAVE 陈美琳Mandy
-    * [2015/01/05 01:51:00] [urlrule] sites weipai.cn update 李思桐儿
-    * [2015/01/05 01:48:48] [urlrule] sites weipai.cn update 李京琳-宝宝
-    * [2015/01/05 01:36:15] [urlrule] sites weipai.cn update 李云666
-    * [2015/01/05 01:34:27] [urlrule] sites weipai.cn update 李七喜
-    * [2015/01/05 01:30:48] [urlrule] sites weipai.cn update 朱小璐-nini
-    * [2015/01/05 01:29:25] [urlrule] sites weipai.cn update 曹欣妮s
-    * [2015/01/05 01:24:05] [urlrule] sites weipai.cn update 暗黑小萝莉
-    * [2015/01/05 01:22:28] [urlrule] sites weipai.cn update 晴海洋
-    * [2015/01/05 01:21:22] [urlrule] sites weipai.cn update 晨yoka
-    * [2015/01/05 01:20:20] [urlrule] sites weipai.cn update 无敌女汉子
-    * [2015/01/05 01:19:27] [urlrule] sites vlook.cn update 文蔓
-    * [2015/01/05 01:19:00] [urlrule] sites weipai.cn update 撒旦甜心_Ellia
-    * [2015/01/05 01:09:51] [urlrule] sites weipai.cn update 把你家户口本拿出来看看
-    * [2015/01/05 01:07:50] [urlrule] sites weipai.cn update 我就是爱瞎胡闹
-    * [2015/01/05 01:06:31] [urlrule] sites weipai.cn update 我只愛高跟鞋
-    * [2015/01/05 01:05:55] [urlrule] sites weipai.cn update 我一直都在雯雯
-    * [2015/01/05 01:04:57] [urlrule] sites weipai.cn update 懒虫baby
-    * [2015/01/05 01:03:46] [urlrule] sites weipai.cn update 悦儿yummy
-    * [2015/01/05 00:59:56] [urlrule] sites weipai.cn update 恋姗妮
-    * [2015/01/05 00:57:00] [urlrule] sites weipai.cn update 心宁儿cecilia
-    * [2015/01/05 00:48:25] [urlrule] sites weipai.cn update 微拍三少爷
-    * [2015/01/05 00:45:20] [urlrule] sites weipai.cn update 微我信av0006789
-    * [2015/01/05 00:44:36] [urlrule] sites weipai.cn update 微子baby
-    * [2015/01/05 00:43:17] [urlrule] sites weipai.cn update 徐美儿
-    * [2015/01/05 00:25:58] [urlrule] sites weipai.cn update 徐妍馨Mandy
-    * [2015/01/05 00:15:03] [urlrule] sites weipai.cn update 张馨馨Maggie
-    * [2015/01/05 00:11:11] [urlrule] sites weipai.cn update 张若兰
-    * [2015/01/05 00:09:10] [urlrule] sites weipai.cn update 张芊芊
+    * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
-    * [2015/01/05 01:51:53] [urlrule] sites weipai.cn update 李朝蛟-Bie
-    * [2015/01/05 01:51:50] [urlrule] sites weipai.cn update 李怡静1118
-    * [2015/01/05 01:51:48] [urlrule] sites vlook.cn update 李思闻
-    * [2015/01/05 01:51:41] [urlrule] sites weipai.cn update 李思闻
-    * [2015/01/05 01:49:01] [urlrule] sites weipai.cn update 李妍呢
-    * [2015/01/05 01:48:59] [urlrule] sites weipai.cn update 李佳洁妞儿
-    * [2015/01/05 01:31:00] [urlrule] sites weipai.cn update 朵朵猪
-    * [2015/01/05 01:29:47] [urlrule] sites weipai.cn update 最美的太阳20140822
-    * [2015/01/05 01:29:44] [urlrule] sites weipai.cn update 最帅马三舅
-    * [2015/01/05 01:29:42] [urlrule] sites weipai.cn update 曾贾
-    * [2015/01/05 01:29:40] [urlrule] sites weipai.cn update 曼丽LXL
-    * [2015/01/05 01:29:37] [urlrule] sites weipai.cn update 曹紫涵
-    * [2015/01/05 01:24:16] [urlrule] sites weipai.cn update 曲珈叶
-    * [2015/01/05 01:21:33] [urlrule] sites weipai.cn update 景小姐景小姐
-    * [2015/01/05 01:20:40] [urlrule] sites weipai.cn update 晕死的大白兔
-    * [2015/01/05 01:20:38] [urlrule] sites weipai.cn update 晓彗大大大
-    * [2015/01/05 01:20:36] [urlrule] sites weipai.cn update 晓卉日记
-    * [2015/01/05 01:20:33] [urlrule] sites weipai.cn update 易阳ELLY
-    * [2015/01/05 01:20:31] [urlrule] sites weipai.cn update 早晚整死你
-    * [2015/01/05 01:19:54] [urlrule] sites weipai.cn update 无懈可击阿乐
-    * [2015/01/05 01:19:52] [urlrule] sites weipai.cn update 无名指的等待20141002
-    * [2015/01/05 01:19:50] [urlrule] sites weipai.cn update 施婭婭
-    * [2015/01/05 01:19:48] [urlrule] sites weipai.cn update 施娅静微拍
-    * [2015/01/05 01:19:46] [urlrule] sites weipai.cn update 新百伦正品代购20141202
-    * [2015/01/05 01:19:43] [urlrule] sites weipai.cn update 新用户21460
-    * [2015/01/05 01:19:41] [urlrule] sites weipai.cn update 新浪微博未知黑色曼陀罗
-    * [2015/01/05 01:19:39] [urlrule] sites weipai.cn update 新浪微博model-芯妍
-    * [2015/01/05 01:10:02] [urlrule] sites weipai.cn update 抗忙昂北鼻够够够
-    * [2015/01/05 01:08:16] [urlrule] sites weipai.cn update 扯起鸡儿弹蹦蹦
-    * [2015/01/05 01:08:14] [urlrule] sites weipai.cn update 戴玉琪
-    * [2015/01/05 01:08:12] [urlrule] sites weipai.cn update 我行我素新灵儿
-    * [2015/01/05 01:08:10] [urlrule] sites weipai.cn update 我的幸福你赞助
-    * [2015/01/05 01:08:08] [urlrule] sites weipai.cn update 我爱奥黛丽赫本
-    * [2015/01/05 01:08:06] [urlrule] sites weipai.cn update 我是郑成功
-    * [2015/01/05 01:08:03] [urlrule] sites weipai.cn update 我是你Lily姐
-    * [2015/01/05 01:08:01] [urlrule] sites weipai.cn update 我是伊一baby
-    * [2015/01/05 01:06:43] [urlrule] sites weipai.cn update 我就是樱桃小丸子
-    * [2015/01/05 01:05:08] [urlrule] sites weipai.cn update 成都的肉包子
-    * [2015/01/05 01:03:57] [urlrule] sites weipai.cn update 慕慕的性感迷死你
-    * [2015/01/05 00:57:25] [urlrule] sites vlook.cn update 性感女神研研
-    * [2015/01/05 00:57:21] [urlrule] sites weipai.cn update 性感像多花
-    * [2015/01/05 00:57:18] [urlrule] sites weipai.cn update 忧伤的黄瓜1
-    * [2015/01/05 00:57:16] [urlrule] sites weipai.cn update 忧伤的小麻雀
-    * [2015/01/05 00:57:14] [urlrule] sites vlook.cn update 心蕾Abby
-    * [2015/01/05 00:48:38] [urlrule] sites weipai.cn update 微拍精品福利--
-    * [2015/01/05 00:48:36] [urlrule] sites weipai.cn update 微拍娱乐圈
-    * [2015/01/05 00:43:34] [urlrule] sites weipai.cn update 微信itangcc
-    * [2015/01/05 00:43:31] [urlrule] sites weipai.cn update 徐茜儿
-    * [2015/01/05 00:11:32] [urlrule] sites weipai.cn update 张露_Betty
-    * [2015/01/05 00:11:29] [urlrule] sites weipai.cn update 张鑫Amy
-    * [2015/01/05 00:11:27] [urlrule] sites weipai.cn update 张若兰
-    * [2015/01/05 00:07:06] [urlrule] sites weipai.cn update 张美荧
+    * [2015/01/05 02:23:03] [urlrule] sites miaopai.com add paike_5aljkb2xnz 澄小兔Annie
