@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 撒旦甜心_Ellia
+
+    * Begin : 2015/01/05 01:10:03
+    * End   : 2015/01/05 01:19:00
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 把你家户口本拿出来看看
 
     * Begin : 2015/01/05 01:08:18

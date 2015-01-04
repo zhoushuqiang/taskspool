@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 01:19:00] [urlrule] sites weipai.cn update 撒旦甜心_Ellia
     * [2015/01/05 01:09:51] [urlrule] sites weipai.cn update 把你家户口本拿出来看看
     * [2015/01/05 01:07:50] [urlrule] sites weipai.cn update 我就是爱瞎胡闹
     * [2015/01/05 01:06:31] [urlrule] sites weipai.cn update 我只愛高跟鞋
@@ -19,6 +20,7 @@ Tasks Status Report
     * [2015/01/05 00:11:11] [urlrule] sites weipai.cn update 张若兰
     * [2015/01/05 00:09:10] [urlrule] sites weipai.cn update 张芊芊
 * Doing Nothing:
+    * [2015/01/05 01:10:02] [urlrule] sites weipai.cn update 抗忙昂北鼻够够够
     * [2015/01/05 01:08:16] [urlrule] sites weipai.cn update 扯起鸡儿弹蹦蹦
     * [2015/01/05 01:08:14] [urlrule] sites weipai.cn update 戴玉琪
     * [2015/01/05 01:08:12] [urlrule] sites weipai.cn update 我行我素新灵儿
