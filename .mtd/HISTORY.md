@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update 文蔓
+
+    * Begin : 2015/01/05 01:19:11
+    * End   : 2015/01/05 01:19:27
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 撒旦甜心_Ellia
 
     * Begin : 2015/01/05 01:10:03
