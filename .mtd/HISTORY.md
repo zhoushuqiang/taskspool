@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 李思桐儿
+
+    * Begin : 2015/01/05 01:49:03
+    * End   : 2015/01/05 01:51:00
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 李妍呢
+
+    * Begin : 2015/01/05 01:49:00
+    * End   : 2015/01/05 01:49:01
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 李佳洁妞儿
+
+    * Begin : 2015/01/05 01:48:58
+    * End   : 2015/01/05 01:48:59
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 李京琳-宝宝
 
     * Begin : 2015/01/05 01:36:25
