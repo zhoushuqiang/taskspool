@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 李七喜
+
+    * Begin : 2015/01/05 01:31:01
+    * End   : 2015/01/05 01:34:27
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 朵朵猪
+
+    * Begin : 2015/01/05 01:30:59
+    * End   : 2015/01/05 01:31:00
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 朱小璐-nini
 
     * Begin : 2015/01/05 01:29:48
