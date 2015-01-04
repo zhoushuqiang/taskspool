@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 我就是爱瞎胡闹
+
+    * Begin : 2015/01/05 01:06:44
+    * End   : 2015/01/05 01:07:50
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 我就是樱桃小丸子
+
+    * Begin : 2015/01/05 01:06:41
+    * End   : 2015/01/05 01:06:43
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 我只愛高跟鞋
 
     * Begin : 2015/01/05 01:06:05
