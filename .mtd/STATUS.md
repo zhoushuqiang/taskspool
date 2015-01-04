@@ -2,7 +2,7 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_f0ataiy4d0
+    *[urlrule] sites miaopai.com SAVE paike_f0ataiy4d0 韩昕怡Summer
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_5ih56mclzx
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/qqsso_eb0u7626un
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/wxsso_wyl0v389py
@@ -17,7 +17,9 @@ Tasks Status Report
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_x5wzwni3mb
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_1ktrqsi02m
 * Finished:
+    * [2015/01/05 06:48:15] [urlrule] sites miaopai.com follow paike_f0ataiy4d0 韩昕怡Summer
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 06:48:15] [urlrule] sites miaopai.com add paike_f0ataiy4d0 韩昕怡Summer
     * [2015/01/05 02:23:03] [urlrule] sites miaopai.com add paike_5aljkb2xnz 澄小兔Annie

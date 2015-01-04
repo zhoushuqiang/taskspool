@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com follow paike_f0ataiy4d0 韩昕怡Summer
+
+    * Begin : 2015/01/05 06:48:15
+    * End   : 2015/01/05 06:48:15
+    * Result: OK
+
 * [urlrule] sites miaopai.com SAVE 澄小兔Annie
 
     * Begin : 2015/01/05 02:23:12
