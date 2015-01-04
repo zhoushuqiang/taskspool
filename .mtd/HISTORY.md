@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 张栩菲-ManGo
+
+    * Begin : 2015/01/04 19:30:56
+    * End   : 2015/01/04 20:26:36
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 张春雪v
+
+    * Begin : 2015/01/04 19:30:53
+    * End   : 2015/01/04 19:30:55
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 张心儿Bella
+
+    * Begin : 2015/01/04 19:30:44
+    * End   : 2015/01/04 19:30:52
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 张心儿
+
+    * Begin : 2015/01/04 19:30:36
+    * End   : 2015/01/04 19:30:43
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 张已桂
+
+    * Begin : 2015/01/04 19:30:30
+    * End   : 2015/01/04 19:30:35
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 张姿彦
 
     * Begin : 2015/01/04 19:26:00
