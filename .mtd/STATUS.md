@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 01:48:48] [urlrule] sites weipai.cn update 李京琳-宝宝
     * [2015/01/05 01:36:15] [urlrule] sites weipai.cn update 李云666
     * [2015/01/05 01:34:27] [urlrule] sites weipai.cn update 李七喜
     * [2015/01/05 01:30:48] [urlrule] sites weipai.cn update 朱小璐-nini
