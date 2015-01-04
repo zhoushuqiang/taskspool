@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 张姿彦
+
+    * Begin : 2015/01/04 19:26:00
+    * End   : 2015/01/04 19:30:14
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 张大Ber__r7
+
+    * Begin : 2015/01/04 19:25:58
+    * End   : 2015/01/04 19:25:59
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 广州莉莉玛莲酒吧小熙
 
     * Begin : 2015/01/04 19:17:13
