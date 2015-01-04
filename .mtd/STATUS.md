@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 01:51:29] [urlrule] sites miaopai.com SAVE 陈美琳Mandy
     * [2015/01/05 01:51:00] [urlrule] sites weipai.cn update 李思桐儿
     * [2015/01/05 01:48:48] [urlrule] sites weipai.cn update 李京琳-宝宝
     * [2015/01/05 01:36:15] [urlrule] sites weipai.cn update 李云666

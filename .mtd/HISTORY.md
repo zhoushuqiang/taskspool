@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com SAVE 陈美琳Mandy
+
+    * Begin : 2015/01/05 01:51:10
+    * End   : 2015/01/05 01:51:29
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 李思桐儿
 
     * Begin : 2015/01/05 01:49:03
