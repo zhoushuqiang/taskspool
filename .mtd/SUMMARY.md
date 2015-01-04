@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 晴海洋
+
+    * Begin : 2015/01/05 01:21:34
+    * End   : 2015/01/05 01:22:28
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 晨yoka
 
     * Begin : 2015/01/05 01:20:42
