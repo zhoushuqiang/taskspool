@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/04 20:32:50] [urlrule] sites weipai.cn update 张江南同学
     * [2015/01/04 20:26:36] [urlrule] sites weipai.cn update 张栩菲-ManGo
     * [2015/01/04 19:30:14] [urlrule] sites weipai.cn update 张姿彦
     * [2015/01/04 19:25:42] [urlrule] sites weipai.cn update 广州莉莉玛莲酒吧小熙
