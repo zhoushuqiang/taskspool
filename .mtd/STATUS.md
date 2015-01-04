@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 01:03:46] [urlrule] sites weipai.cn update 悦儿yummy
     * [2015/01/05 00:59:56] [urlrule] sites weipai.cn update 恋姗妮
     * [2015/01/05 00:57:00] [urlrule] sites weipai.cn update 心宁儿cecilia
     * [2015/01/05 00:48:25] [urlrule] sites weipai.cn update 微拍三少爷
