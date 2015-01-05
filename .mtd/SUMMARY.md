@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 陈世媄
+
+    * Begin : 2015/01/05 21:48:40
+    * End   : 2015/01/05 21:49:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 阿朵拉Adora
 
     * Begin : 2015/01/05 21:47:22
