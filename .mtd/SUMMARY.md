@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com SAVE 王小珏elva
+
+    * Begin : 2015/01/05 14:14:34
+    * End   : 2015/01/05 14:17:21
+    * Result: OK
+
 * [urlrule] sites miaopai.com follow paike_x5wzwni3mb 王小珏elva
 
     * Begin : 2015/01/05 14:14:25

@@ -2,9 +2,9 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites miaopai.com SAVE paike_x5wzwni3mb 王小珏elva
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_1ktrqsi02m
 * Finished:
+    * [2015/01/05 14:17:21] [urlrule] sites miaopai.com SAVE 王小珏elva
     * [2015/01/05 14:14:25] [urlrule] sites miaopai.com follow paike_x5wzwni3mb 王小珏elva
     * [2015/01/05 14:14:13] [urlrule] sites miaopai.com SAVE CY艳
     * [2015/01/05 14:10:01] [urlrule] sites miaopai.com follow paike_fxiw1u6tg0 CY艳
