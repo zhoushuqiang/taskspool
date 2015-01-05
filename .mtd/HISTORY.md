@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 林歆蕊Q286312385
+
+    * Begin : 2015/01/05 15:28:39
+    * End   : 2015/01/05 15:28:48
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 林歆蕊
 
     * Begin : 2015/01/05 15:27:48
