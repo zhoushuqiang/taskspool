@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 魏嘉蒂Betty
+
+    * Begin : 2015/01/05 22:20:06
+    * End   : 2015/01/05 22:20:46
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 馨妹纸
 
     * Begin : 2015/01/05 22:19:21

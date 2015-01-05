@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 魏嘉蒂Betty
+
+    * Begin : 2015/01/05 22:20:06
+    * End   : 2015/01/05 22:20:46
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 高冷漾
+
+    * Begin : 2015/01/05 22:20:03
+    * End   : 2015/01/05 22:20:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 高依然Doris
+
+    * Begin : 2015/01/05 22:20:01
+    * End   : 2015/01/05 22:20:02
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 馨妹纸
 
     * Begin : 2015/01/05 22:19:21
