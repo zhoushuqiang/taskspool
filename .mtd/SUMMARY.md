@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com follow paike_3jgu16h5yd 美妮MuMu
+
+    * Begin : 2015/01/05 13:04:21
+    * End   : 2015/01/05 13:04:21
+    * Result: OK
+
 * [urlrule] sites miaopai.com SAVE 糖糖Sissibaby
 
     * Begin : 2015/01/05 12:58:58
