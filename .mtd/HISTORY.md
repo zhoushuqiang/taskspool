@@ -1,3 +1,17 @@
+* [urlrule] sites weipai.cn follow 518554be7d3494d76a00001c 嘉欣小星星
+
+
+    * Begin : 2015/01/05 23:29:28
+    * End   : 2015/01/05 23:29:29
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 518554be7d3494d76a00001c 嘉欣小星星
+
+
+    * Begin : 2015/01/05 23:29:28
+    * End   : 2015/01/05 23:29:28
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 王希希
 
 
