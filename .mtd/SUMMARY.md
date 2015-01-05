@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com follow qqsso_eb0u7626un 张爷baby
+
+    * Begin : 2015/01/05 08:55:19
+    * End   : 2015/01/05 08:55:19
+    * Result: OK
+
 * [urlrule] sites miaopai.com SAVE 桃子就是小桃红红红
 
     * Begin : 2015/01/05 07:17:41

@@ -1,3 +1,15 @@
+* [urlrule] sites miaopai.com follow qqsso_eb0u7626un 张爷baby
+
+    * Begin : 2015/01/05 08:55:19
+    * End   : 2015/01/05 08:55:19
+    * Result: OK
+
+* [urlrule] sites miaopai.com add qqsso_eb0u7626un 张爷baby
+
+    * Begin : 2015/01/05 08:55:13
+    * End   : 2015/01/05 08:55:19
+    * Result: http://www.miaopai.com/u/qqsso_eb0u7626un=>[miaopai.com] qqsso_eb0u7626un (张爷baby) OK
+
 * [urlrule] sites miaopai.com SAVE 桃子就是小桃红红红
 
     * Begin : 2015/01/05 07:17:41
