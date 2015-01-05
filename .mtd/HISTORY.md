@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 苏夏妞妞
+
+    * Begin : 2015/01/05 20:32:32
+    * End   : 2015/01/05 20:34:23
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 花旗是个双面少女
 
     * Begin : 2015/01/05 20:30:40
