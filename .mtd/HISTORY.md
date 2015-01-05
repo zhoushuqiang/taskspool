@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 肚皮舞皇后
+
+    * Begin : 2015/01/05 18:34:18
+    * End   : 2015/01/05 19:00:41
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 肖金铭
+
+    * Begin : 2015/01/05 18:34:15
+    * End   : 2015/01/05 18:34:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 肖蕾微博
+
+    * Begin : 2015/01/05 18:34:13
+    * End   : 2015/01/05 18:34:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 耳听爱情
+
+    * Begin : 2015/01/05 18:34:11
+    * End   : 2015/01/05 18:34:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 翡翠妹妹
+
+    * Begin : 2015/01/05 18:34:09
+    * End   : 2015/01/05 18:34:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 美色驿站
+
+    * Begin : 2015/01/05 18:34:07
+    * End   : 2015/01/05 18:34:08
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 美腿热舞福利分享
 
     * Begin : 2015/01/05 18:33:44

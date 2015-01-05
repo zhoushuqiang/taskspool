@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 肚皮舞皇后
+
+    * Begin : 2015/01/05 18:34:18
+    * End   : 2015/01/05 19:00:41
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 美腿热舞福利分享
 
     * Begin : 2015/01/05 18:33:44
