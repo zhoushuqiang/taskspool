@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 郑瑞熙_
+
+    * Begin : 2015/01/05 21:42:25
+    * End   : 2015/01/05 21:42:59
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 郑安然
+
+    * Begin : 2015/01/05 21:42:23
+    * End   : 2015/01/05 21:42:24
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 邻家猴猴
 
     * Begin : 2015/01/05 21:40:21
