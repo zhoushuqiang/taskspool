@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com follow qqsso_fswzogvhyf 媛lady
+
+    * Begin : 2015/01/05 13:45:28
+    * End   : 2015/01/05 13:45:28
+    * Result: OK
+
 * [urlrule] sites miaopai.com SAVE 柠檬_lemon
 
     * Begin : 2015/01/05 13:43:24
