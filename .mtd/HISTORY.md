@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 洛可馨
+
+    * Begin : 2015/01/05 15:59:57
+    * End   : 2015/01/05 16:01:07
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 波波小姐
+
+    * Begin : 2015/01/05 15:59:55
+    * End   : 2015/01/05 15:59:56
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 没有鼻梁的姑娘
 
     * Begin : 2015/01/05 15:48:05
