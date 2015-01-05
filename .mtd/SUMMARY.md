@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 雅沁
+
+    * Begin : 2015/01/05 22:02:13
+    * End   : 2015/01/05 22:02:33
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 陈语乔
 
     * Begin : 2015/01/05 21:57:46
