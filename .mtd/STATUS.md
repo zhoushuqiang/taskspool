@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 16:02:58] [urlrule] sites weipai.cn update 洛熙爱爱
     * [2015/01/05 16:01:07] [urlrule] sites weipai.cn update 洛可馨
     * [2015/01/05 15:59:45] [urlrule] sites weipai.cn update 没有鼻梁的姑娘
     * [2015/01/05 15:47:47] [urlrule] sites weipai.cn update 汉小仙
