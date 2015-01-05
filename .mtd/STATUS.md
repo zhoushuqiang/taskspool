@@ -1,7 +1,10 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn SAVE 张栩菲-ManGo
 * Finished:
+    * [2015/01/06 00:46:32] [urlrule] sites weipai.cn SAVE 嘉欣小星星
     * [2015/01/06 00:35:52] [urlrule] sites weipai.cn UPDATE 小爱妞妞
 
 * Doing Nothing:

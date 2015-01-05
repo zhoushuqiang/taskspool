@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 嘉欣小星星
+
+    * Begin : 2015/01/06 00:36:01
+    * End   : 2015/01/06 00:46:32
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 小爱妞妞
 
 
