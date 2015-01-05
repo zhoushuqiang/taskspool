@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 陈可鑫
+
+    * Begin : 2015/01/05 21:50:02
+    * End   : 2015/01/05 21:50:21
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 陈依萌宝贝
 
     * Begin : 2015/01/05 21:49:22
