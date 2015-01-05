@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 空虚哥
+
+    * Begin : 2015/01/05 17:53:21
+    * End   : 2015/01/05 17:54:28
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 穴儿
+
+    * Begin : 2015/01/05 17:53:19
+    * End   : 2015/01/05 17:53:20
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 秦蕾
 
     * Begin : 2015/01/05 17:52:17
