@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 许小雪S
+
+    * Begin : 2015/01/05 21:29:49
+    * End   : 2015/01/05 21:30:55
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 許曼妮
+
+    * Begin : 2015/01/05 21:29:47
+    * End   : 2015/01/05 21:29:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 角落宝贝
+
+    * Begin : 2015/01/05 21:29:44
+    * End   : 2015/01/05 21:29:45
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 西瓜姑娘
 
     * Begin : 2015/01/05 21:29:01
