@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 菲飞飞
+
+    * Begin : 2015/01/05 21:12:22
+    * End   : 2015/01/05 21:12:47
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 菲菲和娜娜
+
+    * Begin : 2015/01/05 21:12:20
+    * End   : 2015/01/05 21:12:21
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 菲儿
 
     * Begin : 2015/01/05 21:10:53
