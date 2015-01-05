@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 穿着高跟鞋跳芭蕾--
+
+    * Begin : 2015/01/05 17:54:39
+    * End   : 2015/01/05 17:56:04
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 空虚哥
 
     * Begin : 2015/01/05 17:53:21
