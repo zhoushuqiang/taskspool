@@ -2,7 +2,6 @@ Tasks::Builder::Config::LastTask    13
 Tasks::Center::options.no-pull    1
 Tasks::Center::options.sleep    1
 Tasks::Center::tasks_0    urlrule	sites	weipai.cn	UPDATE	50bb2604803494ef02000054	Ms阿婆王
-
 _DIR    .mtd
 _IGNORE    .mtd/ignore
 _LISTENER    .mtd/listener
