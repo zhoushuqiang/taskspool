@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE 嘉欣小星星
+
+
+    * Begin : 2015/01/05 23:29:38
+    * Result: PENDING
+
 * [urlrule] sites weipai.cn follow 518554be7d3494d76a00001c 嘉欣小星星
 
 
