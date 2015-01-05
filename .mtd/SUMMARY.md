@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 钱小美
+
+    * Begin : 2015/01/05 21:45:25
+    * End   : 2015/01/05 21:46:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 钟紫心
 
     * Begin : 2015/01/05 21:45:06
