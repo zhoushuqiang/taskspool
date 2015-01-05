@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 刘韩依HY
+
+
+    * Begin : 2015/01/05 22:43:42
+    * End   : 2015/01/05 22:44:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 小龙钕baby
 
 

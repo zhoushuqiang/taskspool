@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 22:44:12] [urlrule] sites weipai.cn UPDATE 刘韩依HY
+
     * [2015/01/05 22:43:28] [urlrule] sites weipai.cn UPDATE 小龙钕baby
 
     * [2015/01/05 22:42:58] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
@@ -185,6 +187,16 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 22:43:42] [urlrule] sites weipai.cn follow 51850ff67f34940e0f000001 刘韩依HY
+
+    * [2015/01/05 22:43:41] [urlrule] sites weipai.cn add 51850ff67f34940e0f000001 刘韩依HY
+
+    * [2015/01/05 22:43:39] [urlrule] sites weipai.cn UPDATE 徐美儿
+
+    * [2015/01/05 22:43:38] [urlrule] sites weipai.cn follow 52f32c2677d3cc22398b456b 徐美儿
+
+    * [2015/01/05 22:43:38] [urlrule] sites weipai.cn add 52f32c2677d3cc22398b456b 徐美儿
+
     * [2015/01/05 22:43:07] [urlrule] sites weipai.cn follow 52cbb7d079d3ccbb0d8b4570 小龙钕baby
 
     * [2015/01/05 22:43:07] [urlrule] sites weipai.cn add 52cbb7d079d3ccbb0d8b4570 小龙钕baby

@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn UPDATE 刘韩依HY
+
+
+    * Begin : 2015/01/05 22:43:42
+    * End   : 2015/01/05 22:44:12
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 51850ff67f34940e0f000001 刘韩依HY
+
+
+    * Begin : 2015/01/05 22:43:41
+    * End   : 2015/01/05 22:43:42
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 51850ff67f34940e0f000001 刘韩依HY
+
+
+    * Begin : 2015/01/05 22:43:41
+    * End   : 2015/01/05 22:43:41
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 徐美儿
+
+
+    * Begin : 2015/01/05 22:43:38
+    * End   : 2015/01/05 22:43:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52f32c2677d3cc22398b456b 徐美儿
+
+
+    * Begin : 2015/01/05 22:43:38
+    * End   : 2015/01/05 22:43:38
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52f32c2677d3cc22398b456b 徐美儿
+
+
+    * Begin : 2015/01/05 22:43:38
+    * End   : 2015/01/05 22:43:38
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 小龙钕baby
 
 
