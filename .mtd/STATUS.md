@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 15:29:05] [urlrule] sites vlook.cn update 林蕊儿
     * [2015/01/05 15:28:48] [urlrule] sites weipai.cn update 林歆蕊Q286312385
     * [2015/01/05 15:28:29] [urlrule] sites vlook.cn update 林歆蕊
     * [2015/01/05 15:27:37] [urlrule] sites weipai.cn update 林夕baby123
