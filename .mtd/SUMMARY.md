@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 芮涵Annabelle
+
+    * Begin : 2015/01/05 20:29:44
+    * End   : 2015/01/05 20:29:57
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 芭比娃哈
 
     * Begin : 2015/01/05 20:29:02
