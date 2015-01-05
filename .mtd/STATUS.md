@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 16:14:50] [urlrule] sites weipai.cn update 王大小姐__Miss
     * [2015/01/05 16:13:38] [urlrule] sites weipai.cn update 玉baby
     * [2015/01/05 16:09:16] [urlrule] sites weipai.cn update 猫小咪Queen
     * [2015/01/05 16:08:29] [urlrule] sites weipai.cn update 独爱简单控
@@ -69,6 +70,9 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 16:13:53] [urlrule] sites weipai.cn update 王允甜
+    * [2015/01/05 16:13:51] [urlrule] sites weipai.cn update 王依萱
+    * [2015/01/05 16:13:49] [urlrule] sites weipai.cn update 王丹妮baby
     * [2015/01/05 16:09:30] [urlrule] sites vlook.cn update 猫小咪Queen
     * [2015/01/05 16:08:46] [urlrule] sites weipai.cn update 猫大人是猫大人
     * [2015/01/05 16:08:43] [urlrule] sites vlook.cn update 猫一样的女人猫 伊莲的小衣橱

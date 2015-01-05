@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 王大小姐__Miss
+
+    * Begin : 2015/01/05 16:13:55
+    * End   : 2015/01/05 16:14:50
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 王允甜
+
+    * Begin : 2015/01/05 16:13:52
+    * End   : 2015/01/05 16:13:53
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 王依萱
+
+    * Begin : 2015/01/05 16:13:50
+    * End   : 2015/01/05 16:13:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 王丹妮baby
+
+    * Begin : 2015/01/05 16:13:48
+    * End   : 2015/01/05 16:13:49
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 玉baby
 
     * Begin : 2015/01/05 16:09:32

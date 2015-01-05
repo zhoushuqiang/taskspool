@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 王大小姐__Miss
+
+    * Begin : 2015/01/05 16:13:55
+    * End   : 2015/01/05 16:14:50
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 玉baby
 
     * Begin : 2015/01/05 16:09:32
