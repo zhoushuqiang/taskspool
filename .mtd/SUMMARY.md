@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 橙子妹妹
+
+    * Begin : 2015/01/05 15:43:54
+    * End   : 2015/01/05 15:44:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 橙大爷
 
     * Begin : 2015/01/05 15:43:08
