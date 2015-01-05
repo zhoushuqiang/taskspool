@@ -1,9 +1,8 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites miaopai.com SAVE paike_1ktrqsi02m Alina_林枫
 * Finished:
+    * [2015/01/05 14:30:20] [urlrule] sites miaopai.com SAVE Alina_林枫
     * [2015/01/05 14:17:32] [urlrule] sites miaopai.com follow paike_1ktrqsi02m Alina_林枫
     * [2015/01/05 14:17:21] [urlrule] sites miaopai.com SAVE 王小珏elva
     * [2015/01/05 14:14:25] [urlrule] sites miaopai.com follow paike_x5wzwni3mb 王小珏elva
