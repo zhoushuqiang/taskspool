@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update 梦之冰城
+
+    * Begin : 2015/01/05 15:39:02
+    * End   : 2015/01/05 15:39:18
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 梓茜ZX
 
     * Begin : 2015/01/05 15:35:55
