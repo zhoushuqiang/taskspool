@@ -2,13 +2,13 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites miaopai.com SAVE qqsso_sfuskxk39g 红人馆
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_vpvlkqkqcc
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_jwdym6jd57
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_fxiw1u6tg0
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_x5wzwni3mb
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_1ktrqsi02m
 * Finished:
+    * [2015/01/05 13:58:21] [urlrule] sites miaopai.com SAVE 红人馆
     * [2015/01/05 13:46:41] [urlrule] sites miaopai.com follow qqsso_sfuskxk39g 红人馆
     * [2015/01/05 13:46:30] [urlrule] sites miaopai.com SAVE 媛lady
     * [2015/01/05 13:45:28] [urlrule] sites miaopai.com follow qqsso_fswzogvhyf 媛lady

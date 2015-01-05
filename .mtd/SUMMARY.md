@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com SAVE 红人馆
+
+    * Begin : 2015/01/05 13:46:50
+    * End   : 2015/01/05 13:58:21
+    * Result: OK
+
 * [urlrule] sites miaopai.com follow qqsso_sfuskxk39g 红人馆
 
     * Begin : 2015/01/05 13:46:41
