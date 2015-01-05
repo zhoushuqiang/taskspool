@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 混血演员安娜
+
+    * Begin : 2015/01/05 16:03:13
+    * End   : 2015/01/05 16:03:20
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 涵肉肉
+
+    * Begin : 2015/01/05 16:03:11
+    * End   : 2015/01/05 16:03:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 浮生若梦
+
+    * Begin : 2015/01/05 16:03:09
+    * End   : 2015/01/05 16:03:10
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 洛熙爱爱
 
     * Begin : 2015/01/05 16:01:17
