@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 22:43:28] [urlrule] sites weipai.cn UPDATE 小龙钕baby
+
     * [2015/01/05 22:42:58] [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
     * [2015/01/05 22:42:43] [urlrule action] http://www.weipai.cn/review/video?uid=4e627655677c27cf24000000&os=android 0 SAVE
     * [2015/01/05 22:42:28] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
@@ -183,6 +185,10 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 22:43:07] [urlrule] sites weipai.cn follow 52cbb7d079d3ccbb0d8b4570 小龙钕baby
+
+    * [2015/01/05 22:43:07] [urlrule] sites weipai.cn add 52cbb7d079d3ccbb0d8b4570 小龙钕baby
+
     * [2015/01/05 22:32:43] [urlrule] sites weipai.cn add 52c16cad78d3cc8c508b45cb Arin傲
 
     * [2015/01/05 22:32:42] [urlrule] sites weipai.cn UPDATE 陈柔轩Michel

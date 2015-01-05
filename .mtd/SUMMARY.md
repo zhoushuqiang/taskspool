@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 小龙钕baby
+
+
+    * Begin : 2015/01/05 22:43:07
+    * End   : 2015/01/05 22:43:28
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=523963c27d3494dc6f2ef6ca&os=android 0 SAVE
 
     * Begin : 2015/01/05 22:42:54
