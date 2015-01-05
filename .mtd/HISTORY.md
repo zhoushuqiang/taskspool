@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 杨梓萱baby
+
+    * Begin : 2015/01/05 15:19:13
+    * End   : 2015/01/05 15:19:57
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 杨杨ghj
+
+    * Begin : 2015/01/05 15:19:11
+    * End   : 2015/01/05 15:19:12
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 杨慧儿
+
+    * Begin : 2015/01/05 15:19:06
+    * End   : 2015/01/05 15:19:09
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 杨小琦TY
 
     * Begin : 2015/01/05 15:18:14
