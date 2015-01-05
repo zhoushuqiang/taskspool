@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 20:23:15] [urlrule] sites weipai.cn update 艾小爱
     * [2015/01/05 20:21:28] [urlrule] sites weipai.cn update 般若的每一天
     * [2015/01/05 19:00:41] [urlrule] sites weipai.cn update 肚皮舞皇后
     * [2015/01/05 18:33:57] [urlrule] sites weipai.cn update 美腿热舞福利分享
@@ -110,6 +111,7 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 20:21:44] [urlrule] sites weipai.cn update 艾_笑笑
     * [2015/01/05 19:01:04] [urlrule] sites weipai.cn update 胸奀
     * [2015/01/05 19:01:02] [urlrule] sites vlook.cn update 胡金熙
     * [2015/01/05 19:00:55] [urlrule] sites weipai.cn update 胖洋葱
