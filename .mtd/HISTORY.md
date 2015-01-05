@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 梓茜ZX
+
+    * Begin : 2015/01/05 15:35:55
+    * End   : 2015/01/05 15:38:51
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 梅子小姐_01
+
+    * Begin : 2015/01/05 15:35:53
+    * End   : 2015/01/05 15:35:54
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 梅姿baby
 
     * Begin : 2015/01/05 15:33:12
