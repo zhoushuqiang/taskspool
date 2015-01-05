@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 般若的每一天
+
+    * Begin : 2015/01/05 19:01:06
+    * End   : 2015/01/05 20:21:28
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 肚皮舞皇后
 
     * Begin : 2015/01/05 18:34:18

@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 般若的每一天
+
+    * Begin : 2015/01/05 19:01:06
+    * End   : 2015/01/05 20:21:28
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 胸奀
+
+    * Begin : 2015/01/05 19:01:03
+    * End   : 2015/01/05 19:01:04
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 胡金熙
+
+    * Begin : 2015/01/05 19:00:57
+    * End   : 2015/01/05 19:01:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 胖洋葱
+
+    * Begin : 2015/01/05 19:00:54
+    * End   : 2015/01/05 19:00:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 肥尻夫人Linanan
+
+    * Begin : 2015/01/05 19:00:52
+    * End   : 2015/01/05 19:00:53
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 肚皮舞皇后
 
     * Begin : 2015/01/05 18:34:18
