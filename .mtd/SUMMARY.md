@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 辣妈ai美丽
+
+    * Begin : 2015/01/05 21:39:32
+    * End   : 2015/01/05 21:40:07
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 谭昙
 
     * Begin : 2015/01/05 21:37:12

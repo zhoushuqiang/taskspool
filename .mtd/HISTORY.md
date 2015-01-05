@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 辣妈ai美丽
+
+    * Begin : 2015/01/05 21:39:32
+    * End   : 2015/01/05 21:40:07
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 软萌妹
+
+    * Begin : 2015/01/05 21:39:27
+    * End   : 2015/01/05 21:39:31
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 赵有根
+
+    * Begin : 2015/01/05 21:39:25
+    * End   : 2015/01/05 21:39:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 豆妞妞
+
+    * Begin : 2015/01/05 21:39:23
+    * End   : 2015/01/05 21:39:24
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 谭昙
 
     * Begin : 2015/01/05 21:37:12
