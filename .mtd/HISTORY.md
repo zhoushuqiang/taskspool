@@ -1,3 +1,44 @@
+* [urlrule] sites weipai.cn UPDATE Ms阿婆王
+
+
+    * Begin : 2015/01/06 00:47:17
+    * Result: PENDING
+
+* [urlrule] sites weipai.cn follow 50bb2604803494ef02000054 Ms阿婆王
+
+
+    * Begin : 2015/01/06 00:47:17
+    * End   : 2015/01/06 00:47:17
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 50bb2604803494ef02000054 Ms阿婆王
+
+
+    * Begin : 2015/01/06 00:47:17
+    * End   : 2015/01/06 00:47:17
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 糖果果国
+
+
+    * Begin : 2015/01/06 00:47:15
+    * End   : 2015/01/06 00:47:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 516557747f34942750000053 糖果果国
+
+
+    * Begin : 2015/01/06 00:47:15
+    * End   : 2015/01/06 00:47:15
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 516557747f34942750000053 糖果果国
+
+
+    * Begin : 2015/01/06 00:47:15
+    * End   : 2015/01/06 00:47:15
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn SAVE 张栩菲-ManGo
 
     * Begin : 2015/01/06 00:46:41
