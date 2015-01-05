@@ -1,3 +1,51 @@
+* [urlrule] sites weipai.cn update 由咩咩
+
+    * Begin : 2015/01/05 16:30:17
+    * End   : 2015/01/05 16:30:55
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 田晓多tesia
+
+    * Begin : 2015/01/05 16:30:15
+    * End   : 2015/01/05 16:30:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 田君er
+
+    * Begin : 2015/01/05 16:30:13
+    * End   : 2015/01/05 16:30:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 生如夏花12
+
+    * Begin : 2015/01/05 16:30:11
+    * End   : 2015/01/05 16:30:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 甜美人angela
+
+    * Begin : 2015/01/05 16:30:08
+    * End   : 2015/01/05 16:30:09
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 甜心宝
+
+    * Begin : 2015/01/05 16:30:03
+    * End   : 2015/01/05 16:30:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 瓶宝宝
+
+    * Begin : 2015/01/05 16:30:01
+    * End   : 2015/01/05 16:30:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 璇子_Yvonne
+
+    * Begin : 2015/01/05 16:29:59
+    * End   : 2015/01/05 16:30:00
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 瑶瑶baby
 
     * Begin : 2015/01/05 16:27:21
