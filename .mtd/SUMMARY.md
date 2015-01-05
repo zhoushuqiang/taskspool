@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 钟紫心
+
+    * Begin : 2015/01/05 21:45:06
+    * End   : 2015/01/05 21:45:13
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 重头再来20141107
 
     * Begin : 2015/01/05 21:44:43
