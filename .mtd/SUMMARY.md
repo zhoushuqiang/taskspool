@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com SAVE CY艳
+
+    * Begin : 2015/01/05 14:10:10
+    * End   : 2015/01/05 14:14:13
+    * Result: OK
+
 * [urlrule] sites miaopai.com follow paike_fxiw1u6tg0 CY艳
 
     * Begin : 2015/01/05 14:10:00
