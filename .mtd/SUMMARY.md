@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 颖小姐
+
+    * Begin : 2015/01/05 22:14:29
+    * End   : 2015/01/05 22:16:23
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 韩田稀
 
     * Begin : 2015/01/05 22:10:29

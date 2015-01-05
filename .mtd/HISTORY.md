@@ -1,3 +1,57 @@
+* [urlrule] sites weipai.cn update 颖小姐
+
+    * Begin : 2015/01/05 22:14:29
+    * End   : 2015/01/05 22:16:23
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 颕姐good-looking
+
+    * Begin : 2015/01/05 22:14:27
+    * End   : 2015/01/05 22:14:28
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 顾美丽
+
+    * Begin : 2015/01/05 22:14:24
+    * End   : 2015/01/05 22:14:26
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 顽石化钻恋玉人
+
+    * Begin : 2015/01/05 22:14:16
+    * End   : 2015/01/05 22:14:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 順唭自嘫
+
+    * Begin : 2015/01/05 22:14:14
+    * End   : 2015/01/05 22:14:15
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 韩金丽
+
+    * Begin : 2015/01/05 22:13:58
+    * End   : 2015/01/05 22:14:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩金丽
+
+    * Begin : 2015/01/05 22:13:56
+    * End   : 2015/01/05 22:13:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩田稀小号
+
+    * Begin : 2015/01/05 22:13:54
+    * End   : 2015/01/05 22:13:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩田稀
+
+    * Begin : 2015/01/05 22:13:52
+    * End   : 2015/01/05 22:13:53
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 韩田稀
 
     * Begin : 2015/01/05 22:10:29
