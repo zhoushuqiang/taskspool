@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 张栩菲-ManGo
+
+    * Begin : 2015/01/06 00:46:41
+    * End   : 2015/01/06 00:47:05
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 嘉欣小星星
 
     * Begin : 2015/01/06 00:36:01
