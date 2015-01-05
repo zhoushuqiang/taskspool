@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com SAVE 张栩菲-ManGo
+
+    * Begin : 2015/01/05 13:58:40
+    * End   : 2015/01/05 14:06:39
+    * Result: OK
+
 * [urlrule] sites miaopai.com follow paike_vpvlkqkqcc 张栩菲-ManGo
 
     * Begin : 2015/01/05 13:58:32
