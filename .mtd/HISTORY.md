@@ -1,3 +1,15 @@
+* [urlrule] sites miaopai.com follow paike_x5wzwni3mb 王小珏elva
+
+    * Begin : 2015/01/05 14:14:25
+    * End   : 2015/01/05 14:14:25
+    * Result: OK
+
+* [urlrule] sites miaopai.com add paike_x5wzwni3mb 王小珏elva
+
+    * Begin : 2015/01/05 14:14:23
+    * End   : 2015/01/05 14:14:25
+    * Result: http://www.miaopai.com/u/paike_x5wzwni3mb=>[miaopai.com] paike_x5wzwni3mb (王小珏elva) OK
+
 * [urlrule] sites miaopai.com SAVE CY艳
 
     * Begin : 2015/01/05 14:10:10
