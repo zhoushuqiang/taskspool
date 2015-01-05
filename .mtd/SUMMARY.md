@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 陈柔轩Michel
+
+    * Begin : 2015/01/05 21:55:57
+    * End   : 2015/01/05 21:56:56
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 陈怡曼coco
 
     * Begin : 2015/01/05 21:55:06
