@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com follow paike_1ktrqsi02m Alina_林枫
+
+    * Begin : 2015/01/05 14:17:32
+    * End   : 2015/01/05 14:17:32
+    * Result: OK
+
 * [urlrule] sites miaopai.com SAVE 王小珏elva
 
     * Begin : 2015/01/05 14:14:34

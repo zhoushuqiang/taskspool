@@ -2,8 +2,9 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_1ktrqsi02m
+    *[urlrule] sites miaopai.com SAVE paike_1ktrqsi02m Alina_林枫
 * Finished:
+    * [2015/01/05 14:17:32] [urlrule] sites miaopai.com follow paike_1ktrqsi02m Alina_林枫
     * [2015/01/05 14:17:21] [urlrule] sites miaopai.com SAVE 王小珏elva
     * [2015/01/05 14:14:25] [urlrule] sites miaopai.com follow paike_x5wzwni3mb 王小珏elva
     * [2015/01/05 14:14:13] [urlrule] sites miaopai.com SAVE CY艳
@@ -33,6 +34,7 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 14:17:32] [urlrule] sites miaopai.com add paike_1ktrqsi02m Alina_林枫
     * [2015/01/05 14:14:25] [urlrule] sites miaopai.com add paike_x5wzwni3mb 王小珏elva
     * [2015/01/05 14:10:00] [urlrule] sites miaopai.com add paike_fxiw1u6tg0 CY艳
     * [2015/01/05 14:06:50] [urlrule] sites miaopai.com add paike_jwdym6jd57 刘晨露Merry
