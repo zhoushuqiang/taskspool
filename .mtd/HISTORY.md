@@ -1,3 +1,15 @@
+* [urlrule] sites miaopai.com follow paike_njt0as90l0 柠檬_lemon
+
+    * Begin : 2015/01/05 13:43:16
+    * End   : 2015/01/05 13:43:16
+    * Result: OK
+
+* [urlrule] sites miaopai.com add paike_njt0as90l0 柠檬_lemon
+
+    * Begin : 2015/01/05 13:43:14
+    * End   : 2015/01/05 13:43:16
+    * Result: http://www.miaopai.com/u/paike_njt0as90l0=>[miaopai.com] paike_njt0as90l0 (柠檬_lemon) OK
+
 * [urlrule] sites miaopai.com SAVE 美人魚
 
     * Begin : 2015/01/05 13:16:48

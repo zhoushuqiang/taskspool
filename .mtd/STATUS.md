@@ -2,7 +2,7 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_njt0as90l0
+    *[urlrule] sites miaopai.com SAVE paike_njt0as90l0 柠檬_lemon
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/qqsso_fswzogvhyf
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/qqsso_sfuskxk39g
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_vpvlkqkqcc
@@ -11,6 +11,7 @@ Tasks Status Report
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_x5wzwni3mb
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_1ktrqsi02m
 * Finished:
+    * [2015/01/05 13:43:16] [urlrule] sites miaopai.com follow paike_njt0as90l0 柠檬_lemon
     * [2015/01/05 13:43:05] [urlrule] sites miaopai.com SAVE 美人魚
     * [2015/01/05 13:13:26] [urlrule] sites miaopai.com follow paike_u30h3nhuzv 美人魚
     * [2015/01/05 13:12:38] [urlrule] sites miaopai.com SAVE 美妮MuMu
@@ -26,6 +27,7 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 13:43:16] [urlrule] sites miaopai.com add paike_njt0as90l0 柠檬_lemon
     * [2015/01/05 13:13:25] [urlrule] sites miaopai.com add paike_u30h3nhuzv 美人魚
     * [2015/01/05 13:04:21] [urlrule] sites miaopai.com add paike_3jgu16h5yd 美妮MuMu
     * [2015/01/05 12:57:10] [urlrule] sites miaopai.com add wxsso_wyl0v389py 糖糖Sissibaby
