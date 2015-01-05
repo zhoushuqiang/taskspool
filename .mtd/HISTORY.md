@@ -1,3 +1,15 @@
+* [urlrule] sites miaopai.com follow wxsso_wyl0v389py 糖糖Sissibaby
+
+    * Begin : 2015/01/05 12:57:10
+    * End   : 2015/01/05 12:57:11
+    * Result: OK
+
+* [urlrule] sites miaopai.com add wxsso_wyl0v389py 糖糖Sissibaby
+
+    * Begin : 2015/01/05 12:57:04
+    * End   : 2015/01/05 12:57:10
+    * Result: http://www.miaopai.com/u/wxsso_wyl0v389py=>[miaopai.com] wxsso_wyl0v389py (糖糖Sissibaby) OK
+
 * [urlrule] sites miaopai.com SAVE 张爷baby
 
     * Begin : 2015/01/05 08:55:59
