@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 画泪听雨眠
+
+    * Begin : 2015/01/05 16:31:08
+    * End   : 2015/01/05 16:33:44
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 由咩咩
 
     * Begin : 2015/01/05 16:30:17
