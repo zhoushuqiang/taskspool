@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 皇家国际-佳欲
+
+    * Begin : 2015/01/05 16:34:10
+    * End   : 2015/01/05 16:34:58
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 白日不湿
 
     * Begin : 2015/01/05 16:33:55
