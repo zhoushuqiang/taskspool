@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 溅行溅美
+
+    * Begin : 2015/01/05 16:04:27
+    * End   : 2015/01/05 16:04:45
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 湯大师
 
     * Begin : 2015/01/05 16:03:30
