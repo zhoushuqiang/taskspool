@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 王璐璐-Dasiy
+
+    * Begin : 2015/01/05 16:17:45
+    * End   : 2015/01/05 16:18:15
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 王王王王-蕊
 
     * Begin : 2015/01/05 16:16:24
