@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites miaopai.com SAVE wxsso_wyl0v389py 糖糖Sissibaby
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_3jgu16h5yd
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_u30h3nhuzv
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_njt0as90l0
@@ -14,6 +13,7 @@ Tasks Status Report
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_x5wzwni3mb
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_1ktrqsi02m
 * Finished:
+    * [2015/01/05 13:02:34] [urlrule] sites miaopai.com SAVE 糖糖Sissibaby
     * [2015/01/05 12:57:11] [urlrule] sites miaopai.com follow wxsso_wyl0v389py 糖糖Sissibaby
     * [2015/01/05 12:55:34] [urlrule] sites miaopai.com SAVE 张爷baby
     * [2015/01/05 08:55:19] [urlrule] sites miaopai.com follow qqsso_eb0u7626un 张爷baby
