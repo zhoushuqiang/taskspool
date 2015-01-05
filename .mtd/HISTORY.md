@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE Arin傲
+
+
+    * Begin : 2015/01/05 22:32:53
+    * End   : 2015/01/05 22:37:53
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 52c16cad78d3cc8c508b45cb Arin傲
 
 

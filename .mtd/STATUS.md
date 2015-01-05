@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 52c16cad78d3cc8c508b45cb Arin傲
-
 * Finished:
+    * [2015/01/05 22:37:53] [urlrule] sites weipai.cn UPDATE Arin傲
+
     * [2015/01/05 22:32:43] [urlrule] sites weipai.cn follow 52c16cad78d3cc8c508b45cb Arin傲
 
     * [2015/01/05 22:32:18] [urlrule] sites vlook.cn update 黒目瞳
