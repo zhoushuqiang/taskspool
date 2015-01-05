@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 525b66875e7feb19498b4567 王希希
+
 * Finished:
+    * [2015/01/05 22:44:23] [urlrule] sites weipai.cn follow 525b66875e7feb19498b4567 王希希
+
     * [2015/01/05 22:44:12] [urlrule] sites weipai.cn UPDATE 刘韩依HY
 
     * [2015/01/05 22:43:28] [urlrule] sites weipai.cn UPDATE 小龙钕baby
@@ -187,6 +192,8 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 22:44:22] [urlrule] sites weipai.cn add 525b66875e7feb19498b4567 王希希
+
     * [2015/01/05 22:43:42] [urlrule] sites weipai.cn follow 51850ff67f34940e0f000001 刘韩依HY
 
     * [2015/01/05 22:43:41] [urlrule] sites weipai.cn add 51850ff67f34940e0f000001 刘韩依HY
