@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 神仙姐姐__艾溪
+
+    * Begin : 2015/01/05 17:22:35
+    * End   : 2015/01/05 17:24:06
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 知了
 
     * Begin : 2015/01/05 17:21:53
