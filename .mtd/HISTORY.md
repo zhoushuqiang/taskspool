@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 莫晓颜
+
+    * Begin : 2015/01/05 21:03:04
+    * End   : 2015/01/05 21:03:18
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 莫小尤
+
+    * Begin : 2015/01/05 21:03:02
+    * End   : 2015/01/05 21:03:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 草莓Rasa
+
+    * Begin : 2015/01/05 21:03:00
+    * End   : 2015/01/05 21:03:01
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 茜baby
 
     * Begin : 2015/01/05 21:01:58
