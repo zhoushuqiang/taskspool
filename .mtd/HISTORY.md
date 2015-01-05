@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 雨辰Raina
+
+    * Begin : 2015/01/05 22:02:49
+    * End   : 2015/01/05 22:04:35
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 雨020141120
+
+    * Begin : 2015/01/05 22:02:46
+    * End   : 2015/01/05 22:02:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 雅蒂Atind
+
+    * Begin : 2015/01/05 22:02:44
+    * End   : 2015/01/05 22:02:45
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 雅沁
 
     * Begin : 2015/01/05 22:02:13

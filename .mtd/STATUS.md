@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 22:04:35] [urlrule] sites weipai.cn update 雨辰Raina
     * [2015/01/05 22:02:33] [urlrule] sites weipai.cn update 雅沁
     * [2015/01/05 22:01:57] [urlrule] sites weipai.cn update 陈语乔
     * [2015/01/05 21:57:33] [urlrule] sites weipai.cn update 陈美琳Mandy
@@ -161,6 +162,8 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 22:02:47] [urlrule] sites weipai.cn update 雨020141120
+    * [2015/01/05 22:02:45] [urlrule] sites weipai.cn update 雅蒂Atind
     * [2015/01/05 22:02:12] [urlrule] sites weipai.cn update 随遇而安20140415
     * [2015/01/05 22:02:10] [urlrule] sites weipai.cn update 陛下陛下女王王
     * [2015/01/05 21:57:45] [urlrule] sites weipai.cn update 陈芯儿
