@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 西瓜姑娘
+
+    * Begin : 2015/01/05 21:29:01
+    * End   : 2015/01/05 21:29:34
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 表表表
+
+    * Begin : 2015/01/05 21:28:41
+    * End   : 2015/01/05 21:29:00
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 表妹baby
 
     * Begin : 2015/01/05 21:26:53
