@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 玉baby
+
+    * Begin : 2015/01/05 16:09:32
+    * End   : 2015/01/05 16:13:38
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 猫小咪Queen
+
+    * Begin : 2015/01/05 16:09:27
+    * End   : 2015/01/05 16:09:30
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 猫小咪Queen
 
     * Begin : 2015/01/05 16:08:47
