@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 邻家猴猴
+
+    * Begin : 2015/01/05 21:40:21
+    * End   : 2015/01/05 21:42:13
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 逐光流云20140912
+
+    * Begin : 2015/01/05 21:40:19
+    * End   : 2015/01/05 21:40:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 近色怡人
+
+    * Begin : 2015/01/05 21:40:17
+    * End   : 2015/01/05 21:40:18
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 辣妈ai美丽
 
     * Begin : 2015/01/05 21:39:32
