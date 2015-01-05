@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com follow paike_vpvlkqkqcc 张栩菲-ManGo
+
+    * Begin : 2015/01/05 13:58:32
+    * End   : 2015/01/05 13:58:32
+    * Result: OK
+
 * [urlrule] sites miaopai.com SAVE 红人馆
 
     * Begin : 2015/01/05 13:46:50
