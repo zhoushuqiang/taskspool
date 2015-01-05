@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 芭比娃哈
+
+    * Begin : 2015/01/05 20:29:02
+    * End   : 2015/01/05 20:29:31
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 芒果小懒猫
 
     * Begin : 2015/01/05 20:25:12
