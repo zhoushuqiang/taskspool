@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 粽子小姐
+
+    * Begin : 2015/01/05 18:11:50
+    * End   : 2015/01/05 18:18:32
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 粽子喜欢秋天
+
+    * Begin : 2015/01/05 18:11:48
+    * End   : 2015/01/05 18:11:49
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 粵講粵潮
+
+    * Begin : 2015/01/05 18:11:45
+    * End   : 2015/01/05 18:11:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 粉小溪CC
+
+    * Begin : 2015/01/05 18:11:43
+    * End   : 2015/01/05 18:11:44
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 米洁
+
+    * Begin : 2015/01/05 18:11:42
+    * End   : 2015/01/05 18:11:42
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 米洁
 
     * Begin : 2015/01/05 18:07:42
