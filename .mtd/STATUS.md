@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 525b66875e7feb19498b4567 王希希
-
 * Finished:
+    * [2015/01/05 23:29:13] [urlrule] sites weipai.cn UPDATE 王希希
+
     * [2015/01/05 22:44:23] [urlrule] sites weipai.cn follow 525b66875e7feb19498b4567 王希希
 
     * [2015/01/05 22:44:12] [urlrule] sites weipai.cn UPDATE 刘韩依HY

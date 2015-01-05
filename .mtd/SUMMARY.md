@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 王希希
+
+
+    * Begin : 2015/01/05 22:44:31
+    * End   : 2015/01/05 23:29:13
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 525b66875e7feb19498b4567 王希希
 
 
