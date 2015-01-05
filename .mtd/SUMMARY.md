@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com SAVE 美妮MuMu
+
+    * Begin : 2015/01/05 13:05:50
+    * End   : 2015/01/05 13:12:38
+    * Result: OK
+
 * [urlrule] sites miaopai.com follow paike_3jgu16h5yd 美妮MuMu
 
     * Begin : 2015/01/05 13:04:21
