@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 22:10:09] [urlrule] sites weipai.cn update 韩士博
     * [2015/01/05 22:07:41] [urlrule] sites weipai.cn update 静静韩妆护肤
     * [2015/01/05 22:05:07] [urlrule] sites weipai.cn update 露滴
     * [2015/01/05 22:04:35] [urlrule] sites weipai.cn update 雨辰Raina

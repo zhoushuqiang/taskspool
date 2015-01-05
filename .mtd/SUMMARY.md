@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 韩士博
+
+    * Begin : 2015/01/05 22:07:54
+    * End   : 2015/01/05 22:10:09
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 静静韩妆护肤
 
     * Begin : 2015/01/05 22:05:20
