@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 若含_Princess
+
+    * Begin : 2015/01/05 20:34:36
+    * End   : 2015/01/05 20:35:46
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 苏柒杞
+
+    * Begin : 2015/01/05 20:34:34
+    * End   : 2015/01/05 20:34:35
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 苏夏妞妞
 
     * Begin : 2015/01/05 20:32:32
