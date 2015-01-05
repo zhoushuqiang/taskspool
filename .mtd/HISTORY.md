@@ -1,3 +1,39 @@
+* [urlrule] sites vlook.cn update 黒目瞳
+
+    * Begin : 2015/01/05 22:31:45
+    * End   : 2015/01/05 22:32:18
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 黒目瞳
+
+    * Begin : 2015/01/05 22:31:43
+    * End   : 2015/01/05 22:31:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 黑金色会飞的鱼
+
+    * Begin : 2015/01/05 22:31:41
+    * End   : 2015/01/05 22:31:42
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 黑桃女王
+
+    * Begin : 2015/01/05 22:31:38
+    * End   : 2015/01/05 22:31:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 黑三小幺
+
+    * Begin : 2015/01/05 22:31:36
+    * End   : 2015/01/05 22:31:37
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 黎儿
+
+    * Begin : 2015/01/05 22:31:34
+    * End   : 2015/01/05 22:31:35
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 黄没没-
 
     * Begin : 2015/01/05 22:24:16

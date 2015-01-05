@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 22:32:18] [urlrule] sites vlook.cn update 黒目瞳
     * [2015/01/05 22:31:24] [urlrule] sites weipai.cn update 黄没没-
     * [2015/01/05 22:23:54] [urlrule] sites weipai.cn update 麦子orSkala
     * [2015/01/05 22:21:14] [urlrule] sites vlook.cn update 魔都天后
@@ -175,6 +176,11 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 22:31:44] [urlrule] sites weipai.cn update 黒目瞳
+    * [2015/01/05 22:31:42] [urlrule] sites weipai.cn update 黑金色会飞的鱼
+    * [2015/01/05 22:31:39] [urlrule] sites weipai.cn update 黑桃女王
+    * [2015/01/05 22:31:37] [urlrule] sites weipai.cn update 黑三小幺
+    * [2015/01/05 22:31:35] [urlrule] sites weipai.cn update 黎儿
     * [2015/01/05 22:24:14] [urlrule] sites vlook.cn update 麻酥酥
     * [2015/01/05 22:24:06] [urlrule] sites weipai.cn update 麻优酥酥
     * [2015/01/05 22:21:25] [urlrule] sites weipai.cn update 魚你你你你你

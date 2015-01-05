@@ -247,6 +247,8 @@ http://download1.vlook.cn/video/high/6WLP.mp4	20141210145815_nongfah_40秒.mp4
 http://download1.vlook.cn/video/high/6WOd.mp4	20141210162451_琳姐的胸器_1分钟49秒.mp4
 http://download1.vlook.cn/video/high/6Wha.mp4	20141209132301_广播体操_4分钟50秒.mp4
 http://download1.vlook.cn/video/high/6X8Z.mp4	20141211132936_央视出品。一操再操日日操，操到身体好。_57秒.mp4
+http://download1.vlook.cn/video/high/6YKr.mp4	20141214202553_才艺_1分钟30秒.mp4
+http://download1.vlook.cn/video/high/6ZOi.mp4	20141216204102_才艺_1分钟32秒.mp4
 http://download1.vlook.cn/video/high/6aOw.mp4	20140829120954_才艺表演…_1分钟19秒.mp4
 http://download1.vlook.cn/video/high/6aR3.mp4	20140829132352_才艺表演…_1分钟27秒.mp4
 http://download1.vlook.cn/video/high/6fll.mp4	20140906171910_爱我微录客…_15秒.mp4
@@ -282,6 +284,11 @@ http://download1.vlook.cn/video/high/6xSF.mp4	20141014220627_滿江紅～_1分�
 http://download1.vlook.cn/video/high/6xTE.mp4	20141014224013_高原紅～_59秒.mp4
 http://download1.vlook.cn/video/high/6xTG.mp4	20141014224119_苏丹红～_1分钟31秒.mp4
 http://download1.vlook.cn/video/high/6xUa.mp4	20141014230219_审核员辛苦了～_1分钟47秒.mp4
+http://download1.vlook.cn/video/high/70DT.mp4	20141222171430_才艺_2分钟37秒.mp4
+http://download1.vlook.cn/video/high/70Eb.mp4	20141222172727_才藝。_4分钟13秒.mp4
+http://download1.vlook.cn/video/high/70iz.mp4	20141221221626_才艺_1分钟16秒.mp4
+http://download1.vlook.cn/video/high/71JC.mp4	20141224171022_HeoYoonMi_1分钟44秒.mp4
+http://download1.vlook.cn/video/high/74l8.mp4	20141229112554_nongfah_1分钟6秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5A6Q&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140608161124_[咖啡]_4分钟27秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5ABD&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140609171443_[咖啡]_1分钟10秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5AfF&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140608210346_[咖啡]_1分钟39秒.mp4
@@ -422,9 +429,4 @@ http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6kao&client=pc&imei=ee257
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6kpL&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140916120337_手机里看是满屏高清，传上来经过微露客转码压缩，视频效果变样了。_3分钟36秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6krm&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140916130401_核武器！……_1分钟28秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6l2T&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140917154044_巡航导弹…_1分钟0秒.mp4
-http://download1.vlook.cn/video/high/6Vrt.mp4	20141207163611_박가린 朴佳琳_1分钟34秒.mp4
-http://download1.vlook.cn/video/high/6YKr.mp4	20141214202553_才艺_1分钟30秒.mp4
-http://download1.vlook.cn/video/high/6ZOi.mp4	20141216204102_才艺_1分钟32秒.mp4
-http://download1.vlook.cn/video/high/70iz.mp4	20141221221626_才艺_1分钟16秒.mp4
-http://download1.vlook.cn/video/high/70Eb.mp4	20141222172727_才藝。_4分钟13秒.mp4
-http://download1.vlook.cn/video/high/70DT.mp4	20141222171430_才艺_2分钟37秒.mp4
+http://download1.vlook.cn/video/high/71JC.mp4	20141224171022_HeoYoonMi_1分钟44秒.mp4
