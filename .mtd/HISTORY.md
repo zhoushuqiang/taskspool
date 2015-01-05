@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 素兒
+
+    * Begin : 2015/01/05 18:18:46
+    * End   : 2015/01/05 18:18:55
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 糖果果国
+
+    * Begin : 2015/01/05 18:18:44
+    * End   : 2015/01/05 18:18:45
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 粽子小姐
 
     * Begin : 2015/01/05 18:11:50
