@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 瑞莎国际
+
+    * Begin : 2015/01/05 16:26:48
+    * End   : 2015/01/05 16:27:11
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 瑜伽女神青文
 
     * Begin : 2015/01/05 16:26:10
