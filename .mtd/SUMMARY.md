@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 黄没没-
+
+    * Begin : 2015/01/05 22:24:16
+    * End   : 2015/01/05 22:31:24
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 麦子orSkala
 
     * Begin : 2015/01/05 22:21:26
