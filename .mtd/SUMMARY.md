@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 李点点儿
+
+    * Begin : 2015/01/05 14:30:33
+    * End   : 2015/01/05 15:00:27
+    * Result: OK
+
 * [urlrule] sites miaopai.com SAVE Alina_林枫
 
     * Begin : 2015/01/05 14:17:41
