@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 模特丹丹
+
+    * Begin : 2015/01/05 15:41:06
+    * End   : 2015/01/05 15:42:58
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 模特-杨伊
+
+    * Begin : 2015/01/05 15:41:03
+    * End   : 2015/01/05 15:41:04
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 梦瑶
 
     * Begin : 2015/01/05 15:40:26
