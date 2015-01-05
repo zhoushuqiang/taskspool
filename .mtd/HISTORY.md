@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 然又又
+
+    * Begin : 2015/01/05 16:07:13
+    * End   : 2015/01/05 16:07:26
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 激情一夏
+
+    * Begin : 2015/01/05 16:07:08
+    * End   : 2015/01/05 16:07:12
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 澄小兔
 
     * Begin : 2015/01/05 16:06:40
