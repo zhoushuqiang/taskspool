@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 花旗是个双面少女
+
+    * Begin : 2015/01/05 20:30:40
+    * End   : 2015/01/05 20:32:22
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 芮涵Annabelle
 
     * Begin : 2015/01/05 20:30:08
