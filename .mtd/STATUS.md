@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 17:19:49] [urlrule] sites weipai.cn update 瞄小婷
     * [2015/01/05 16:35:33] [urlrule] sites weipai.cn update 真子佳佳
     * [2015/01/05 16:34:58] [urlrule] sites weipai.cn update 皇家国际-佳欲
     * [2015/01/05 16:33:58] [urlrule] sites weipai.cn update 白日不湿
