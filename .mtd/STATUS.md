@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 18:24:30] [urlrule] sites weipai.cn update 索菲娅5200
     * [2015/01/05 18:18:55] [urlrule] sites weipai.cn update 素兒
     * [2015/01/05 18:18:32] [urlrule] sites weipai.cn update 粽子小姐
     * [2015/01/05 18:11:30] [urlrule] sites weipai.cn update 米洁
