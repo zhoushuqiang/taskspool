@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 蓝色的港湾20140821
+
+    * Begin : 2015/01/05 21:24:21
+    * End   : 2015/01/05 21:24:37
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 萱萱-H
 
     * Begin : 2015/01/05 21:23:44

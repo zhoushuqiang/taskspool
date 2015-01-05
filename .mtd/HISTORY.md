@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 蓝色的港湾20140821
+
+    * Begin : 2015/01/05 21:24:21
+    * End   : 2015/01/05 21:24:37
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 蒙丽伊
+
+    * Begin : 2015/01/05 21:24:13
+    * End   : 2015/01/05 21:24:19
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 蒂娜
+
+    * Begin : 2015/01/05 21:24:05
+    * End   : 2015/01/05 21:24:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 董洁1022
+
+    * Begin : 2015/01/05 21:24:03
+    * End   : 2015/01/05 21:24:04
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 萱萱-H
 
     * Begin : 2015/01/05 21:23:44
