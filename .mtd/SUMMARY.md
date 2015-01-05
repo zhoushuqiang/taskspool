@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 重头再来20141107
+
+    * Begin : 2015/01/05 21:44:43
+    * End   : 2015/01/05 21:44:52
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 酔熱舆Beer
 
     * Begin : 2015/01/05 21:43:16

@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 21:44:52] [urlrule] sites weipai.cn update 重头再来20141107
     * [2015/01/05 21:44:32] [urlrule] sites vlook.cn update 酔熱舆Beer
     * [2015/01/05 21:42:59] [urlrule] sites weipai.cn update 郑瑞熙_
     * [2015/01/05 21:42:13] [urlrule] sites weipai.cn update 邻家猴猴
