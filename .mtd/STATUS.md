@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 20:25:01] [urlrule] sites weipai.cn update 艾舞kathy
     * [2015/01/05 20:23:15] [urlrule] sites weipai.cn update 艾小爱
     * [2015/01/05 20:21:28] [urlrule] sites weipai.cn update 般若的每一天
     * [2015/01/05 19:00:41] [urlrule] sites weipai.cn update 肚皮舞皇后
