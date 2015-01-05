@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update 魔都天后
+
+    * Begin : 2015/01/05 22:20:58
+    * End   : 2015/01/05 22:21:14
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 魏嘉蒂Betty
 
     * Begin : 2015/01/05 22:20:06
