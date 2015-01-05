@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 17:21:41] [urlrule] sites weipai.cn update 矢帘
     * [2015/01/05 17:19:49] [urlrule] sites weipai.cn update 瞄小婷
     * [2015/01/05 16:35:33] [urlrule] sites weipai.cn update 真子佳佳
     * [2015/01/05 16:34:58] [urlrule] sites weipai.cn update 皇家国际-佳欲
@@ -88,6 +89,7 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 17:20:02] [urlrule] sites weipai.cn update 瞥瞥
     * [2015/01/05 16:34:09] [urlrule] sites weipai.cn update 白雪团队全球招募创业伙伴
     * [2015/01/05 16:31:06] [urlrule] sites weipai.cn update 男人不坏女人不爱B
     * [2015/01/05 16:30:16] [urlrule] sites weipai.cn update 田晓多tesia
