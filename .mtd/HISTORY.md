@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 猫小咪Queen
+
+    * Begin : 2015/01/05 16:08:47
+    * End   : 2015/01/05 16:09:16
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 猫大人是猫大人
+
+    * Begin : 2015/01/05 16:08:45
+    * End   : 2015/01/05 16:08:46
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 猫一样的女人猫 伊莲的小衣橱
+
+    * Begin : 2015/01/05 16:08:40
+    * End   : 2015/01/05 16:08:43
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 独爱简单控
 
     * Begin : 2015/01/05 16:07:51
