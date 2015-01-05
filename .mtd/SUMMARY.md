@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 瑜伽女神青文
+
+    * Begin : 2015/01/05 16:26:10
+    * End   : 2015/01/05 16:26:38
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 珠宝定制-GIA国际证书
 
     * Begin : 2015/01/05 16:23:00

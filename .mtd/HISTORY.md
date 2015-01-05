@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 瑜伽女神青文
+
+    * Begin : 2015/01/05 16:26:10
+    * End   : 2015/01/05 16:26:38
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 琳琳baby
+
+    * Begin : 2015/01/05 16:26:08
+    * End   : 2015/01/05 16:26:08
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 琪胖胖
+
+    * Begin : 2015/01/05 16:26:05
+    * End   : 2015/01/05 16:26:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 琦琦loveBaby
+
+    * Begin : 2015/01/05 16:26:03
+    * End   : 2015/01/05 16:26:04
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 珠宝定制-GIA国际证书
 
     * Begin : 2015/01/05 16:23:00
