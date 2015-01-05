@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update 若含baby
+
+    * Begin : 2015/01/05 20:35:57
+    * End   : 2015/01/05 20:36:16
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 若含_Princess
 
     * Begin : 2015/01/05 20:34:36
