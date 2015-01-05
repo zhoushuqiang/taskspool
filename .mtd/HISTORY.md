@@ -1,3 +1,27 @@
+* [urlrule] sites vlook.cn update 酔熱舆Beer
+
+    * Begin : 2015/01/05 21:43:16
+    * End   : 2015/01/05 21:44:32
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 酒窝妹子
+
+    * Begin : 2015/01/05 21:43:14
+    * End   : 2015/01/05 21:43:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 酒才是最忠诚的男朋友
+
+    * Begin : 2015/01/05 21:43:11
+    * End   : 2015/01/05 21:43:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 郑菲儿
+
+    * Begin : 2015/01/05 21:43:09
+    * End   : 2015/01/05 21:43:10
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 郑瑞熙_
 
     * Begin : 2015/01/05 21:42:25

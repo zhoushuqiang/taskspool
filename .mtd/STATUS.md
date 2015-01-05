@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 21:44:32] [urlrule] sites vlook.cn update 酔熱舆Beer
     * [2015/01/05 21:42:59] [urlrule] sites weipai.cn update 郑瑞熙_
     * [2015/01/05 21:42:13] [urlrule] sites weipai.cn update 邻家猴猴
     * [2015/01/05 21:40:07] [urlrule] sites weipai.cn update 辣妈ai美丽
@@ -145,6 +146,9 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 21:43:15] [urlrule] sites weipai.cn update 酒窝妹子
+    * [2015/01/05 21:43:12] [urlrule] sites weipai.cn update 酒才是最忠诚的男朋友
+    * [2015/01/05 21:43:10] [urlrule] sites weipai.cn update 郑菲儿
     * [2015/01/05 21:42:24] [urlrule] sites weipai.cn update 郑安然
     * [2015/01/05 21:40:20] [urlrule] sites weipai.cn update 逐光流云20140912
     * [2015/01/05 21:40:18] [urlrule] sites weipai.cn update 近色怡人

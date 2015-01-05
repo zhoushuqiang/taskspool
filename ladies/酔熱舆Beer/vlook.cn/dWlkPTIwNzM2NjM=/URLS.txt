@@ -41,10 +41,12 @@ http://download1.vlook.cn/video/high/5sjN.mp4	20140520082817_早上好[哦耶]_1
 http://download1.vlook.cn/video/high/5wmJ.mp4	20140530222904_最近没发视频，因为太忙了，不能天天在家玩耍了，要工作挣钱呦，你们也不想我[扣鼻屎]_25秒.mp4
 http://download1.vlook.cn/video/high/5y1o.mp4	20140603184046_我还是喜欢你不笑的样子。像所有不会跳舞的文字一样酷。_26秒.mp4
 http://download1.vlook.cn/video/high/5yjX.mp4	20140604112601_[扣鼻屎]_43秒.mp4
+http://download1.vlook.cn/video/high/6-m2.mp4	20141220003311_我最像忍者[左哼哼]_52秒.mp4
 http://download1.vlook.cn/video/high/61wJ.mp4	20140814182400_下班啦都回家吃饭吧[馋嘴]_24秒.mp4
 http://download1.vlook.cn/video/high/63kt.mp4	20140817215830_[媚眼]_25秒.mp4
 http://download1.vlook.cn/video/high/6GSm.mp4	20141103201334_[媚眼]_9秒.mp4
 http://download1.vlook.cn/video/high/6JHz.mp4	20141109200745_[媚眼]_8秒.mp4
+http://download1.vlook.cn/video/high/6WXc.mp4	20141214001856_分享于 20141210 2253_2分钟27秒.mp4
 http://download1.vlook.cn/video/high/6f_T.mp4	20140907224430_最近天天跑步，这是到家累瘫的衰样[思考中]_5秒.mp4
 http://download1.vlook.cn/video/high/6kH9.mp4	20140916215119_[扣鼻屎]好久没更新啦，你们都快把我忘了吧_12秒.mp4
 http://download1.vlook.cn/video/high/6pL9.mp4	20140925215730_你们不是总问我拍这些家里人知道嘛～今儿告儿你们，知道[媚眼]_26秒.mp4
@@ -57,6 +59,8 @@ http://download1.vlook.cn/video/high/6yzx.mp4	20141016230124_我是来秀内裤�
 http://download1.vlook.cn/video/high/6z-t.mp4	20141020094033_把评论关了真清静啊～哈哈哈哈，再也听不到那些乱七八糟的声音了，嗯，就是这样以后我拍我的，管你们说什么，喜欢我的依然会..._15秒.mp4
 http://download1.vlook.cn/video/high/6z15.mp4	20141018000644_[思考中]_32秒.mp4
 http://download1.vlook.cn/video/high/6zOx.mp4	20141019202145_[很酷]_17秒.mp4
+http://download1.vlook.cn/video/high/75Tw.mp4	20150101004300_跨年演出_4分钟53秒.mp4
+http://download1.vlook.cn/video/high/75U7.mp4	20150101010843_跨年晚会_3分钟11秒.mp4
 http://download1.vlook.cn/video/vga/4ZnY.mp4	20140305032629_半夜发神经[犯困]_13秒.mp4
 http://download1.vlook.cn/video/vga/53ci.mp4	20140318044212_送我的这件衣服，我很喜欢[爱]_21秒.mp4
 http://download1.vlook.cn/video/vga/54xw.mp4	20140321032941_我可爱 我也变态_42秒.mp4
@@ -150,5 +154,4 @@ http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=63kt&client=pc&imei=ee257
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=63ut&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140818082531_小王同志唱的还不错[鼓掌]_1分钟30秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6f_T&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140907224430_最近天天跑步，这是到家累瘫的衰样[思考中]_5秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6kH9&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140916215119_[扣鼻屎]好久没更新啦，你们都快把我忘了吧_12秒.mp4
-http://download1.vlook.cn/video/high/6WXc.mp4	20141214001856_分享于 20141210 2253_2分钟27秒.mp4
-http://download1.vlook.cn/video/high/6-m2.mp4	20141220003311_我最像忍者[左哼哼]_52秒.mp4
+http://download1.vlook.cn/video/high/75Tw.mp4	20150101004300_跨年演出_4分钟53秒.mp4
