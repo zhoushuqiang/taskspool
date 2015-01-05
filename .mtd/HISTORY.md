@@ -1,3 +1,44 @@
+* [urlrule] sites weipai.cn follow 52c16cad78d3cc8c508b45cb Arin傲
+
+
+    * Begin : 2015/01/05 22:32:43
+    * End   : 2015/01/05 22:32:43
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 52c16cad78d3cc8c508b45cb Arin傲
+
+
+    * Begin : 2015/01/05 22:32:43
+    * End   : 2015/01/05 22:32:43
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 陈柔轩Michel
+
+
+    * Begin : 2015/01/05 22:32:41
+    * End   : 2015/01/05 22:32:42
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 535539889d67d9ea5c8b459b 陈柔轩Michel
+
+
+    * Begin : 2015/01/05 22:32:40
+    * End   : 2015/01/05 22:32:41
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 535539889d67d9ea5c8b459b 陈柔轩Michel
+
+
+    * Begin : 2015/01/05 22:32:40
+    * End   : 2015/01/05 22:32:40
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn update 龙儿20140330
+
+    * Begin : 2015/01/05 22:32:29
+    * End   : 2015/01/05 22:32:30
+    * Result: Nothing to do
+
 * [urlrule] sites vlook.cn update 黒目瞳
 
     * Begin : 2015/01/05 22:31:45

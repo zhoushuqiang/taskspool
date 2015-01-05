@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 52c16cad78d3cc8c508b45cb Arin傲
+
 * Finished:
+    * [2015/01/05 22:32:43] [urlrule] sites weipai.cn follow 52c16cad78d3cc8c508b45cb Arin傲
+
     * [2015/01/05 22:32:18] [urlrule] sites vlook.cn update 黒目瞳
     * [2015/01/05 22:31:24] [urlrule] sites weipai.cn update 黄没没-
     * [2015/01/05 22:23:54] [urlrule] sites weipai.cn update 麦子orSkala
@@ -176,6 +181,15 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 22:32:43] [urlrule] sites weipai.cn add 52c16cad78d3cc8c508b45cb Arin傲
+
+    * [2015/01/05 22:32:42] [urlrule] sites weipai.cn UPDATE 陈柔轩Michel
+
+    * [2015/01/05 22:32:41] [urlrule] sites weipai.cn follow 535539889d67d9ea5c8b459b 陈柔轩Michel
+
+    * [2015/01/05 22:32:40] [urlrule] sites weipai.cn add 535539889d67d9ea5c8b459b 陈柔轩Michel
+
+    * [2015/01/05 22:32:30] [urlrule] sites weipai.cn update 龙儿20140330
     * [2015/01/05 22:31:44] [urlrule] sites weipai.cn update 黒目瞳
     * [2015/01/05 22:31:42] [urlrule] sites weipai.cn update 黑金色会飞的鱼
     * [2015/01/05 22:31:39] [urlrule] sites weipai.cn update 黑桃女王
