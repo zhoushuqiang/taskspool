@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 纯儿宝贝
+
+    * Begin : 2015/01/05 18:24:48
+    * End   : 2015/01/05 18:30:31
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 索菲娅5200
 
     * Begin : 2015/01/05 18:19:05

@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 18:30:31] [urlrule] sites weipai.cn update 纯儿宝贝
     * [2015/01/05 18:24:30] [urlrule] sites weipai.cn update 索菲娅5200
     * [2015/01/05 18:18:55] [urlrule] sites weipai.cn update 素兒
     * [2015/01/05 18:18:32] [urlrule] sites weipai.cn update 粽子小姐
@@ -103,6 +104,9 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 18:24:46] [urlrule] sites weipai.cn update 红玫瑰
+    * [2015/01/05 18:24:44] [urlrule] sites weipai.cn update 红心点起来
+    * [2015/01/05 18:24:42] [urlrule] sites weipai.cn update 索菲娅
     * [2015/01/05 18:18:45] [urlrule] sites weipai.cn update 糖果果国
     * [2015/01/05 18:11:49] [urlrule] sites weipai.cn update 粽子喜欢秋天
     * [2015/01/05 18:11:46] [urlrule] sites weipai.cn update 粵講粵潮
