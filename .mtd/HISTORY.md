@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 梦婷Baby
+
+    * Begin : 2015/01/05 15:39:29
+    * End   : 2015/01/05 15:40:09
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 梦之冰城
 
     * Begin : 2015/01/05 15:39:02
