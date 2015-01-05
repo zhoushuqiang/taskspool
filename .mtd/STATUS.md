@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 16:29:48] [urlrule] sites weipai.cn update 瑶瑶baby
     * [2015/01/05 16:27:11] [urlrule] sites weipai.cn update 瑞莎国际
     * [2015/01/05 16:26:38] [urlrule] sites weipai.cn update 瑜伽女神青文
     * [2015/01/05 16:25:53] [urlrule] sites weipai.cn update 珠宝定制-GIA国际证书

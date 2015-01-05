@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 瑶瑶baby
+
+    * Begin : 2015/01/05 16:27:21
+    * End   : 2015/01/05 16:29:48
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 瑞莎国际
 
     * Begin : 2015/01/05 16:26:48
