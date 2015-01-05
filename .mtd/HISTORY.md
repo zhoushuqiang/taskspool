@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 梅姿baby
+
+    * Begin : 2015/01/05 15:33:12
+    * End   : 2015/01/05 15:35:42
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 梁珂
+
+    * Begin : 2015/01/05 15:33:10
+    * End   : 2015/01/05 15:33:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 梁倩cat
+
+    * Begin : 2015/01/05 15:33:08
+    * End   : 2015/01/05 15:33:09
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 桓淼淼baby
+
+    * Begin : 2015/01/05 15:33:07
+    * End   : 2015/01/05 15:33:07
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 桓淼淼baby
 
     * Begin : 2015/01/05 15:29:26
