@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 米妮mini_20140821
+
+    * Begin : 2015/01/05 18:06:28
+    * End   : 2015/01/05 18:06:51
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 笑笑dem
+
+    * Begin : 2015/01/05 18:06:25
+    * End   : 2015/01/05 18:06:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 笑笑Sophia
+
+    * Begin : 2015/01/05 18:06:23
+    * End   : 2015/01/05 18:06:24
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 笑笑
 
     * Begin : 2015/01/05 17:56:19
