@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com SAVE 柠檬_lemon
+
+    * Begin : 2015/01/05 13:43:24
+    * End   : 2015/01/05 13:45:17
+    * Result: OK
+
 * [urlrule] sites miaopai.com follow paike_njt0as90l0 柠檬_lemon
 
     * Begin : 2015/01/05 13:43:16
