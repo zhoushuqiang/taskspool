@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 21:47:04] [urlrule] sites weipai.cn update 长裙飘飘21
     * [2015/01/05 21:46:39] [urlrule] sites weipai.cn update 钱小美
     * [2015/01/05 21:45:13] [urlrule] sites weipai.cn update 钟紫心
     * [2015/01/05 21:44:52] [urlrule] sites weipai.cn update 重头再来20141107
@@ -149,6 +150,7 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 21:46:50] [urlrule] sites weipai.cn update 铁粉1号
     * [2015/01/05 21:45:04] [urlrule] sites weipai.cn update 金金金金小沙
     * [2015/01/05 21:43:15] [urlrule] sites weipai.cn update 酒窝妹子
     * [2015/01/05 21:43:12] [urlrule] sites weipai.cn update 酒才是最忠诚的男朋友
