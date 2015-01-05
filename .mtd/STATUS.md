@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 15:44:59] [urlrule] sites weipai.cn update 橙子醬
     * [2015/01/05 15:44:39] [urlrule] sites weipai.cn update 橙子妹妹
     * [2015/01/05 15:43:43] [urlrule] sites weipai.cn update 橙大爷
     * [2015/01/05 15:42:58] [urlrule] sites weipai.cn update 模特丹丹
