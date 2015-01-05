@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites miaopai.com SAVE paike_5ih56mclzx 桃子就是小桃红红红
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/qqsso_eb0u7626un
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/wxsso_wyl0v389py
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_3jgu16h5yd
@@ -16,6 +15,7 @@ Tasks Status Report
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_x5wzwni3mb
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_1ktrqsi02m
 * Finished:
+    * [2015/01/05 08:48:51] [urlrule] sites miaopai.com SAVE 桃子就是小桃红红红
     * [2015/01/05 07:16:53] [urlrule] sites miaopai.com follow paike_5ih56mclzx 桃子就是小桃红红红
     * [2015/01/05 07:16:11] [urlrule] sites miaopai.com SAVE 韩昕怡Summer
     * [2015/01/05 06:48:15] [urlrule] sites miaopai.com follow paike_f0ataiy4d0 韩昕怡Summer

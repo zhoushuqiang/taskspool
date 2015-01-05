@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com SAVE 桃子就是小桃红红红
+
+    * Begin : 2015/01/05 07:17:41
+    * End   : 2015/01/05 08:48:51
+    * Result: OK
+
 * [urlrule] sites miaopai.com follow paike_5ih56mclzx 桃子就是小桃红红红
 
     * Begin : 2015/01/05 07:16:53
