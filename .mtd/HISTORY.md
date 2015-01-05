@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update 林歆蕊
+
+    * Begin : 2015/01/05 15:27:48
+    * End   : 2015/01/05 15:28:29
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 林夕baby123
 
     * Begin : 2015/01/05 15:20:39
