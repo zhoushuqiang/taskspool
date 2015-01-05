@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 毛大怪
+
+    * Begin : 2015/01/05 15:45:14
+    * End   : 2015/01/05 15:45:30
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 欣赏为主
+
+    * Begin : 2015/01/05 15:45:11
+    * End   : 2015/01/05 15:45:12
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 欠缺完美
+
+    * Begin : 2015/01/05 15:45:09
+    * End   : 2015/01/05 15:45:10
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 橙子醬
 
     * Begin : 2015/01/05 15:44:49

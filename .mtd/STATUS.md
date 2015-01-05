@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 15:45:30] [urlrule] sites weipai.cn update 毛大怪
     * [2015/01/05 15:44:59] [urlrule] sites weipai.cn update 橙子醬
     * [2015/01/05 15:44:39] [urlrule] sites weipai.cn update 橙子妹妹
     * [2015/01/05 15:43:43] [urlrule] sites weipai.cn update 橙大爷
@@ -54,6 +55,8 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 15:45:12] [urlrule] sites weipai.cn update 欣赏为主
+    * [2015/01/05 15:45:10] [urlrule] sites weipai.cn update 欠缺完美
     * [2015/01/05 15:41:04] [urlrule] sites weipai.cn update 模特-杨伊
     * [2015/01/05 15:40:25] [urlrule] sites weipai.cn update 梦游娃娃
     * [2015/01/05 15:40:23] [urlrule] sites weipai.cn update 梦梦20141111
