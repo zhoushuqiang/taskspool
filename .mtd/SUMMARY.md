@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 王悠悠
+
+    * Begin : 2015/01/05 16:15:03
+    * End   : 2015/01/05 16:15:21
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 王大小姐__Miss
 
     * Begin : 2015/01/05 16:13:55
