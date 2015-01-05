@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 20:41:29] [urlrule] sites weipai.cn update 范琪
     * [2015/01/05 20:36:48] [urlrule] sites weipai.cn update 若涵Baby
     * [2015/01/05 20:36:16] [urlrule] sites vlook.cn update 若含baby
     * [2015/01/05 20:35:46] [urlrule] sites weipai.cn update 若含_Princess
