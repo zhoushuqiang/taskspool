@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com SAVE 张爷baby
+
+    * Begin : 2015/01/05 08:55:59
+    * End   : 2015/01/05 12:55:34
+    * Result: OK
+
 * [urlrule] sites miaopai.com follow qqsso_eb0u7626un 张爷baby
 
     * Begin : 2015/01/05 08:55:19
