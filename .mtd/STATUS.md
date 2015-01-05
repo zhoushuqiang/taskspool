@@ -2,10 +2,11 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_fxiw1u6tg0
+    *[urlrule] sites miaopai.com SAVE paike_fxiw1u6tg0 CY艳
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_x5wzwni3mb
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_1ktrqsi02m
 * Finished:
+    * [2015/01/05 14:10:01] [urlrule] sites miaopai.com follow paike_fxiw1u6tg0 CY艳
     * [2015/01/05 14:09:48] [urlrule] sites miaopai.com SAVE 刘晨露Merry
     * [2015/01/05 14:06:50] [urlrule] sites miaopai.com follow paike_jwdym6jd57 刘晨露Merry
     * [2015/01/05 14:06:39] [urlrule] sites miaopai.com SAVE 张栩菲-ManGo
@@ -31,6 +32,7 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 14:10:00] [urlrule] sites miaopai.com add paike_fxiw1u6tg0 CY艳
     * [2015/01/05 14:06:50] [urlrule] sites miaopai.com add paike_jwdym6jd57 刘晨露Merry
     * [2015/01/05 13:58:32] [urlrule] sites miaopai.com add paike_vpvlkqkqcc 张栩菲-ManGo
     * [2015/01/05 13:46:41] [urlrule] sites miaopai.com add qqsso_sfuskxk39g 红人馆
