@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 小爱妞妞
+
+
+    * Begin : 2015/01/06 00:32:30
+    * End   : 2015/01/06 00:35:52
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 518554be7d3494d76a00001c 嘉欣小星星
 
 
