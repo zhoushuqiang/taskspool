@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 汉小仙
+
+    * Begin : 2015/01/05 15:45:59
+    * End   : 2015/01/05 15:47:47
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 水蜜桃子
 
     * Begin : 2015/01/05 15:45:40
