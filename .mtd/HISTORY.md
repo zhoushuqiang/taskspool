@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 静静韩妆护肤
+
+    * Begin : 2015/01/05 22:05:20
+    * End   : 2015/01/05 22:07:41
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 静静的微笑
+
+    * Begin : 2015/01/05 22:05:18
+    * End   : 2015/01/05 22:05:19
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 露滴
 
     * Begin : 2015/01/05 22:04:51

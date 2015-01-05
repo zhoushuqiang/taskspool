@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 22:07:41] [urlrule] sites weipai.cn update 静静韩妆护肤
     * [2015/01/05 22:05:07] [urlrule] sites weipai.cn update 露滴
     * [2015/01/05 22:04:35] [urlrule] sites weipai.cn update 雨辰Raina
     * [2015/01/05 22:02:33] [urlrule] sites weipai.cn update 雅沁
@@ -163,6 +164,7 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 22:05:19] [urlrule] sites weipai.cn update 静静的微笑
     * [2015/01/05 22:04:49] [urlrule] sites weipai.cn update 雷婷婷Baby
     * [2015/01/05 22:02:47] [urlrule] sites weipai.cn update 雨020141120
     * [2015/01/05 22:02:45] [urlrule] sites weipai.cn update 雅蒂Atind
