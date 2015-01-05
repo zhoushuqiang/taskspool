@@ -2,11 +2,11 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites miaopai.com SAVE paike_jwdym6jd57 刘晨露Merry
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_fxiw1u6tg0
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_x5wzwni3mb
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_1ktrqsi02m
 * Finished:
+    * [2015/01/05 14:09:48] [urlrule] sites miaopai.com SAVE 刘晨露Merry
     * [2015/01/05 14:06:50] [urlrule] sites miaopai.com follow paike_jwdym6jd57 刘晨露Merry
     * [2015/01/05 14:06:39] [urlrule] sites miaopai.com SAVE 张栩菲-ManGo
     * [2015/01/05 13:58:32] [urlrule] sites miaopai.com follow paike_vpvlkqkqcc 张栩菲-ManGo

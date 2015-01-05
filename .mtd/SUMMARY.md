@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com SAVE 刘晨露Merry
+
+    * Begin : 2015/01/05 14:06:59
+    * End   : 2015/01/05 14:09:48
+    * Result: OK
+
 * [urlrule] sites miaopai.com follow paike_jwdym6jd57 刘晨露Merry
 
     * Begin : 2015/01/05 14:06:50
