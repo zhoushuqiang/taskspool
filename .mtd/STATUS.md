@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 17:48:14] [urlrule] sites weipai.cn update 神神神神神姐
     * [2015/01/05 17:24:06] [urlrule] sites weipai.cn update 神仙姐姐__艾溪
     * [2015/01/05 17:22:22] [urlrule] sites weipai.cn update 知了
     * [2015/01/05 17:21:41] [urlrule] sites weipai.cn update 矢帘
