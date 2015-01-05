@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 谭昙
+
+    * Begin : 2015/01/05 21:37:12
+    * End   : 2015/01/05 21:39:12
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 请叫我二爷_Su
+
+    * Begin : 2015/01/05 21:37:09
+    * End   : 2015/01/05 21:37:10
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 语儿
 
     * Begin : 2015/01/05 21:36:29
