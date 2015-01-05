@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 潘潘20140413
+
+    * Begin : 2015/01/05 16:05:00
+    * End   : 2015/01/05 16:06:30
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 潘小云云
+
+    * Begin : 2015/01/05 16:04:57
+    * End   : 2015/01/05 16:04:58
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 满天都是小鑫鑫_
+
+    * Begin : 2015/01/05 16:04:55
+    * End   : 2015/01/05 16:04:56
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 溅行溅美
 
     * Begin : 2015/01/05 16:04:27

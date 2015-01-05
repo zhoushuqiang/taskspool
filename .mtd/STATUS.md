@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 16:06:30] [urlrule] sites weipai.cn update 潘潘20140413
     * [2015/01/05 16:04:45] [urlrule] sites weipai.cn update 溅行溅美
     * [2015/01/05 16:04:15] [urlrule] sites weipai.cn update 湯大师
     * [2015/01/05 16:03:20] [urlrule] sites weipai.cn update 混血演员安娜
@@ -63,6 +64,8 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 16:04:58] [urlrule] sites weipai.cn update 潘小云云
+    * [2015/01/05 16:04:56] [urlrule] sites weipai.cn update 满天都是小鑫鑫_
     * [2015/01/05 16:03:12] [urlrule] sites weipai.cn update 涵肉肉
     * [2015/01/05 16:03:10] [urlrule] sites weipai.cn update 浮生若梦
     * [2015/01/05 15:59:56] [urlrule] sites weipai.cn update 波波小姐
