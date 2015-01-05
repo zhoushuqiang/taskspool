@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 笑笑
+
+    * Begin : 2015/01/05 17:56:19
+    * End   : 2015/01/05 18:06:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 穿着高跟鞋跳芭蕾--
 
     * Begin : 2015/01/05 17:54:39

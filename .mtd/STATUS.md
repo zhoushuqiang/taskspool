@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 18:06:12] [urlrule] sites weipai.cn update 笑笑
     * [2015/01/05 17:56:04] [urlrule] sites weipai.cn update 穿着高跟鞋跳芭蕾--
     * [2015/01/05 17:54:28] [urlrule] sites weipai.cn update 空虚哥
     * [2015/01/05 17:53:07] [urlrule] sites weipai.cn update 秦蕾
