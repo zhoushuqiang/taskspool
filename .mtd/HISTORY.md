@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 蛇蛇姜瑾芝
+
+    * Begin : 2015/01/05 21:25:35
+    * End   : 2015/01/05 21:26:40
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 蛇精病---
+
+    * Begin : 2015/01/05 21:25:32
+    * End   : 2015/01/05 21:25:33
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 虞梦-宝贝
+
+    * Begin : 2015/01/05 21:25:30
+    * End   : 2015/01/05 21:25:31
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 虞梦-宝贝
+
+    * Begin : 2015/01/05 21:25:22
+    * End   : 2015/01/05 21:25:29
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 虞梦-宝贝
 
     * Begin : 2015/01/05 21:25:04

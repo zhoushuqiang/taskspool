@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 21:26:40] [urlrule] sites weipai.cn update 蛇蛇姜瑾芝
     * [2015/01/05 21:25:12] [urlrule] sites weipai.cn update 虞梦-宝贝
     * [2015/01/05 21:24:52] [urlrule] sites weipai.cn update 薇妮BABY
     * [2015/01/05 21:24:37] [urlrule] sites weipai.cn update 蓝色的港湾20140821
@@ -135,6 +136,9 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 21:25:33] [urlrule] sites weipai.cn update 蛇精病---
+    * [2015/01/05 21:25:31] [urlrule] sites weipai.cn update 虞梦-宝贝
+    * [2015/01/05 21:25:29] [urlrule] sites vlook.cn update 虞梦-宝贝
     * [2015/01/05 21:25:03] [urlrule] sites weipai.cn update 薰衣草20131022
     * [2015/01/05 21:24:48] [urlrule] sites weipai.cn update 蕃茄你是誰的西紅柿
     * [2015/01/05 21:24:19] [urlrule] sites vlook.cn update 蒙丽伊
