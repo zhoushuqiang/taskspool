@@ -2,7 +2,6 @@ Tasks Status Report
 ============
 
 * Pendings:
-    *[urlrule] sites miaopai.com SAVE paike_u30h3nhuzv 美人魚
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_njt0as90l0
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/qqsso_fswzogvhyf
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/qqsso_sfuskxk39g
@@ -12,6 +11,7 @@ Tasks Status Report
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_x5wzwni3mb
     *[urlrule] sites miaopai.com AFS http://www.miaopai.com/u/paike_1ktrqsi02m
 * Finished:
+    * [2015/01/05 13:43:05] [urlrule] sites miaopai.com SAVE 美人魚
     * [2015/01/05 13:13:26] [urlrule] sites miaopai.com follow paike_u30h3nhuzv 美人魚
     * [2015/01/05 13:12:38] [urlrule] sites miaopai.com SAVE 美妮MuMu
     * [2015/01/05 13:04:21] [urlrule] sites miaopai.com follow paike_3jgu16h5yd 美妮MuMu

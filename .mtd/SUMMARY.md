@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com SAVE 美人魚
+
+    * Begin : 2015/01/05 13:16:48
+    * End   : 2015/01/05 13:43:05
+    * Result: OK
+
 * [urlrule] sites miaopai.com follow paike_u30h3nhuzv 美人魚
 
     * Begin : 2015/01/05 13:13:25
