@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 薇妮BABY
+
+    * Begin : 2015/01/05 21:24:49
+    * End   : 2015/01/05 21:24:52
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 蓝色的港湾20140821
 
     * Begin : 2015/01/05 21:24:21
