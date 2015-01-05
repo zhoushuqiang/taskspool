@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 16:25:53] [urlrule] sites weipai.cn update 珠宝定制-GIA国际证书
     * [2015/01/05 16:22:39] [urlrule] sites weipai.cn update 王语纯baby
     * [2015/01/05 16:19:48] [urlrule] sites weipai.cn update 王若楠1228
     * [2015/01/05 16:19:06] [urlrule] sites weipai.cn update 王籽文
@@ -78,6 +79,9 @@ Tasks Status Report
     * [2015/01/05 06:46:35] [urlrule] sites miaopai.com SAVE 澄小兔Annie
     * [2015/01/05 02:23:04] [urlrule] sites miaopai.com follow paike_5aljkb2xnz 澄小兔Annie
 * Doing Nothing:
+    * [2015/01/05 16:22:59] [urlrule] sites vlook.cn update 玩摄影Rayshen
+    * [2015/01/05 16:22:54] [urlrule] sites vlook.cn update 森玲
+    * [2015/01/05 16:22:50] [urlrule] sites weipai.cn update 王馨瑶
     * [2015/01/05 16:15:02] [urlrule] sites weipai.cn update 王小珏elva
     * [2015/01/05 16:13:53] [urlrule] sites weipai.cn update 王允甜
     * [2015/01/05 16:13:51] [urlrule] sites weipai.cn update 王依萱
