@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/05 16:04:15] [urlrule] sites weipai.cn update 湯大师
     * [2015/01/05 16:03:20] [urlrule] sites weipai.cn update 混血演员安娜
     * [2015/01/05 16:02:58] [urlrule] sites weipai.cn update 洛熙爱爱
     * [2015/01/05 16:01:07] [urlrule] sites weipai.cn update 洛可馨
