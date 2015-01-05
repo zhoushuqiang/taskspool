@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 米洁
+
+    * Begin : 2015/01/05 18:07:42
+    * End   : 2015/01/05 18:11:30
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 米拉贝拉Mirabella
 
     * Begin : 2015/01/05 18:07:03
