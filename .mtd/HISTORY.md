@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 韩田稀
+
+    * Begin : 2015/01/05 22:10:29
+    * End   : 2015/01/05 22:13:40
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 韩昕怡Summer
+
+    * Begin : 2015/01/05 22:10:24
+    * End   : 2015/01/05 22:10:28
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 韩媚希
+
+    * Begin : 2015/01/05 22:10:22
+    * End   : 2015/01/05 22:10:23
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 韩士博
 
     * Begin : 2015/01/05 22:07:54
