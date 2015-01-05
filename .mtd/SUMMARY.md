@@ -1,3 +1,9 @@
+* [urlrule] sites miaopai.com follow paike_jwdym6jd57 刘晨露Merry
+
+    * Begin : 2015/01/05 14:06:50
+    * End   : 2015/01/05 14:06:50
+    * Result: OK
+
 * [urlrule] sites miaopai.com SAVE 张栩菲-ManGo
 
     * Begin : 2015/01/05 13:58:40
