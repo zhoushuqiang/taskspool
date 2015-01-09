@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 金美辛
+
+    * Begin : 2015/01/10 00:09:39
+    * End   : 2015/01/10 00:44:33
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE DJ-CC
 
 
