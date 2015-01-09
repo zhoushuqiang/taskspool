@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/09 23:35:05] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
     * [2015/01/09 23:33:39] [urlrule] sites weipai.cn UPDATE CoCo月
 
     * [2015/01/09 23:29:27] [urlrule] sites weipai.cn UPDATE 陈大榕
