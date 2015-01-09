@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 新浪微博model-芯妍
+
+
+    * Begin : 2015/01/09 18:04:57
+    * End   : 2015/01/09 18:05:27
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 王悠悠
 
     * Begin : 2015/01/09 17:50:36
