@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn SAVE 王悠悠
+
+    * Begin : 2015/01/09 17:50:36
+    * End   : 2015/01/09 18:04:38
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE Ms阿婆王
 
     * Begin : 2015/01/09 17:42:34
