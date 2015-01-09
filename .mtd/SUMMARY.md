@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE Anna苏妲己
+
+
+    * Begin : 2015/01/09 18:42:55
+    * End   : 2015/01/09 19:31:54
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
 
     * Begin : 2015/01/09 18:41:36
