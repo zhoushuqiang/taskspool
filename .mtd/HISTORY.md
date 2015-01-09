@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE DJ-CC
+
+
+    * Begin : 2015/01/09 23:35:27
+    * End   : 2015/01/10 00:09:20
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 51ad9c4f5e8e875a62000000 DJ-CC
+
+
+    * Begin : 2015/01/09 23:35:27
+    * End   : 2015/01/09 23:35:27
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 51ad9c4f5e8e875a62000000 DJ-CC
+
+
+    * Begin : 2015/01/09 23:35:27
+    * End   : 2015/01/09 23:35:27
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
 
     * Begin : 2015/01/09 23:33:57
