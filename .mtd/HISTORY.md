@@ -1,3 +1,8 @@
+* [urlrule] sites weipai.cn SAVE 1824329072宅女轩轩
+
+    * Begin : 2015/01/10 00:44:48
+    * Result: PENDING
+
 * [urlrule] sites weipai.cn SAVE 金美辛
 
     * Begin : 2015/01/10 00:09:39
