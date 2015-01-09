@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn UPDATE Ms阿婆王
+
+    * Begin : 2015/01/09 17:42:34
+    * End   : 2015/01/09 17:48:06
+    * Result: OK
+
 * [urlrule] sites weipai.cn SAVE 张栩菲-ManGo
 
     * Begin : 2015/01/06 00:46:41
