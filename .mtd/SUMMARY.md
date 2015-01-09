@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 吴晴Kate
+
+
+    * Begin : 2015/01/09 22:17:33
+    * End   : 2015/01/09 22:54:06
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 丝绸裹着性感
 
 

@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE 吴晴Kate
+
+
+    * Begin : 2015/01/09 22:17:33
+    * End   : 2015/01/09 22:54:06
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 548aefd3a6640b44728b4575 吴晴Kate
+
+
+    * Begin : 2015/01/09 22:17:33
+    * End   : 2015/01/09 22:17:33
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 548aefd3a6640b44728b4575 吴晴Kate
+
+
+    * Begin : 2015/01/09 22:17:32
+    * End   : 2015/01/09 22:17:33
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 丝绸裹着性感
 
 

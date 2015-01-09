@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/09 22:54:06] [urlrule] sites weipai.cn UPDATE 吴晴Kate
+
     * [2015/01/09 22:17:14] [urlrule] sites weipai.cn UPDATE 丝绸裹着性感
 
     * [2015/01/09 20:55:14] [urlrule] sites weipai.cn UPDATE christine黄可
@@ -25,6 +27,10 @@ Tasks Status Report
     * [2015/01/09 18:04:38] [urlrule] sites weipai.cn SAVE 王悠悠
     * [2015/01/09 17:48:06] [urlrule] sites weipai.cn UPDATE Ms阿婆王
 * Doing Nothing:
+    * [2015/01/09 22:17:33] [urlrule] sites weipai.cn follow 548aefd3a6640b44728b4575 吴晴Kate
+
+    * [2015/01/09 22:17:33] [urlrule] sites weipai.cn add 548aefd3a6640b44728b4575 吴晴Kate
+
     * [2015/01/09 20:55:32] [urlrule] sites weipai.cn follow 526258e2c58a878d061e30cf 丝绸裹着性感
 
     * [2015/01/09 20:55:31] [urlrule] sites weipai.cn add 526258e2c58a878d061e30cf 丝绸裹着性感
