@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/09 20:47:15] [urlrule] sites weipai.cn UPDATE Sweet-微
+
     * [2015/01/09 19:31:54] [urlrule] sites weipai.cn UPDATE Anna苏妲己
 
     * [2015/01/09 18:42:42] [urlrule action] http://www.weipai.cn/review/video?uid=543b6227a6640bd9598b4582&os=android 0 SAVE
@@ -19,6 +21,10 @@ Tasks Status Report
     * [2015/01/09 18:04:38] [urlrule] sites weipai.cn SAVE 王悠悠
     * [2015/01/09 17:48:06] [urlrule] sites weipai.cn UPDATE Ms阿婆王
 * Doing Nothing:
+    * [2015/01/09 19:32:07] [urlrule] sites weipai.cn follow 540d3629a7640beb3d8b458b Sweet-微
+
+    * [2015/01/09 19:32:07] [urlrule] sites weipai.cn add 540d3629a7640beb3d8b458b Sweet-微
+
     * [2015/01/09 18:42:55] [urlrule] sites weipai.cn follow 532493b6504a139c738b4567 Anna苏妲己
 
     * [2015/01/09 18:42:55] [urlrule] sites weipai.cn add 532493b6504a139c738b4567 Anna苏妲己

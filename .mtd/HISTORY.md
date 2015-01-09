@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE Sweet-微
+
+
+    * Begin : 2015/01/09 19:32:07
+    * End   : 2015/01/09 20:47:15
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 540d3629a7640beb3d8b458b Sweet-微
+
+
+    * Begin : 2015/01/09 19:32:07
+    * End   : 2015/01/09 19:32:07
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 540d3629a7640beb3d8b458b Sweet-微
+
+
+    * Begin : 2015/01/09 19:32:07
+    * End   : 2015/01/09 19:32:07
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE Anna苏妲己
 
 
