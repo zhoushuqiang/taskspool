@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/09 23:33:39] [urlrule] sites weipai.cn UPDATE CoCo月
+
     * [2015/01/09 23:29:27] [urlrule] sites weipai.cn UPDATE 陈大榕
 
     * [2015/01/09 23:20:15] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
@@ -30,6 +32,10 @@ Tasks Status Report
     * [2015/01/09 18:04:38] [urlrule] sites weipai.cn SAVE 王悠悠
     * [2015/01/09 17:48:06] [urlrule] sites weipai.cn UPDATE Ms阿婆王
 * Doing Nothing:
+    * [2015/01/09 23:29:41] [urlrule] sites weipai.cn follow 526b89e37f34949439f7e9e2 CoCo月
+
+    * [2015/01/09 23:29:40] [urlrule] sites weipai.cn add 526b89e37f34949439f7e9e2 CoCo月
+
     * [2015/01/09 23:20:25] [urlrule] sites weipai.cn follow 50aef9e97f34942d0c00000d 陈大榕
 
     * [2015/01/09 23:20:24] [urlrule] sites weipai.cn add 50aef9e97f34942d0c00000d 陈大榕

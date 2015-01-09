@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE CoCo月
+
+
+    * Begin : 2015/01/09 23:29:41
+    * End   : 2015/01/09 23:33:39
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 526b89e37f34949439f7e9e2 CoCo月
+
+
+    * Begin : 2015/01/09 23:29:40
+    * End   : 2015/01/09 23:29:41
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 526b89e37f34949439f7e9e2 CoCo月
+
+
+    * Begin : 2015/01/09 23:29:40
+    * End   : 2015/01/09 23:29:40
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 陈大榕
 
 

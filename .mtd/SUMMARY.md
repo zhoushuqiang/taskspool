@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE CoCo月
+
+
+    * Begin : 2015/01/09 23:29:41
+    * End   : 2015/01/09 23:33:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 陈大榕
 
 
