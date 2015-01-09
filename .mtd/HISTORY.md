@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE christine黄可
+
+
+    * Begin : 2015/01/09 20:47:37
+    * End   : 2015/01/09 20:55:14
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 512194ec7d34941827001340 christine黄可
+
+
+    * Begin : 2015/01/09 20:47:37
+    * End   : 2015/01/09 20:47:37
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 512194ec7d34941827001340 christine黄可
+
+
+    * Begin : 2015/01/09 20:47:37
+    * End   : 2015/01/09 20:47:37
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE Sweet-微
 
 

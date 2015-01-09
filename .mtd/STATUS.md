@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/09 20:55:14] [urlrule] sites weipai.cn UPDATE christine黄可
+
     * [2015/01/09 20:47:15] [urlrule] sites weipai.cn UPDATE Sweet-微
 
     * [2015/01/09 19:31:54] [urlrule] sites weipai.cn UPDATE Anna苏妲己
@@ -21,6 +23,10 @@ Tasks Status Report
     * [2015/01/09 18:04:38] [urlrule] sites weipai.cn SAVE 王悠悠
     * [2015/01/09 17:48:06] [urlrule] sites weipai.cn UPDATE Ms阿婆王
 * Doing Nothing:
+    * [2015/01/09 20:47:37] [urlrule] sites weipai.cn follow 512194ec7d34941827001340 christine黄可
+
+    * [2015/01/09 20:47:37] [urlrule] sites weipai.cn add 512194ec7d34941827001340 christine黄可
+
     * [2015/01/09 19:32:07] [urlrule] sites weipai.cn follow 540d3629a7640beb3d8b458b Sweet-微
 
     * [2015/01/09 19:32:07] [urlrule] sites weipai.cn add 540d3629a7640beb3d8b458b Sweet-微
