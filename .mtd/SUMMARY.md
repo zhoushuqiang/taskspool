@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
+
+    * Begin : 2015/01/09 18:27:27
+    * End   : 2015/01/09 18:41:13
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 萌萌哒小阿婧
 
 

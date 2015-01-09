@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/09 18:41:13] [urlrule action] http://www.weipai.cn/review/video?uid=53861ab59d67d9b2168b4573&os=android 0 SAVE
     * [2015/01/09 18:27:01] [urlrule] sites weipai.cn UPDATE 萌萌哒小阿婧
 
     * [2015/01/09 18:23:00] [urlrule] sites weipai.cn follow 51b77ed95a8e87dd45000000 萌萌哒小阿婧
