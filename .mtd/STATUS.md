@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 51b77ed95a8e87dd45000000 萌萌哒小阿婧
+
 * Finished:
+    * [2015/01/09 18:23:00] [urlrule] sites weipai.cn follow 51b77ed95a8e87dd45000000 萌萌哒小阿婧
+
     * [2015/01/09 18:22:48] [urlrule] sites weipai.cn UPDATE DJ_Ricey
 
     * [2015/01/09 18:06:29] [urlrule] sites weipai.cn UPDATE 张馨馨Maggie
@@ -11,6 +16,8 @@ Tasks Status Report
     * [2015/01/09 18:04:38] [urlrule] sites weipai.cn SAVE 王悠悠
     * [2015/01/09 17:48:06] [urlrule] sites weipai.cn UPDATE Ms阿婆王
 * Doing Nothing:
+    * [2015/01/09 18:22:59] [urlrule] sites weipai.cn add 51b77ed95a8e87dd45000000 萌萌哒小阿婧
+
     * [2015/01/09 18:06:49] [urlrule] sites weipai.cn follow 52532abd7d3494db6eb88247 DJ_Ricey
 
     * [2015/01/09 18:06:49] [urlrule] sites weipai.cn add 52532abd7d3494db6eb88247 DJ_Ricey

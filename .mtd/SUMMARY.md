@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn follow 51b77ed95a8e87dd45000000 萌萌哒小阿婧
+
+
+    * Begin : 2015/01/09 18:22:59
+    * End   : 2015/01/09 18:23:00
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE DJ_Ricey
 
 
