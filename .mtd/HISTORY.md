@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE 丝绸裹着性感
+
+
+    * Begin : 2015/01/09 20:55:32
+    * End   : 2015/01/09 22:17:14
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 526258e2c58a878d061e30cf 丝绸裹着性感
+
+
+    * Begin : 2015/01/09 20:55:31
+    * End   : 2015/01/09 20:55:32
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 526258e2c58a878d061e30cf 丝绸裹着性感
+
+
+    * Begin : 2015/01/09 20:55:31
+    * End   : 2015/01/09 20:55:31
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE christine黄可
 
 
