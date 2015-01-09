@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE DJ_Ricey
+
+
+    * Begin : 2015/01/09 18:06:49
+    * End   : 2015/01/09 18:22:48
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 张馨馨Maggie
 
 

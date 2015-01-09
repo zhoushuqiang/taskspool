@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/09 18:22:48] [urlrule] sites weipai.cn UPDATE DJ_Ricey
+
     * [2015/01/09 18:06:29] [urlrule] sites weipai.cn UPDATE 张馨馨Maggie
 
     * [2015/01/09 18:05:27] [urlrule] sites weipai.cn UPDATE 新浪微博model-芯妍
@@ -9,6 +11,10 @@ Tasks Status Report
     * [2015/01/09 18:04:38] [urlrule] sites weipai.cn SAVE 王悠悠
     * [2015/01/09 17:48:06] [urlrule] sites weipai.cn UPDATE Ms阿婆王
 * Doing Nothing:
+    * [2015/01/09 18:06:49] [urlrule] sites weipai.cn follow 52532abd7d3494db6eb88247 DJ_Ricey
+
+    * [2015/01/09 18:06:49] [urlrule] sites weipai.cn add 52532abd7d3494db6eb88247 DJ_Ricey
+
     * [2015/01/09 18:05:43] [urlrule] sites weipai.cn follow 50051ba37f3494ff4f000245 张馨馨Maggie
 
     * [2015/01/09 18:05:43] [urlrule] sites weipai.cn add 50051ba37f3494ff4f000245 张馨馨Maggie
