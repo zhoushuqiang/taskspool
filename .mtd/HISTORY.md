@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn UPDATE 张馨馨Maggie
+
+
+    * Begin : 2015/01/09 18:05:43
+    * End   : 2015/01/09 18:06:29
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 50051ba37f3494ff4f000245 张馨馨Maggie
+
+
+    * Begin : 2015/01/09 18:05:43
+    * End   : 2015/01/09 18:05:43
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 50051ba37f3494ff4f000245 张馨馨Maggie
+
+
+    * Begin : 2015/01/09 18:05:43
+    * End   : 2015/01/09 18:05:43
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE Ms阿婆王
+
+
+    * Begin : 2015/01/09 18:05:40
+    * End   : 2015/01/09 18:05:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 50bb2604803494ef02000054 Ms阿婆王
+
+
+    * Begin : 2015/01/09 18:05:40
+    * End   : 2015/01/09 18:05:40
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 50bb2604803494ef02000054 Ms阿婆王
+
+
+    * Begin : 2015/01/09 18:05:40
+    * End   : 2015/01/09 18:05:40
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 新浪微博model-芯妍
 
 

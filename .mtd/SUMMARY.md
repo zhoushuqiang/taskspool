@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 张馨馨Maggie
+
+
+    * Begin : 2015/01/09 18:05:43
+    * End   : 2015/01/09 18:06:29
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 新浪微博model-芯妍
 
 
