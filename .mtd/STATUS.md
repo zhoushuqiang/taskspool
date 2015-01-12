@@ -1,10 +1,9 @@
 Tasks Status Report
 ============
 
-* Pendings:
-    *[urlrule] sites weipai.cn UPDATE 545a26d2a7640bde0c8b456d singer-sherencat
-
 * Finished:
+    * [2015/01/13 02:46:09] [urlrule] sites weipai.cn UPDATE singer-sherencat
+
     * [2015/01/13 02:22:09] [urlrule] sites weipai.cn follow 545a26d2a7640bde0c8b456d singer-sherencat
 
     * [2015/01/13 02:21:51] [urlrule] sites weipai.cn UPDATE DJ-CC

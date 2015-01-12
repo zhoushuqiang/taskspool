@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE singer-sherencat
+
+
+    * Begin : 2015/01/13 02:22:25
+    * End   : 2015/01/13 02:46:09
+    * Result: OK
+
 * [urlrule] sites weipai.cn follow 545a26d2a7640bde0c8b456d singer-sherencat
 
 
