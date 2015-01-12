@@ -1,3 +1,17 @@
+* [urlrule] sites weipai.cn follow 545a26d2a7640bde0c8b456d singer-sherencat
+
+
+    * Begin : 2015/01/13 02:22:09
+    * End   : 2015/01/13 02:22:09
+    * Result: OK
+
+* [urlrule] sites weipai.cn add 545a26d2a7640bde0c8b456d singer-sherencat
+
+
+    * Begin : 2015/01/13 02:22:09
+    * End   : 2015/01/13 02:22:09
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE DJ-CC
 
 
