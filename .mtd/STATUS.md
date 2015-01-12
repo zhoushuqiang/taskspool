@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 07:10:15] [urlrule] sites vlook.cn update VK_bb
     * [2015/01/13 07:07:52] [urlrule] sites vlook.cn update Q1335467161
     * [2015/01/13 07:05:56] [urlrule] sites vlook.cn update Katherine陳佳妮
     * [2015/01/13 07:05:03] [urlrule] sites vlook.cn update Gaby_Kim金慧嫄
@@ -28,6 +29,34 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 07:10:03] [urlrule] sites weipai.cn update Tomyli惋柔
+    * [2015/01/13 07:09:59] [urlrule] sites weipai.cn update TinaWong
+    * [2015/01/13 07:09:54] [urlrule] sites weipai.cn update Theonlylove
+    * [2015/01/13 07:09:48] [urlrule] sites weipai.cn update S小妹
+    * [2015/01/13 07:09:44] [urlrule] sites weipai.cn update Sweet-微
+    * [2015/01/13 07:09:40] [urlrule] sites weipai.cn update Suki_M
+    * [2015/01/13 07:09:36] [urlrule] sites weipai.cn update SpookyG
+    * [2015/01/13 07:09:29] [urlrule] sites weipai.cn update Sooki莹莹孙
+    * [2015/01/13 07:09:25] [urlrule] sites weipai.cn update Sonwy_
+    * [2015/01/13 07:09:21] [urlrule] sites vlook.cn update Song修
+    * [2015/01/13 07:09:16] [urlrule] sites vlook.cn update SlyVIcky
+    * [2015/01/13 07:09:12] [urlrule] sites weipai.cn update Slri青儿
+    * [2015/01/13 07:09:08] [urlrule] sites weipai.cn update Sisters
+    * [2015/01/13 07:09:04] [urlrule] sites weipai.cn update Sexy菲儿
+    * [2015/01/13 07:09:00] [urlrule] sites weipai.cn update Sexyyyyy美姬大人
+    * [2015/01/13 07:08:56] [urlrule] sites vlook.cn update SexyQueen蔡妍Yan
+    * [2015/01/13 07:08:51] [urlrule] sites weipai.cn update SexyQueen_蔡妍YAN归来
+    * [2015/01/13 07:08:46] [urlrule] sites weipai.cn update Sensv
+    * [2015/01/13 07:08:42] [urlrule] sites weipai.cn update SasaBaby
+    * [2015/01/13 07:08:38] [urlrule] sites weipai.cn update Sara项信
+    * [2015/01/13 07:08:35] [urlrule] sites vlook.cn update Saber酱
+    * [2015/01/13 07:08:30] [urlrule] sites weipai.cn update SaSaking
+    * [2015/01/13 07:08:26] [urlrule] sites weipai.cn update SARA-614
+    * [2015/01/13 07:08:22] [urlrule] sites weipai.cn update Reggae胶囊
+    * [2015/01/13 07:08:18] [urlrule] sites vlook.cn update RanOrignal
+    * [2015/01/13 07:08:13] [urlrule] sites weipai.cn update ROSSY
+    * [2015/01/13 07:08:09] [urlrule] sites weipai.cn update RAE-瑞儿
+    * [2015/01/13 07:08:05] [urlrule] sites weipai.cn update Queen-婷婷
     * [2015/01/13 07:07:39] [urlrule] sites weipai.cn update PAPAGAO-
     * [2015/01/13 07:07:35] [urlrule] sites weipai.cn update Never沛妮
     * [2015/01/13 07:07:30] [urlrule] sites weipai.cn update NZL-妮子梁

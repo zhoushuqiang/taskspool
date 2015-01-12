@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update VK_bb
+
+    * Begin : 2015/01/13 07:10:04
+    * End   : 2015/01/13 07:10:15
+    * Result: OK
+
 * [urlrule] sites vlook.cn update Q1335467161
 
     * Begin : 2015/01/13 07:07:41
