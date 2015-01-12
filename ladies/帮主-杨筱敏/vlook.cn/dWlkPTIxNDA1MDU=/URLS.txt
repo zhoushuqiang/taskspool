@@ -38,9 +38,19 @@ http://download1.vlook.cn/video/high/5U5X.mp4	20140729102555_昨晚拿铁活动�
 http://download1.vlook.cn/video/high/5UvD.mp4	20140730054446_他们两个陪着我一个人吃 好尴尬呀[媚眼][媚眼]_26秒.mp4
 http://download1.vlook.cn/video/high/5We6.mp4	20140802152815_ 北五环房车疯狂抢购 超值价 快来联络我吧_29秒.mp4
 http://download1.vlook.cn/video/high/5XL1.mp4	20140805152630_我没有梦想，梦想是自然而然的。只要我认真做自己的事，梦想自己会来找我。[媚眼]_25秒.mp4
+http://download1.vlook.cn/video/high/6-wP.mp4	20141220111557_12月21日《大妞帮》空降福州兰博基尼酒吧_59秒.mp4
+http://download1.vlook.cn/video/high/6WuL.mp4	20141209220515_哪个版本好呢？[微笑]反正12月21日 让我们相约福州第一模特秀场 兰博基尼酒吧_22秒.mp4
+http://download1.vlook.cn/video/high/6Wuy.mp4	20141209215848_12月21日 我们相约福州第一模特秀场 兰博基尼_22秒.mp4
+http://download1.vlook.cn/video/high/6Y2j.mp4	20141213113910_生日快乐[微笑]_56秒.mp4
 http://download1.vlook.cn/video/high/6hHW.mp4	20140911080937_喜欢哪款我？_32秒.mp4
 http://download1.vlook.cn/video/high/6ik2.mp4	20140912141553_喝多真难受_15秒.mp4
 http://download1.vlook.cn/video/high/6r6-.mp4	20140928152932_三样菜走起_33秒.mp4
+http://download1.vlook.cn/video/high/70s5.mp4	20141222095627_大妞帮在福州 兰博基尼酒吧_31秒.mp4
+http://download1.vlook.cn/video/high/71Ge.mp4	20141224150806_大妞帮在福州第一模特秀场《兰博基尼》酒吧_49秒.mp4
+http://download1.vlook.cn/video/high/72KX.mp4	20141226131710_大妞帮演出 后台陈怡曼演绎陈妃醉酒[好色]不看会后悔哦[好色][好色][好色]_1分钟1秒.mp4
+http://download1.vlook.cn/video/high/72qV.mp4	20141225205326_大妞帮在福州兰博基尼酒吧与大家一起过圣诞啦[鼓掌]_2分钟22秒.mp4
+http://download1.vlook.cn/video/high/76V0.mp4	20150102220016_我磕巴成这样 也不补个音 服了_9秒.mp4
+http://download1.vlook.cn/video/high/78t4.mp4	20150105203507_饿了赶紧点吧_34秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=3VNd&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140617121831_要发把钢琴那段给剪了_4分钟7秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4FqX&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140118123113_分享于 北京市北京朝阳 2014118 1231_7秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4y4L&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20131227163419_转发视频_1分钟10秒.mp4
@@ -154,12 +164,4 @@ http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5yvi&client=pc&imei=ee257
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=5zRw&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140607224050_大妞帮玩足球_22秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6hHW&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140911080937_喜欢哪款我？_32秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6ik2&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140912141553_喝多真难受_15秒.mp4
-http://download1.vlook.cn/video/high/6WuL.mp4	20141209220515_哪个版本好呢？[微笑]反正12月21日 让我们相约福州第一模特秀场 兰博基尼酒吧_22秒.mp4
-http://download1.vlook.cn/video/high/6Wuy.mp4	20141209215848_12月21日 我们相约福州第一模特秀场 兰博基尼_22秒.mp4
-http://download1.vlook.cn/video/high/6Y2j.mp4	20141213113910_生日快乐[微笑]_56秒.mp4
-http://download1.vlook.cn/video/high/6-wP.mp4	20141220111557_12月21日《大妞帮》空降福州兰博基尼酒吧_59秒.mp4
-http://download1.vlook.cn/video/high/70s5.mp4	20141222095627_大妞帮在福州 兰博基尼酒吧_31秒.mp4
-http://download1.vlook.cn/video/high/76V0.mp4	20150102220016_我磕巴成这样 也不补个音 服了_9秒.mp4
-http://download1.vlook.cn/video/high/72KX.mp4	20141226131710_大妞帮演出 后台陈怡曼演绎陈妃醉酒[好色]不看会后悔哦[好色][好色][好色]_1分钟1秒.mp4
-http://download1.vlook.cn/video/high/72qV.mp4	20141225205326_大妞帮在福州兰博基尼酒吧与大家一起过圣诞啦[鼓掌]_2分钟22秒.mp4
-http://download1.vlook.cn/video/high/71Ge.mp4	20141224150806_大妞帮在福州第一模特秀场《兰博基尼》酒吧_49秒.mp4
+http://download1.vlook.cn/video/high/78t4.mp4	20150105203507_饿了赶紧点吧_34秒.mp4
