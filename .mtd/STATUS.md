@@ -1,7 +1,12 @@
 Tasks Status Report
 ============
 
+* Pendings:
+    *[urlrule] sites weipai.cn UPDATE 52e951ff77d3cc9c5f8b45a1 阳阳阳的美妆铺子
+
 * Finished:
+    * [2015/01/13 02:46:28] [urlrule] sites weipai.cn follow 52e951ff77d3cc9c5f8b45a1 阳阳阳的美妆铺子
+
     * [2015/01/13 02:46:09] [urlrule] sites weipai.cn UPDATE singer-sherencat
 
     * [2015/01/13 02:22:09] [urlrule] sites weipai.cn follow 545a26d2a7640bde0c8b456d singer-sherencat
@@ -17,6 +22,8 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 02:46:28] [urlrule] sites weipai.cn add 52e951ff77d3cc9c5f8b45a1 阳阳阳的美妆铺子
+
     * [2015/01/13 02:22:09] [urlrule] sites weipai.cn add 545a26d2a7640bde0c8b456d singer-sherencat
 
     * [2015/01/13 02:16:48] [urlrule] sites weipai.cn follow 51ad9c4f5e8e875a62000000 DJ-CC

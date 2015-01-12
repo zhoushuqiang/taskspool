@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn follow 52e951ff77d3cc9c5f8b45a1 阳阳阳的美妆铺子
+
+
+    * Begin : 2015/01/13 02:46:28
+    * End   : 2015/01/13 02:46:28
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE singer-sherencat
 
 
