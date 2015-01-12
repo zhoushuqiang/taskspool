@@ -1,3 +1,81 @@
+* [urlrule] sites vlook.cn update 1824329072宅女轩轩
+
+    * Begin : 2015/01/13 06:47:31
+    * End   : 2015/01/13 06:51:52
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 16姐
+
+    * Begin : 2015/01/13 06:47:27
+    * End   : 2015/01/13 06:47:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 1589753
+
+    * Begin : 2015/01/13 06:47:23
+    * End   : 2015/01/13 06:47:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 1142058078
+
+    * Begin : 2015/01/13 06:47:19
+    * End   : 2015/01/13 06:47:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 10120
+
+    * Begin : 2015/01/13 06:47:15
+    * End   : 2015/01/13 06:47:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 0王妃0
+
+    * Begin : 2015/01/13 06:47:12
+    * End   : 2015/01/13 06:47:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn UPDATE 水蜜桃子
+
+
+    * Begin : 2015/01/13 06:47:07
+    * End   : 2015/01/13 06:47:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53f5ba37a5640b73638b4570 水蜜桃子
+
+
+    * Begin : 2015/01/13 06:47:07
+    * End   : 2015/01/13 06:47:07
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53f5ba37a5640b73638b4570 水蜜桃子
+
+
+    * Begin : 2015/01/13 06:47:07
+    * End   : 2015/01/13 06:47:07
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 李李七七喜喜
+
+
+    * Begin : 2015/01/13 06:47:02
+    * End   : 2015/01/13 06:47:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53258990ebeddbe5798b459f 李李七七喜喜
+
+
+    * Begin : 2015/01/13 06:47:02
+    * End   : 2015/01/13 06:47:02
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53258990ebeddbe5798b459f 李李七七喜喜
+
+
+    * Begin : 2015/01/13 06:47:02
+    * End   : 2015/01/13 06:47:02
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2015/01/13 06:46:48

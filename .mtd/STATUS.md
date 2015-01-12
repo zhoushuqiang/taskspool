@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 06:51:52] [urlrule] sites vlook.cn update 1824329072宅女轩轩
     * [2015/01/13 06:46:52] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2015/01/13 06:45:21] [urlrule] sites weipai.cn UPDATE 阳阳阳的美妆铺子
 
@@ -22,6 +23,23 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 06:47:30] [urlrule] sites weipai.cn update 16姐
+    * [2015/01/13 06:47:26] [urlrule] sites weipai.cn update 1589753
+    * [2015/01/13 06:47:22] [urlrule] sites weipai.cn update 1142058078
+    * [2015/01/13 06:47:18] [urlrule] sites weipai.cn update 10120
+    * [2015/01/13 06:47:14] [urlrule] sites weipai.cn update 0王妃0
+    * [2015/01/13 06:47:09] [urlrule] sites weipai.cn UPDATE 水蜜桃子
+
+    * [2015/01/13 06:47:07] [urlrule] sites weipai.cn follow 53f5ba37a5640b73638b4570 水蜜桃子
+
+    * [2015/01/13 06:47:07] [urlrule] sites weipai.cn add 53f5ba37a5640b73638b4570 水蜜桃子
+
+    * [2015/01/13 06:47:05] [urlrule] sites weipai.cn UPDATE 李李七七喜喜
+
+    * [2015/01/13 06:47:02] [urlrule] sites weipai.cn follow 53258990ebeddbe5798b459f 李李七七喜喜
+
+    * [2015/01/13 06:47:02] [urlrule] sites weipai.cn add 53258990ebeddbe5798b459f 李李七七喜喜
+
     * [2015/01/13 06:46:47] [urlrule] sites weipai.cn UPDATE 陈美琳Mandy
 
     * [2015/01/13 06:46:44] [urlrule] sites weipai.cn follow 51fa57ba7f3494ea70000000 陈美琳Mandy
