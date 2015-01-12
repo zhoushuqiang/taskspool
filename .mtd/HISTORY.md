@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
+
+    * Begin : 2015/01/13 02:16:26
+    * End   : 2015/01/13 02:16:32
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE CoCo月
 
 
