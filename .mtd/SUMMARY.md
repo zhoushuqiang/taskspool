@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update Amanda5275
+
+    * Begin : 2015/01/13 06:54:55
+    * End   : 2015/01/13 07:00:47
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 1824329072宅女轩轩
 
     * Begin : 2015/01/13 06:47:31
