@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE DJ-CC
+
+
+    * Begin : 2015/01/13 02:16:48
+    * End   : 2015/01/13 02:21:51
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
 
     * Begin : 2015/01/13 02:16:26
