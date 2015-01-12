@@ -1,3 +1,33 @@
+* [urlrule] sites vlook.cn update Gaby_Kim金慧嫄
+
+    * Begin : 2015/01/13 07:04:56
+    * End   : 2015/01/13 07:05:03
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Fox_00
+
+    * Begin : 2015/01/13 07:04:52
+    * End   : 2015/01/13 07:04:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Fiy
+
+    * Begin : 2015/01/13 07:04:48
+    * End   : 2015/01/13 07:04:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update EverdayBaby
+
+    * Begin : 2015/01/13 07:04:45
+    * End   : 2015/01/13 07:04:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Elise谭晓彤
+
+    * Begin : 2015/01/13 07:04:41
+    * End   : 2015/01/13 07:04:43
+    * Result: Nothing to do
+
 * [urlrule] sites vlook.cn update Elise谭晓彤
 
     * Begin : 2015/01/13 07:04:13

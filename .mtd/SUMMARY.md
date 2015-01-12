@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update Gaby_Kim金慧嫄
+
+    * Begin : 2015/01/13 07:04:56
+    * End   : 2015/01/13 07:05:03
+    * Result: OK
+
 * [urlrule] sites vlook.cn update Elise谭晓彤
 
     * Begin : 2015/01/13 07:04:13

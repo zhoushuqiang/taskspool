@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 07:05:03] [urlrule] sites vlook.cn update Gaby_Kim金慧嫄
     * [2015/01/13 07:04:30] [urlrule] sites vlook.cn update Elise谭晓彤
     * [2015/01/13 07:00:47] [urlrule] sites vlook.cn update Amanda5275
     * [2015/01/13 06:51:52] [urlrule] sites vlook.cn update 1824329072宅女轩轩
@@ -25,6 +26,10 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 07:04:55] [urlrule] sites weipai.cn update Fox_00
+    * [2015/01/13 07:04:51] [urlrule] sites weipai.cn update Fiy
+    * [2015/01/13 07:04:47] [urlrule] sites weipai.cn update EverdayBaby
+    * [2015/01/13 07:04:43] [urlrule] sites weipai.cn update Elise谭晓彤
     * [2015/01/13 07:04:12] [urlrule] sites weipai.cn update Elise谭晓彤
     * [2015/01/13 07:04:08] [urlrule] sites weipai.cn update Djkkrmx慧玲
     * [2015/01/13 07:04:04] [urlrule] sites vlook.cn update Dj_kelly
