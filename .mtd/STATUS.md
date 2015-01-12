@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 07:22:31] [urlrule] sites vlook.cn update 友熙酱
     * [2015/01/13 07:20:17] [urlrule] sites vlook.cn update 兮颜SSS
     * [2015/01/13 07:14:57] [urlrule task] update urlrule/task/follows.txt
     * [2015/01/13 07:10:15] [urlrule] sites vlook.cn update VK_bb
@@ -31,6 +32,27 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 07:21:49] [urlrule] sites weipai.cn update 友熙酱
+    * [2015/01/13 07:21:45] [urlrule] sites weipai.cn update 卢秋桐
+    * [2015/01/13 07:21:41] [urlrule] sites weipai.cn update 卢灵儿
+    * [2015/01/13 07:21:37] [urlrule] sites weipai.cn update 卢思云
+    * [2015/01/13 07:21:33] [urlrule] sites vlook.cn update 北娃大王
+    * [2015/01/13 07:21:31] [urlrule] sites weipai.cn update 北娃大王
+    * [2015/01/13 07:21:27] [urlrule] sites weipai.cn update 勤妹儿
+    * [2015/01/13 07:21:23] [urlrule] sites weipai.cn update 劉點點dotey_
+    * [2015/01/13 07:21:19] [urlrule] sites weipai.cn update 前任攻略
+    * [2015/01/13 07:21:15] [urlrule] sites weipai.cn update 初家小雪
+    * [2015/01/13 07:21:11] [urlrule] sites weipai.cn update 刘韩依HY
+    * [2015/01/13 07:21:07] [urlrule] sites weipai.cn update 刘雯雯darling
+    * [2015/01/13 07:21:03] [urlrule] sites weipai.cn update 刘诗涵
+    * [2015/01/13 07:20:59] [urlrule] sites weipai.cn update 刘苏漫
+    * [2015/01/13 07:20:55] [urlrule] sites weipai.cn update 刘小莎
+    * [2015/01/13 07:20:51] [urlrule] sites weipai.cn update 刘培雨雨小熊
+    * [2015/01/13 07:20:47] [urlrule] sites weipai.cn update 冷美人1
+    * [2015/01/13 07:20:43] [urlrule] sites weipai.cn update 冷美人1
+    * [2015/01/13 07:20:39] [urlrule] sites weipai.cn update 冯猫儿的猫
+    * [2015/01/13 07:20:35] [urlrule] sites weipai.cn update 内涵湿姐
+    * [2015/01/13 07:20:31] [urlrule] sites weipai.cn update 内涵姐姐
     * [2015/01/13 07:18:05] [urlrule] sites weipai.cn update 光头-狠强
     * [2015/01/13 07:18:01] [urlrule] sites weipai.cn update 做个man的小女人
     * [2015/01/13 07:17:56] [urlrule] sites weipai.cn update 倩倩baby

@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update 友熙酱
+
+    * Begin : 2015/01/13 07:21:51
+    * End   : 2015/01/13 07:22:31
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 兮颜SSS
 
     * Begin : 2015/01/13 07:18:06
