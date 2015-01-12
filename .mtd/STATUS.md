@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 07:30:54] [urlrule] sites vlook.cn update 安瑞甜
     * [2015/01/13 07:28:34] [urlrule] sites vlook.cn update 姚雪
     * [2015/01/13 07:22:31] [urlrule] sites vlook.cn update 友熙酱
     * [2015/01/13 07:20:17] [urlrule] sites vlook.cn update 兮颜SSS
@@ -33,6 +34,26 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 07:30:44] [urlrule] sites weipai.cn update 安瑞甜
+    * [2015/01/13 07:30:40] [urlrule] sites weipai.cn update 安妮makeup
+    * [2015/01/13 07:30:36] [urlrule] sites weipai.cn update 安妮Annie
+    * [2015/01/13 07:30:32] [urlrule] sites weipai.cn update 安之拉
+    * [2015/01/13 07:30:28] [urlrule] sites weipai.cn update 孤独患者
+    * [2015/01/13 07:30:24] [urlrule] sites weipai.cn update 孤单的84剩女
+    * [2015/01/13 07:30:21] [urlrule] sites weipai.cn update 孟晓艺dana
+    * [2015/01/13 07:30:17] [urlrule] sites vlook.cn update 孟晓晴Aimme
+    * [2015/01/13 07:29:54] [urlrule] sites weipai.cn update 孙星星
+    * [2015/01/13 07:29:50] [urlrule] sites weipai.cn update 孙大星
+    * [2015/01/13 07:29:46] [urlrule] sites weipai.cn update 孙十八
+    * [2015/01/13 07:29:42] [urlrule] sites weipai.cn update 媛妞儿
+    * [2015/01/13 07:29:38] [urlrule] sites weipai.cn update 媚力女人
+    * [2015/01/13 07:29:34] [urlrule] sites weipai.cn update 婷宝20141030
+    * [2015/01/13 07:29:30] [urlrule] sites vlook.cn update 婷婷aiweier
+    * [2015/01/13 07:29:25] [urlrule] sites weipai.cn update 婷MM
+    * [2015/01/13 07:29:21] [urlrule] sites weipai.cn update 娜娜-_
+    * [2015/01/13 07:29:17] [urlrule] sites weipai.cn update 娜依灵儿
+    * [2015/01/13 07:29:13] [urlrule] sites vlook.cn update 娇娇2014
+    * [2015/01/13 07:28:48] [urlrule] sites weipai.cn update 威信qianfei2012
     * [2015/01/13 07:27:24] [urlrule] sites weipai.cn update 姗-姗
     * [2015/01/13 07:27:20] [urlrule] sites weipai.cn update 姐妹的范er
     * [2015/01/13 07:27:17] [urlrule] sites weipai.cn update 姐又内涵了
