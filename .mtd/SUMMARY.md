@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE CoCo月
+
+
+    * Begin : 2015/01/13 02:14:50
+    * End   : 2015/01/13 02:16:11
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 高尚kiko
 
 

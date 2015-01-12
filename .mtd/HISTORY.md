@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE CoCo月
+
+
+    * Begin : 2015/01/13 02:14:50
+    * End   : 2015/01/13 02:16:11
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 526b89e37f34949439f7e9e2 CoCo月
+
+
+    * Begin : 2015/01/13 02:14:50
+    * End   : 2015/01/13 02:14:50
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 526b89e37f34949439f7e9e2 CoCo月
+
+
+    * Begin : 2015/01/13 02:14:50
+    * End   : 2015/01/13 02:14:50
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 高尚kiko
 
 
