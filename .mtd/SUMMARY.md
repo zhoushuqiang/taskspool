@@ -1,3 +1,9 @@
+* [urlrule task] update urlrule/task/follows.txt
+
+    * Begin : 2015/01/13 07:14:55
+    * End   : 2015/01/13 07:14:57
+    * Result: OK
+
 * [urlrule] sites vlook.cn update VK_bb
 
     * Begin : 2015/01/13 07:10:04
