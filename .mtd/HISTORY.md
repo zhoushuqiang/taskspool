@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE 高尚kiko
+
+
+    * Begin : 2015/01/13 02:02:34
+    * End   : 2015/01/13 02:14:31
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 50eda2fe7d34948e2f000036 高尚kiko
+
+
+    * Begin : 2015/01/13 02:02:34
+    * End   : 2015/01/13 02:02:34
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 50eda2fe7d34948e2f000036 高尚kiko
+
+
+    * Begin : 2015/01/13 02:02:34
+    * End   : 2015/01/13 02:02:34
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 陈大榕
 
 
