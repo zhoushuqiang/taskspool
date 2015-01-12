@@ -19,6 +19,8 @@ http://download1.vlook.cn/video/high/6Ony.mp4	20141121002459_我的Q1335467161�
 http://download1.vlook.cn/video/high/6Pxf.mp4	20141123160156_我的Q1335467161：困死了[犯困][犯困][犯困][犯困][犯困]_8秒.mp4
 http://download1.vlook.cn/video/high/6QXn.mp4	20141126150642_我的Q1335467161：玩穿越喽[好色]_8秒.mp4
 http://download1.vlook.cn/video/high/6QXx.mp4	20141126151211_我的Q1335467161：没事扮新娘[媚眼][媚眼][媚眼]_8秒.mp4
+http://download1.vlook.cn/video/high/6RTf.mp4	20141128205949_我的Q1335467161：无聊的一天过来[鼓掌]_10秒.mp4
+http://download1.vlook.cn/video/high/6RU8.mp4	20141128214430_我的Q1335467161：各位晚安喽_8秒.mp4
 http://download1.vlook.cn/video/high/6RfP.mp4	20141127103434_我的Q1335467161：我的写真集_8秒.mp4
 http://download1.vlook.cn/video/high/6gCF.mp4	20140909012438_好久没法多发一个[微笑][微笑][微笑]_8秒.mp4
 http://download1.vlook.cn/video/high/6gCy.mp4	20140909011800_睡觉喽_8秒.mp4
@@ -32,6 +34,8 @@ http://download1.vlook.cn/video/high/6oBR.mp4	20140923195632_[害羞][害羞][�
 http://download1.vlook.cn/video/high/6p7v.mp4	20140924191712_马上下班了[鼓掌][鼓掌]_8秒.mp4
 http://download1.vlook.cn/video/high/6q-X.mp4	20140928101936_我的Q1335467161：早睡早起_8秒.mp4
 http://download1.vlook.cn/video/high/6uAs.mp4	20141006101848_我的Q1335467161：我的写真集_8秒.mp4
+http://download1.vlook.cn/video/high/71Te.mp4	20141224211746_我的Q1335467161：好久没发喽_8秒.mp4
+http://download1.vlook.cn/video/high/72OW.mp4	20141226160055_我的Q1335467161：好累哦躺着休息一下_8秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4PbM&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140212011006_我的Q1335467161：第一次玩这个…_17秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4Pcl&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140212013841_我的Q1335467161：大家一定注意早点睡觉噢不然对皮肤不好！[呲牙坏笑][呲牙坏笑][呲牙坏笑][呲牙坏笑]_26秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=4PtS&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140212195426_我的Q1335467161：外面冷死了、还是家里舒服[微笑][微笑][微笑]_10秒.mp4
@@ -53,6 +57,4 @@ http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6kWX&client=pc&imei=ee257
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6kzn&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140916180917_我的Q1335467161：拍写真_8秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6l-G&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140919131001_我的Q1335467161：我跟我的姐妹们[媚眼][媚眼]_8秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6oBR&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140923195632_我的Q1335467161：[害羞][害羞][害羞]_8秒.mp4
-http://download1.vlook.cn/video/high/6RfP.mp4	20141127103434_我的Q1335467161：我的写真集_8秒.mp4
-http://download1.vlook.cn/video/high/6RU8.mp4	20141128214430_我的Q1335467161：各位晚安喽_8秒.mp4
-http://download1.vlook.cn/video/high/6RTf.mp4	20141128205949_我的Q1335467161：无聊的一天过来[鼓掌]_10秒.mp4
+http://download1.vlook.cn/video/high/71Te.mp4	20141224211746_我的Q1335467161：好久没发喽_8秒.mp4

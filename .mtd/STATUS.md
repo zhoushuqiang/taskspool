@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 07:07:52] [urlrule] sites vlook.cn update Q1335467161
     * [2015/01/13 07:05:56] [urlrule] sites vlook.cn update Katherine陳佳妮
     * [2015/01/13 07:05:03] [urlrule] sites vlook.cn update Gaby_Kim金慧嫄
     * [2015/01/13 07:04:30] [urlrule] sites vlook.cn update Elise谭晓彤
@@ -27,6 +28,26 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 07:07:39] [urlrule] sites weipai.cn update PAPAGAO-
+    * [2015/01/13 07:07:35] [urlrule] sites weipai.cn update Never沛妮
+    * [2015/01/13 07:07:30] [urlrule] sites weipai.cn update NZL-妮子梁
+    * [2015/01/13 07:07:25] [urlrule] sites weipai.cn update Ms阿婆王
+    * [2015/01/13 07:07:21] [urlrule] sites vlook.cn update Ms琳
+    * [2015/01/13 07:07:16] [urlrule] sites weipai.cn update Monika1991
+    * [2015/01/13 07:07:12] [urlrule] sites weipai.cn update Miya_妈咪
+    * [2015/01/13 07:07:08] [urlrule] sites weipai.cn update Miranda-Kerr
+    * [2015/01/13 07:07:04] [urlrule] sites weipai.cn update Mia丫丫C
+    * [2015/01/13 07:07:00] [urlrule] sites weipai.cn update Miao雪
+    * [2015/01/13 07:06:56] [urlrule] sites weipai.cn update Maggie李嘉麒
+    * [2015/01/13 07:06:52] [urlrule] sites weipai.cn update MISS小丝雨
+    * [2015/01/13 07:06:48] [urlrule] sites vlook.cn update MISS小丝雨
+    * [2015/01/13 07:06:40] [urlrule] sites weipai.cn update MISS小丝雨
+    * [2015/01/13 07:06:35] [urlrule] sites weipai.cn update Lusibaby000
+    * [2015/01/13 07:06:31] [urlrule] sites weipai.cn update Lulu罗小鹿
+    * [2015/01/13 07:06:26] [urlrule] sites vlook.cn update Love雞排妹
+    * [2015/01/13 07:06:17] [urlrule] sites weipai.cn update Lolita4ever
+    * [2015/01/13 07:06:14] [urlrule] sites weipai.cn update LLLL-喵喵
+    * [2015/01/13 07:06:10] [urlrule] sites weipai.cn update Kiki_雅琪
     * [2015/01/13 07:05:47] [urlrule] sites weipai.cn update J小姐20140401
     * [2015/01/13 07:05:43] [urlrule] sites vlook.cn update JunBaby
     * [2015/01/13 07:05:38] [urlrule] sites weipai.cn update Jun20141205

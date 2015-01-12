@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update Q1335467161
+
+    * Begin : 2015/01/13 07:07:41
+    * End   : 2015/01/13 07:07:52
+    * Result: OK
+
 * [urlrule] sites vlook.cn update Katherine陳佳妮
 
     * Begin : 2015/01/13 07:05:48
