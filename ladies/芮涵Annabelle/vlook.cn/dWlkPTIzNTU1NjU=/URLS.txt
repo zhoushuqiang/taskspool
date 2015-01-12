@@ -77,6 +77,7 @@ http://download1.vlook.cn/video/high/6xFs.mp4	20141014121743_我是大吃货_39�
 http://download1.vlook.cn/video/high/6zXZ.mp4	20141020032229_如果你的妈妈忽然间对你倍加关心，不用觉得奇怪，她只是想要提醒你，该穿秋裤了。_35秒.mp4
 http://download1.vlook.cn/video/high/73nc.mp4	20141227172627_好久没见，大家想我了吗_33秒.mp4
 http://download1.vlook.cn/video/high/7772.mp4	20150103105546_渴望这样子的爱情_29秒.mp4
+http://download1.vlook.cn/video/high/7arf.mp4	20150110000937_妩媚娘传奇复播，满屏都是大头照_32秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=51Q7&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140315053014_拍摄花絮1_41秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=52_h&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140317170704_给大家变一个魔术_13秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=52bI&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140315220531_散步_11秒.mp4
@@ -134,4 +135,4 @@ http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6hHo&client=pc&imei=ee257
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6ial&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140912050432_照片剪辑_9秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6jSh&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140915110641_高富帅和屌丝的搭讪方式_1分钟46秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6mqn&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140920070110_送给所有在爱情中真心付出却委屈收场的人_1分钟12秒.mp4
-http://download1.vlook.cn/video/high/73nc.mp4	20141227172627_好久没见，大家想我了吗_33秒.mp4
+http://download1.vlook.cn/video/high/7arf.mp4	20150110000937_妩媚娘传奇复播，满屏都是大头照_32秒.mp4
