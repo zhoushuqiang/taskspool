@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
+
+    * Begin : 2015/01/13 06:46:48
+    * End   : 2015/01/13 06:46:52
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn UPDATE 阳阳阳的美妆铺子
 
 
