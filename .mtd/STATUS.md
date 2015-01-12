@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 07:45:02] [urlrule] sites vlook.cn update 林歆蕊
     * [2015/01/13 07:39:35] [urlrule] sites vlook.cn update 文蔓
     * [2015/01/13 07:34:59] [urlrule] sites vlook.cn update 帮主-杨筱敏
     * [2015/01/13 07:30:54] [urlrule] sites vlook.cn update 安瑞甜
@@ -36,6 +37,57 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 07:44:03] [urlrule] sites weipai.cn update 林夕baby123
+    * [2015/01/13 07:43:58] [urlrule] sites weipai.cn update 杨沫沫Aimee
+    * [2015/01/13 07:43:53] [urlrule] sites weipai.cn update 杨梓萱baby
+    * [2015/01/13 07:43:50] [urlrule] sites weipai.cn update 杨杨ghj
+    * [2015/01/13 07:43:46] [urlrule] sites vlook.cn update 杨慧儿
+    * [2015/01/13 07:43:40] [urlrule] sites weipai.cn update 杨小琦TY
+    * [2015/01/13 07:43:36] [urlrule] sites weipai.cn update 杨安妮宝贝
+    * [2015/01/13 07:43:31] [urlrule] sites weipai.cn update 杨大人
+    * [2015/01/13 07:43:27] [urlrule] sites weipai.cn update 来肏逼123
+    * [2015/01/13 07:43:23] [urlrule] sites vlook.cn update 来不及疼痛
+    * [2015/01/13 07:43:15] [urlrule] sites vlook.cn update 李颖芝
+    * [2015/01/13 07:43:03] [urlrule] sites weipai.cn update 李豪Joylee
+    * [2015/01/13 07:42:58] [urlrule] sites weipai.cn update 李萌萌护肤美美哒
+    * [2015/01/13 07:42:53] [urlrule] sites weipai.cn update 李点点儿
+    * [2015/01/13 07:42:48] [urlrule] sites weipai.cn update 李朝蛟-Bie
+    * [2015/01/13 07:42:42] [urlrule] sites weipai.cn update 李怡静1118
+    * [2015/01/13 07:42:37] [urlrule] sites vlook.cn update 李思闻
+    * [2015/01/13 07:42:26] [urlrule] sites weipai.cn update 李思闻
+    * [2015/01/13 07:42:21] [urlrule] sites weipai.cn update 李思桐儿
+    * [2015/01/13 07:42:15] [urlrule] sites weipai.cn update 李妍呢
+    * [2015/01/13 07:42:10] [urlrule] sites weipai.cn update 李佳洁妞儿
+    * [2015/01/13 07:42:05] [urlrule] sites weipai.cn update 李京琳-宝宝
+    * [2015/01/13 07:41:59] [urlrule] sites weipai.cn update 李云666
+    * [2015/01/13 07:41:55] [urlrule] sites weipai.cn update 李七喜
+    * [2015/01/13 07:41:50] [urlrule] sites weipai.cn update 朵朵猪
+    * [2015/01/13 07:41:45] [urlrule] sites weipai.cn update 朱小璐-nini
+    * [2015/01/13 07:41:41] [urlrule] sites weipai.cn update 最美的太阳20140822
+    * [2015/01/13 07:41:37] [urlrule] sites weipai.cn update 最帅马三舅
+    * [2015/01/13 07:41:33] [urlrule] sites weipai.cn update 曾贾
+    * [2015/01/13 07:41:28] [urlrule] sites weipai.cn update 曼丽LXL
+    * [2015/01/13 07:41:23] [urlrule] sites weipai.cn update 曹紫涵
+    * [2015/01/13 07:41:17] [urlrule] sites weipai.cn update 曹欣妮s
+    * [2015/01/13 07:41:12] [urlrule] sites weipai.cn update 曲珈叶
+    * [2015/01/13 07:41:07] [urlrule] sites weipai.cn update 暗黑小萝莉
+    * [2015/01/13 07:41:02] [urlrule] sites weipai.cn update 晴海洋
+    * [2015/01/13 07:40:56] [urlrule] sites weipai.cn update 景小姐景小姐
+    * [2015/01/13 07:40:51] [urlrule] sites weipai.cn update 晨yoka
+    * [2015/01/13 07:40:46] [urlrule] sites weipai.cn update 晕死的大白兔
+    * [2015/01/13 07:40:42] [urlrule] sites weipai.cn update 晓彗大大大
+    * [2015/01/13 07:40:37] [urlrule] sites weipai.cn update 晓卉日记
+    * [2015/01/13 07:40:33] [urlrule] sites weipai.cn update 易阳ELLY
+    * [2015/01/13 07:40:28] [urlrule] sites weipai.cn update 早晚整死你
+    * [2015/01/13 07:40:24] [urlrule] sites weipai.cn update 无敌女汉子
+    * [2015/01/13 07:40:20] [urlrule] sites weipai.cn update 无懈可击阿乐
+    * [2015/01/13 07:40:16] [urlrule] sites weipai.cn update 无名指的等待20141002
+    * [2015/01/13 07:40:12] [urlrule] sites weipai.cn update 施婭婭
+    * [2015/01/13 07:40:08] [urlrule] sites weipai.cn update 施娅静微拍
+    * [2015/01/13 07:40:04] [urlrule] sites weipai.cn update 新百伦正品代购20141202
+    * [2015/01/13 07:40:00] [urlrule] sites weipai.cn update 新用户21460
+    * [2015/01/13 07:39:56] [urlrule] sites weipai.cn update 新浪微博未知黑色曼陀罗
+    * [2015/01/13 07:39:51] [urlrule] sites weipai.cn update 新浪微博model-芯妍
     * [2015/01/13 07:38:55] [urlrule] sites weipai.cn update 撒旦甜心_Ellia
     * [2015/01/13 07:38:51] [urlrule] sites weipai.cn update 抗忙昂北鼻够够够
     * [2015/01/13 07:38:47] [urlrule] sites weipai.cn update 把你家户口本拿出来看看
