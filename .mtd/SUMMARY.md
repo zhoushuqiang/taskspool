@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update Elise谭晓彤
+
+    * Begin : 2015/01/13 07:04:13
+    * End   : 2015/01/13 07:04:30
+    * Result: OK
+
 * [urlrule] sites vlook.cn update Amanda5275
 
     * Begin : 2015/01/13 06:54:55
