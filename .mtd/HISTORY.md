@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update ljylovesjy
+
+    * Begin : 2015/01/13 22:41:41
+    * End   : 2015/01/13 22:43:30
+    * Result: OK
+
+* [urlrule] sites weipai.cn update li莉
+
+    * Begin : 2015/01/13 22:41:38
+    * End   : 2015/01/13 22:41:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update lady小夜猫
+
+    * Begin : 2015/01/13 22:41:36
+    * End   : 2015/01/13 22:41:37
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update kitty酱
 
     * Begin : 2015/01/13 22:39:59

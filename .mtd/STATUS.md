@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 22:43:30] [urlrule] sites weipai.cn update ljylovesjy
     * [2015/01/13 22:41:25] [urlrule] sites weipai.cn update kitty酱
     * [2015/01/13 22:39:48] [urlrule] sites weipai.cn update kimoon
     * [2015/01/13 22:36:56] [urlrule] sites weipai.cn update forgetlethe
@@ -117,6 +118,8 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 22:41:39] [urlrule] sites weipai.cn update li莉
+    * [2015/01/13 22:41:37] [urlrule] sites weipai.cn update lady小夜猫
     * [2015/01/13 22:37:08] [urlrule] sites weipai.cn update hhaskydhjjffjk
     * [2015/01/13 22:22:18] [urlrule] sites weipai.cn update dj-vivi
     * [2015/01/13 22:22:15] [urlrule] sites weipai.cn update crystal尚
