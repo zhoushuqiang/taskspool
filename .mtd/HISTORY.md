@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 乱搞砖家
+
+    * Begin : 2015/01/14 00:17:57
+    * End   : 2015/01/14 00:18:11
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 九尾狐-官晓双
 
     * Begin : 2015/01/14 00:15:13
