@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Theonlylove
+
+    * Begin : 2015/01/13 20:36:07
+    * End   : 2015/01/13 20:39:33
+    * Result: OK
+
 * [urlrule] sites weipai.cn update S小妹
 
     * Begin : 2015/01/13 20:34:14

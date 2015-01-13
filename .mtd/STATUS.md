@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 20:39:33] [urlrule] sites weipai.cn update Theonlylove
     * [2015/01/13 20:35:54] [urlrule] sites weipai.cn update S小妹
     * [2015/01/13 20:34:03] [urlrule] sites weipai.cn update Sweet-微
     * [2015/01/13 20:31:40] [urlrule] sites weipai.cn update SpookyG
