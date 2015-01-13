@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update Sensv
+
+    * Begin : 2015/01/13 19:31:59
+    * End   : 2015/01/13 19:32:26
+    * Result: OK
+
+* [urlrule] sites weipai.cn update SasaBaby
+
+    * Begin : 2015/01/13 19:31:57
+    * End   : 2015/01/13 19:31:58
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Sara项信
 
     * Begin : 2015/01/13 19:31:02
