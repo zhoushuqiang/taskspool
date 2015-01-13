@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 19:24:58] [urlrule] sites weipai.cn update Never沛妮
     * [2015/01/13 19:14:58] [urlrule] sites weipai.cn update NZL-妮子梁
     * [2015/01/13 15:28:08] [urlrule] sites weipai.cn update Ms阿婆王
     * [2015/01/13 15:13:00] [urlrule] sites weipai.cn update Monika1991
