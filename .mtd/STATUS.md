@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 23:27:49] [urlrule] sites weipai.cn update 丝月阁
     * [2015/01/13 23:26:59] [urlrule] sites weipai.cn update 不是大姐好多年
     * [2015/01/13 23:26:33] [urlrule] sites weipai.cn update 丁丁丁丁丁小宝
     * [2015/01/13 23:26:02] [urlrule] sites weipai.cn update y依凌小姐
@@ -140,6 +141,8 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 23:27:13] [urlrule] sites weipai.cn update 不羁的风20140212
+    * [2015/01/13 23:27:11] [urlrule] sites weipai.cn update 不是女神i
     * [2015/01/13 23:26:47] [urlrule] sites weipai.cn update 上官宁儿大人
     * [2015/01/13 23:26:45] [urlrule] sites weipai.cn update 丁可和肥松鼠
     * [2015/01/13 23:26:18] [urlrule] sites weipai.cn update 丁丁lris

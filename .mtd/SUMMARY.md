@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 丝月阁
+
+    * Begin : 2015/01/13 23:27:15
+    * End   : 2015/01/13 23:27:49
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 不是大姐好多年
 
     * Begin : 2015/01/13 23:26:49
