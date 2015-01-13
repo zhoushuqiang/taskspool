@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 因为爱所以爱20141029
+
+    * Begin : 2015/01/14 02:42:52
+    * End   : 2015/01/14 02:44:13
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 嘉欣小星星
 
     * Begin : 2015/01/14 02:37:44
