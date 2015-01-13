@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 可是我叫__Zll
+
+    * Begin : 2015/01/14 01:59:23
+    * End   : 2015/01/14 02:01:08
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 叫我超哥
 
     * Begin : 2015/01/14 01:55:06
