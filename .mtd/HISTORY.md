@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 大木木彡
+
+    * Begin : 2015/01/14 02:57:29
+    * End   : 2015/01/14 02:58:07
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 大拿MM
+
+    * Begin : 2015/01/14 02:57:26
+    * End   : 2015/01/14 02:57:27
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 大妞范经纪人满林
 
     * Begin : 2015/01/14 02:56:27
