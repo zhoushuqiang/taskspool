@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update __小韩韩
+
+    * Begin : 2015/01/13 21:00:01
+    * End   : 2015/01/13 21:42:56
+    * Result: OK
+
+* [urlrule] sites weipai.cn update __妖涅
+
+    * Begin : 2015/01/13 20:59:58
+    * End   : 2015/01/13 20:59:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update ___悦如
+
+    * Begin : 2015/01/13 20:59:56
+    * End   : 2015/01/13 20:59:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update __Coco
+
+    * Begin : 2015/01/13 20:59:53
+    * End   : 2015/01/13 20:59:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update _Miss梦
+
+    * Begin : 2015/01/13 20:59:50
+    * End   : 2015/01/13 20:59:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update _Angelia燕子
+
+    * Begin : 2015/01/13 20:59:48
+    * End   : 2015/01/13 20:59:49
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Zz贞
 
     * Begin : 2015/01/13 20:44:39

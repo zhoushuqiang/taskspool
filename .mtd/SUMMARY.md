@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update __小韩韩
+
+    * Begin : 2015/01/13 21:00:01
+    * End   : 2015/01/13 21:42:56
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Zz贞
 
     * Begin : 2015/01/13 20:44:39

@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 21:42:56] [urlrule] sites weipai.cn update __小韩韩
     * [2015/01/13 20:59:37] [urlrule] sites weipai.cn update Zz贞
     * [2015/01/13 20:44:27] [urlrule] sites weipai.cn update ZeroDis
     * [2015/01/13 20:43:28] [urlrule] sites weipai.cn update V信qxs95002
@@ -106,6 +107,11 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 20:59:59] [urlrule] sites weipai.cn update __妖涅
+    * [2015/01/13 20:59:57] [urlrule] sites weipai.cn update ___悦如
+    * [2015/01/13 20:59:54] [urlrule] sites weipai.cn update __Coco
+    * [2015/01/13 20:59:52] [urlrule] sites weipai.cn update _Miss梦
+    * [2015/01/13 20:59:49] [urlrule] sites weipai.cn update _Angelia燕子
     * [2015/01/13 20:43:43] [urlrule] sites vlook.cn update Yumi小旁友
     * [2015/01/13 20:40:07] [urlrule] sites weipai.cn update Vicky777777
     * [2015/01/13 20:40:04] [urlrule] sites weipai.cn update VV朗熙
