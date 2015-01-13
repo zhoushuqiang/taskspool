@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 08:13:18] [urlrule action] http://www.weipai.cn/review/video?uid=508775398134943b58000051&os=android 0 SAVE
     * [2015/01/13 08:07:51] [urlrule] sites vlook.cn update 陈怡曼coco
     * [2015/01/13 08:05:50] [urlrule] sites vlook.cn update 陆晨依
     * [2015/01/13 08:00:49] [urlrule] sites vlook.cn update 蒙丽伊
@@ -41,6 +42,55 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 08:13:08] [urlrule] sites weipai.cn update 龙儿20140330
+    * [2015/01/13 08:13:03] [urlrule] sites vlook.cn update 黒目瞳
+    * [2015/01/13 08:12:53] [urlrule] sites weipai.cn update 黒目瞳
+    * [2015/01/13 08:12:48] [urlrule] sites weipai.cn update 黑金色会飞的鱼
+    * [2015/01/13 08:12:43] [urlrule] sites weipai.cn update 黑桃女王
+    * [2015/01/13 08:12:38] [urlrule] sites weipai.cn update 黑三小幺
+    * [2015/01/13 08:12:31] [urlrule] sites weipai.cn update 黎儿
+    * [2015/01/13 08:12:26] [urlrule] sites weipai.cn update 黄没没-
+    * [2015/01/13 08:12:21] [urlrule] sites vlook.cn update 麻酥酥
+    * [2015/01/13 08:12:10] [urlrule] sites weipai.cn update 麻优酥酥
+    * [2015/01/13 08:12:05] [urlrule] sites weipai.cn update 麦子orSkala
+    * [2015/01/13 08:12:01] [urlrule] sites weipai.cn update 魚你你你你你
+    * [2015/01/13 08:11:56] [urlrule] sites vlook.cn update 魔都天后
+    * [2015/01/13 08:11:45] [urlrule] sites weipai.cn update 魔法倩
+    * [2015/01/13 08:11:41] [urlrule] sites weipai.cn update 魏嘉蒂Betty
+    * [2015/01/13 08:11:36] [urlrule] sites weipai.cn update 高冷漾
+    * [2015/01/13 08:11:31] [urlrule] sites weipai.cn update 高依然Doris
+    * [2015/01/13 08:11:26] [urlrule] sites weipai.cn update 馨妹纸
+    * [2015/01/13 08:11:21] [urlrule] sites weipai.cn update 颜若熙92
+    * [2015/01/13 08:11:16] [urlrule] sites vlook.cn update 颜若曦子
+    * [2015/01/13 08:11:12] [urlrule] sites weipai.cn update 颜若曦子
+    * [2015/01/13 08:11:07] [urlrule] sites weipai.cn update 颜珊珊baby
+    * [2015/01/13 08:11:02] [urlrule] sites weipai.cn update 颖小姐
+    * [2015/01/13 08:10:57] [urlrule] sites weipai.cn update 颕姐good-looking
+    * [2015/01/13 08:10:52] [urlrule] sites weipai.cn update 顾美丽
+    * [2015/01/13 08:10:48] [urlrule] sites vlook.cn update 顽石化钻恋玉人
+    * [2015/01/13 08:10:37] [urlrule] sites weipai.cn update 順唭自嘫
+    * [2015/01/13 08:10:33] [urlrule] sites vlook.cn update 韩金丽
+    * [2015/01/13 08:10:22] [urlrule] sites weipai.cn update 韩金丽
+    * [2015/01/13 08:10:17] [urlrule] sites weipai.cn update 韩田稀小号
+    * [2015/01/13 08:10:12] [urlrule] sites weipai.cn update 韩田稀
+    * [2015/01/13 08:09:59] [urlrule] sites weipai.cn update 韩田稀
+    * [2015/01/13 08:09:54] [urlrule] sites vlook.cn update 韩昕怡Summer
+    * [2015/01/13 08:09:39] [urlrule] sites weipai.cn update 韩媚希
+    * [2015/01/13 08:09:21] [urlrule] sites weipai.cn update 韩士博
+    * [2015/01/13 08:09:16] [urlrule] sites weipai.cn update 静静韩妆护肤
+    * [2015/01/13 08:09:11] [urlrule] sites weipai.cn update 静静的微笑
+    * [2015/01/13 08:09:06] [urlrule] sites weipai.cn update 露滴
+    * [2015/01/13 08:09:02] [urlrule] sites weipai.cn update 雷婷婷Baby
+    * [2015/01/13 08:08:58] [urlrule] sites weipai.cn update 雨辰Raina
+    * [2015/01/13 08:08:54] [urlrule] sites weipai.cn update 雨020141120
+    * [2015/01/13 08:08:50] [urlrule] sites weipai.cn update 雅蒂Atind
+    * [2015/01/13 08:08:45] [urlrule] sites weipai.cn update 雅沁
+    * [2015/01/13 08:08:40] [urlrule] sites weipai.cn update 随遇而安20140415
+    * [2015/01/13 08:08:36] [urlrule] sites weipai.cn update 陛下陛下女王王
+    * [2015/01/13 08:08:31] [urlrule] sites weipai.cn update 陈语乔
+    * [2015/01/13 08:08:25] [urlrule] sites weipai.cn update 陈芯儿
+    * [2015/01/13 08:08:18] [urlrule] sites weipai.cn update 陈美琳Mandy
+    * [2015/01/13 08:08:12] [urlrule] sites weipai.cn update 陈柔轩Michel
     * [2015/01/13 08:06:55] [urlrule] sites weipai.cn update 陈子萱vivi
     * [2015/01/13 08:06:50] [urlrule] sites weipai.cn update 陈子萱vivi
     * [2015/01/13 08:06:46] [urlrule] sites vlook.cn update 陈大榕
