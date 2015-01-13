@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 22:39:48] [urlrule] sites weipai.cn update kimoon
     * [2015/01/13 22:36:56] [urlrule] sites weipai.cn update forgetlethe
     * [2015/01/13 22:21:51] [urlrule] sites weipai.cn update baby蜜儿
     * [2015/01/13 22:20:42] [urlrule] sites weipai.cn update amber小鑫
@@ -115,6 +116,7 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 22:37:08] [urlrule] sites weipai.cn update hhaskydhjjffjk
     * [2015/01/13 22:22:18] [urlrule] sites weipai.cn update dj-vivi
     * [2015/01/13 22:22:15] [urlrule] sites weipai.cn update crystal尚
     * [2015/01/13 22:22:13] [urlrule] sites weipai.cn update coco小姐
