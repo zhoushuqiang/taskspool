@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Monika1991
+
+    * Begin : 2015/01/13 15:09:55
+    * End   : 2015/01/13 15:13:00
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Miya_妈咪
 
     * Begin : 2015/01/13 15:09:33
