@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 02:52:00] [urlrule] sites weipai.cn update 圈圈圈圈圈儿
     * [2015/01/14 02:51:06] [urlrule] sites weipai.cn update 国际潘
     * [2015/01/14 02:44:13] [urlrule] sites weipai.cn update 因为爱所以爱20141029
     * [2015/01/14 02:42:36] [urlrule] sites weipai.cn update 嘉欣小星星
