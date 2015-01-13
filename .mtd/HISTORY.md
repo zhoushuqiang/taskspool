@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update _張丹丹
+
+    * Begin : 2015/01/13 21:43:42
+    * End   : 2015/01/13 21:45:06
+    * Result: OK
+
+* [urlrule] sites weipai.cn update _娜娜
+
+    * Begin : 2015/01/13 21:43:39
+    * End   : 2015/01/13 21:43:40
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update _刘爷
 
     * Begin : 2015/01/13 21:43:11
