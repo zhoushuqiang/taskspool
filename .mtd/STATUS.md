@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 01:13:25] [urlrule] sites weipai.cn update 刘培雨雨小熊
     * [2015/01/14 01:12:00] [urlrule] sites weipai.cn update 冷美人1
     * [2015/01/14 01:10:55] [urlrule] sites weipai.cn update 冯猫儿的猫
     * [2015/01/14 01:10:25] [urlrule] sites weipai.cn update 内涵湿姐
@@ -160,6 +161,7 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/14 01:12:12] [urlrule] sites weipai.cn update 冷美人1
     * [2015/01/14 01:09:30] [urlrule] sites vlook.cn update 兮颜SSS
     * [2015/01/14 01:09:24] [urlrule] sites weipai.cn update 光头-狠强
     * [2015/01/14 01:09:22] [urlrule] sites weipai.cn update 做个man的小女人
