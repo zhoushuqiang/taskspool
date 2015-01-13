@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 02:58:28] [urlrule] sites weipai.cn update 大朴朴
     * [2015/01/14 02:58:07] [urlrule] sites weipai.cn update 大木木彡
     * [2015/01/14 02:57:11] [urlrule] sites weipai.cn update 大妞范经纪人满林
     * [2015/01/14 02:56:12] [urlrule] sites weipai.cn update 大国GEE
