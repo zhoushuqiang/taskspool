@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 00:24:33] [urlrule] sites weipai.cn update 于安朵
     * [2015/01/14 00:18:11] [urlrule] sites weipai.cn update 乱搞砖家
     * [2015/01/14 00:17:45] [urlrule] sites weipai.cn update 九尾狐-官晓双
     * [2015/01/14 00:15:01] [urlrule] sites weipai.cn update 乔宝宝i

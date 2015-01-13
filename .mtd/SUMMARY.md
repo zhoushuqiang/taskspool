@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 于安朵
+
+    * Begin : 2015/01/14 00:18:24
+    * End   : 2015/01/14 00:24:33
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 乱搞砖家
 
     * Begin : 2015/01/14 00:17:57
