@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 内涵姐姐
+
+    * Begin : 2015/01/14 01:09:32
+    * End   : 2015/01/14 01:09:49
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 兮颜SSS
+
+    * Begin : 2015/01/14 01:09:26
+    * End   : 2015/01/14 01:09:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 光头-狠强
+
+    * Begin : 2015/01/14 01:09:23
+    * End   : 2015/01/14 01:09:24
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 做个man的小女人
+
+    * Begin : 2015/01/14 01:09:20
+    * End   : 2015/01/14 01:09:22
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 倩倩baby
 
     * Begin : 2015/01/14 00:53:07

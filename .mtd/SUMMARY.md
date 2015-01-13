@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 内涵姐姐
+
+    * Begin : 2015/01/14 01:09:32
+    * End   : 2015/01/14 01:09:49
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 倩倩baby
 
     * Begin : 2015/01/14 00:53:07

@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 01:09:49] [urlrule] sites weipai.cn update 内涵姐姐
     * [2015/01/14 01:09:08] [urlrule] sites weipai.cn update 倩倩baby
     * [2015/01/14 00:52:44] [urlrule] sites weipai.cn update 何佳琪baby
     * [2015/01/14 00:33:10] [urlrule] sites weipai.cn update 优优Baby
@@ -156,6 +157,9 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/14 01:09:30] [urlrule] sites vlook.cn update 兮颜SSS
+    * [2015/01/14 01:09:24] [urlrule] sites weipai.cn update 光头-狠强
+    * [2015/01/14 01:09:22] [urlrule] sites weipai.cn update 做个man的小女人
     * [2015/01/14 00:53:06] [urlrule] sites weipai.cn update 依林20140930
     * [2015/01/14 00:53:03] [urlrule] sites weipai.cn update 佳佳
     * [2015/01/14 00:53:00] [urlrule] sites weipai.cn update 你懂我么小娘
