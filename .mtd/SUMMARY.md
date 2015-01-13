@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 台灣出產-蜜卡妹子
+
+    * Begin : 2015/01/14 02:04:29
+    * End   : 2015/01/14 02:10:24
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 可爱娃娃性感辣妈
 
     * Begin : 2015/01/14 02:01:20

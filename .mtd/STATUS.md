@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 02:10:24] [urlrule] sites weipai.cn update 台灣出產-蜜卡妹子
     * [2015/01/14 02:04:19] [urlrule] sites weipai.cn update 可爱娃娃性感辣妈
     * [2015/01/14 02:01:08] [urlrule] sites weipai.cn update 可是我叫__Zll
     * [2015/01/14 01:59:08] [urlrule] sites weipai.cn update 叫我超哥
