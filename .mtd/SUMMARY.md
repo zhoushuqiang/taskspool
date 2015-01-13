@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 仙女大人
+
+    * Begin : 2015/01/14 00:30:32
+    * End   : 2015/01/14 00:30:41
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 亦欢欢
 
     * Begin : 2015/01/14 00:24:49

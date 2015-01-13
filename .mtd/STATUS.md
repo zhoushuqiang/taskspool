@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 00:30:41] [urlrule] sites weipai.cn update 仙女大人
     * [2015/01/14 00:30:15] [urlrule] sites weipai.cn update 亦欢欢
     * [2015/01/14 00:24:33] [urlrule] sites weipai.cn update 于安朵
     * [2015/01/14 00:18:11] [urlrule] sites weipai.cn update 乱搞砖家
@@ -150,6 +151,8 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/14 00:30:30] [urlrule] sites weipai.cn update 他不懂我的xin
+    * [2015/01/14 00:30:28] [urlrule] sites weipai.cn update 亿艾儿-baby
     * [2015/01/14 00:24:48] [urlrule] sites weipai.cn update 于小慧
     * [2015/01/14 00:00:04] [urlrule] sites weipai.cn update 丽嫂zyk
     * [2015/01/13 23:59:34] [urlrule] sites weipai.cn update 两只小蜜蜂丫

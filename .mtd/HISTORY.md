@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 仙女大人
+
+    * Begin : 2015/01/14 00:30:32
+    * End   : 2015/01/14 00:30:41
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 他不懂我的xin
+
+    * Begin : 2015/01/14 00:30:29
+    * End   : 2015/01/14 00:30:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 亿艾儿-baby
+
+    * Begin : 2015/01/14 00:30:26
+    * End   : 2015/01/14 00:30:28
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 亦欢欢
 
     * Begin : 2015/01/14 00:24:49
