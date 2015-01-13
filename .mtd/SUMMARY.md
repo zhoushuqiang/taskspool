@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 内涵湿姐
+
+    * Begin : 2015/01/14 01:09:59
+    * End   : 2015/01/14 01:10:25
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 内涵姐姐
 
     * Begin : 2015/01/14 01:09:32
