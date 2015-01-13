@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 冯猫儿的猫
+
+    * Begin : 2015/01/14 01:10:36
+    * End   : 2015/01/14 01:10:55
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 内涵湿姐
 
     * Begin : 2015/01/14 01:09:59
