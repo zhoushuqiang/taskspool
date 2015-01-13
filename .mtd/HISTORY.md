@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 九尾狐-官晓双
+
+    * Begin : 2015/01/14 00:15:13
+    * End   : 2015/01/14 00:17:45
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 乔宝宝i
 
     * Begin : 2015/01/14 00:04:25
