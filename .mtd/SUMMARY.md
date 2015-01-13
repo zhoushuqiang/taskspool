@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update miss吴
+
+    * Begin : 2015/01/13 23:03:24
+    * End   : 2015/01/13 23:03:33
+    * Result: OK
+
 * [urlrule] sites weipai.cn update miki夫人
 
     * Begin : 2015/01/13 22:52:50
