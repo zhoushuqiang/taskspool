@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 前任攻略
+
+    * Begin : 2015/01/14 01:32:41
+    * End   : 2015/01/14 01:34:39
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 初家小雪
+
+    * Begin : 2015/01/14 01:32:38
+    * End   : 2015/01/14 01:32:39
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 刘韩依HY
 
     * Begin : 2015/01/14 01:23:01
