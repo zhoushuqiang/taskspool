@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 01:59:08] [urlrule] sites weipai.cn update 叫我超哥
     * [2015/01/14 01:54:54] [urlrule] sites weipai.cn update 叫丽媽咪
     * [2015/01/14 01:51:27] [urlrule] sites weipai.cn update 古小丽Lily
     * [2015/01/14 01:50:19] [urlrule] sites weipai.cn update 友熙酱

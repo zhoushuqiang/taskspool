@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 叫我超哥
+
+    * Begin : 2015/01/14 01:55:06
+    * End   : 2015/01/14 01:59:08
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 叫丽媽咪
 
     * Begin : 2015/01/14 01:51:37
