@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update tina晨曦
+
+    * Begin : 2015/01/13 23:12:01
+    * End   : 2015/01/13 23:12:23
+    * Result: OK
+
 * [urlrule] sites weipai.cn update summer糖糖
 
     * Begin : 2015/01/13 23:11:31
