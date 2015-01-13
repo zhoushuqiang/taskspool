@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 刘韩依HY
+
+    * Begin : 2015/01/14 01:23:01
+    * End   : 2015/01/14 01:32:27
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 刘雯雯darling
+
+    * Begin : 2015/01/14 01:22:58
+    * End   : 2015/01/14 01:22:59
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 刘诗涵
+
+    * Begin : 2015/01/14 01:22:56
+    * End   : 2015/01/14 01:22:57
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 刘苏漫
 
     * Begin : 2015/01/14 01:20:20
