@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Zz贞
+
+    * Begin : 2015/01/13 20:44:39
+    * End   : 2015/01/13 20:59:37
+    * Result: OK
+
 * [urlrule] sites weipai.cn update ZeroDis
 
     * Begin : 2015/01/13 20:43:45

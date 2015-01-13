@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 20:59:37] [urlrule] sites weipai.cn update Zz贞
     * [2015/01/13 20:44:27] [urlrule] sites weipai.cn update ZeroDis
     * [2015/01/13 20:43:28] [urlrule] sites weipai.cn update V信qxs95002
     * [2015/01/13 20:39:33] [urlrule] sites weipai.cn update Theonlylove
