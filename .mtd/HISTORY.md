@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 优优Baby
+
+    * Begin : 2015/01/14 00:33:01
+    * End   : 2015/01/14 00:33:10
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 以我之名祭你风华初成
 
     * Begin : 2015/01/14 00:31:24
