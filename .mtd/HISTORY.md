@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update Miya_妈咪
+
+    * Begin : 2015/01/13 15:09:33
+    * End   : 2015/01/13 15:09:45
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Miranda-Kerr
+
+    * Begin : 2015/01/13 15:09:31
+    * End   : 2015/01/13 15:09:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Mia丫丫C
+
+    * Begin : 2015/01/13 15:09:28
+    * End   : 2015/01/13 15:09:29
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Miao雪
 
     * Begin : 2015/01/13 15:08:20
