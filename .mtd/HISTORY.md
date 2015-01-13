@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update LLLL-喵喵
+
+    * Begin : 2015/01/13 15:00:17
+    * End   : 2015/01/13 15:00:34
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Kiki_雅琪
+
+    * Begin : 2015/01/13 15:00:14
+    * End   : 2015/01/13 15:00:15
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Katherine陳佳妮
+
+    * Begin : 2015/01/13 15:00:09
+    * End   : 2015/01/13 15:00:13
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update J小姐20140401
 
     * Begin : 2015/01/13 14:58:26
