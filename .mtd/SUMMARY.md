@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update soso蕊
+
+    * Begin : 2015/01/13 23:08:50
+    * End   : 2015/01/13 23:09:59
+    * Result: OK
+
 * [urlrule] sites weipai.cn update sachiBabyJ
 
     * Begin : 2015/01/13 23:07:57

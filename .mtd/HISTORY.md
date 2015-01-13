@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update soso蕊
+
+    * Begin : 2015/01/13 23:08:50
+    * End   : 2015/01/13 23:09:59
+    * Result: OK
+
+* [urlrule] sites vlook.cn update Toughgirl
+
+    * Begin : 2015/01/13 23:08:44
+    * End   : 2015/01/13 23:08:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update singer-sherencat
+
+    * Begin : 2015/01/13 23:08:42
+    * End   : 2015/01/13 23:08:43
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update shoujigujun1680
+
+    * Begin : 2015/01/13 23:08:37
+    * End   : 2015/01/13 23:08:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update sack莎莎
+
+    * Begin : 2015/01/13 23:08:34
+    * End   : 2015/01/13 23:08:35
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update sachiBabyJ
 
     * Begin : 2015/01/13 23:07:57
