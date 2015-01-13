@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update PAPAGAO-
+
+    * Begin : 2015/01/13 19:25:09
+    * End   : 2015/01/13 19:25:30
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Never沛妮
 
     * Begin : 2015/01/13 19:15:09
