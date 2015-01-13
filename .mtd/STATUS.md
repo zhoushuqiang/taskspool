@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 14:49:25] [urlrule] sites weipai.cn update Dj_kelly
     * [2015/01/13 14:46:08] [urlrule] sites weipai.cn update DjTina
     * [2015/01/13 14:42:44] [urlrule] sites weipai.cn update Diva_狄娃
     * [2015/01/13 11:22:12] [urlrule] sites weipai.cn update Despair-假寐

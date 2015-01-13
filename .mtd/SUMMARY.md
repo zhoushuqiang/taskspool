@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Dj_kelly
+
+    * Begin : 2015/01/13 14:46:19
+    * End   : 2015/01/13 14:49:25
+    * Result: OK
+
 * [urlrule] sites weipai.cn update DjTina
 
     * Begin : 2015/01/13 14:42:55
