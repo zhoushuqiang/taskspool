@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 02:54:45] [urlrule] sites weipai.cn update 多多lgh
     * [2015/01/14 02:54:04] [urlrule] sites weipai.cn update 夕夕Y
     * [2015/01/14 02:52:41] [urlrule] sites weipai.cn update 夏凉宸Ala
     * [2015/01/14 02:52:00] [urlrule] sites weipai.cn update 圈圈圈圈圈儿
