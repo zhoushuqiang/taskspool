@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 丝绸裹着性感
+
+    * Begin : 2015/01/13 23:50:32
+    * End   : 2015/01/13 23:59:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 丝绸裹着性感2
 
     * Begin : 2015/01/13 23:28:00
