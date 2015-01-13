@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 03:00:37] [urlrule] sites weipai.cn update 大美露
     * [2015/01/14 02:58:28] [urlrule] sites weipai.cn update 大朴朴
     * [2015/01/14 02:58:07] [urlrule] sites weipai.cn update 大木木彡
     * [2015/01/14 02:57:11] [urlrule] sites weipai.cn update 大妞范经纪人满林
@@ -198,6 +199,7 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/14 02:58:40] [urlrule] sites weipai.cn update 大牙大牙大雅莉
     * [2015/01/14 02:57:27] [urlrule] sites weipai.cn update 大拿MM
     * [2015/01/14 02:56:26] [urlrule] sites weipai.cn update 大妞范慧子
     * [2015/01/14 02:56:23] [urlrule] sites weipai.cn update 大妞范
