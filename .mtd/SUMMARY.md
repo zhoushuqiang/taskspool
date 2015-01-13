@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update 蒙丽伊
+
+    * Begin : 2015/01/13 08:00:13
+    * End   : 2015/01/13 08:00:49
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 芮涵Annabelle
 
     * Begin : 2015/01/13 07:57:10
