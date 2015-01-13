@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update SaSaking
+
+    * Begin : 2015/01/13 19:30:07
+    * End   : 2015/01/13 19:30:44
+    * Result: OK
+
 * [urlrule] sites weipai.cn update ROSSY
 
     * Begin : 2015/01/13 19:27:44

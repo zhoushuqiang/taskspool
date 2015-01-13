@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update SaSaking
+
+    * Begin : 2015/01/13 19:30:07
+    * End   : 2015/01/13 19:30:44
+    * Result: OK
+
+* [urlrule] sites weipai.cn update SARA-614
+
+    * Begin : 2015/01/13 19:30:04
+    * End   : 2015/01/13 19:30:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Reggae胶囊
+
+    * Begin : 2015/01/13 19:30:02
+    * End   : 2015/01/13 19:30:03
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update RanOrignal
+
+    * Begin : 2015/01/13 19:29:57
+    * End   : 2015/01/13 19:30:01
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update ROSSY
 
     * Begin : 2015/01/13 19:27:44

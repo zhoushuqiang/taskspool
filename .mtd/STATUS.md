@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 19:30:44] [urlrule] sites weipai.cn update SaSaking
     * [2015/01/13 19:29:46] [urlrule] sites weipai.cn update ROSSY
     * [2015/01/13 19:27:31] [urlrule] sites weipai.cn update Queen-婷婷
     * [2015/01/13 19:25:30] [urlrule] sites weipai.cn update PAPAGAO-
@@ -93,6 +94,9 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 19:30:06] [urlrule] sites weipai.cn update SARA-614
+    * [2015/01/13 19:30:03] [urlrule] sites weipai.cn update Reggae胶囊
+    * [2015/01/13 19:30:01] [urlrule] sites vlook.cn update RanOrignal
     * [2015/01/13 19:27:43] [urlrule] sites weipai.cn update RAE-瑞儿
     * [2015/01/13 19:25:45] [urlrule] sites vlook.cn update Q1335467161
     * [2015/01/13 15:13:14] [urlrule] sites vlook.cn update Ms琳
