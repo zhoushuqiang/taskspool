@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 周泊霖cutey
+
+    * Begin : 2015/01/14 02:35:16
+    * End   : 2015/01/14 02:35:59
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 周月月
+
+    * Begin : 2015/01/14 02:35:13
+    * End   : 2015/01/14 02:35:14
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 周OK
 
     * Begin : 2015/01/14 02:33:13
