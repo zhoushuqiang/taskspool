@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 02:42:36] [urlrule] sites weipai.cn update 嘉欣小星星
     * [2015/01/14 02:37:34] [urlrule] sites weipai.cn update 嘉昕
     * [2015/01/14 02:36:46] [urlrule] sites weipai.cn update 咪-Queen
     * [2015/01/14 02:35:59] [urlrule] sites weipai.cn update 周泊霖cutey

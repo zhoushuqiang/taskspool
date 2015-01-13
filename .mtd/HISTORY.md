@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 嘉欣小星星
+
+    * Begin : 2015/01/14 02:37:44
+    * End   : 2015/01/14 02:42:36
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 嘉昕
 
     * Begin : 2015/01/14 02:37:10
