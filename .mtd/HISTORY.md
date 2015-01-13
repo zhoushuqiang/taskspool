@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Diva_狄娃
+
+    * Begin : 2015/01/13 11:22:22
+    * End   : 2015/01/13 14:42:44
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Despair-假寐
 
     * Begin : 2015/01/13 11:17:56
