@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update baby蜜儿
+
+    * Begin : 2015/01/13 22:21:06
+    * End   : 2015/01/13 22:21:51
+    * Result: OK
+
 * [urlrule] sites weipai.cn update amber小鑫
 
     * Begin : 2015/01/13 22:03:44

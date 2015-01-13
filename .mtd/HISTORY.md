@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update baby蜜儿
+
+    * Begin : 2015/01/13 22:21:06
+    * End   : 2015/01/13 22:21:51
+    * Result: OK
+
+* [urlrule] sites weipai.cn update baby彩霞
+
+    * Begin : 2015/01/13 22:21:03
+    * End   : 2015/01/13 22:21:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update baby小菲
+
+    * Begin : 2015/01/13 22:21:01
+    * End   : 2015/01/13 22:21:02
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update a小狐狸520
+
+    * Begin : 2015/01/13 22:20:58
+    * End   : 2015/01/13 22:20:59
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update angela允娜
+
+    * Begin : 2015/01/13 22:20:53
+    * End   : 2015/01/13 22:20:57
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update amber小鑫
 
     * Begin : 2015/01/13 22:03:44
