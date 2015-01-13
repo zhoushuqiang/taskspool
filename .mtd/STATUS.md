@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 23:07:15] [urlrule] sites weipai.cn update pengfang
     * [2015/01/13 23:06:51] [urlrule] sites weipai.cn update pandora莉莉
     * [2015/01/13 23:06:09] [urlrule] sites weipai.cn update oliviababy
     * [2015/01/13 23:03:33] [urlrule] sites weipai.cn update miss吴

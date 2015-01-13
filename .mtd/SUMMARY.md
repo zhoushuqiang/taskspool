@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update pengfang
+
+    * Begin : 2015/01/13 23:07:02
+    * End   : 2015/01/13 23:07:15
+    * Result: OK
+
 * [urlrule] sites weipai.cn update pandora莉莉
 
     * Begin : 2015/01/13 23:06:20
