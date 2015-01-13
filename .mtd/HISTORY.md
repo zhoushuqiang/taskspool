@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 夏凉宸Ala
+
+    * Begin : 2015/01/14 02:52:24
+    * End   : 2015/01/14 02:52:41
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 夏baby小花
+
+    * Begin : 2015/01/14 02:52:18
+    * End   : 2015/01/14 02:52:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 夏baby小花
+
+    * Begin : 2015/01/14 02:52:16
+    * End   : 2015/01/14 02:52:17
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 坎蒂斯小姐
+
+    * Begin : 2015/01/14 02:52:13
+    * End   : 2015/01/14 02:52:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 地表最強-高潮製造機
+
+    * Begin : 2015/01/14 02:52:11
+    * End   : 2015/01/14 02:52:12
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 圈圈圈圈圈儿
 
     * Begin : 2015/01/14 02:51:18

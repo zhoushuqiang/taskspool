@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 02:52:41] [urlrule] sites weipai.cn update 夏凉宸Ala
     * [2015/01/14 02:52:00] [urlrule] sites weipai.cn update 圈圈圈圈圈儿
     * [2015/01/14 02:51:06] [urlrule] sites weipai.cn update 国际潘
     * [2015/01/14 02:44:13] [urlrule] sites weipai.cn update 因为爱所以爱20141029
@@ -191,6 +192,10 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/14 02:52:23] [urlrule] sites vlook.cn update 夏baby小花
+    * [2015/01/14 02:52:17] [urlrule] sites weipai.cn update 夏baby小花
+    * [2015/01/14 02:52:14] [urlrule] sites weipai.cn update 坎蒂斯小姐
+    * [2015/01/14 02:52:12] [urlrule] sites weipai.cn update 地表最強-高潮製造機
     * [2015/01/14 02:42:50] [urlrule] sites weipai.cn update 四爷Siri
     * [2015/01/14 02:42:48] [urlrule] sites weipai.cn update 嘟嘟女士
     * [2015/01/14 02:37:09] [urlrule] sites weipai.cn update 唐馨baby
