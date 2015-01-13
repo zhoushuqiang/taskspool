@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Sonwy_
+
+    * Begin : 2015/01/13 19:38:58
+    * End   : 2015/01/13 19:41:20
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Slri青儿
 
     * Begin : 2015/01/13 19:32:56

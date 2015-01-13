@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update Sonwy_
+
+    * Begin : 2015/01/13 19:38:58
+    * End   : 2015/01/13 19:41:20
+    * Result: OK
+
+* [urlrule] sites vlook.cn update Song修
+
+    * Begin : 2015/01/13 19:38:53
+    * End   : 2015/01/13 19:38:56
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update SlyVIcky
+
+    * Begin : 2015/01/13 19:38:47
+    * End   : 2015/01/13 19:38:51
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Slri青儿
 
     * Begin : 2015/01/13 19:32:56
