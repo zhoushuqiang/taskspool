@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update forgetlethe
+
+    * Begin : 2015/01/13 22:22:19
+    * End   : 2015/01/13 22:36:56
+    * Result: OK
+
 * [urlrule] sites weipai.cn update baby蜜儿
 
     * Begin : 2015/01/13 22:21:06

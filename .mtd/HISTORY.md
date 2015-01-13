@@ -1,3 +1,51 @@
+* [urlrule] sites weipai.cn update forgetlethe
+
+    * Begin : 2015/01/13 22:22:19
+    * End   : 2015/01/13 22:36:56
+    * Result: OK
+
+* [urlrule] sites weipai.cn update dj-vivi
+
+    * Begin : 2015/01/13 22:22:17
+    * End   : 2015/01/13 22:22:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update crystal尚
+
+    * Begin : 2015/01/13 22:22:14
+    * End   : 2015/01/13 22:22:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update coco小姐
+
+    * Begin : 2015/01/13 22:22:12
+    * End   : 2015/01/13 22:22:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update bobobobobo
+
+    * Begin : 2015/01/13 22:22:09
+    * End   : 2015/01/13 22:22:10
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update bobao
+
+    * Begin : 2015/01/13 22:22:07
+    * End   : 2015/01/13 22:22:08
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update beautyrella
+
+    * Begin : 2015/01/13 22:22:04
+    * End   : 2015/01/13 22:22:05
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update ba女i
+
+    * Begin : 2015/01/13 22:22:02
+    * End   : 2015/01/13 22:22:03
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update baby蜜儿
 
     * Begin : 2015/01/13 22:21:06
