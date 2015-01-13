@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 周OK
+
+    * Begin : 2015/01/14 02:33:13
+    * End   : 2015/01/14 02:35:02
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 呗呗兔
 
     * Begin : 2015/01/14 02:25:52
