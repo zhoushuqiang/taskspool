@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 丁丁丁丁丁小宝
+
+    * Begin : 2015/01/13 23:26:20
+    * End   : 2015/01/13 23:26:33
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 丁丁lris
+
+    * Begin : 2015/01/13 23:26:17
+    * End   : 2015/01/13 23:26:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 一生热爱回头太难
+
+    * Begin : 2015/01/13 23:26:15
+    * End   : 2015/01/13 23:26:16
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update zz蘑菇小象zz
+
+    * Begin : 2015/01/13 23:26:12
+    * End   : 2015/01/13 23:26:13
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update y依凌小姐
 
     * Begin : 2015/01/13 23:22:46
