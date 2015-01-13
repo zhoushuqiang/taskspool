@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 嘉昕
+
+    * Begin : 2015/01/14 02:37:10
+    * End   : 2015/01/14 02:37:34
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 咪-Queen
 
     * Begin : 2015/01/14 02:36:13

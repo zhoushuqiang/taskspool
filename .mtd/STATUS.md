@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 02:37:34] [urlrule] sites weipai.cn update 嘉昕
     * [2015/01/14 02:36:46] [urlrule] sites weipai.cn update 咪-Queen
     * [2015/01/14 02:35:59] [urlrule] sites weipai.cn update 周泊霖cutey
     * [2015/01/14 02:35:02] [urlrule] sites weipai.cn update 周OK
@@ -186,6 +187,10 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/14 02:37:09] [urlrule] sites weipai.cn update 唐馨baby
+    * [2015/01/14 02:37:06] [urlrule] sites weipai.cn update 响姐----
+    * [2015/01/14 02:37:04] [urlrule] sites weipai.cn update 哈力牛仔
+    * [2015/01/14 02:37:01] [urlrule] sites vlook.cn update 咪咪宝贝爱爱
     * [2015/01/14 02:36:11] [urlrule] sites weipai.cn update 周珊珊shine
     * [2015/01/14 02:35:14] [urlrule] sites weipai.cn update 周月月
     * [2015/01/14 02:25:51] [urlrule] sites weipai.cn update 吴雨晴
