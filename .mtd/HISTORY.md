@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update Queen-婷婷
+
+    * Begin : 2015/01/13 19:25:46
+    * End   : 2015/01/13 19:27:31
+    * Result: OK
+
+* [urlrule] sites vlook.cn update Q1335467161
+
+    * Begin : 2015/01/13 19:25:40
+    * End   : 2015/01/13 19:25:45
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update PAPAGAO-
 
     * Begin : 2015/01/13 19:25:09

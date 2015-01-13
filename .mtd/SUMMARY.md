@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Queen-婷婷
+
+    * Begin : 2015/01/13 19:25:46
+    * End   : 2015/01/13 19:27:31
+    * Result: OK
+
 * [urlrule] sites weipai.cn update PAPAGAO-
 
     * Begin : 2015/01/13 19:25:09
