@@ -1,3 +1,51 @@
+* [urlrule] sites vlook.cn update 陈怡曼coco
+
+    * Begin : 2015/01/13 08:06:56
+    * End   : 2015/01/13 08:07:51
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 陈子萱vivi
+
+    * Begin : 2015/01/13 08:06:51
+    * End   : 2015/01/13 08:06:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈子萱vivi
+
+    * Begin : 2015/01/13 08:06:47
+    * End   : 2015/01/13 08:06:50
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 陈大榕
+
+    * Begin : 2015/01/13 08:06:37
+    * End   : 2015/01/13 08:06:46
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈大榕
+
+    * Begin : 2015/01/13 08:06:31
+    * End   : 2015/01/13 08:06:35
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈可鑫
+
+    * Begin : 2015/01/13 08:06:23
+    * End   : 2015/01/13 08:06:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈依萌宝贝
+
+    * Begin : 2015/01/13 08:06:18
+    * End   : 2015/01/13 08:06:22
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 陈世媄
+
+    * Begin : 2015/01/13 08:06:13
+    * End   : 2015/01/13 08:06:16
+    * Result: Nothing to do
+
 * [urlrule] sites vlook.cn update 陆晨依
 
     * Begin : 2015/01/13 08:04:58

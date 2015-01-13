@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 08:07:51] [urlrule] sites vlook.cn update 陈怡曼coco
     * [2015/01/13 08:05:50] [urlrule] sites vlook.cn update 陆晨依
     * [2015/01/13 08:00:49] [urlrule] sites vlook.cn update 蒙丽伊
     * [2015/01/13 07:57:20] [urlrule] sites vlook.cn update 芮涵Annabelle
@@ -40,6 +41,13 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 08:06:55] [urlrule] sites weipai.cn update 陈子萱vivi
+    * [2015/01/13 08:06:50] [urlrule] sites weipai.cn update 陈子萱vivi
+    * [2015/01/13 08:06:46] [urlrule] sites vlook.cn update 陈大榕
+    * [2015/01/13 08:06:35] [urlrule] sites weipai.cn update 陈大榕
+    * [2015/01/13 08:06:30] [urlrule] sites weipai.cn update 陈可鑫
+    * [2015/01/13 08:06:22] [urlrule] sites weipai.cn update 陈依萌宝贝
+    * [2015/01/13 08:06:16] [urlrule] sites weipai.cn update 陈世媄
     * [2015/01/13 08:04:57] [urlrule] sites weipai.cn update 陆晨依
     * [2015/01/13 08:04:52] [urlrule] sites weipai.cn update 阿鑫很浮躁
     * [2015/01/13 08:04:47] [urlrule] sites weipai.cn update 阿朵拉Adora

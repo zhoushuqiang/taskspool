@@ -1,3 +1,9 @@
+* [urlrule] sites vlook.cn update 陈怡曼coco
+
+    * Begin : 2015/01/13 08:06:56
+    * End   : 2015/01/13 08:07:51
+    * Result: OK
+
 * [urlrule] sites vlook.cn update 陆晨依
 
     * Begin : 2015/01/13 08:04:58
