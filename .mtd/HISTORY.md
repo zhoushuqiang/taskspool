@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update Slri青儿
+
+    * Begin : 2015/01/13 19:32:56
+    * End   : 2015/01/13 19:38:37
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Sisters
+
+    * Begin : 2015/01/13 19:32:53
+    * End   : 2015/01/13 19:32:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Sexy菲儿
+
+    * Begin : 2015/01/13 19:32:51
+    * End   : 2015/01/13 19:32:52
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Sexyyyyy美姬大人
+
+    * Begin : 2015/01/13 19:32:48
+    * End   : 2015/01/13 19:32:49
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update SexyQueen蔡妍Yan
+
+    * Begin : 2015/01/13 19:32:40
+    * End   : 2015/01/13 19:32:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update SexyQueen_蔡妍YAN归来
+
+    * Begin : 2015/01/13 19:32:37
+    * End   : 2015/01/13 19:32:38
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Sensv
 
     * Begin : 2015/01/13 19:31:59
