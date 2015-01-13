@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update S小妹
+
+    * Begin : 2015/01/13 20:34:14
+    * End   : 2015/01/13 20:35:54
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Sweet-微
 
     * Begin : 2015/01/13 20:31:55
