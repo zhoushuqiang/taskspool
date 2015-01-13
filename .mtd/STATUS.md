@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 22:03:32] [urlrule] sites weipai.cn update aling_888
     * [2015/01/13 22:02:29] [urlrule] sites weipai.cn update _穆穆
     * [2015/01/13 21:58:11] [urlrule] sites weipai.cn update _李好美
     * [2015/01/13 21:45:06] [urlrule] sites weipai.cn update _張丹丹
@@ -111,6 +112,9 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 22:02:53] [urlrule] sites vlook.cn update absppo
+    * [2015/01/13 22:02:47] [urlrule] sites weipai.cn update _金妍熙
+    * [2015/01/13 22:02:43] [urlrule] sites weipai.cn update _郑美人
     * [2015/01/13 21:43:40] [urlrule] sites weipai.cn update _娜娜
     * [2015/01/13 21:43:09] [urlrule] sites weipai.cn update __张公子
     * [2015/01/13 20:59:59] [urlrule] sites weipai.cn update __妖涅
