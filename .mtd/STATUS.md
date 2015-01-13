@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 23:06:09] [urlrule] sites weipai.cn update oliviababy
     * [2015/01/13 23:03:33] [urlrule] sites weipai.cn update miss吴
     * [2015/01/13 23:03:11] [urlrule] sites weipai.cn update miki夫人
     * [2015/01/13 22:52:33] [urlrule] sites weipai.cn update mayuko
@@ -122,6 +123,9 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 23:03:50] [urlrule] sites weipai.cn update monica_1990
+    * [2015/01/13 23:03:47] [urlrule] sites weipai.cn update mm小七
+    * [2015/01/13 23:03:44] [urlrule] sites weipai.cn update miss大蝴蝶
     * [2015/01/13 23:03:23] [urlrule] sites weipai.cn update mina桑
     * [2015/01/13 22:52:49] [urlrule] sites weipai.cn update meng-yu520
     * [2015/01/13 22:41:39] [urlrule] sites weipai.cn update li莉

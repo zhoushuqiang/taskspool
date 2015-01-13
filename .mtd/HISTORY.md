@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update oliviababy
+
+    * Begin : 2015/01/13 23:03:51
+    * End   : 2015/01/13 23:06:09
+    * Result: OK
+
+* [urlrule] sites weipai.cn update monica_1990
+
+    * Begin : 2015/01/13 23:03:49
+    * End   : 2015/01/13 23:03:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update mm小七
+
+    * Begin : 2015/01/13 23:03:46
+    * End   : 2015/01/13 23:03:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update miss大蝴蝶
+
+    * Begin : 2015/01/13 23:03:43
+    * End   : 2015/01/13 23:03:44
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update miss吴
 
     * Begin : 2015/01/13 23:03:24
