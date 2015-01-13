@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update ZeroDis
+
+    * Begin : 2015/01/13 20:43:45
+    * End   : 2015/01/13 20:44:27
+    * Result: OK
+
+* [urlrule] sites vlook.cn update Yumi小旁友
+
+    * Begin : 2015/01/13 20:43:39
+    * End   : 2015/01/13 20:43:43
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update V信qxs95002
 
     * Begin : 2015/01/13 20:40:08

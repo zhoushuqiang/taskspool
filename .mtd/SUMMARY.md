@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update ZeroDis
+
+    * Begin : 2015/01/13 20:43:45
+    * End   : 2015/01/13 20:44:27
+    * Result: OK
+
 * [urlrule] sites weipai.cn update V信qxs95002
 
     * Begin : 2015/01/13 20:40:08
