@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 00:52:44] [urlrule] sites weipai.cn update 何佳琪baby
     * [2015/01/14 00:33:10] [urlrule] sites weipai.cn update 优优Baby
     * [2015/01/14 00:32:50] [urlrule] sites weipai.cn update 以我之名祭你风华初成
     * [2015/01/14 00:31:13] [urlrule] sites weipai.cn update 仙德瑞拉_模特经纪
