@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 00:15:01] [urlrule] sites weipai.cn update 乔宝宝i
     * [2015/01/14 00:04:11] [urlrule] sites weipai.cn update 乐怡
     * [2015/01/13 23:59:50] [urlrule] sites weipai.cn update 丹梦妮ooloo
     * [2015/01/13 23:59:12] [urlrule] sites weipai.cn update 丝绸裹着性感
