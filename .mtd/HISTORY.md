@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update V信qxs95002
+
+    * Begin : 2015/01/13 20:40:08
+    * End   : 2015/01/13 20:43:28
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Vicky777777
+
+    * Begin : 2015/01/13 20:40:06
+    * End   : 2015/01/13 20:40:07
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update VV朗熙
+
+    * Begin : 2015/01/13 20:40:02
+    * End   : 2015/01/13 20:40:04
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update VK_bb
+
+    * Begin : 2015/01/13 20:39:51
+    * End   : 2015/01/13 20:40:01
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Tomyli惋柔
+
+    * Begin : 2015/01/13 20:39:48
+    * End   : 2015/01/13 20:39:50
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update TinaWong
+
+    * Begin : 2015/01/13 20:39:46
+    * End   : 2015/01/13 20:39:47
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Theonlylove
 
     * Begin : 2015/01/13 20:36:07
