@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 大妞范经纪人满林
+
+    * Begin : 2015/01/14 02:56:27
+    * End   : 2015/01/14 02:57:11
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 大妞范慧子
+
+    * Begin : 2015/01/14 02:56:25
+    * End   : 2015/01/14 02:56:26
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 大妞范
+
+    * Begin : 2015/01/14 02:56:22
+    * End   : 2015/01/14 02:56:23
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 大国GEE
 
     * Begin : 2015/01/14 02:54:56
