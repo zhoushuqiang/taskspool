@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 友熙酱
+
+    * Begin : 2015/01/14 01:49:40
+    * End   : 2015/01/14 01:50:19
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 卢灵儿
 
     * Begin : 2015/01/14 01:47:57
