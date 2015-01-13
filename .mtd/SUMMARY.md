@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 以我之名祭你风华初成
+
+    * Begin : 2015/01/14 00:31:24
+    * End   : 2015/01/14 00:32:50
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 仙德瑞拉_模特经纪
 
     * Begin : 2015/01/14 00:30:52
