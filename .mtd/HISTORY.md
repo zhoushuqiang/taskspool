@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update Ms阿婆王
+
+    * Begin : 2015/01/13 15:13:16
+    * End   : 2015/01/13 15:28:08
+    * Result: OK
+
+* [urlrule] sites vlook.cn update Ms琳
+
+    * Begin : 2015/01/13 15:13:11
+    * End   : 2015/01/13 15:13:14
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Monika1991
 
     * Begin : 2015/01/13 15:09:55
