@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 国际潘
+
+    * Begin : 2015/01/14 02:44:24
+    * End   : 2015/01/14 02:51:06
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 因为爱所以爱20141029
 
     * Begin : 2015/01/14 02:42:52

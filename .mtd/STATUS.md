@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 02:51:06] [urlrule] sites weipai.cn update 国际潘
     * [2015/01/14 02:44:13] [urlrule] sites weipai.cn update 因为爱所以爱20141029
     * [2015/01/14 02:42:36] [urlrule] sites weipai.cn update 嘉欣小星星
     * [2015/01/14 02:37:34] [urlrule] sites weipai.cn update 嘉昕
