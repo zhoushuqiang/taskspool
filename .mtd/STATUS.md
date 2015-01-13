@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 15:09:18] [urlrule] sites weipai.cn update Miao雪
     * [2015/01/13 15:07:57] [urlrule] sites weipai.cn update Lusibaby000
     * [2015/01/13 15:07:32] [urlrule] sites weipai.cn update Lulu罗小鹿
     * [2015/01/13 15:06:30] [urlrule] sites weipai.cn update Lolita4ever
@@ -84,6 +85,10 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 15:08:19] [urlrule] sites weipai.cn update Maggie李嘉麒
+    * [2015/01/13 15:08:16] [urlrule] sites weipai.cn update MISS小丝雨
+    * [2015/01/13 15:08:14] [urlrule] sites vlook.cn update MISS小丝雨
+    * [2015/01/13 15:08:08] [urlrule] sites weipai.cn update MISS小丝雨
     * [2015/01/13 15:06:45] [urlrule] sites vlook.cn update Love雞排妹
     * [2015/01/13 15:00:15] [urlrule] sites weipai.cn update Kiki_雅琪
     * [2015/01/13 15:00:13] [urlrule] sites vlook.cn update Katherine陳佳妮

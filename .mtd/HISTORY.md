@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update Miao雪
+
+    * Begin : 2015/01/13 15:08:20
+    * End   : 2015/01/13 15:09:18
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Maggie李嘉麒
+
+    * Begin : 2015/01/13 15:08:18
+    * End   : 2015/01/13 15:08:19
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update MISS小丝雨
+
+    * Begin : 2015/01/13 15:08:15
+    * End   : 2015/01/13 15:08:16
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update MISS小丝雨
+
+    * Begin : 2015/01/13 15:08:10
+    * End   : 2015/01/13 15:08:14
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update MISS小丝雨
+
+    * Begin : 2015/01/13 15:08:07
+    * End   : 2015/01/13 15:08:08
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Lusibaby000
 
     * Begin : 2015/01/13 15:07:43

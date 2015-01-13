@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Miao雪
+
+    * Begin : 2015/01/13 15:08:20
+    * End   : 2015/01/13 15:09:18
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Lusibaby000
 
     * Begin : 2015/01/13 15:07:43
