@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Sara项信
+
+    * Begin : 2015/01/13 19:31:02
+    * End   : 2015/01/13 19:31:46
+    * Result: OK
+
 * [urlrule] sites weipai.cn update SaSaking
 
     * Begin : 2015/01/13 19:30:07

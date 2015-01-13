@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update Sara项信
+
+    * Begin : 2015/01/13 19:31:02
+    * End   : 2015/01/13 19:31:46
+    * Result: OK
+
+* [urlrule] sites vlook.cn update Saber酱
+
+    * Begin : 2015/01/13 19:30:54
+    * End   : 2015/01/13 19:31:01
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update SaSaking
 
     * Begin : 2015/01/13 19:30:07
