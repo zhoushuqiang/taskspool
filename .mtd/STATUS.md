@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 02:14:47] [urlrule] sites weipai.cn update 吕夫人
     * [2015/01/14 02:12:39] [urlrule] sites weipai.cn update 叶豆豆_baby
     * [2015/01/14 02:11:58] [urlrule] sites weipai.cn update 叶子-Anna
     * [2015/01/14 02:10:24] [urlrule] sites weipai.cn update 台灣出產-蜜卡妹子
