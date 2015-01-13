@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 倩倩baby
+
+    * Begin : 2015/01/14 00:53:07
+    * End   : 2015/01/14 01:09:08
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 依林20140930
+
+    * Begin : 2015/01/14 00:53:05
+    * End   : 2015/01/14 00:53:06
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 佳佳
+
+    * Begin : 2015/01/14 00:53:02
+    * End   : 2015/01/14 00:53:03
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 你懂我么小娘
+
+    * Begin : 2015/01/14 00:52:59
+    * End   : 2015/01/14 00:53:00
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 你娜爷
+
+    * Begin : 2015/01/14 00:52:57
+    * End   : 2015/01/14 00:52:58
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 何佳琪baby
 
     * Begin : 2015/01/14 00:33:21

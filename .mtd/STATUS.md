@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 01:09:08] [urlrule] sites weipai.cn update 倩倩baby
     * [2015/01/14 00:52:44] [urlrule] sites weipai.cn update 何佳琪baby
     * [2015/01/14 00:33:10] [urlrule] sites weipai.cn update 优优Baby
     * [2015/01/14 00:32:50] [urlrule] sites weipai.cn update 以我之名祭你风华初成
@@ -155,6 +156,10 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/14 00:53:06] [urlrule] sites weipai.cn update 依林20140930
+    * [2015/01/14 00:53:03] [urlrule] sites weipai.cn update 佳佳
+    * [2015/01/14 00:53:00] [urlrule] sites weipai.cn update 你懂我么小娘
+    * [2015/01/14 00:52:58] [urlrule] sites weipai.cn update 你娜爷
     * [2015/01/14 00:30:30] [urlrule] sites weipai.cn update 他不懂我的xin
     * [2015/01/14 00:30:28] [urlrule] sites weipai.cn update 亿艾儿-baby
     * [2015/01/14 00:24:48] [urlrule] sites weipai.cn update 于小慧
