@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update DM靜兒
+
+    * Begin : 2015/01/13 11:01:10
+    * End   : 2015/01/13 11:06:54
+    * Result: OK
+
 * [urlrule] sites weipai.cn update DJ-TiMi
 
     * Begin : 2015/01/13 10:42:14
