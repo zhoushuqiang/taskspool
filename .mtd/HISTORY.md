@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 丹梦妮ooloo
+
+    * Begin : 2015/01/13 23:59:35
+    * End   : 2015/01/13 23:59:50
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 两只小蜜蜂丫
+
+    * Begin : 2015/01/13 23:59:32
+    * End   : 2015/01/13 23:59:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丝绸裹着性感福利号
+
+    * Begin : 2015/01/13 23:59:30
+    * End   : 2015/01/13 23:59:31
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 丝绸裹着性感
 
     * Begin : 2015/01/13 23:50:32
