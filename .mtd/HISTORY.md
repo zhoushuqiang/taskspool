@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update miki夫人
+
+    * Begin : 2015/01/13 22:52:50
+    * End   : 2015/01/13 23:03:11
+    * Result: OK
+
+* [urlrule] sites weipai.cn update meng-yu520
+
+    * Begin : 2015/01/13 22:52:47
+    * End   : 2015/01/13 22:52:49
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update mayuko
 
     * Begin : 2015/01/13 22:51:36
