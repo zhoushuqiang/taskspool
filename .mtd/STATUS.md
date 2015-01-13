@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 23:26:02] [urlrule] sites weipai.cn update y依凌小姐
     * [2015/01/13 23:22:30] [urlrule] sites weipai.cn update yi_sex_mei
     * [2015/01/13 23:20:32] [urlrule] sites weipai.cn update yes丶
     * [2015/01/13 23:20:10] [urlrule] sites weipai.cn update w女王a
@@ -137,6 +138,8 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 23:22:44] [urlrule] sites weipai.cn update yoyo12320141105
+    * [2015/01/13 23:22:42] [urlrule] sites weipai.cn update yiurdhe520
     * [2015/01/13 23:11:59] [urlrule] sites weipai.cn update suna2411
     * [2015/01/13 23:10:10] [urlrule] sites weipai.cn update suki_jiang
     * [2015/01/13 23:08:48] [urlrule] sites vlook.cn update Toughgirl
