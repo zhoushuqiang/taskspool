@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 14:50:34] [urlrule] sites weipai.cn update Elise谭晓彤
     * [2015/01/13 14:49:25] [urlrule] sites weipai.cn update Dj_kelly
     * [2015/01/13 14:46:08] [urlrule] sites weipai.cn update DjTina
     * [2015/01/13 14:42:44] [urlrule] sites weipai.cn update Diva_狄娃
@@ -75,6 +76,8 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 14:49:38] [urlrule] sites weipai.cn update Djkkrmx慧玲
+    * [2015/01/13 14:49:36] [urlrule] sites vlook.cn update Dj_kelly
     * [2015/01/13 11:07:05] [urlrule] sites weipai.cn update Daisy__兔
     * [2015/01/13 11:01:08] [urlrule] sites vlook.cn update DJ_Ricey
     * [2015/01/13 11:01:05] [urlrule] sites weipai.cn update DJ_Ricey

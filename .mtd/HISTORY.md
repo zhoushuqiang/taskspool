@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update Elise谭晓彤
+
+    * Begin : 2015/01/13 14:49:40
+    * End   : 2015/01/13 14:50:34
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Djkkrmx慧玲
+
+    * Begin : 2015/01/13 14:49:37
+    * End   : 2015/01/13 14:49:38
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Dj_kelly
+
+    * Begin : 2015/01/13 14:49:36
+    * End   : 2015/01/13 14:49:36
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Dj_kelly
 
     * Begin : 2015/01/13 14:46:19
