@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update sachiBabyJ
+
+    * Begin : 2015/01/13 23:07:57
+    * End   : 2015/01/13 23:08:24
+    * Result: OK
+
 * [urlrule] sites weipai.cn update penny佩佩
 
     * Begin : 2015/01/13 23:07:26

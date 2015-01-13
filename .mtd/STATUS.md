@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 23:08:24] [urlrule] sites weipai.cn update sachiBabyJ
     * [2015/01/13 23:07:39] [urlrule] sites weipai.cn update penny佩佩
     * [2015/01/13 23:07:15] [urlrule] sites weipai.cn update pengfang
     * [2015/01/13 23:06:51] [urlrule] sites weipai.cn update pandora莉莉
@@ -126,6 +127,8 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 23:07:55] [urlrule] sites vlook.cn update quanxinyue123
+    * [2015/01/13 23:07:50] [urlrule] sites weipai.cn update qinqin1995
     * [2015/01/13 23:03:50] [urlrule] sites weipai.cn update monica_1990
     * [2015/01/13 23:03:47] [urlrule] sites weipai.cn update mm小七
     * [2015/01/13 23:03:44] [urlrule] sites weipai.cn update miss大蝴蝶
