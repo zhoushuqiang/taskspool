@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 19:29:46] [urlrule] sites weipai.cn update ROSSY
     * [2015/01/13 19:27:31] [urlrule] sites weipai.cn update Queen-婷婷
     * [2015/01/13 19:25:30] [urlrule] sites weipai.cn update PAPAGAO-
     * [2015/01/13 19:24:58] [urlrule] sites weipai.cn update Never沛妮
@@ -92,6 +93,7 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 19:27:43] [urlrule] sites weipai.cn update RAE-瑞儿
     * [2015/01/13 19:25:45] [urlrule] sites vlook.cn update Q1335467161
     * [2015/01/13 15:13:14] [urlrule] sites vlook.cn update Ms琳
     * [2015/01/13 15:09:32] [urlrule] sites weipai.cn update Miranda-Kerr

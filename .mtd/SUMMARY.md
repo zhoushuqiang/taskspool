@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update ROSSY
+
+    * Begin : 2015/01/13 19:27:44
+    * End   : 2015/01/13 19:29:46
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Queen-婷婷
 
     * Begin : 2015/01/13 19:25:46
