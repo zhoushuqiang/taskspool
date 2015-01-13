@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Crystal欣
+
+    * Begin : 2015/01/13 10:35:56
+    * End   : 2015/01/13 10:41:54
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2015/01/13 10:30:10
