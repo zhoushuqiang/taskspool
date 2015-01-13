@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update amber小鑫
+
+    * Begin : 2015/01/13 22:03:44
+    * End   : 2015/01/13 22:20:42
+    * Result: OK
+
 * [urlrule] sites weipai.cn update aling_888
 
     * Begin : 2015/01/13 22:02:54
