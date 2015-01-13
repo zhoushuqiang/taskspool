@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update summer糖糖
+
+    * Begin : 2015/01/13 23:11:31
+    * End   : 2015/01/13 23:11:47
+    * Result: OK
+
 * [urlrule] sites weipai.cn update sukiyoyo001
 
     * Begin : 2015/01/13 23:10:12

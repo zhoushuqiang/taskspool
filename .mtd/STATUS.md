@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 23:11:47] [urlrule] sites weipai.cn update summer糖糖
     * [2015/01/13 23:11:20] [urlrule] sites weipai.cn update sukiyoyo001
     * [2015/01/13 23:09:59] [urlrule] sites weipai.cn update soso蕊
     * [2015/01/13 23:08:24] [urlrule] sites weipai.cn update sachiBabyJ
