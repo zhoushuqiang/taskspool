@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 夕夕Y
+
+    * Begin : 2015/01/14 02:52:56
+    * End   : 2015/01/14 02:54:04
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 夏美熙泽
+
+    * Begin : 2015/01/14 02:52:54
+    * End   : 2015/01/14 02:52:55
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 夏婉婉Bonnie
+
+    * Begin : 2015/01/14 02:52:51
+    * End   : 2015/01/14 02:52:52
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 夏凉宸Ala
 
     * Begin : 2015/01/14 02:52:24
