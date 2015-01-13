@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 大国GEE
+
+    * Begin : 2015/01/14 02:54:56
+    * End   : 2015/01/14 02:56:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 多多lgh
 
     * Begin : 2015/01/14 02:54:15
