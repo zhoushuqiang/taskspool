@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 15:06:30] [urlrule] sites weipai.cn update Lolita4ever
     * [2015/01/13 15:00:34] [urlrule] sites weipai.cn update LLLL-喵喵
     * [2015/01/13 14:59:59] [urlrule] sites weipai.cn update J小姐20140401
     * [2015/01/13 14:58:11] [urlrule] sites weipai.cn update Jun20141205

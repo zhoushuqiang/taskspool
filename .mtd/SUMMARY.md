@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Lolita4ever
+
+    * Begin : 2015/01/13 15:00:44
+    * End   : 2015/01/13 15:06:30
+    * Result: OK
+
 * [urlrule] sites weipai.cn update LLLL-喵喵
 
     * Begin : 2015/01/13 15:00:17
