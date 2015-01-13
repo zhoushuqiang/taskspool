@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update pandora莉莉
+
+    * Begin : 2015/01/13 23:06:20
+    * End   : 2015/01/13 23:06:51
+    * Result: OK
+
 * [urlrule] sites weipai.cn update oliviababy
 
     * Begin : 2015/01/13 23:03:51
