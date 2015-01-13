@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update vk_bb
+
+    * Begin : 2015/01/13 23:17:44
+    * End   : 2015/01/13 23:18:35
+    * Result: OK
+
 * [urlrule] sites weipai.cn update vamipre小妖
 
     * Begin : 2015/01/13 23:12:46
