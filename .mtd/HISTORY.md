@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Fox_00
+
+    * Begin : 2015/01/13 14:51:32
+    * End   : 2015/01/13 14:55:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Fiy
 
     * Begin : 2015/01/13 14:50:55
