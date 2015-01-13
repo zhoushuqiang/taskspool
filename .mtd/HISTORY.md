@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update Dance小宝
+
+    * Begin : 2015/01/13 11:07:06
+    * End   : 2015/01/13 11:17:44
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Daisy__兔
+
+    * Begin : 2015/01/13 11:07:04
+    * End   : 2015/01/13 11:07:05
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update DM靜兒
 
     * Begin : 2015/01/13 11:01:10
