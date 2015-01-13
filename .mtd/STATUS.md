@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 02:25:34] [urlrule] sites weipai.cn update 吴美昕Yumi
     * [2015/01/14 02:24:02] [urlrule] sites weipai.cn update 吴晴Kate
     * [2015/01/14 02:21:49] [urlrule] sites weipai.cn update 吴婉婷
     * [2015/01/14 02:14:47] [urlrule] sites weipai.cn update 吕夫人
@@ -181,6 +182,7 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/14 02:24:18] [urlrule] sites weipai.cn update 吴红珊
     * [2015/01/14 01:59:21] [urlrule] sites weipai.cn update 可儿可儿
     * [2015/01/14 01:50:38] [urlrule] sites vlook.cn update 友熙酱
     * [2015/01/14 01:49:38] [urlrule] sites weipai.cn update 卢秋桐
