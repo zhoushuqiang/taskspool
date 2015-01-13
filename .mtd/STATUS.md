@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 20:34:03] [urlrule] sites weipai.cn update Sweet-微
     * [2015/01/13 20:31:40] [urlrule] sites weipai.cn update SpookyG
     * [2015/01/13 20:24:24] [urlrule] sites weipai.cn update Sooki莹莹孙
     * [2015/01/13 19:41:20] [urlrule] sites weipai.cn update Sonwy_
@@ -100,6 +101,7 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 20:31:54] [urlrule] sites weipai.cn update Suki_M
     * [2015/01/13 19:38:56] [urlrule] sites vlook.cn update Song修
     * [2015/01/13 19:38:51] [urlrule] sites vlook.cn update SlyVIcky
     * [2015/01/13 19:32:55] [urlrule] sites weipai.cn update Sisters
