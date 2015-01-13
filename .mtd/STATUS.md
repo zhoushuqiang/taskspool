@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 11:00:49] [urlrule] sites weipai.cn update DJ-TiMi
     * [2015/01/13 10:41:54] [urlrule] sites weipai.cn update Crystal欣
     * [2015/01/13 10:30:16] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2015/01/13 10:29:52] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
@@ -68,6 +69,10 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/13 10:42:13] [urlrule] sites vlook.cn update DJ-CC
+    * [2015/01/13 10:42:11] [urlrule] sites weipai.cn update DJ-CC
+    * [2015/01/13 10:42:09] [urlrule] sites weipai.cn update C希人
+    * [2015/01/13 10:42:06] [urlrule] sites weipai.cn update C小宝宝
     * [2015/01/13 10:35:55] [urlrule] sites weipai.cn update CoCo_安妮
     * [2015/01/13 10:35:50] [urlrule] sites vlook.cn update Christine黄可
     * [2015/01/13 10:35:42] [urlrule] sites weipai.cn update Christine黄可

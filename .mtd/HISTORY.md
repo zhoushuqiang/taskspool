@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update DJ-TiMi
+
+    * Begin : 2015/01/13 10:42:14
+    * End   : 2015/01/13 11:00:49
+    * Result: OK
+
+* [urlrule] sites vlook.cn update DJ-CC
+
+    * Begin : 2015/01/13 10:42:13
+    * End   : 2015/01/13 10:42:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update DJ-CC
+
+    * Begin : 2015/01/13 10:42:10
+    * End   : 2015/01/13 10:42:11
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update C希人
+
+    * Begin : 2015/01/13 10:42:08
+    * End   : 2015/01/13 10:42:09
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update C小宝宝
+
+    * Begin : 2015/01/13 10:42:05
+    * End   : 2015/01/13 10:42:06
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Crystal欣
 
     * Begin : 2015/01/13 10:35:56
