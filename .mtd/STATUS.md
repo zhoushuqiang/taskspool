@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 11:22:12] [urlrule] sites weipai.cn update Despair-假寐
     * [2015/01/13 11:17:44] [urlrule] sites weipai.cn update Dance小宝
     * [2015/01/13 11:06:54] [urlrule] sites weipai.cn update DM靜兒
     * [2015/01/13 11:00:49] [urlrule] sites weipai.cn update DJ-TiMi

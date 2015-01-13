@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Despair-假寐
+
+    * Begin : 2015/01/13 11:17:56
+    * End   : 2015/01/13 11:22:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Dance小宝
 
     * Begin : 2015/01/13 11:07:06
