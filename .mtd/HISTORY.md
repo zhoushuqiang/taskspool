@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update Fiy
+
+    * Begin : 2015/01/13 14:50:55
+    * End   : 2015/01/13 14:51:20
+    * Result: OK
+
+* [urlrule] sites weipai.cn update EverdayBaby
+
+    * Begin : 2015/01/13 14:50:52
+    * End   : 2015/01/13 14:50:54
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Elise谭晓彤
+
+    * Begin : 2015/01/13 14:50:50
+    * End   : 2015/01/13 14:50:51
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update Elise谭晓彤
+
+    * Begin : 2015/01/13 14:50:45
+    * End   : 2015/01/13 14:50:49
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Elise谭晓彤
 
     * Begin : 2015/01/13 14:49:40
