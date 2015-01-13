@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 不是大姐好多年
+
+    * Begin : 2015/01/13 23:26:49
+    * End   : 2015/01/13 23:26:59
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 丁丁丁丁丁小宝
 
     * Begin : 2015/01/13 23:26:20

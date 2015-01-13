@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 不是大姐好多年
+
+    * Begin : 2015/01/13 23:26:49
+    * End   : 2015/01/13 23:26:59
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 上官宁儿大人
+
+    * Begin : 2015/01/13 23:26:46
+    * End   : 2015/01/13 23:26:47
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 丁可和肥松鼠
+
+    * Begin : 2015/01/13 23:26:44
+    * End   : 2015/01/13 23:26:45
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 丁丁丁丁丁小宝
 
     * Begin : 2015/01/13 23:26:20
