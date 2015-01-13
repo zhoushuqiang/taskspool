@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 叶子-Anna
+
+    * Begin : 2015/01/14 02:10:41
+    * End   : 2015/01/14 02:11:58
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 台灣出產-蜜卡妹子
 
     * Begin : 2015/01/14 02:04:29
