@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update love雯雯
+
+    * Begin : 2015/01/13 22:43:40
+    * End   : 2015/01/13 22:51:23
+    * Result: OK
+
 * [urlrule] sites weipai.cn update ljylovesjy
 
     * Begin : 2015/01/13 22:41:41
