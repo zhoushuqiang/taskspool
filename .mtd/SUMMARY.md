@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 冷美人1
+
+    * Begin : 2015/01/14 01:11:05
+    * End   : 2015/01/14 01:12:00
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 冯猫儿的猫
 
     * Begin : 2015/01/14 01:10:36
