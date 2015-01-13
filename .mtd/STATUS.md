@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 00:31:13] [urlrule] sites weipai.cn update 仙德瑞拉_模特经纪
     * [2015/01/14 00:30:41] [urlrule] sites weipai.cn update 仙女大人
     * [2015/01/14 00:30:15] [urlrule] sites weipai.cn update 亦欢欢
     * [2015/01/14 00:24:33] [urlrule] sites weipai.cn update 于安朵

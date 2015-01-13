@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 仙德瑞拉_模特经纪
+
+    * Begin : 2015/01/14 00:30:52
+    * End   : 2015/01/14 00:31:13
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 仙女大人
 
     * Begin : 2015/01/14 00:30:32
