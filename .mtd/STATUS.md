@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/13 15:07:57] [urlrule] sites weipai.cn update Lusibaby000
     * [2015/01/13 15:07:32] [urlrule] sites weipai.cn update Lulu罗小鹿
     * [2015/01/13 15:06:30] [urlrule] sites weipai.cn update Lolita4ever
     * [2015/01/13 15:00:34] [urlrule] sites weipai.cn update LLLL-喵喵
