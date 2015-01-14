@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 22:03:35] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2015/01/14 21:56:57] [urlrule] sites weipai.cn UPDATE 陈美琳Mandy
 
     * [2015/01/14 21:51:35] [urlrule] sites weipai.cn UPDATE 阳阳阳的美妆铺子
