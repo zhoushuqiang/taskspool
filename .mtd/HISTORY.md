@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 宋佳baby
+
+    * Begin : 2015/01/14 17:51:35
+    * End   : 2015/01/14 18:17:45
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 安瑞甜
+
+    * Begin : 2015/01/14 17:51:29
+    * End   : 2015/01/14 17:51:33
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 安瑞甜
+
+    * Begin : 2015/01/14 17:51:25
+    * End   : 2015/01/14 17:51:27
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 安妮makeup
 
     * Begin : 2015/01/14 11:26:44

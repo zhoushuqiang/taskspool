@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 18:17:45] [urlrule] sites weipai.cn update 宋佳baby
     * [2015/01/14 17:51:14] [urlrule] sites weipai.cn update 安妮makeup
     * [2015/01/14 11:26:26] [urlrule] sites weipai.cn update 安妮Annie
     * [2015/01/14 11:17:20] [urlrule] sites weipai.cn update 孤单的84剩女
@@ -219,6 +220,8 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/14 17:51:33] [urlrule] sites vlook.cn update 安瑞甜
+    * [2015/01/14 17:51:27] [urlrule] sites weipai.cn update 安瑞甜
     * [2015/01/14 11:17:56] [urlrule] sites weipai.cn update 安之拉
     * [2015/01/14 11:17:52] [urlrule] sites weipai.cn update 孤独患者
     * [2015/01/14 11:12:27] [urlrule] sites weipai.cn update 孟晓艺dana
