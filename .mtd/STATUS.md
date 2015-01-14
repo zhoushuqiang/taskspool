@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/15 01:11:23] [urlrule] sites weipai.cn update Aigirl拽丫头
     * [2015/01/15 01:10:24] [urlrule] sites weipai.cn update Adela_chiang
     * [2015/01/15 01:01:13] [urlrule] sites weipai.cn update 852206078
     * [2015/01/15 00:59:59] [urlrule] sites weipai.cn update 424195082
@@ -21,6 +22,8 @@ Tasks Status Report
 
     * [2015/01/15 00:19:24] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/15 01:10:38] [urlrule] sites weipai.cn update AhmaY琪
+    * [2015/01/15 01:10:36] [urlrule] sites vlook.cn update Adela_chiang
     * [2015/01/15 01:01:37] [urlrule] sites weipai.cn update Abbymiki
     * [2015/01/15 01:01:34] [urlrule] sites weipai.cn update Abby_徐惠雪
     * [2015/01/15 01:01:32] [urlrule] sites weipai.cn update ANGELG

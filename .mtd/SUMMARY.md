@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Aigirl拽丫头
+
+    * Begin : 2015/01/15 01:10:39
+    * End   : 2015/01/15 01:11:23
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Adela_chiang
 
     * Begin : 2015/01/15 01:01:38
