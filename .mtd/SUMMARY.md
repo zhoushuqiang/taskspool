@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Alla-王愛
+
+    * Begin : 2015/01/15 01:11:40
+    * End   : 2015/01/15 01:12:43
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Aigirl拽丫头
 
     * Begin : 2015/01/15 01:10:39
