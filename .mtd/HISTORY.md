@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update 妩媚动人栩儿
+
+    * Begin : 2015/01/14 09:04:46
+    * End   : 2015/01/14 09:16:43
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 妞跪着给哥唱征服
+
+    * Begin : 2015/01/14 09:04:42
+    * End   : 2015/01/14 09:04:44
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 妖精annly
+
+    * Begin : 2015/01/14 09:04:38
+    * End   : 2015/01/14 09:04:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 奶棒
+
+    * Begin : 2015/01/14 09:04:33
+    * End   : 2015/01/14 09:04:36
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 女超人
 
     * Begin : 2015/01/14 09:01:23

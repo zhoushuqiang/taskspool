@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 妩媚动人栩儿
+
+    * Begin : 2015/01/14 09:04:46
+    * End   : 2015/01/14 09:16:43
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 女超人
 
     * Begin : 2015/01/14 09:01:23
