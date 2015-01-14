@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 妮妮儿r
+
+    * Begin : 2015/01/14 09:23:24
+    * End   : 2015/01/14 09:26:06
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 妮妮love
 
     * Begin : 2015/01/14 09:17:06
