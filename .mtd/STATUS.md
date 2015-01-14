@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 11:07:53] [urlrule] sites weipai.cn update 媛妞儿
     * [2015/01/14 11:05:34] [urlrule] sites weipai.cn update 婷MM
     * [2015/01/14 11:03:37] [urlrule] sites weipai.cn update 娜娜-_
     * [2015/01/14 10:58:29] [urlrule] sites weipai.cn update 娜依灵儿
@@ -214,6 +215,9 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/14 11:06:23] [urlrule] sites weipai.cn update 媚力女人
+    * [2015/01/14 11:06:19] [urlrule] sites weipai.cn update 婷宝20141030
+    * [2015/01/14 11:06:12] [urlrule] sites vlook.cn update 婷婷aiweier
     * [2015/01/14 10:50:05] [urlrule] sites vlook.cn update 娇娇2014
     * [2015/01/14 10:35:42] [urlrule] sites vlook.cn update 姚雪
     * [2015/01/14 09:04:44] [urlrule] sites weipai.cn update 妞跪着给哥唱征服
