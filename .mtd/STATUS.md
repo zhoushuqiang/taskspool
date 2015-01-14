@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/15 00:44:27] [urlrule] sites weipai.cn update 201403085958
     * [2015/01/15 00:40:31] [urlrule] sites weipai.cn update 20131211281
     * [2015/01/15 00:33:39] [urlrule] sites weipai.cn update 16姐
     * [2015/01/15 00:31:18] [urlrule] sites weipai.cn UPDATE 水蜜桃子
@@ -12,6 +13,8 @@ Tasks Status Report
 
     * [2015/01/15 00:19:24] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/15 00:40:47] [urlrule] sites weipai.cn update 20140221429
+    * [2015/01/15 00:40:44] [urlrule] sites weipai.cn update 20140110366
     * [2015/01/15 00:34:00] [urlrule] sites weipai.cn update 18610561108
     * [2015/01/15 00:33:57] [urlrule] sites weipai.cn update 1824329072宅女轩轩
     * [2015/01/15 00:33:54] [urlrule] sites vlook.cn update 1824329072宅女轩轩
