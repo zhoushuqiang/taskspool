@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 威信qianfei2012
+
+    * Begin : 2015/01/14 10:35:43
+    * End   : 2015/01/14 10:48:44
+    * Result: OK
+
+* [urlrule] sites vlook.cn update 姚雪
+
+    * Begin : 2015/01/14 10:34:33
+    * End   : 2015/01/14 10:35:42
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 姗-姗
 
     * Begin : 2015/01/14 10:06:18

@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 10:48:44] [urlrule] sites weipai.cn update 威信qianfei2012
     * [2015/01/14 10:34:18] [urlrule] sites weipai.cn update 姗-姗
     * [2015/01/14 10:05:52] [urlrule] sites weipai.cn update 姐妹的范er
     * [2015/01/14 09:32:19] [urlrule] sites weipai.cn update 姐又内涵了
@@ -210,6 +211,7 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/14 10:35:42] [urlrule] sites vlook.cn update 姚雪
     * [2015/01/14 09:04:44] [urlrule] sites weipai.cn update 妞跪着给哥唱征服
     * [2015/01/14 09:04:40] [urlrule] sites weipai.cn update 妖精annly
     * [2015/01/14 09:04:36] [urlrule] sites weipai.cn update 奶棒
