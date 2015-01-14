@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 09:23:03] [urlrule] sites weipai.cn update 妮妮love
     * [2015/01/14 09:16:43] [urlrule] sites weipai.cn update 妩媚动人栩儿
     * [2015/01/14 09:04:16] [urlrule] sites weipai.cn update 女超人
     * [2015/01/14 09:00:58] [urlrule] sites weipai.cn update 女神情情

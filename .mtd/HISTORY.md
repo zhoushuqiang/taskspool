@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 妮妮love
+
+    * Begin : 2015/01/14 09:17:06
+    * End   : 2015/01/14 09:23:03
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 妩媚动人栩儿
 
     * Begin : 2015/01/14 09:04:46
