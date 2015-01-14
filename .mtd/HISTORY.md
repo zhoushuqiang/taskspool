@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update Amanda张琬宜
+
+    * Begin : 2015/01/15 02:59:31
+    * End   : 2015/01/15 03:00:28
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Amanda冰冰
+
+    * Begin : 2015/01/15 02:59:29
+    * End   : 2015/01/15 02:59:30
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Amanda5275
 
     * Begin : 2015/01/15 02:59:12
