@@ -1,3 +1,8 @@
+* [urlrule] sites weipai.cn update Amanda5275
+
+    * Begin : 2015/01/15 01:43:23
+    * Result: PENDING
+
 * [urlrule] sites weipai.cn update Alllili
 
     * Begin : 2015/01/15 01:12:53
