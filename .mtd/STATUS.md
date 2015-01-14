@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/15 01:43:12] [urlrule] sites weipai.cn update Alllili
     * [2015/01/15 01:12:43] [urlrule] sites weipai.cn update Alla-王愛
     * [2015/01/15 01:11:23] [urlrule] sites weipai.cn update Aigirl拽丫头
     * [2015/01/15 01:10:24] [urlrule] sites weipai.cn update Adela_chiang

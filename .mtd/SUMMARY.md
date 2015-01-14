@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Alllili
+
+    * Begin : 2015/01/15 01:12:53
+    * End   : 2015/01/15 01:43:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn update Alla-王愛
 
     * Begin : 2015/01/15 01:11:40
