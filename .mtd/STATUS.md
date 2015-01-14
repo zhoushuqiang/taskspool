@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 18:55:36] [urlrule] sites weipai.cn update 家菱
     * [2015/01/14 18:25:34] [urlrule] sites weipai.cn update 宝宝倩
     * [2015/01/14 18:17:45] [urlrule] sites weipai.cn update 宋佳baby
     * [2015/01/14 17:51:14] [urlrule] sites weipai.cn update 安妮makeup
@@ -221,6 +222,8 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/14 18:25:48] [urlrule] sites weipai.cn update 家妹xxoo
+    * [2015/01/14 18:25:45] [urlrule] sites weipai.cn update 宝小丁
     * [2015/01/14 18:18:13] [urlrule] sites weipai.cn update 宜官官
     * [2015/01/14 18:18:10] [urlrule] sites vlook.cn update 宋小猫cat
     * [2015/01/14 18:17:58] [urlrule] sites weipai.cn update 宋小猫cat
