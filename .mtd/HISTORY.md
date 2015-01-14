@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn UPDATE singer-sherencat
+
+
+    * Begin : 2015/01/14 21:22:29
+    * End   : 2015/01/14 21:25:07
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 545a26d2a7640bde0c8b456d singer-sherencat
+
+
+    * Begin : 2015/01/14 21:22:29
+    * End   : 2015/01/14 21:22:29
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 545a26d2a7640bde0c8b456d singer-sherencat
+
+
+    * Begin : 2015/01/14 21:22:29
+    * End   : 2015/01/14 21:22:29
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE DJ-CC
+
+
+    * Begin : 2015/01/14 21:22:25
+    * End   : 2015/01/14 21:22:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 51ad9c4f5e8e875a62000000 DJ-CC
+
+
+    * Begin : 2015/01/14 21:22:25
+    * End   : 2015/01/14 21:22:25
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 51ad9c4f5e8e875a62000000 DJ-CC
+
+
+    * Begin : 2015/01/14 21:22:25
+    * End   : 2015/01/14 21:22:25
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
 
     * Begin : 2015/01/14 21:16:52

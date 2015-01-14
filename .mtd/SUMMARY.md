@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE singer-sherencat
+
+
+    * Begin : 2015/01/14 21:22:29
+    * End   : 2015/01/14 21:25:07
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
 
     * Begin : 2015/01/14 21:16:52
