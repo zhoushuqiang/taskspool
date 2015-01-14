@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 安妮Annie
+
+    * Begin : 2015/01/14 11:17:57
+    * End   : 2015/01/14 11:26:26
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 孤单的84剩女
 
     * Begin : 2015/01/14 11:12:29
