@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/15 00:59:59] [urlrule] sites weipai.cn update 424195082
     * [2015/01/15 00:57:39] [urlrule] sites weipai.cn update 3334
     * [2015/01/15 00:56:29] [urlrule] sites weipai.cn update 292310977
     * [2015/01/15 00:54:11] [urlrule] sites weipai.cn update 2413621327白易
