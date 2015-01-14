@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 水蜜桃子
+
+
+    * Begin : 2015/01/15 00:29:41
+    * End   : 2015/01/15 00:31:18
+    * Result: OK
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2015/01/15 00:21:52

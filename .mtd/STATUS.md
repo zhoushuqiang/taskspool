@@ -2,12 +2,24 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/15 00:31:18] [urlrule] sites weipai.cn UPDATE 水蜜桃子
+
     * [2015/01/15 00:29:27] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2015/01/15 00:21:02] [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
     * [2015/01/15 00:20:07] [urlrule] sites weipai.cn UPDATE 高尚kiko
 
     * [2015/01/15 00:19:24] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/15 00:29:41] [urlrule] sites weipai.cn follow 53f5ba37a5640b73638b4570 水蜜桃子
+
+    * [2015/01/15 00:29:40] [urlrule] sites weipai.cn add 53f5ba37a5640b73638b4570 水蜜桃子
+
+    * [2015/01/15 00:29:39] [urlrule] sites weipai.cn UPDATE 李李七七喜喜
+
+    * [2015/01/15 00:29:37] [urlrule] sites weipai.cn follow 53258990ebeddbe5798b459f 李李七七喜喜
+
+    * [2015/01/15 00:29:37] [urlrule] sites weipai.cn add 53258990ebeddbe5798b459f 李李七七喜喜
+
     * [2015/01/15 00:21:51] [urlrule] sites weipai.cn UPDATE 陈美琳Mandy
 
     * [2015/01/15 00:21:49] [urlrule] sites weipai.cn follow 51fa57ba7f3494ea70000000 陈美琳Mandy

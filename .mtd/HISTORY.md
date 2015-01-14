@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn UPDATE 水蜜桃子
+
+
+    * Begin : 2015/01/15 00:29:41
+    * End   : 2015/01/15 00:31:18
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 53f5ba37a5640b73638b4570 水蜜桃子
+
+
+    * Begin : 2015/01/15 00:29:40
+    * End   : 2015/01/15 00:29:41
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53f5ba37a5640b73638b4570 水蜜桃子
+
+
+    * Begin : 2015/01/15 00:29:40
+    * End   : 2015/01/15 00:29:40
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 李李七七喜喜
+
+
+    * Begin : 2015/01/15 00:29:37
+    * End   : 2015/01/15 00:29:39
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 53258990ebeddbe5798b459f 李李七七喜喜
+
+
+    * Begin : 2015/01/15 00:29:37
+    * End   : 2015/01/15 00:29:37
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53258990ebeddbe5798b459f 李李七七喜喜
+
+
+    * Begin : 2015/01/15 00:29:37
+    * End   : 2015/01/15 00:29:37
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2015/01/15 00:21:52
