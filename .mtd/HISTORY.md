@@ -1,3 +1,33 @@
+* [urlrule] sites weipai.cn update 16姐
+
+    * Begin : 2015/01/15 00:31:39
+    * End   : 2015/01/15 00:33:39
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 1589753
+
+    * Begin : 2015/01/15 00:31:37
+    * End   : 2015/01/15 00:31:38
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 1142058078
+
+    * Begin : 2015/01/15 00:31:35
+    * End   : 2015/01/15 00:31:36
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 10120
+
+    * Begin : 2015/01/15 00:31:32
+    * End   : 2015/01/15 00:31:33
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 0王妃0
+
+    * Begin : 2015/01/15 00:31:29
+    * End   : 2015/01/15 00:31:31
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn UPDATE 水蜜桃子
 
 

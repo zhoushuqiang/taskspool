@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 16姐
+
+    * Begin : 2015/01/15 00:31:39
+    * End   : 2015/01/15 00:33:39
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 水蜜桃子
 
 
