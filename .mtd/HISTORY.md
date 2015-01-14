@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小惡魔Linsey
+
+    * Begin : 2015/01/14 20:43:09
+    * End   : 2015/01/14 20:44:38
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 小情绪纷纷扰扰
 
     * Begin : 2015/01/14 20:29:27
