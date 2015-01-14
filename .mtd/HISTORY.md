@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 孙大星
+
+    * Begin : 2015/01/14 11:08:23
+    * End   : 2015/01/14 11:11:05
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 孙十八
+
+    * Begin : 2015/01/14 11:08:16
+    * End   : 2015/01/14 11:08:22
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 媛妞儿
 
     * Begin : 2015/01/14 11:06:25
