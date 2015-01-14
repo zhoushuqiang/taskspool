@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 17:51:14] [urlrule] sites weipai.cn update 安妮makeup
     * [2015/01/14 11:26:26] [urlrule] sites weipai.cn update 安妮Annie
     * [2015/01/14 11:17:20] [urlrule] sites weipai.cn update 孤单的84剩女
     * [2015/01/14 11:11:05] [urlrule] sites weipai.cn update 孙大星
