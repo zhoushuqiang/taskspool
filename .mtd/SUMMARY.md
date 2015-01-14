@@ -1,3 +1,9 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
+
+    * Begin : 2015/01/15 00:20:21
+    * End   : 2015/01/15 00:21:02
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 高尚kiko
 
 
