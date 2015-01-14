@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 阳阳阳的美妆铺子
+
+
+    * Begin : 2015/01/14 21:25:24
+    * End   : 2015/01/14 21:51:35
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE singer-sherencat
 
 
