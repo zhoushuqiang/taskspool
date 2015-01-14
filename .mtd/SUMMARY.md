@@ -1,3 +1,10 @@
+* [urlrule] sites weipai.cn UPDATE 陈美琳Mandy
+
+
+    * Begin : 2015/01/14 21:51:46
+    * End   : 2015/01/14 21:56:57
+    * Result: OK
+
 * [urlrule] sites weipai.cn UPDATE 阳阳阳的美妆铺子
 
 

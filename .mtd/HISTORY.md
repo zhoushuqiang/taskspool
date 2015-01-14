@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE 陈美琳Mandy
+
+
+    * Begin : 2015/01/14 21:51:46
+    * End   : 2015/01/14 21:56:57
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 51fa57ba7f3494ea70000000 陈美琳Mandy
+
+
+    * Begin : 2015/01/14 21:51:45
+    * End   : 2015/01/14 21:51:46
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 51fa57ba7f3494ea70000000 陈美琳Mandy
+
+
+    * Begin : 2015/01/14 21:51:45
+    * End   : 2015/01/14 21:51:45
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 阳阳阳的美妆铺子
 
 
