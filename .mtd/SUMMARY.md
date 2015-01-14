@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 2413621327白易
+
+    * Begin : 2015/01/15 00:52:47
+    * End   : 2015/01/15 00:54:11
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 20141215100
 
     * Begin : 2015/01/15 00:51:34
