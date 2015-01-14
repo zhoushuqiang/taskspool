@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 婷MM
+
+    * Begin : 2015/01/14 11:04:00
+    * End   : 2015/01/14 11:05:34
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 娜娜-_
 
     * Begin : 2015/01/14 10:58:48

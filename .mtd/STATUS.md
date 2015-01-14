@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 11:05:34] [urlrule] sites weipai.cn update 婷MM
     * [2015/01/14 11:03:37] [urlrule] sites weipai.cn update 娜娜-_
     * [2015/01/14 10:58:29] [urlrule] sites weipai.cn update 娜依灵儿
     * [2015/01/14 10:48:44] [urlrule] sites weipai.cn update 威信qianfei2012
