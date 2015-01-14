@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小晴天baby
+
+    * Begin : 2015/01/14 20:44:51
+    * End   : 2015/01/14 20:45:53
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 小惡魔Linsey
 
     * Begin : 2015/01/14 20:43:09
