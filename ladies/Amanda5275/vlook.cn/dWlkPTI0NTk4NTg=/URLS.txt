@@ -326,3 +326,4 @@ http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6kbQ&client=pc&imei=ee257
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6myR&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140920124735_亲们，我的群分为普通群和vip群，大家自由选择，群号：385199989，口令：真心喜欢Amanda，谁举报谁倒大霉..._2分钟21秒.mp4
 http://upload.vlook.cn:8080/down/servlet/VideoPlay?vid=6ozn&client=pc&imei=ee257b7005f0b1b45004a1bf2a22451b	20140923191914_大家晚上好哦，前几天差点把我累死，今天终于活过来了，谢天谢地！哈哈。。。_3分钟18秒.mp4
 http://download1.vlook.cn/video/high/71hL.mp4	20141223205048_几天不见有人想我吗？我在冬眠，今天开始苏醒，哈哈。。。提前祝大家圣诞节快乐哦，请期待我的圣诞福利吧，平安夜见吧！[媚..._36秒.mp4
+http://download1.vlook.cn/video/high/7c5b.mp4	20150113121448_第一站玉佛寺，我拍的不太好，人太多，懒得走到近处拍了_1分钟14秒.mp4
