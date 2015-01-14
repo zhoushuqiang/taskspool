@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 女侠桃花鹿
+
+    * Begin : 2015/01/14 08:53:05
+    * End   : 2015/01/14 08:56:38
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 大萨萨
 
     * Begin : 2015/01/14 03:16:04

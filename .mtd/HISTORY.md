@@ -1,3 +1,39 @@
+* [urlrule] sites weipai.cn update 女侠桃花鹿
+
+    * Begin : 2015/01/14 08:53:05
+    * End   : 2015/01/14 08:56:38
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 奈奈萌大奶
+
+    * Begin : 2015/01/14 08:53:02
+    * End   : 2015/01/14 08:53:04
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 奇美女
+
+    * Begin : 2015/01/14 08:52:58
+    * End   : 2015/01/14 08:53:01
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 失了他心
+
+    * Begin : 2015/01/14 08:52:54
+    * End   : 2015/01/14 08:52:57
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 大靓
+
+    * Begin : 2015/01/14 08:52:47
+    * End   : 2015/01/14 08:52:52
+    * Result: Nothing to do
+
+* [urlrule] sites vlook.cn update 大雯纸_zyw
+
+    * Begin : 2015/01/14 08:52:36
+    * End   : 2015/01/14 08:52:46
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 大萨萨
 
     * Begin : 2015/01/14 03:16:04

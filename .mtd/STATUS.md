@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 08:56:38] [urlrule] sites weipai.cn update 女侠桃花鹿
     * [2015/01/14 08:52:12] [urlrule] sites weipai.cn update 大萨萨
     * [2015/01/14 03:15:53] [urlrule] sites weipai.cn update 大芹
     * [2015/01/14 03:00:37] [urlrule] sites weipai.cn update 大美露
@@ -201,6 +202,11 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/14 08:53:04] [urlrule] sites weipai.cn update 奈奈萌大奶
+    * [2015/01/14 08:53:01] [urlrule] sites weipai.cn update 奇美女
+    * [2015/01/14 08:52:57] [urlrule] sites weipai.cn update 失了他心
+    * [2015/01/14 08:52:52] [urlrule] sites weipai.cn update 大靓
+    * [2015/01/14 08:52:46] [urlrule] sites vlook.cn update 大雯纸_zyw
     * [2015/01/14 02:58:40] [urlrule] sites weipai.cn update 大牙大牙大雅莉
     * [2015/01/14 02:57:27] [urlrule] sites weipai.cn update 大拿MM
     * [2015/01/14 02:56:26] [urlrule] sites weipai.cn update 大妞范慧子
