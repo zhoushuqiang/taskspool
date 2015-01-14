@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小情绪纷纷扰扰
+
+    * Begin : 2015/01/14 20:29:27
+    * End   : 2015/01/14 20:42:55
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 小小小小米
 
     * Begin : 2015/01/14 19:13:23

@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 20:42:55] [urlrule] sites weipai.cn update 小情绪纷纷扰扰
     * [2015/01/14 20:29:01] [urlrule] sites weipai.cn update 小小小小米
     * [2015/01/14 19:13:12] [urlrule] sites weipai.cn update 小小小乖
     * [2015/01/14 19:12:16] [urlrule] sites weipai.cn update 小将士
@@ -231,6 +232,7 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/14 20:29:25] [urlrule] sites weipai.cn update 小小美mmmmmm
     * [2015/01/14 19:05:53] [urlrule] sites weipai.cn update 小容嬷嬷
     * [2015/01/14 19:05:51] [urlrule] sites weipai.cn update 小妮仔
     * [2015/01/14 19:04:30] [urlrule] sites weipai.cn update 小可爱mmd
