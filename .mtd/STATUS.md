@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 10:05:52] [urlrule] sites weipai.cn update 姐妹的范er
     * [2015/01/14 09:32:19] [urlrule] sites weipai.cn update 姐又内涵了
     * [2015/01/14 09:26:06] [urlrule] sites weipai.cn update 妮妮儿r
     * [2015/01/14 09:23:03] [urlrule] sites weipai.cn update 妮妮love
