@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/15 01:01:13] [urlrule] sites weipai.cn update 852206078
     * [2015/01/15 00:59:59] [urlrule] sites weipai.cn update 424195082
     * [2015/01/15 00:57:39] [urlrule] sites weipai.cn update 3334
     * [2015/01/15 00:56:29] [urlrule] sites weipai.cn update 292310977
@@ -19,6 +20,13 @@ Tasks Status Report
 
     * [2015/01/15 00:19:24] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/15 01:00:25] [urlrule] sites weipai.cn update 84剩女姐
+    * [2015/01/15 01:00:23] [urlrule] sites weipai.cn update 70后米米妈丫
+    * [2015/01/15 01:00:20] [urlrule] sites weipai.cn update 5沉睡森林
+    * [2015/01/15 01:00:18] [urlrule] sites weipai.cn update 576117778
+    * [2015/01/15 01:00:15] [urlrule] sites weipai.cn update 54423ad1a6640ba86f8b459c
+    * [2015/01/15 01:00:13] [urlrule] sites weipai.cn update 534c63348034940c2ff99e90
+    * [2015/01/15 01:00:11] [urlrule] sites weipai.cn update 450185387
     * [2015/01/15 00:52:45] [urlrule] sites weipai.cn update 2014121592
     * [2015/01/15 00:51:33] [urlrule] sites weipai.cn update 2014121236
     * [2015/01/15 00:51:30] [urlrule] sites weipai.cn update 201411308

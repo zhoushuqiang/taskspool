@@ -1,3 +1,51 @@
+* [urlrule] sites weipai.cn update 852206078
+
+    * Begin : 2015/01/15 01:00:27
+    * End   : 2015/01/15 01:01:13
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 84剩女姐
+
+    * Begin : 2015/01/15 01:00:24
+    * End   : 2015/01/15 01:00:25
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 70后米米妈丫
+
+    * Begin : 2015/01/15 01:00:22
+    * End   : 2015/01/15 01:00:23
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 5沉睡森林
+
+    * Begin : 2015/01/15 01:00:19
+    * End   : 2015/01/15 01:00:20
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 576117778
+
+    * Begin : 2015/01/15 01:00:17
+    * End   : 2015/01/15 01:00:18
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 54423ad1a6640ba86f8b459c
+
+    * Begin : 2015/01/15 01:00:14
+    * End   : 2015/01/15 01:00:15
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 534c63348034940c2ff99e90
+
+    * Begin : 2015/01/15 01:00:12
+    * End   : 2015/01/15 01:00:13
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 450185387
+
+    * Begin : 2015/01/15 01:00:10
+    * End   : 2015/01/15 01:00:11
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 424195082
 
     * Begin : 2015/01/15 00:57:49
