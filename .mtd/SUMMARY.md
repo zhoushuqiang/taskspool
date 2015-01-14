@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小乔Cheryl
+
+    * Begin : 2015/01/14 18:59:17
+    * End   : 2015/01/14 19:03:06
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 小qiqi总爱凑美呦
 
     * Begin : 2015/01/14 18:56:08
