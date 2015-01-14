@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 女超人
+
+    * Begin : 2015/01/14 09:01:23
+    * End   : 2015/01/14 09:04:16
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 女神情情
 
     * Begin : 2015/01/14 08:57:02
