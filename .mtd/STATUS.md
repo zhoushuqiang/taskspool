@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 19:04:16] [urlrule] sites weipai.cn update 小也慧子
     * [2015/01/14 19:03:37] [urlrule] sites weipai.cn update 小乔流水
     * [2015/01/14 19:03:06] [urlrule] sites weipai.cn update 小乔Cheryl
     * [2015/01/14 18:59:06] [urlrule] sites weipai.cn update 小qiqi总爱凑美呦

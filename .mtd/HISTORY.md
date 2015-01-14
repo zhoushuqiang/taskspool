@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小也慧子
+
+    * Begin : 2015/01/14 19:03:47
+    * End   : 2015/01/14 19:04:16
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 小乔流水
 
     * Begin : 2015/01/14 19:03:18
