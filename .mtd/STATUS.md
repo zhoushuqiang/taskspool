@@ -2,6 +2,8 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 22:16:38] [urlrule] sites weipai.cn UPDATE 李李七七喜喜
+
     * [2015/01/14 22:03:35] [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
     * [2015/01/14 21:56:57] [urlrule] sites weipai.cn UPDATE 陈美琳Mandy
 
@@ -14,6 +16,10 @@ Tasks Status Report
 
     * [2015/01/14 21:12:23] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/14 22:03:45] [urlrule] sites weipai.cn follow 53258990ebeddbe5798b459f 李李七七喜喜
+
+    * [2015/01/14 22:03:45] [urlrule] sites weipai.cn add 53258990ebeddbe5798b459f 李李七七喜喜
+
     * [2015/01/14 21:51:46] [urlrule] sites weipai.cn follow 51fa57ba7f3494ea70000000 陈美琳Mandy
 
     * [2015/01/14 21:51:45] [urlrule] sites weipai.cn add 51fa57ba7f3494ea70000000 陈美琳Mandy

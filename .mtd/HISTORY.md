@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE 李李七七喜喜
+
+
+    * Begin : 2015/01/14 22:03:45
+    * End   : 2015/01/14 22:16:38
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 53258990ebeddbe5798b459f 李李七七喜喜
+
+
+    * Begin : 2015/01/14 22:03:45
+    * End   : 2015/01/14 22:03:45
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53258990ebeddbe5798b459f 李李七七喜喜
+
+
+    * Begin : 2015/01/14 22:03:45
+    * End   : 2015/01/14 22:03:45
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
 
     * Begin : 2015/01/14 21:57:11
