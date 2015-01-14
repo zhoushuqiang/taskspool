@@ -1,3 +1,21 @@
+* [urlrule] sites weipai.cn update 小如如
+
+    * Begin : 2015/01/14 19:04:32
+    * End   : 2015/01/14 19:05:39
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 小可爱mmd
+
+    * Begin : 2015/01/14 19:04:29
+    * End   : 2015/01/14 19:04:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 小仓老师
+
+    * Begin : 2015/01/14 19:04:27
+    * End   : 2015/01/14 19:04:28
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 小也慧子
 
     * Begin : 2015/01/14 19:03:47

@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 19:05:39] [urlrule] sites weipai.cn update 小如如
     * [2015/01/14 19:04:16] [urlrule] sites weipai.cn update 小也慧子
     * [2015/01/14 19:03:37] [urlrule] sites weipai.cn update 小乔流水
     * [2015/01/14 19:03:06] [urlrule] sites weipai.cn update 小乔Cheryl
@@ -227,6 +228,8 @@ Tasks Status Report
 
     * [2015/01/13 01:58:11] [urlrule action] http://www.weipai.cn/review/video?uid=51d8f4737f3494522400003e&os=android 0 SAVE
 * Doing Nothing:
+    * [2015/01/14 19:04:30] [urlrule] sites weipai.cn update 小可爱mmd
+    * [2015/01/14 19:04:28] [urlrule] sites weipai.cn update 小仓老师
     * [2015/01/14 18:55:48] [urlrule] sites weipai.cn update 寂寞姐姐
     * [2015/01/14 18:25:48] [urlrule] sites weipai.cn update 家妹xxoo
     * [2015/01/14 18:25:45] [urlrule] sites weipai.cn update 宝小丁
