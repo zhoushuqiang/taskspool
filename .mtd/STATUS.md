@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/15 04:08:06] [urlrule] sites weipai.cn update Baby-perry
     * [2015/01/15 03:03:59] [urlrule] sites weipai.cn update BABY-張
     * [2015/01/15 03:02:54] [urlrule] sites weipai.cn update Anna苏妲己
     * [2015/01/15 03:00:28] [urlrule] sites weipai.cn update Amanda张琬宜
