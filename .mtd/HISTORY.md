@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update 小小小乖
+
+    * Begin : 2015/01/14 19:12:26
+    * End   : 2015/01/14 19:13:12
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 小将士
 
     * Begin : 2015/01/14 19:05:55

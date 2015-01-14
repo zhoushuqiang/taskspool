@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/14 19:13:12] [urlrule] sites weipai.cn update 小小小乖
     * [2015/01/14 19:12:16] [urlrule] sites weipai.cn update 小将士
     * [2015/01/14 19:05:39] [urlrule] sites weipai.cn update 小如如
     * [2015/01/14 19:04:16] [urlrule] sites weipai.cn update 小也慧子
