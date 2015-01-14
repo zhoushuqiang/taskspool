@@ -1,3 +1,9 @@
+* [urlrule] sites weipai.cn update Adela_chiang
+
+    * Begin : 2015/01/15 01:01:38
+    * End   : 2015/01/15 01:10:24
+    * Result: OK
+
 * [urlrule] sites weipai.cn update 852206078
 
     * Begin : 2015/01/15 01:00:27

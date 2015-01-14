@@ -1,3 +1,45 @@
+* [urlrule] sites weipai.cn update Adela_chiang
+
+    * Begin : 2015/01/15 01:01:38
+    * End   : 2015/01/15 01:10:24
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Abbymiki
+
+    * Begin : 2015/01/15 01:01:36
+    * End   : 2015/01/15 01:01:37
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Abby_徐惠雪
+
+    * Begin : 2015/01/15 01:01:33
+    * End   : 2015/01/15 01:01:34
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update ANGELG
+
+    * Begin : 2015/01/15 01:01:31
+    * End   : 2015/01/15 01:01:32
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 9999920140801
+
+    * Begin : 2015/01/15 01:01:29
+    * End   : 2015/01/15 01:01:30
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 924906386
+
+    * Begin : 2015/01/15 01:01:26
+    * End   : 2015/01/15 01:01:27
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update 872705
+
+    * Begin : 2015/01/15 01:01:24
+    * End   : 2015/01/15 01:01:25
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 852206078
 
     * Begin : 2015/01/15 01:00:27
