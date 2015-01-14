@@ -1,3 +1,24 @@
+* [urlrule] sites weipai.cn UPDATE 水蜜桃子
+
+
+    * Begin : 2015/01/14 22:16:49
+    * End   : 2015/01/14 22:22:56
+    * Result: OK
+
+* [urlrule] sites weipai.cn follow 53f5ba37a5640b73638b4570 水蜜桃子
+
+
+    * Begin : 2015/01/14 22:16:48
+    * End   : 2015/01/14 22:16:49
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 53f5ba37a5640b73638b4570 水蜜桃子
+
+
+    * Begin : 2015/01/14 22:16:48
+    * End   : 2015/01/14 22:16:48
+    * Result: FAILED
+
 * [urlrule] sites weipai.cn UPDATE 李李七七喜喜
 
 
