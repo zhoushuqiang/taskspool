@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update 对你着了迷
+
+    * Begin : 2015/01/14 18:55:49
+    * End   : 2015/01/14 18:55:58
+    * Result: OK
+
+* [urlrule] sites weipai.cn update 寂寞姐姐
+
+    * Begin : 2015/01/14 18:55:47
+    * End   : 2015/01/14 18:55:48
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update 家菱
 
     * Begin : 2015/01/14 18:25:49
