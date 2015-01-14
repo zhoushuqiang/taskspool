@@ -1,3 +1,93 @@
+* [urlrule action] http://www.weipai.cn/review/video?uid=514eca76803494b723000006&os=android 0 SAVE
+
+    * Begin : 2015/01/15 00:21:52
+    * End   : 2015/01/15 00:29:27
+    * Result: OK
+
+* [urlrule] sites weipai.cn UPDATE 陈美琳Mandy
+
+
+    * Begin : 2015/01/15 00:21:49
+    * End   : 2015/01/15 00:21:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 51fa57ba7f3494ea70000000 陈美琳Mandy
+
+
+    * Begin : 2015/01/15 00:21:49
+    * End   : 2015/01/15 00:21:49
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 51fa57ba7f3494ea70000000 陈美琳Mandy
+
+
+    * Begin : 2015/01/15 00:21:49
+    * End   : 2015/01/15 00:21:49
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE 阳阳阳的美妆铺子
+
+
+    * Begin : 2015/01/15 00:21:46
+    * End   : 2015/01/15 00:21:48
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 52e951ff77d3cc9c5f8b45a1 阳阳阳的美妆铺子
+
+
+    * Begin : 2015/01/15 00:21:46
+    * End   : 2015/01/15 00:21:46
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 52e951ff77d3cc9c5f8b45a1 阳阳阳的美妆铺子
+
+
+    * Begin : 2015/01/15 00:21:46
+    * End   : 2015/01/15 00:21:46
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE singer-sherencat
+
+
+    * Begin : 2015/01/15 00:21:43
+    * End   : 2015/01/15 00:21:45
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 545a26d2a7640bde0c8b456d singer-sherencat
+
+
+    * Begin : 2015/01/15 00:21:43
+    * End   : 2015/01/15 00:21:43
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 545a26d2a7640bde0c8b456d singer-sherencat
+
+
+    * Begin : 2015/01/15 00:21:43
+    * End   : 2015/01/15 00:21:43
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn UPDATE DJ-CC
+
+
+    * Begin : 2015/01/15 00:21:13
+    * End   : 2015/01/15 00:21:41
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn follow 51ad9c4f5e8e875a62000000 DJ-CC
+
+
+    * Begin : 2015/01/15 00:21:12
+    * End   : 2015/01/15 00:21:13
+    * Result: FAILED
+
+* [urlrule] sites weipai.cn add 51ad9c4f5e8e875a62000000 DJ-CC
+
+
+    * Begin : 2015/01/15 00:21:12
+    * End   : 2015/01/15 00:21:12
+    * Result: FAILED
+
 * [urlrule action] http://www.weipai.cn/review/video?uid=51f2952f7f3494081c000002&os=android 0 SAVE
 
     * Begin : 2015/01/15 00:20:21
