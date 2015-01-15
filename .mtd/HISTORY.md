@@ -1,3 +1,15 @@
+* [urlrule] sites weipai.cn update Barbara张攀
+
+    * Begin : 2015/01/15 10:57:09
+    * End   : 2015/01/15 11:48:08
+    * Result: OK
+
+* [urlrule] sites weipai.cn update Baby瑶瑶
+
+    * Begin : 2015/01/15 10:57:03
+    * End   : 2015/01/15 10:57:08
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Baby华姿凯歌er
 
     * Begin : 2015/01/15 04:08:54

@@ -2,6 +2,7 @@ Tasks Status Report
 ============
 
 * Finished:
+    * [2015/01/15 11:48:08] [urlrule] sites weipai.cn update Barbara张攀
     * [2015/01/15 10:56:34] [urlrule] sites weipai.cn update Baby华姿凯歌er
     * [2015/01/15 04:08:06] [urlrule] sites weipai.cn update Baby-perry
     * [2015/01/15 03:03:59] [urlrule] sites weipai.cn update BABY-張
@@ -10,6 +11,7 @@ Tasks Status Report
     * [2015/01/15 02:59:15] [urlrule] sites weipai.cn update Amanda5275
     * [2015/01/15 02:58:24] [urlrule] sites vlook.cn update Amanda5275
 * Doing Nothing:
+    * [2015/01/15 10:57:08] [urlrule] sites weipai.cn update Baby瑶瑶
     * [2015/01/15 04:08:51] [urlrule] sites vlook.cn update Babykiry
     * [2015/01/15 04:08:40] [urlrule] sites weipai.cn update Babykiry
     * [2015/01/15 04:08:37] [urlrule] sites weipai.cn update BabyLinda
