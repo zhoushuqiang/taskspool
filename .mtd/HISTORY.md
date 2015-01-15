@@ -1,3 +1,27 @@
+* [urlrule] sites weipai.cn update Baby华姿凯歌er
+
+    * Begin : 2015/01/15 04:08:54
+    * End   : 2015/01/15 10:56:34
+    * Result: OK
+
+* [urlrule] sites vlook.cn update Babykiry
+
+    * Begin : 2015/01/15 04:08:41
+    * End   : 2015/01/15 04:08:51
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update Babykiry
+
+    * Begin : 2015/01/15 04:08:38
+    * End   : 2015/01/15 04:08:40
+    * Result: Nothing to do
+
+* [urlrule] sites weipai.cn update BabyLinda
+
+    * Begin : 2015/01/15 04:08:31
+    * End   : 2015/01/15 04:08:37
+    * Result: Nothing to do
+
 * [urlrule] sites weipai.cn update Baby-perry
 
     * Begin : 2015/01/15 03:04:14
